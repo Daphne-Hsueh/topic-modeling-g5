@@ -1,43 +1,43 @@
 ticker,company,cik,year,accession,status,path
-LYV,Live Nation Entertainment,0001335258,2026,0001335258-26-000009,success,../data/item1a/0001335258_2026.txt
-LYV,Live Nation Entertainment,0001335258,2025,0001335258-25-000028,success,../data/item1a/0001335258_2025.txt
-LYV,Live Nation Entertainment,0001335258,2024,0001335258-24-000017,success,../data/item1a/0001335258_2024.txt
-LYV,Live Nation Entertainment,0001335258,2023,0001335258-23-000014,success,../data/item1a/0001335258_2023.txt
-LYV,Live Nation Entertainment,0001335258,2022,0001335258-22-000019,success,../data/item1a/0001335258_2022.txt
-LYV,Live Nation Entertainment,0001335258,2021,0001335258-21-000009,success,../data/item1a/0001335258_2021.txt
-LYV,Live Nation Entertainment,0001335258,2020,0001335258-20-000028,success,../data/item1a/0001335258_2020.txt
-LYV,Live Nation Entertainment,0001335258,2019,0001335258-19-000024,success,../data/item1a/0001335258_2019.txt
-LYV,Live Nation Entertainment,0001335258,2018,0001335258-18-000023,success,../data/item1a/0001335258_2018.txt
-LYV,Live Nation Entertainment,0001335258,2017,0001335258-17-000031,success,../data/item1a/0001335258_2017.txt
-LYV,Live Nation Entertainment,0001335258,2016,0001335258-16-000167,success,../data/item1a/0001335258_2016.txt
-LYV,Live Nation Entertainment,0001335258,2015,0001335258-15-000026,success,../data/item1a/0001335258_2015.txt
-LYV,Live Nation Entertainment,0001335258,2014,0001335258-14-000027,success,../data/item1a/0001335258_2014.txt
+LYV,Live Nation Entertainment,0001335258,2026,0001335258-26-000009,skipped (already exists),../data/item1a/0001335258_2026.txt
+LYV,Live Nation Entertainment,0001335258,2025,0001335258-25-000028,skipped (already exists),../data/item1a/0001335258_2025.txt
+LYV,Live Nation Entertainment,0001335258,2024,0001335258-24-000017,skipped (already exists),../data/item1a/0001335258_2024.txt
+LYV,Live Nation Entertainment,0001335258,2023,0001335258-23-000014,skipped (already exists),../data/item1a/0001335258_2023.txt
+LYV,Live Nation Entertainment,0001335258,2022,0001335258-22-000019,skipped (already exists),../data/item1a/0001335258_2022.txt
+LYV,Live Nation Entertainment,0001335258,2021,0001335258-21-000009,skipped (already exists),../data/item1a/0001335258_2021.txt
+LYV,Live Nation Entertainment,0001335258,2020,0001335258-20-000028,skipped (already exists),../data/item1a/0001335258_2020.txt
+LYV,Live Nation Entertainment,0001335258,2019,0001335258-19-000024,skipped (already exists),../data/item1a/0001335258_2019.txt
+LYV,Live Nation Entertainment,0001335258,2018,0001335258-18-000023,skipped (already exists),../data/item1a/0001335258_2018.txt
+LYV,Live Nation Entertainment,0001335258,2017,0001335258-17-000031,skipped (already exists),../data/item1a/0001335258_2017.txt
+LYV,Live Nation Entertainment,0001335258,2016,0001335258-16-000167,skipped (already exists),../data/item1a/0001335258_2016.txt
+LYV,Live Nation Entertainment,0001335258,2015,0001335258-15-000026,skipped (already exists),../data/item1a/0001335258_2015.txt
+LYV,Live Nation Entertainment,0001335258,2014,0001335258-14-000027,skipped (already exists),../data/item1a/0001335258_2014.txt
 LYV,Live Nation Entertainment,0001335258,2013,0001193125-13-077102,item1a_not_found,
-SATS,EchoStar,0001415404,2026,0001104659-26-021817,success,../data/item1a/0001415404_2026.txt
-SATS,EchoStar,0001415404,2025,0001558370-25-001663,success,../data/item1a/0001415404_2025.txt
-SATS,EchoStar,0001415404,2024,0001558370-24-002209,success,../data/item1a/0001415404_2024.txt
-SATS,EchoStar,0001415404,2023,0001415404-23-000005,success,../data/item1a/0001415404_2023.txt
-SATS,EchoStar,0001415404,2022,0001415404-22-000005,success,../data/item1a/0001415404_2022.txt
-SATS,EchoStar,0001415404,2021,0001415404-21-000005,success,../data/item1a/0001415404_2021.txt
-SATS,EchoStar,0001415404,2020,0001415404-20-000005,success,../data/item1a/0001415404_2020.txt
-SATS,EchoStar,0001415404,2019,0001415404-19-000003,success,../data/item1a/0001415404_2019.txt
-SATS,EchoStar,0001415404,2018,0001415404-18-000005,success,../data/item1a/0001415404_2018.txt
-SATS,EchoStar,0001415404,2017,0001415404-17-000010,success,../data/item1a/0001415404_2017.txt
-SATS,EchoStar,0001415404,2016,0001104659-16-099355,success,../data/item1a/0001415404_2016.txt
-SATS,EchoStar,0001415404,2015,0001047469-15-000972,success,../data/item1a/0001415404_2015.txt
-SATS,EchoStar,0001415404,2014,0001047469-14-001113,success,../data/item1a/0001415404_2014.txt
-SATS,EchoStar,0001415404,2013,0001104659-13-011985,success,../data/item1a/0001415404_2013.txt
-SATS,EchoStar,0001415404,2012,0001104659-12-016268,success,../data/item1a/0001415404_2012.txt
+SATS,EchoStar,0001415404,2026,0001104659-26-021817,skipped (already exists),../data/item1a/0001415404_2026.txt
+SATS,EchoStar,0001415404,2025,0001558370-25-001663,skipped (already exists),../data/item1a/0001415404_2025.txt
+SATS,EchoStar,0001415404,2024,0001558370-24-002209,skipped (already exists),../data/item1a/0001415404_2024.txt
+SATS,EchoStar,0001415404,2023,0001415404-23-000005,skipped (already exists),../data/item1a/0001415404_2023.txt
+SATS,EchoStar,0001415404,2022,0001415404-22-000005,skipped (already exists),../data/item1a/0001415404_2022.txt
+SATS,EchoStar,0001415404,2021,0001415404-21-000005,skipped (already exists),../data/item1a/0001415404_2021.txt
+SATS,EchoStar,0001415404,2020,0001415404-20-000005,skipped (already exists),../data/item1a/0001415404_2020.txt
+SATS,EchoStar,0001415404,2019,0001415404-19-000003,skipped (already exists),../data/item1a/0001415404_2019.txt
+SATS,EchoStar,0001415404,2018,0001415404-18-000005,skipped (already exists),../data/item1a/0001415404_2018.txt
+SATS,EchoStar,0001415404,2017,0001415404-17-000010,skipped (already exists),../data/item1a/0001415404_2017.txt
+SATS,EchoStar,0001415404,2016,0001104659-16-099355,skipped (already exists),../data/item1a/0001415404_2016.txt
+SATS,EchoStar,0001415404,2015,0001047469-15-000972,skipped (already exists),../data/item1a/0001415404_2015.txt
+SATS,EchoStar,0001415404,2014,0001047469-14-001113,skipped (already exists),../data/item1a/0001415404_2014.txt
+SATS,EchoStar,0001415404,2013,0001104659-13-011985,skipped (already exists),../data/item1a/0001415404_2013.txt
+SATS,EchoStar,0001415404,2012,0001104659-12-016268,skipped (already exists),../data/item1a/0001415404_2012.txt
 SATS,EchoStar,0001415404,2011,0001193125-11-044057,item1a_not_found,
-ULTA,Ulta Beauty,0001403568,2026,0001104659-26-035243,success,../data/item1a/0001403568_2026.txt
-ULTA,Ulta Beauty,0001403568,2025,0001558370-25-003810,success,../data/item1a/0001403568_2025.txt
-ULTA,Ulta Beauty,0001403568,2024,0001558370-24-003941,success,../data/item1a/0001403568_2024.txt
-ULTA,Ulta Beauty,0001403568,2023,0001558370-23-004581,success,../data/item1a/0001403568_2023.txt
-ULTA,Ulta Beauty,0001403568,2022,0001558370-22-004330,success,../data/item1a/0001403568_2022.txt
-ULTA,Ulta Beauty,0001403568,2021,0001558370-21-003523,success,../data/item1a/0001403568_2021.txt
-ULTA,Ulta Beauty,0001403568,2020,0001558370-20-003272,success,../data/item1a/0001403568_2020.txt
-ULTA,Ulta Beauty,0001403568,2019,0001558370-19-002739,success,../data/item1a/0001403568_2019.txt
-ULTA,Ulta Beauty,0001403568,2018,0001558370-18-002733,success,../data/item1a/0001403568_2018.txt
+ULTA,Ulta Beauty,0001403568,2026,0001104659-26-035243,skipped (already exists),../data/item1a/0001403568_2026.txt
+ULTA,Ulta Beauty,0001403568,2025,0001558370-25-003810,skipped (already exists),../data/item1a/0001403568_2025.txt
+ULTA,Ulta Beauty,0001403568,2024,0001558370-24-003941,skipped (already exists),../data/item1a/0001403568_2024.txt
+ULTA,Ulta Beauty,0001403568,2023,0001558370-23-004581,skipped (already exists),../data/item1a/0001403568_2023.txt
+ULTA,Ulta Beauty,0001403568,2022,0001558370-22-004330,skipped (already exists),../data/item1a/0001403568_2022.txt
+ULTA,Ulta Beauty,0001403568,2021,0001558370-21-003523,skipped (already exists),../data/item1a/0001403568_2021.txt
+ULTA,Ulta Beauty,0001403568,2020,0001558370-20-003272,skipped (already exists),../data/item1a/0001403568_2020.txt
+ULTA,Ulta Beauty,0001403568,2019,0001558370-19-002739,skipped (already exists),../data/item1a/0001403568_2019.txt
+ULTA,Ulta Beauty,0001403568,2018,0001558370-18-002733,skipped (already exists),../data/item1a/0001403568_2018.txt
 ULTA,Ulta Beauty,0001403568,2017,0001193125-17-099261,item1a_not_found,
 ULTA,Ulta Beauty,0001403568,2016,0001193125-16-523101,item1a_not_found,
 ULTA,Ulta Beauty,0001403568,2015,0001193125-15-115602,item1a_not_found,
@@ -46,141 +46,141 @@ ULTA,Ulta Beauty,0001403568,2013,0001193125-13-140116,item1a_not_found,
 ULTA,Ulta Beauty,0001403568,2012,0001193125-12-136579,item1a_not_found,
 ULTA,Ulta Beauty,0001403568,2011,0000950123-11-030900,item1a_not_found,
 ULTA,Ulta Beauty,0001403568,2010,0000950123-10-030932,item1a_not_found,
-LVS,Las Vegas Sands,0001300514,2026,0001300514-26-000013,success,../data/item1a/0001300514_2026.txt
-LVS,Las Vegas Sands,0001300514,2025,0001300514-25-000040,success,../data/item1a/0001300514_2025.txt
-LVS,Las Vegas Sands,0001300514,2024,0001300514-24-000048,success,../data/item1a/0001300514_2024.txt
-LVS,Las Vegas Sands,0001300514,2023,0001300514-23-000021,success,../data/item1a/0001300514_2023.txt
-LVS,Las Vegas Sands,0001300514,2022,0001300514-22-000007,success,../data/item1a/0001300514_2022.txt
-LVS,Las Vegas Sands,0001300514,2021,0001300514-21-000033,success,../data/item1a/0001300514_2021.txt
-LVS,Las Vegas Sands,0001300514,2020,0001300514-20-000011,success,../data/item1a/0001300514_2020.txt
-LVS,Las Vegas Sands,0001300514,2019,0001300514-19-000021,success,../data/item1a/0001300514_2019.txt
-LVS,Las Vegas Sands,0001300514,2018,0001300514-18-000022,success,../data/item1a/0001300514_2018.txt
-LVS,Las Vegas Sands,0001300514,2017,0001300514-17-000005,success,../data/item1a/0001300514_2017.txt
-LVS,Las Vegas Sands,0001300514,2016,0001300514-16-000023,success,../data/item1a/0001300514_2016.txt
-LVS,Las Vegas Sands,0001300514,2015,0001300514-15-000005,success,../data/item1a/0001300514_2015.txt
-LVS,Las Vegas Sands,0001300514,2014,0001445305-14-000758,success,../data/item1a/0001300514_2014.txt
+LVS,Las Vegas Sands,0001300514,2026,0001300514-26-000013,skipped (already exists),../data/item1a/0001300514_2026.txt
+LVS,Las Vegas Sands,0001300514,2025,0001300514-25-000040,skipped (already exists),../data/item1a/0001300514_2025.txt
+LVS,Las Vegas Sands,0001300514,2024,0001300514-24-000048,skipped (already exists),../data/item1a/0001300514_2024.txt
+LVS,Las Vegas Sands,0001300514,2023,0001300514-23-000021,skipped (already exists),../data/item1a/0001300514_2023.txt
+LVS,Las Vegas Sands,0001300514,2022,0001300514-22-000007,skipped (already exists),../data/item1a/0001300514_2022.txt
+LVS,Las Vegas Sands,0001300514,2021,0001300514-21-000033,skipped (already exists),../data/item1a/0001300514_2021.txt
+LVS,Las Vegas Sands,0001300514,2020,0001300514-20-000011,skipped (already exists),../data/item1a/0001300514_2020.txt
+LVS,Las Vegas Sands,0001300514,2019,0001300514-19-000021,skipped (already exists),../data/item1a/0001300514_2019.txt
+LVS,Las Vegas Sands,0001300514,2018,0001300514-18-000022,skipped (already exists),../data/item1a/0001300514_2018.txt
+LVS,Las Vegas Sands,0001300514,2017,0001300514-17-000005,skipped (already exists),../data/item1a/0001300514_2017.txt
+LVS,Las Vegas Sands,0001300514,2016,0001300514-16-000023,skipped (already exists),../data/item1a/0001300514_2016.txt
+LVS,Las Vegas Sands,0001300514,2015,0001300514-15-000005,skipped (already exists),../data/item1a/0001300514_2015.txt
+LVS,Las Vegas Sands,0001300514,2014,0001445305-14-000758,skipped (already exists),../data/item1a/0001300514_2014.txt
 LVS,Las Vegas Sands,0001300514,2013,0001193125-13-087854,item1a_not_found,
-LVS,Las Vegas Sands,0001300514,2012,0000950123-12-004305,success,../data/item1a/0001300514_2012.txt
+LVS,Las Vegas Sands,0001300514,2012,0000950123-12-004305,skipped (already exists),../data/item1a/0001300514_2012.txt
 LVS,Las Vegas Sands,0001300514,2011,0000950123-11-020089,item1a_not_found,
-LVS,Las Vegas Sands,0001300514,2010,0000950123-10-018509,success,../data/item1a/0001300514_2010.txt
-PHM,PulteGroup,0000822416,2026,0000822416-26-000007,success,../data/item1a/0000822416_2026.txt
-PHM,PulteGroup,0000822416,2025,0000822416-25-000007,success,../data/item1a/0000822416_2025.txt
-PHM,PulteGroup,0000822416,2024,0000822416-24-000010,success,../data/item1a/0000822416_2024.txt
-PHM,PulteGroup,0000822416,2023,0000822416-23-000007,success,../data/item1a/0000822416_2023.txt
-PHM,PulteGroup,0000822416,2022,0000822416-22-000007,success,../data/item1a/0000822416_2022.txt
-PHM,PulteGroup,0000822416,2021,0000822416-21-000007,success,../data/item1a/0000822416_2021.txt
-PHM,PulteGroup,0000822416,2020,0000822416-20-000007,success,../data/item1a/0000822416_2020.txt
-PHM,PulteGroup,0000822416,2019,0000822416-19-000008,success,../data/item1a/0000822416_2019.txt
-PHM,PulteGroup,0000822416,2018,0000822416-18-000009,success,../data/item1a/0000822416_2018.txt
-PHM,PulteGroup,0000822416,2017,0000822416-17-000008,success,../data/item1a/0000822416_2017.txt
-PHM,PulteGroup,0000822416,2016,0000822416-16-000048,success,../data/item1a/0000822416_2016.txt
-PHM,PulteGroup,0000822416,2015,0000822416-15-000007,success,../data/item1a/0000822416_2015.txt
-PHM,PulteGroup,0000822416,2014,0000822416-14-000010,success,../data/item1a/0000822416_2014.txt
-PHM,PulteGroup,0000822416,2013,0000822416-13-000006,success,../data/item1a/0000822416_2013.txt
-PHM,PulteGroup,0000822416,2012,0000822416-12-000010,success,../data/item1a/0000822416_2012.txt
-CCL,Carnival Corporation,0000815097,2026,0000815097-26-000007,success,../data/item1a/0000815097_2026.txt
-CCL,Carnival Corporation,0000815097,2025,0000815097-25-000007,success,../data/item1a/0000815097_2025.txt
-CCL,Carnival Corporation,0000815097,2024,0000815097-24-000011,success,../data/item1a/0000815097_2024.txt
-CCL,Carnival Corporation,0000815097,2023,0000815097-23-000012,success,../data/item1a/0000815097_2023.txt
-CCL,Carnival Corporation,0000815097,2022,0000815097-22-000009,success,../data/item1a/0000815097_2022.txt
-CCL,Carnival Corporation,0000815097,2021,0000815097-21-000027,success,../data/item1a/0000815097_2021.txt
-CCL,Carnival Corporation,0000815097,2020,0000815097-20-000003,success,../data/item1a/0000815097_2020.txt
-CCL,Carnival Corporation,0000815097,2019,0000815097-19-000004,success,../data/item1a/0000815097_2019.txt
-CCL,Carnival Corporation,0000815097,2018,0000815097-18-000005,success,../data/item1a/0000815097_2018.txt
-CCL,Carnival Corporation,0000815097,2017,0000815097-17-000001,success,../data/item1a/0000815097_2017.txt
-CCL,Carnival Corporation,0000815097,2016,0000815097-16-000030,success,../data/item1a/0000815097_2016.txt
-CCL,Carnival Corporation,0000815097,2015,0000815097-15-000007,success,../data/item1a/0000815097_2015.txt
-CCL,Carnival Corporation,0000815097,2014,0001193125-14-025514,item1a_not_found,
-CCL,Carnival Corporation,0000815097,2013,0001193125-13-027239,item1a_not_found,
-CCL,Carnival Corporation,0000815097,2012,0001193125-12-028375,item1a_not_found,
-WYNN,Wynn Resorts,0001174922,2026,0001174922-26-000013,success,../data/item1a/0001174922_2026.txt
-WYNN,Wynn Resorts,0001174922,2025,0001174922-25-000039,success,../data/item1a/0001174922_2025.txt
-WYNN,Wynn Resorts,0001174922,2024,0001174922-24-000046,success,../data/item1a/0001174922_2024.txt
-WYNN,Wynn Resorts,0001174922,2023,0001174922-23-000048,success,../data/item1a/0001174922_2023.txt
-WYNN,Wynn Resorts,0001174922,2022,0001174922-22-000031,success,../data/item1a/0001174922_2022.txt
-WYNN,Wynn Resorts,0001174922,2021,0001174922-21-000029,success,../data/item1a/0001174922_2021.txt
-WYNN,Wynn Resorts,0001174922,2020,0001174922-20-000024,success,../data/item1a/0001174922_2020.txt
-WYNN,Wynn Resorts,0001174922,2019,0001174922-19-000021,success,../data/item1a/0001174922_2019.txt
-WYNN,Wynn Resorts,0001174922,2018,0001174922-18-000019,success,../data/item1a/0001174922_2018.txt
-WYNN,Wynn Resorts,0001174922,2017,0001174922-17-000027,success,../data/item1a/0001174922_2017.txt
-WYNN,Wynn Resorts,0001174922,2016,0001174922-16-000144,success,../data/item1a/0001174922_2016.txt
-WYNN,Wynn Resorts,0001174922,2015,0001174922-15-000021,success,../data/item1a/0001174922_2015.txt
+LVS,Las Vegas Sands,0001300514,2010,0000950123-10-018509,skipped (already exists),../data/item1a/0001300514_2010.txt
+PHM,PulteGroup,0000822416,2026,0000822416-26-000007,skipped (already exists),../data/item1a/0000822416_2026.txt
+PHM,PulteGroup,0000822416,2025,0000822416-25-000007,skipped (already exists),../data/item1a/0000822416_2025.txt
+PHM,PulteGroup,0000822416,2024,0000822416-24-000010,skipped (already exists),../data/item1a/0000822416_2024.txt
+PHM,PulteGroup,0000822416,2023,0000822416-23-000007,skipped (already exists),../data/item1a/0000822416_2023.txt
+PHM,PulteGroup,0000822416,2022,0000822416-22-000007,skipped (already exists),../data/item1a/0000822416_2022.txt
+PHM,PulteGroup,0000822416,2021,0000822416-21-000007,skipped (already exists),../data/item1a/0000822416_2021.txt
+PHM,PulteGroup,0000822416,2020,0000822416-20-000007,skipped (already exists),../data/item1a/0000822416_2020.txt
+PHM,PulteGroup,0000822416,2019,0000822416-19-000008,skipped (already exists),../data/item1a/0000822416_2019.txt
+PHM,PulteGroup,0000822416,2018,0000822416-18-000009,skipped (already exists),../data/item1a/0000822416_2018.txt
+PHM,PulteGroup,0000822416,2017,0000822416-17-000008,skipped (already exists),../data/item1a/0000822416_2017.txt
+PHM,PulteGroup,0000822416,2016,0000822416-16-000048,skipped (already exists),../data/item1a/0000822416_2016.txt
+PHM,PulteGroup,0000822416,2015,0000822416-15-000007,skipped (already exists),../data/item1a/0000822416_2015.txt
+PHM,PulteGroup,0000822416,2014,0000822416-14-000010,skipped (already exists),../data/item1a/0000822416_2014.txt
+PHM,PulteGroup,0000822416,2013,0000822416-13-000006,skipped (already exists),../data/item1a/0000822416_2013.txt
+PHM,PulteGroup,0000822416,2012,0000822416-12-000010,skipped (already exists),../data/item1a/0000822416_2012.txt
+CCL,Carnival Corporation,0000815097,2026,0000815097-26-000007,skipped (already exists),../data/item1a/0000815097_2026.txt
+CCL,Carnival Corporation,0000815097,2025,0000815097-25-000007,skipped (already exists),../data/item1a/0000815097_2025.txt
+CCL,Carnival Corporation,0000815097,2024,0000815097-24-000011,skipped (already exists),../data/item1a/0000815097_2024.txt
+CCL,Carnival Corporation,0000815097,2023,0000815097-23-000012,skipped (already exists),../data/item1a/0000815097_2023.txt
+CCL,Carnival Corporation,0000815097,2022,0000815097-22-000009,skipped (already exists),../data/item1a/0000815097_2022.txt
+CCL,Carnival Corporation,0000815097,2021,0000815097-21-000027,skipped (already exists),../data/item1a/0000815097_2021.txt
+CCL,Carnival Corporation,0000815097,2020,0000815097-20-000003,skipped (already exists),../data/item1a/0000815097_2020.txt
+CCL,Carnival Corporation,0000815097,2019,0000815097-19-000004,skipped (already exists),../data/item1a/0000815097_2019.txt
+CCL,Carnival Corporation,0000815097,2018,0000815097-18-000005,skipped (already exists),../data/item1a/0000815097_2018.txt
+CCL,Carnival Corporation,0000815097,2017,0000815097-17-000001,skipped (already exists),../data/item1a/0000815097_2017.txt
+CCL,Carnival Corporation,0000815097,2016,0000815097-16-000030,skipped (already exists),../data/item1a/0000815097_2016.txt
+CCL,Carnival Corporation,0000815097,2015,0000815097-15-000007,skipped (already exists),../data/item1a/0000815097_2015.txt
+CCL,Carnival Corporation,0000815097,2014,0001193125-14-025514,skipped (already exists),../data/item1a/0000815097_2014.txt
+CCL,Carnival Corporation,0000815097,2013,0001193125-13-027239,skipped (already exists),../data/item1a/0000815097_2013.txt
+CCL,Carnival Corporation,0000815097,2012,0001193125-12-028375,skipped (already exists),../data/item1a/0000815097_2012.txt
+WYNN,Wynn Resorts,0001174922,2026,0001174922-26-000013,skipped (already exists),../data/item1a/0001174922_2026.txt
+WYNN,Wynn Resorts,0001174922,2025,0001174922-25-000039,skipped (already exists),../data/item1a/0001174922_2025.txt
+WYNN,Wynn Resorts,0001174922,2024,0001174922-24-000046,skipped (already exists),../data/item1a/0001174922_2024.txt
+WYNN,Wynn Resorts,0001174922,2023,0001174922-23-000048,skipped (already exists),../data/item1a/0001174922_2023.txt
+WYNN,Wynn Resorts,0001174922,2022,0001174922-22-000031,skipped (already exists),../data/item1a/0001174922_2022.txt
+WYNN,Wynn Resorts,0001174922,2021,0001174922-21-000029,skipped (already exists),../data/item1a/0001174922_2021.txt
+WYNN,Wynn Resorts,0001174922,2020,0001174922-20-000024,skipped (already exists),../data/item1a/0001174922_2020.txt
+WYNN,Wynn Resorts,0001174922,2019,0001174922-19-000021,skipped (already exists),../data/item1a/0001174922_2019.txt
+WYNN,Wynn Resorts,0001174922,2018,0001174922-18-000019,skipped (already exists),../data/item1a/0001174922_2018.txt
+WYNN,Wynn Resorts,0001174922,2017,0001174922-17-000027,skipped (already exists),../data/item1a/0001174922_2017.txt
+WYNN,Wynn Resorts,0001174922,2016,0001174922-16-000144,skipped (already exists),../data/item1a/0001174922_2016.txt
+WYNN,Wynn Resorts,0001174922,2015,0001174922-15-000021,skipped (already exists),../data/item1a/0001174922_2015.txt
 WYNN,Wynn Resorts,0001174922,2014,0001193125-14-077632,item1a_not_found,
 WYNN,Wynn Resorts,0001174922,2013,0001193125-13-087674,item1a_not_found,
-LULU,Lululemon Athletica,0001397187,2026,0001397187-26-000020,success,../data/item1a/0001397187_2026.txt
-LULU,Lululemon Athletica,0001397187,2025,0001397187-25-000013,success,../data/item1a/0001397187_2025.txt
-LULU,Lululemon Athletica,0001397187,2024,0001397187-24-000010,success,../data/item1a/0001397187_2024.txt
-LULU,Lululemon Athletica,0001397187,2023,0001397187-23-000012,success,../data/item1a/0001397187_2023.txt
-LULU,Lululemon Athletica,0001397187,2022,0001397187-22-000014,success,../data/item1a/0001397187_2022.txt
-LULU,Lululemon Athletica,0001397187,2021,0001397187-21-000009,success,../data/item1a/0001397187_2021.txt
-LULU,Lululemon Athletica,0001397187,2020,0001397187-20-000012,success,../data/item1a/0001397187_2020.txt
-LULU,Lululemon Athletica,0001397187,2019,0001397187-19-000011,success,../data/item1a/0001397187_2019.txt
-LULU,Lululemon Athletica,0001397187,2018,0001397187-18-000013,success,../data/item1a/0001397187_2018.txt
-LULU,Lululemon Athletica,0001397187,2017,0001397187-17-000008,success,../data/item1a/0001397187_2017.txt
-LULU,Lululemon Athletica,0001397187,2016,0001397187-16-000089,success,../data/item1a/0001397187_2016.txt
-LULU,Lululemon Athletica,0001397187,2015,0001397187-15-000016,success,../data/item1a/0001397187_2015.txt
-LULU,Lululemon Athletica,0001397187,2014,0001397187-14-000021,success,../data/item1a/0001397187_2014.txt
+LULU,Lululemon Athletica,0001397187,2026,0001397187-26-000020,skipped (already exists),../data/item1a/0001397187_2026.txt
+LULU,Lululemon Athletica,0001397187,2025,0001397187-25-000013,skipped (already exists),../data/item1a/0001397187_2025.txt
+LULU,Lululemon Athletica,0001397187,2024,0001397187-24-000010,skipped (already exists),../data/item1a/0001397187_2024.txt
+LULU,Lululemon Athletica,0001397187,2023,0001397187-23-000012,skipped (already exists),../data/item1a/0001397187_2023.txt
+LULU,Lululemon Athletica,0001397187,2022,0001397187-22-000014,skipped (already exists),../data/item1a/0001397187_2022.txt
+LULU,Lululemon Athletica,0001397187,2021,0001397187-21-000009,skipped (already exists),../data/item1a/0001397187_2021.txt
+LULU,Lululemon Athletica,0001397187,2020,0001397187-20-000012,skipped (already exists),../data/item1a/0001397187_2020.txt
+LULU,Lululemon Athletica,0001397187,2019,0001397187-19-000011,skipped (already exists),../data/item1a/0001397187_2019.txt
+LULU,Lululemon Athletica,0001397187,2018,0001397187-18-000013,skipped (already exists),../data/item1a/0001397187_2018.txt
+LULU,Lululemon Athletica,0001397187,2017,0001397187-17-000008,skipped (already exists),../data/item1a/0001397187_2017.txt
+LULU,Lululemon Athletica,0001397187,2016,0001397187-16-000089,skipped (already exists),../data/item1a/0001397187_2016.txt
+LULU,Lululemon Athletica,0001397187,2015,0001397187-15-000016,skipped (already exists),../data/item1a/0001397187_2015.txt
+LULU,Lululemon Athletica,0001397187,2014,0001397187-14-000021,skipped (already exists),../data/item1a/0001397187_2014.txt
 LULU,Lululemon Athletica,0001397187,2013,0001193125-13-118393,item1a_not_found,
-POOL,Pool Corporation,0000945841,2026,0001193125-26-074833,success,../data/item1a/0000945841_2026.txt
-POOL,Pool Corporation,0000945841,2025,0000945841-25-000032,success,../data/item1a/0000945841_2025.txt
-POOL,Pool Corporation,0000945841,2024,0000945841-24-000021,success,../data/item1a/0000945841_2024.txt
-POOL,Pool Corporation,0000945841,2023,0000945841-23-000015,success,../data/item1a/0000945841_2023.txt
-POOL,Pool Corporation,0000945841,2022,0000945841-22-000023,success,../data/item1a/0000945841_2022.txt
-POOL,Pool Corporation,0000945841,2021,0000945841-21-000022,success,../data/item1a/0000945841_2021.txt
-POOL,Pool Corporation,0000945841,2020,0000945841-20-000041,success,../data/item1a/0000945841_2020.txt
-POOL,Pool Corporation,0000945841,2019,0000945841-19-000013,success,../data/item1a/0000945841_2019.txt
-POOL,Pool Corporation,0000945841,2018,0000945841-18-000020,success,../data/item1a/0000945841_2018.txt
-POOL,Pool Corporation,0000945841,2017,0000945841-17-000028,success,../data/item1a/0000945841_2017.txt
-POOL,Pool Corporation,0000945841,2016,0000945841-16-000190,success,../data/item1a/0000945841_2016.txt
-POOL,Pool Corporation,0000945841,2015,0000945841-15-000034,success,../data/item1a/0000945841_2015.txt
-POOL,Pool Corporation,0000945841,2014,0000945841-14-000019,success,../data/item1a/0000945841_2014.txt
-POOL,Pool Corporation,0000945841,2013,0000945841-13-000019,success,../data/item1a/0000945841_2013.txt
-POOL,Pool Corporation,0000945841,2012,0000945841-12-000018,success,../data/item1a/0000945841_2012.txt
-NVR,"NVR, Inc.",0000906163,2026,0000906163-26-000018,success,../data/item1a/0000906163_2026.txt
-NVR,"NVR, Inc.",0000906163,2025,0000906163-25-000011,success,../data/item1a/0000906163_2025.txt
-NVR,"NVR, Inc.",0000906163,2024,0000906163-24-000033,success,../data/item1a/0000906163_2024.txt
-NVR,"NVR, Inc.",0000906163,2023,0000906163-23-000023,success,../data/item1a/0000906163_2023.txt
-NVR,"NVR, Inc.",0000906163,2022,0000906163-22-000008,success,../data/item1a/0000906163_2022.txt
-NVR,"NVR, Inc.",0000906163,2021,0000906163-21-000017,success,../data/item1a/0000906163_2021.txt
-NVR,"NVR, Inc.",0000906163,2020,0000906163-20-000026,success,../data/item1a/0000906163_2020.txt
-NVR,"NVR, Inc.",0000906163,2019,0000906163-19-000029,success,../data/item1a/0000906163_2019.txt
-NVR,"NVR, Inc.",0000906163,2018,0000906163-18-000007,success,../data/item1a/0000906163_2018.txt
+POOL,Pool Corporation,0000945841,2026,0001193125-26-074833,skipped (already exists),../data/item1a/0000945841_2026.txt
+POOL,Pool Corporation,0000945841,2025,0000945841-25-000032,skipped (already exists),../data/item1a/0000945841_2025.txt
+POOL,Pool Corporation,0000945841,2024,0000945841-24-000021,skipped (already exists),../data/item1a/0000945841_2024.txt
+POOL,Pool Corporation,0000945841,2023,0000945841-23-000015,skipped (already exists),../data/item1a/0000945841_2023.txt
+POOL,Pool Corporation,0000945841,2022,0000945841-22-000023,skipped (already exists),../data/item1a/0000945841_2022.txt
+POOL,Pool Corporation,0000945841,2021,0000945841-21-000022,skipped (already exists),../data/item1a/0000945841_2021.txt
+POOL,Pool Corporation,0000945841,2020,0000945841-20-000041,skipped (already exists),../data/item1a/0000945841_2020.txt
+POOL,Pool Corporation,0000945841,2019,0000945841-19-000013,skipped (already exists),../data/item1a/0000945841_2019.txt
+POOL,Pool Corporation,0000945841,2018,0000945841-18-000020,skipped (already exists),../data/item1a/0000945841_2018.txt
+POOL,Pool Corporation,0000945841,2017,0000945841-17-000028,skipped (already exists),../data/item1a/0000945841_2017.txt
+POOL,Pool Corporation,0000945841,2016,0000945841-16-000190,skipped (already exists),../data/item1a/0000945841_2016.txt
+POOL,Pool Corporation,0000945841,2015,0000945841-15-000034,skipped (already exists),../data/item1a/0000945841_2015.txt
+POOL,Pool Corporation,0000945841,2014,0000945841-14-000019,skipped (already exists),../data/item1a/0000945841_2014.txt
+POOL,Pool Corporation,0000945841,2013,0000945841-13-000019,skipped (already exists),../data/item1a/0000945841_2013.txt
+POOL,Pool Corporation,0000945841,2012,0000945841-12-000018,skipped (already exists),../data/item1a/0000945841_2012.txt
+NVR,"NVR, Inc.",0000906163,2026,0000906163-26-000018,skipped (already exists),../data/item1a/0000906163_2026.txt
+NVR,"NVR, Inc.",0000906163,2025,0000906163-25-000011,skipped (already exists),../data/item1a/0000906163_2025.txt
+NVR,"NVR, Inc.",0000906163,2024,0000906163-24-000033,skipped (already exists),../data/item1a/0000906163_2024.txt
+NVR,"NVR, Inc.",0000906163,2023,0000906163-23-000023,skipped (already exists),../data/item1a/0000906163_2023.txt
+NVR,"NVR, Inc.",0000906163,2022,0000906163-22-000008,skipped (already exists),../data/item1a/0000906163_2022.txt
+NVR,"NVR, Inc.",0000906163,2021,0000906163-21-000017,skipped (already exists),../data/item1a/0000906163_2021.txt
+NVR,"NVR, Inc.",0000906163,2020,0000906163-20-000026,skipped (already exists),../data/item1a/0000906163_2020.txt
+NVR,"NVR, Inc.",0000906163,2019,0000906163-19-000029,skipped (already exists),../data/item1a/0000906163_2019.txt
+NVR,"NVR, Inc.",0000906163,2018,0000906163-18-000007,skipped (already exists),../data/item1a/0000906163_2018.txt
 NVR,"NVR, Inc.",0000906163,2017,0001564590-17-001623,item1a_not_found,
 NVR,"NVR, Inc.",0000906163,2016,0001564590-16-012809,item1a_not_found,
 NVR,"NVR, Inc.",0000906163,2015,0001564590-15-000764,item1a_not_found,
 NVR,"NVR, Inc.",0000906163,2014,0001193125-14-060606,item1a_not_found,
-NVR,"NVR, Inc.",0000906163,2013,0001193125-13-065025,item1a_not_found,
+NVR,"NVR, Inc.",0000906163,2013,0001193125-13-065025,skipped (already exists),../data/item1a/0000906163_2013.txt
 NVR,"NVR, Inc.",0000906163,2012,0001193125-12-072956,item1a_not_found,
-NVR,"NVR, Inc.",0000906163,2011,0000950123-11-018386,success,../data/item1a/0000906163_2011.txt
-NVR,"NVR, Inc.",0000906163,2010,0000950123-10-018033,success,../data/item1a/0000906163_2010.txt
-TJX,TJX Companies,0000109198,2026,0000109198-26-000008,success,../data/item1a/0000109198_2026.txt
-TJX,TJX Companies,0000109198,2025,0000109198-25-000010,success,../data/item1a/0000109198_2025.txt
-TJX,TJX Companies,0000109198,2024,0000109198-24-000014,success,../data/item1a/0000109198_2024.txt
-TJX,TJX Companies,0000109198,2023,0000109198-23-000004,success,../data/item1a/0000109198_2023.txt
-TJX,TJX Companies,0000109198,2022,0000109198-22-000008,success,../data/item1a/0000109198_2022.txt
-TJX,TJX Companies,0000109198,2021,0000109198-21-000006,success,../data/item1a/0000109198_2021.txt
-TJX,TJX Companies,0000109198,2020,0000109198-20-000004,success,../data/item1a/0000109198_2020.txt
-TJX,TJX Companies,0000109198,2019,0001628280-19-003834,success,../data/item1a/0000109198_2019.txt
+NVR,"NVR, Inc.",0000906163,2011,0000950123-11-018386,skipped (already exists),../data/item1a/0000906163_2011.txt
+NVR,"NVR, Inc.",0000906163,2010,0000950123-10-018033,skipped (already exists),../data/item1a/0000906163_2010.txt
+TJX,TJX Companies,0000109198,2026,0000109198-26-000008,skipped (already exists),../data/item1a/0000109198_2026.txt
+TJX,TJX Companies,0000109198,2025,0000109198-25-000010,skipped (already exists),../data/item1a/0000109198_2025.txt
+TJX,TJX Companies,0000109198,2024,0000109198-24-000014,skipped (already exists),../data/item1a/0000109198_2024.txt
+TJX,TJX Companies,0000109198,2023,0000109198-23-000004,skipped (already exists),../data/item1a/0000109198_2023.txt
+TJX,TJX Companies,0000109198,2022,0000109198-22-000008,skipped (already exists),../data/item1a/0000109198_2022.txt
+TJX,TJX Companies,0000109198,2021,0000109198-21-000006,skipped (already exists),../data/item1a/0000109198_2021.txt
+TJX,TJX Companies,0000109198,2020,0000109198-20-000004,skipped (already exists),../data/item1a/0000109198_2020.txt
+TJX,TJX Companies,0000109198,2019,0001628280-19-003834,skipped (already exists),../data/item1a/0000109198_2019.txt
 TJX,TJX Companies,0000109198,2018,0001193125-18-107423,item1a_not_found,
 TJX,TJX Companies,0000109198,2017,0001193125-17-099642,item1a_not_found,
 TJX,TJX Companies,0000109198,2016,0001193125-16-521424,item1a_not_found,
 TJX,TJX Companies,0000109198,2015,0001193125-15-114276,item1a_not_found,
 TJX,TJX Companies,0000109198,2014,0001193125-14-125980,item1a_not_found,
 TJX,TJX Companies,0000109198,2013,0001193125-13-138497,item1a_not_found,
-MNST,Monster Beverage,0000865752,2026,0001104659-26-020831,success,../data/item1a/0000865752_2026.txt
-MNST,Monster Beverage,0000865752,2025,0001410578-25-000248,success,../data/item1a/0000865752_2025.txt
-MNST,Monster Beverage,0000865752,2024,0001104659-24-029425,success,../data/item1a/0000865752_2024.txt
-MNST,Monster Beverage,0000865752,2023,0001104659-23-027245,success,../data/item1a/0000865752_2023.txt
-MNST,Monster Beverage,0000865752,2022,0001104659-22-028182,success,../data/item1a/0000865752_2022.txt
-MNST,Monster Beverage,0000865752,2021,0001104659-21-029943,success,../data/item1a/0000865752_2021.txt
-MNST,Monster Beverage,0000865752,2020,0001104659-20-027209,success,../data/item1a/0000865752_2020.txt
-MNST,Monster Beverage,0000865752,2019,0001104659-19-011581,success,../data/item1a/0000865752_2019.txt
-MNST,Monster Beverage,0000865752,2018,0001104659-18-014057,success,../data/item1a/0000865752_2018.txt
-MNST,Monster Beverage,0000865752,2017,0001104659-17-013048,success,../data/item1a/0000865752_2017.txt
-MNST,Monster Beverage,0000865752,2016,0001104659-16-100960,success,../data/item1a/0000865752_2016.txt
-MNST,Monster Beverage,0000865752,2015,0001104659-15-015731,success,../data/item1a/0000865752_2015.txt
-MNST,Monster Beverage,0000865752,2014,0001104659-14-015320,success,../data/item1a/0000865752_2014.txt
-MNST,Monster Beverage,0000865752,2013,0001104659-13-016713,success,../data/item1a/0000865752_2013.txt
+MNST,Monster Beverage,0000865752,2026,0001104659-26-020831,skipped (already exists),../data/item1a/0000865752_2026.txt
+MNST,Monster Beverage,0000865752,2025,0001410578-25-000248,skipped (already exists),../data/item1a/0000865752_2025.txt
+MNST,Monster Beverage,0000865752,2024,0001104659-24-029425,skipped (already exists),../data/item1a/0000865752_2024.txt
+MNST,Monster Beverage,0000865752,2023,0001104659-23-027245,skipped (already exists),../data/item1a/0000865752_2023.txt
+MNST,Monster Beverage,0000865752,2022,0001104659-22-028182,skipped (already exists),../data/item1a/0000865752_2022.txt
+MNST,Monster Beverage,0000865752,2021,0001104659-21-029943,skipped (already exists),../data/item1a/0000865752_2021.txt
+MNST,Monster Beverage,0000865752,2020,0001104659-20-027209,skipped (already exists),../data/item1a/0000865752_2020.txt
+MNST,Monster Beverage,0000865752,2019,0001104659-19-011581,skipped (already exists),../data/item1a/0000865752_2019.txt
+MNST,Monster Beverage,0000865752,2018,0001104659-18-014057,skipped (already exists),../data/item1a/0000865752_2018.txt
+MNST,Monster Beverage,0000865752,2017,0001104659-17-013048,skipped (already exists),../data/item1a/0000865752_2017.txt
+MNST,Monster Beverage,0000865752,2016,0001104659-16-100960,skipped (already exists),../data/item1a/0000865752_2016.txt
+MNST,Monster Beverage,0000865752,2015,0001104659-15-015731,skipped (already exists),../data/item1a/0000865752_2015.txt
+MNST,Monster Beverage,0000865752,2014,0001104659-14-015320,skipped (already exists),../data/item1a/0000865752_2014.txt
+MNST,Monster Beverage,0000865752,2013,0001104659-13-016713,skipped (already exists),../data/item1a/0000865752_2013.txt
 CASY,Casey's,0000726958,2025,0000726958-25-000065,item1a_not_found,
 CASY,Casey's,0000726958,2024,0000726958-24-000046,item1a_not_found,
 CASY,Casey's,0000726958,2023,0000726958-23-000059,item1a_not_found,
@@ -196,49 +196,49 @@ CASY,Casey's,0000726958,2014,0001193125-14-253245,item1a_not_found,
 CASY,Casey's,0000726958,2013,0001193125-13-274177,item1a_not_found,
 CASY,Casey's,0000726958,2012,0001193125-12-283506,item1a_not_found,
 CASY,Casey's,0000726958,2011,0001193125-11-175866,item1a_not_found,
-VLO,Valero Energy,0001035002,2026,0001628280-26-011499,success,../data/item1a/0001035002_2026.txt
-VLO,Valero Energy,0001035002,2025,0001035002-25-000005,success,../data/item1a/0001035002_2025.txt
-VLO,Valero Energy,0001035002,2024,0001035002-24-000007,success,../data/item1a/0001035002_2024.txt
-VLO,Valero Energy,0001035002,2023,0001035002-23-000027,success,../data/item1a/0001035002_2023.txt
-VLO,Valero Energy,0001035002,2022,0001035002-22-000007,success,../data/item1a/0001035002_2022.txt
-VLO,Valero Energy,0001035002,2021,0001035002-21-000051,success,../data/item1a/0001035002_2021.txt
-VLO,Valero Energy,0001035002,2020,0001035002-20-000007,success,../data/item1a/0001035002_2020.txt
-VLO,Valero Energy,0001035002,2019,0001035002-19-000008,success,../data/item1a/0001035002_2019.txt
-VLO,Valero Energy,0001035002,2018,0001035002-18-000010,success,../data/item1a/0001035002_2018.txt
-VLO,Valero Energy,0001035002,2017,0001035002-17-000009,success,../data/item1a/0001035002_2017.txt
-VLO,Valero Energy,0001035002,2016,0001035002-16-000069,success,../data/item1a/0001035002_2016.txt
-VLO,Valero Energy,0001035002,2015,0001035002-15-000009,success,../data/item1a/0001035002_2015.txt
+VLO,Valero Energy,0001035002,2026,0001628280-26-011499,skipped (already exists),../data/item1a/0001035002_2026.txt
+VLO,Valero Energy,0001035002,2025,0001035002-25-000005,skipped (already exists),../data/item1a/0001035002_2025.txt
+VLO,Valero Energy,0001035002,2024,0001035002-24-000007,skipped (already exists),../data/item1a/0001035002_2024.txt
+VLO,Valero Energy,0001035002,2023,0001035002-23-000027,skipped (already exists),../data/item1a/0001035002_2023.txt
+VLO,Valero Energy,0001035002,2022,0001035002-22-000007,skipped (already exists),../data/item1a/0001035002_2022.txt
+VLO,Valero Energy,0001035002,2021,0001035002-21-000051,skipped (already exists),../data/item1a/0001035002_2021.txt
+VLO,Valero Energy,0001035002,2020,0001035002-20-000007,skipped (already exists),../data/item1a/0001035002_2020.txt
+VLO,Valero Energy,0001035002,2019,0001035002-19-000008,skipped (already exists),../data/item1a/0001035002_2019.txt
+VLO,Valero Energy,0001035002,2018,0001035002-18-000010,skipped (already exists),../data/item1a/0001035002_2018.txt
+VLO,Valero Energy,0001035002,2017,0001035002-17-000009,skipped (already exists),../data/item1a/0001035002_2017.txt
+VLO,Valero Energy,0001035002,2016,0001035002-16-000069,skipped (already exists),../data/item1a/0001035002_2016.txt
+VLO,Valero Energy,0001035002,2015,0001035002-15-000009,skipped (already exists),../data/item1a/0001035002_2015.txt
 VLO,Valero Energy,0001035002,2014,0001035002-14-000008,item1a_not_found,
 VLO,Valero Energy,0001035002,2013,0001035002-13-000008,item1a_not_found,
-EG,Everest Group,0001095073,2026,0001095073-26-000006,success,../data/item1a/0001095073_2026.txt
-EG,Everest Group,0001095073,2025,0001095073-25-000015,success,../data/item1a/0001095073_2025.txt
-EG,Everest Group,0001095073,2024,0001095073-24-000009,success,../data/item1a/0001095073_2024.txt
-EG,Everest Group,0001095073,2023,0001095073-23-000007,success,../data/item1a/0001095073_2023.txt
-EG,Everest Group,0001095073,2022,0001095073-22-000005,success,../data/item1a/0001095073_2022.txt
-EG,Everest Group,0001095073,2021,0001095073-21-000006,success,../data/item1a/0001095073_2021.txt
-EG,Everest Group,0001095073,2020,0001095073-20-000006,success,../data/item1a/0001095073_2020.txt
-EG,Everest Group,0001095073,2019,0001095073-19-000011,success,../data/item1a/0001095073_2019.txt
-EG,Everest Group,0001095073,2018,0001095073-18-000008,success,../data/item1a/0001095073_2018.txt
-EG,Everest Group,0001095073,2017,0001095073-17-000011,success,../data/item1a/0001095073_2017.txt
-EG,Everest Group,0001095073,2016,0001095073-16-000071,success,../data/item1a/0001095073_2016.txt
-EG,Everest Group,0001095073,2015,0001095073-15-000007,success,../data/item1a/0001095073_2015.txt
-EG,Everest Group,0001095073,2014,0001095073-14-000008,success,../data/item1a/0001095073_2014.txt
-EG,Everest Group,0001095073,2013,0001095073-13-000015,success,../data/item1a/0001095073_2013.txt
-EG,Everest Group,0001095073,2012,0001095073-12-000013,success,../data/item1a/0001095073_2012.txt
-WRB,W. R. Berkley Corporation,0000011544,2026,0000011544-26-000005,success,../data/item1a/0000011544_2026.txt
-WRB,W. R. Berkley Corporation,0000011544,2025,0000011544-25-000005,success,../data/item1a/0000011544_2025.txt
-WRB,W. R. Berkley Corporation,0000011544,2024,0000011544-24-000005,success,../data/item1a/0000011544_2024.txt
-WRB,W. R. Berkley Corporation,0000011544,2023,0000011544-23-000004,success,../data/item1a/0000011544_2023.txt
-WRB,W. R. Berkley Corporation,0000011544,2022,0000011544-22-000007,success,../data/item1a/0000011544_2022.txt
-WRB,W. R. Berkley Corporation,0000011544,2021,0000011544-21-000013,success,../data/item1a/0000011544_2021.txt
-WRB,W. R. Berkley Corporation,0000011544,2020,0000011544-20-000016,success,../data/item1a/0000011544_2020.txt
-WRB,W. R. Berkley Corporation,0000011544,2019,0000011544-19-000016,success,../data/item1a/0000011544_2019.txt
-WRB,W. R. Berkley Corporation,0000011544,2018,0000011544-18-000012,success,../data/item1a/0000011544_2018.txt
-WRB,W. R. Berkley Corporation,0000011544,2017,0000011544-17-000009,success,../data/item1a/0000011544_2017.txt
-WRB,W. R. Berkley Corporation,0000011544,2016,0000011544-16-000086,success,../data/item1a/0000011544_2016.txt
-WRB,W. R. Berkley Corporation,0000011544,2015,0000011544-15-000010,success,../data/item1a/0000011544_2015.txt
-WRB,W. R. Berkley Corporation,0000011544,2014,0000011544-14-000012,success,../data/item1a/0000011544_2014.txt
-WRB,W. R. Berkley Corporation,0000011544,2013,0000011544-13-000018,success,../data/item1a/0000011544_2013.txt
+EG,Everest Group,0001095073,2026,0001095073-26-000006,skipped (already exists),../data/item1a/0001095073_2026.txt
+EG,Everest Group,0001095073,2025,0001095073-25-000015,skipped (already exists),../data/item1a/0001095073_2025.txt
+EG,Everest Group,0001095073,2024,0001095073-24-000009,skipped (already exists),../data/item1a/0001095073_2024.txt
+EG,Everest Group,0001095073,2023,0001095073-23-000007,skipped (already exists),../data/item1a/0001095073_2023.txt
+EG,Everest Group,0001095073,2022,0001095073-22-000005,skipped (already exists),../data/item1a/0001095073_2022.txt
+EG,Everest Group,0001095073,2021,0001095073-21-000006,skipped (already exists),../data/item1a/0001095073_2021.txt
+EG,Everest Group,0001095073,2020,0001095073-20-000006,skipped (already exists),../data/item1a/0001095073_2020.txt
+EG,Everest Group,0001095073,2019,0001095073-19-000011,skipped (already exists),../data/item1a/0001095073_2019.txt
+EG,Everest Group,0001095073,2018,0001095073-18-000008,skipped (already exists),../data/item1a/0001095073_2018.txt
+EG,Everest Group,0001095073,2017,0001095073-17-000011,skipped (already exists),../data/item1a/0001095073_2017.txt
+EG,Everest Group,0001095073,2016,0001095073-16-000071,skipped (already exists),../data/item1a/0001095073_2016.txt
+EG,Everest Group,0001095073,2015,0001095073-15-000007,skipped (already exists),../data/item1a/0001095073_2015.txt
+EG,Everest Group,0001095073,2014,0001095073-14-000008,skipped (already exists),../data/item1a/0001095073_2014.txt
+EG,Everest Group,0001095073,2013,0001095073-13-000015,skipped (already exists),../data/item1a/0001095073_2013.txt
+EG,Everest Group,0001095073,2012,0001095073-12-000013,skipped (already exists),../data/item1a/0001095073_2012.txt
+WRB,W. R. Berkley Corporation,0000011544,2026,0000011544-26-000005,skipped (already exists),../data/item1a/0000011544_2026.txt
+WRB,W. R. Berkley Corporation,0000011544,2025,0000011544-25-000005,skipped (already exists),../data/item1a/0000011544_2025.txt
+WRB,W. R. Berkley Corporation,0000011544,2024,0000011544-24-000005,skipped (already exists),../data/item1a/0000011544_2024.txt
+WRB,W. R. Berkley Corporation,0000011544,2023,0000011544-23-000004,skipped (already exists),../data/item1a/0000011544_2023.txt
+WRB,W. R. Berkley Corporation,0000011544,2022,0000011544-22-000007,skipped (already exists),../data/item1a/0000011544_2022.txt
+WRB,W. R. Berkley Corporation,0000011544,2021,0000011544-21-000013,skipped (already exists),../data/item1a/0000011544_2021.txt
+WRB,W. R. Berkley Corporation,0000011544,2020,0000011544-20-000016,skipped (already exists),../data/item1a/0000011544_2020.txt
+WRB,W. R. Berkley Corporation,0000011544,2019,0000011544-19-000016,skipped (already exists),../data/item1a/0000011544_2019.txt
+WRB,W. R. Berkley Corporation,0000011544,2018,0000011544-18-000012,skipped (already exists),../data/item1a/0000011544_2018.txt
+WRB,W. R. Berkley Corporation,0000011544,2017,0000011544-17-000009,skipped (already exists),../data/item1a/0000011544_2017.txt
+WRB,W. R. Berkley Corporation,0000011544,2016,0000011544-16-000086,skipped (already exists),../data/item1a/0000011544_2016.txt
+WRB,W. R. Berkley Corporation,0000011544,2015,0000011544-15-000010,skipped (already exists),../data/item1a/0000011544_2015.txt
+WRB,W. R. Berkley Corporation,0000011544,2014,0000011544-14-000012,skipped (already exists),../data/item1a/0000011544_2014.txt
+WRB,W. R. Berkley Corporation,0000011544,2013,0000011544-13-000018,skipped (already exists),../data/item1a/0000011544_2013.txt
 BRO,Brown & Brown,0000079282,2026,0001193125-26-046984,success,../data/item1a/0000079282_2026.txt
 BRO,Brown & Brown,0000079282,2025,0000950170-25-019039,success,../data/item1a/0000079282_2025.txt
 BRO,Brown & Brown,0000079282,2024,0000950170-24-018890,success,../data/item1a/0000079282_2024.txt
@@ -255,35 +255,35 @@ BRO,Brown & Brown,0000079282,2014,0001193125-14-077842,item1a_not_found,
 BRO,Brown & Brown,0000079282,2013,0001193125-13-087664,item1a_not_found,
 BRO,Brown & Brown,0000079282,2012,0001193125-12-089393,item1a_not_found,
 BRO,Brown & Brown,0000079282,2011,0001193125-11-051929,item1a_not_found,
-JKHY,Jack Henry & Associates,0000779152,2025,0000779152-25-000055,success,../data/item1a/0000779152_2025.txt
-JKHY,Jack Henry & Associates,0000779152,2024,0000779152-24-000079,success,../data/item1a/0000779152_2024.txt
-JKHY,Jack Henry & Associates,0000779152,2023,0000779152-23-000062,success,../data/item1a/0000779152_2023.txt
-JKHY,Jack Henry & Associates,0000779152,2022,0000779152-22-000076,success,../data/item1a/0000779152_2022.txt
-JKHY,Jack Henry & Associates,0000779152,2021,0000779152-21-000073,success,../data/item1a/0000779152_2021.txt
-JKHY,Jack Henry & Associates,0000779152,2020,0000779152-20-000064,success,../data/item1a/0000779152_2020.txt
-JKHY,Jack Henry & Associates,0000779152,2019,0000779152-19-000048,success,../data/item1a/0000779152_2019.txt
-JKHY,Jack Henry & Associates,0000779152,2018,0000779152-18-000060,success,../data/item1a/0000779152_2018.txt
-JKHY,Jack Henry & Associates,0000779152,2017,0000779152-17-000040,success,../data/item1a/0000779152_2017.txt
-JKHY,Jack Henry & Associates,0000779152,2016,0000779152-16-000142,success,../data/item1a/0000779152_2016.txt
-JKHY,Jack Henry & Associates,0000779152,2015,0000779152-15-000056,success,../data/item1a/0000779152_2015.txt
-JKHY,Jack Henry & Associates,0000779152,2014,0000779152-14-000036,success,../data/item1a/0000779152_2014.txt
-JKHY,Jack Henry & Associates,0000779152,2013,0000779152-13-000028,success,../data/item1a/0000779152_2013.txt
-JKHY,Jack Henry & Associates,0000779152,2012,0000779152-12-000051,success,../data/item1a/0000779152_2012.txt
-JKHY,Jack Henry & Associates,0000779152,2011,0000926236-11-000072,success,../data/item1a/0000779152_2011.txt
-JKHY,Jack Henry & Associates,0000779152,2010,0000926236-10-000031,success,../data/item1a/0000779152_2010.txt
-COO,Cooper Companies (The),0000711404,2025,0001628280-25-055615,success,../data/item1a/0000711404_2025.txt
-COO,Cooper Companies (The),0000711404,2024,0000711404-24-000074,success,../data/item1a/0000711404_2024.txt
-COO,Cooper Companies (The),0000711404,2023,0000711404-23-000072,success,../data/item1a/0000711404_2023.txt
-COO,Cooper Companies (The),0000711404,2022,0000711404-22-000053,success,../data/item1a/0000711404_2022.txt
-COO,Cooper Companies (The),0000711404,2021,0000711404-21-000038,success,../data/item1a/0000711404_2021.txt
-COO,Cooper Companies (The),0000711404,2020,0000711404-20-000042,success,../data/item1a/0000711404_2020.txt
-COO,Cooper Companies (The),0000711404,2019,0000711404-19-000051,success,../data/item1a/0000711404_2019.txt
-COO,Cooper Companies (The),0000711404,2018,0000711404-18-000047,success,../data/item1a/0000711404_2018.txt
-COO,Cooper Companies (The),0000711404,2017,0000711404-17-000044,success,../data/item1a/0000711404_2017.txt
-COO,Cooper Companies (The),0000711404,2016,0000711404-16-000042,success,../data/item1a/0000711404_2016.txt
-COO,Cooper Companies (The),0000711404,2015,0000711404-15-000021,success,../data/item1a/0000711404_2015.txt
-COO,Cooper Companies (The),0000711404,2014,0000711404-14-000017,success,../data/item1a/0000711404_2014.txt
-COO,Cooper Companies (The),0000711404,2013,0000711404-13-000012,success,../data/item1a/0000711404_2013.txt
+JKHY,Jack Henry & Associates,0000779152,2025,0000779152-25-000055,skipped (already exists),../data/item1a/0000779152_2025.txt
+JKHY,Jack Henry & Associates,0000779152,2024,0000779152-24-000079,skipped (already exists),../data/item1a/0000779152_2024.txt
+JKHY,Jack Henry & Associates,0000779152,2023,0000779152-23-000062,skipped (already exists),../data/item1a/0000779152_2023.txt
+JKHY,Jack Henry & Associates,0000779152,2022,0000779152-22-000076,skipped (already exists),../data/item1a/0000779152_2022.txt
+JKHY,Jack Henry & Associates,0000779152,2021,0000779152-21-000073,skipped (already exists),../data/item1a/0000779152_2021.txt
+JKHY,Jack Henry & Associates,0000779152,2020,0000779152-20-000064,skipped (already exists),../data/item1a/0000779152_2020.txt
+JKHY,Jack Henry & Associates,0000779152,2019,0000779152-19-000048,skipped (already exists),../data/item1a/0000779152_2019.txt
+JKHY,Jack Henry & Associates,0000779152,2018,0000779152-18-000060,skipped (already exists),../data/item1a/0000779152_2018.txt
+JKHY,Jack Henry & Associates,0000779152,2017,0000779152-17-000040,skipped (already exists),../data/item1a/0000779152_2017.txt
+JKHY,Jack Henry & Associates,0000779152,2016,0000779152-16-000142,skipped (already exists),../data/item1a/0000779152_2016.txt
+JKHY,Jack Henry & Associates,0000779152,2015,0000779152-15-000056,skipped (already exists),../data/item1a/0000779152_2015.txt
+JKHY,Jack Henry & Associates,0000779152,2014,0000779152-14-000036,skipped (already exists),../data/item1a/0000779152_2014.txt
+JKHY,Jack Henry & Associates,0000779152,2013,0000779152-13-000028,skipped (already exists),../data/item1a/0000779152_2013.txt
+JKHY,Jack Henry & Associates,0000779152,2012,0000779152-12-000051,skipped (already exists),../data/item1a/0000779152_2012.txt
+JKHY,Jack Henry & Associates,0000779152,2011,0000926236-11-000072,skipped (already exists),../data/item1a/0000779152_2011.txt
+JKHY,Jack Henry & Associates,0000779152,2010,0000926236-10-000031,skipped (already exists),../data/item1a/0000779152_2010.txt
+COO,Cooper Companies (The),0000711404,2025,0001628280-25-055615,skipped (already exists),../data/item1a/0000711404_2025.txt
+COO,Cooper Companies (The),0000711404,2024,0000711404-24-000074,skipped (already exists),../data/item1a/0000711404_2024.txt
+COO,Cooper Companies (The),0000711404,2023,0000711404-23-000072,skipped (already exists),../data/item1a/0000711404_2023.txt
+COO,Cooper Companies (The),0000711404,2022,0000711404-22-000053,skipped (already exists),../data/item1a/0000711404_2022.txt
+COO,Cooper Companies (The),0000711404,2021,0000711404-21-000038,skipped (already exists),../data/item1a/0000711404_2021.txt
+COO,Cooper Companies (The),0000711404,2020,0000711404-20-000042,skipped (already exists),../data/item1a/0000711404_2020.txt
+COO,Cooper Companies (The),0000711404,2019,0000711404-19-000051,skipped (already exists),../data/item1a/0000711404_2019.txt
+COO,Cooper Companies (The),0000711404,2018,0000711404-18-000047,skipped (already exists),../data/item1a/0000711404_2018.txt
+COO,Cooper Companies (The),0000711404,2017,0000711404-17-000044,skipped (already exists),../data/item1a/0000711404_2017.txt
+COO,Cooper Companies (The),0000711404,2016,0000711404-16-000042,skipped (already exists),../data/item1a/0000711404_2016.txt
+COO,Cooper Companies (The),0000711404,2015,0000711404-15-000021,skipped (already exists),../data/item1a/0000711404_2015.txt
+COO,Cooper Companies (The),0000711404,2014,0000711404-14-000017,skipped (already exists),../data/item1a/0000711404_2014.txt
+COO,Cooper Companies (The),0000711404,2013,0000711404-13-000012,skipped (already exists),../data/item1a/0000711404_2013.txt
 UHS,Universal Health Services,0000352915,2026,0001193125-26-071676,success,../data/item1a/0000352915_2026.txt
 UHS,Universal Health Services,0000352915,2025,0000950170-25-027785,success,../data/item1a/0000352915_2025.txt
 UHS,Universal Health Services,0000352915,2024,0000950170-24-021175,success,../data/item1a/0000352915_2024.txt
@@ -300,72 +300,72 @@ UHS,Universal Health Services,0000352915,2014,0001193125-14-073337,success,../da
 UHS,Universal Health Services,0000352915,2013,0001193125-13-084679,item1a_not_found,
 UHS,Universal Health Services,0000352915,2012,0001193125-12-081900,item1a_not_found,
 UHS,Universal Health Services,0000352915,2011,0001193125-11-050142,success,../data/item1a/0000352915_2011.txt
-TECH,Bio-Techne,0000842023,2025,0001558370-25-011716,success,../data/item1a/0000842023_2025.txt
-TECH,Bio-Techne,0000842023,2024,0001558370-24-012430,success,../data/item1a/0000842023_2024.txt
-TECH,Bio-Techne,0000842023,2023,0001558370-23-015226,success,../data/item1a/0000842023_2023.txt
-TECH,Bio-Techne,0000842023,2022,0001558370-22-013935,success,../data/item1a/0000842023_2022.txt
-TECH,Bio-Techne,0000842023,2021,0001437749-21-020980,success,../data/item1a/0000842023_2021.txt
-TECH,Bio-Techne,0000842023,2020,0001437749-20-018754,success,../data/item1a/0000842023_2020.txt
-TECH,Bio-Techne,0000842023,2019,0001437749-19-017565,success,../data/item1a/0000842023_2019.txt
-TECH,Bio-Techne,0000842023,2018,0001437749-18-016190,success,../data/item1a/0000842023_2018.txt
-TECH,Bio-Techne,0000842023,2017,0001437749-17-015711,success,../data/item1a/0000842023_2017.txt
-TECH,Bio-Techne,0000842023,2016,0001437749-16-038182,success,../data/item1a/0000842023_2016.txt
-TECH,Bio-Techne,0000842023,2015,0001437749-15-016645,success,../data/item1a/0000842023_2015.txt
-TECH,Bio-Techne,0000842023,2014,0001193125-14-327566,success,../data/item1a/0000842023_2014.txt
-TECH,Bio-Techne,0000842023,2013,0001193125-13-351961,success,../data/item1a/0000842023_2013.txt
-TECH,Bio-Techne,0000842023,2012,0001193125-12-373084,success,../data/item1a/0000842023_2012.txt
-TECH,Bio-Techne,0000842023,2011,0001193125-11-235045,success,../data/item1a/0000842023_2011.txt
-TECH,Bio-Techne,0000842023,2010,0000842023-10-000031,item1a_not_found,
-RVTY,Revvity,0000031791,2026,0000031791-26-000012,success,../data/item1a/0000031791_2026.txt
-RVTY,Revvity,0000031791,2025,0000031791-25-000009,success,../data/item1a/0000031791_2025.txt
-RVTY,Revvity,0000031791,2024,0000031791-24-000004,success,../data/item1a/0000031791_2024.txt
-RVTY,Revvity,0000031791,2023,0000031791-23-000004,success,../data/item1a/0000031791_2023.txt
-RVTY,Revvity,0000031791,2022,0000031791-22-000003,success,../data/item1a/0000031791_2022.txt
-RVTY,Revvity,0000031791,2021,0000031791-21-000003,success,../data/item1a/0000031791_2021.txt
-RVTY,Revvity,0000031791,2020,0000031791-20-000003,item1a_not_found,
-RVTY,Revvity,0000031791,2019,0000031791-19-000003,item1a_not_found,
-RVTY,Revvity,0000031791,2018,0000031791-18-000004,item1a_not_found,
-RVTY,Revvity,0000031791,2017,0000031791-17-000003,item1a_not_found,
-RVTY,Revvity,0000031791,2016,0000031791-16-000014,item1a_not_found,
-RVTY,Revvity,0000031791,2015,0000031791-15-000003,item1a_not_found,
-RVTY,Revvity,0000031791,2014,0001445305-14-000585,item1a_not_found,
-RVTY,Revvity,0000031791,2013,0001445305-13-000333,item1a_not_found,
-RVTY,Revvity,0000031791,2012,0001445305-12-000499,item1a_not_found,
-IEX,IDEX Corporation,0000832101,2026,0000832101-26-000003,success,../data/item1a/0000832101_2026.txt
-IEX,IDEX Corporation,0000832101,2025,0000832101-25-000010,success,../data/item1a/0000832101_2025.txt
-IEX,IDEX Corporation,0000832101,2024,0000832101-24-000009,success,../data/item1a/0000832101_2024.txt
-IEX,IDEX Corporation,0000832101,2023,0000832101-23-000013,success,../data/item1a/0000832101_2023.txt
-IEX,IDEX Corporation,0000832101,2022,0000832101-22-000008,success,../data/item1a/0000832101_2022.txt
-IEX,IDEX Corporation,0000832101,2021,0000832101-21-000017,success,../data/item1a/0000832101_2021.txt
-IEX,IDEX Corporation,0000832101,2020,0000832101-20-000007,success,../data/item1a/0000832101_2020.txt
-IEX,IDEX Corporation,0000832101,2019,0000832101-19-000005,success,../data/item1a/0000832101_2019.txt
-IEX,IDEX Corporation,0000832101,2018,0000832101-18-000019,success,../data/item1a/0000832101_2018.txt
-IEX,IDEX Corporation,0000832101,2017,0000832101-17-000016,success,../data/item1a/0000832101_2017.txt
-IEX,IDEX Corporation,0000832101,2016,0000832101-16-000057,success,../data/item1a/0000832101_2016.txt
-IEX,IDEX Corporation,0000832101,2015,0000832101-15-000009,success,../data/item1a/0000832101_2015.txt
-IEX,IDEX Corporation,0000832101,2014,0001445305-14-000435,success,../data/item1a/0000832101_2014.txt
+TECH,Bio-Techne,0000842023,2025,0001558370-25-011716,skipped (already exists),../data/item1a/0000842023_2025.txt
+TECH,Bio-Techne,0000842023,2024,0001558370-24-012430,skipped (already exists),../data/item1a/0000842023_2024.txt
+TECH,Bio-Techne,0000842023,2023,0001558370-23-015226,skipped (already exists),../data/item1a/0000842023_2023.txt
+TECH,Bio-Techne,0000842023,2022,0001558370-22-013935,skipped (already exists),../data/item1a/0000842023_2022.txt
+TECH,Bio-Techne,0000842023,2021,0001437749-21-020980,skipped (already exists),../data/item1a/0000842023_2021.txt
+TECH,Bio-Techne,0000842023,2020,0001437749-20-018754,skipped (already exists),../data/item1a/0000842023_2020.txt
+TECH,Bio-Techne,0000842023,2019,0001437749-19-017565,skipped (already exists),../data/item1a/0000842023_2019.txt
+TECH,Bio-Techne,0000842023,2018,0001437749-18-016190,skipped (already exists),../data/item1a/0000842023_2018.txt
+TECH,Bio-Techne,0000842023,2017,0001437749-17-015711,skipped (already exists),../data/item1a/0000842023_2017.txt
+TECH,Bio-Techne,0000842023,2016,0001437749-16-038182,skipped (already exists),../data/item1a/0000842023_2016.txt
+TECH,Bio-Techne,0000842023,2015,0001437749-15-016645,skipped (already exists),../data/item1a/0000842023_2015.txt
+TECH,Bio-Techne,0000842023,2014,0001193125-14-327566,skipped (already exists),../data/item1a/0000842023_2014.txt
+TECH,Bio-Techne,0000842023,2013,0001193125-13-351961,skipped (already exists),../data/item1a/0000842023_2013.txt
+TECH,Bio-Techne,0000842023,2012,0001193125-12-373084,skipped (already exists),../data/item1a/0000842023_2012.txt
+TECH,Bio-Techne,0000842023,2011,0001193125-11-235045,skipped (already exists),../data/item1a/0000842023_2011.txt
+TECH,Bio-Techne,0000842023,2010,0000842023-10-000031,skipped (already exists),../data/item1a/0000842023_2010.txt
+RVTY,Revvity,0000031791,2026,0000031791-26-000012,skipped (already exists),../data/item1a/0000031791_2026.txt
+RVTY,Revvity,0000031791,2025,0000031791-25-000009,skipped (already exists),../data/item1a/0000031791_2025.txt
+RVTY,Revvity,0000031791,2024,0000031791-24-000004,skipped (already exists),../data/item1a/0000031791_2024.txt
+RVTY,Revvity,0000031791,2023,0000031791-23-000004,skipped (already exists),../data/item1a/0000031791_2023.txt
+RVTY,Revvity,0000031791,2022,0000031791-22-000003,skipped (already exists),../data/item1a/0000031791_2022.txt
+RVTY,Revvity,0000031791,2021,0000031791-21-000003,skipped (already exists),../data/item1a/0000031791_2021.txt
+RVTY,Revvity,0000031791,2020,0000031791-20-000003,skipped (already exists),../data/item1a/0000031791_2020.txt
+RVTY,Revvity,0000031791,2019,0000031791-19-000003,skipped (already exists),../data/item1a/0000031791_2019.txt
+RVTY,Revvity,0000031791,2018,0000031791-18-000004,skipped (already exists),../data/item1a/0000031791_2018.txt
+RVTY,Revvity,0000031791,2017,0000031791-17-000003,skipped (already exists),../data/item1a/0000031791_2017.txt
+RVTY,Revvity,0000031791,2016,0000031791-16-000014,skipped (already exists),../data/item1a/0000031791_2016.txt
+RVTY,Revvity,0000031791,2015,0000031791-15-000003,skipped (already exists),../data/item1a/0000031791_2015.txt
+RVTY,Revvity,0000031791,2014,0001445305-14-000585,skipped (already exists),../data/item1a/0000031791_2014.txt
+RVTY,Revvity,0000031791,2013,0001445305-13-000333,skipped (already exists),../data/item1a/0000031791_2013.txt
+RVTY,Revvity,0000031791,2012,0001445305-12-000499,skipped (already exists),../data/item1a/0000031791_2012.txt
+IEX,IDEX Corporation,0000832101,2026,0000832101-26-000003,skipped (already exists),../data/item1a/0000832101_2026.txt
+IEX,IDEX Corporation,0000832101,2025,0000832101-25-000010,skipped (already exists),../data/item1a/0000832101_2025.txt
+IEX,IDEX Corporation,0000832101,2024,0000832101-24-000009,skipped (already exists),../data/item1a/0000832101_2024.txt
+IEX,IDEX Corporation,0000832101,2023,0000832101-23-000013,skipped (already exists),../data/item1a/0000832101_2023.txt
+IEX,IDEX Corporation,0000832101,2022,0000832101-22-000008,skipped (already exists),../data/item1a/0000832101_2022.txt
+IEX,IDEX Corporation,0000832101,2021,0000832101-21-000017,skipped (already exists),../data/item1a/0000832101_2021.txt
+IEX,IDEX Corporation,0000832101,2020,0000832101-20-000007,skipped (already exists),../data/item1a/0000832101_2020.txt
+IEX,IDEX Corporation,0000832101,2019,0000832101-19-000005,skipped (already exists),../data/item1a/0000832101_2019.txt
+IEX,IDEX Corporation,0000832101,2018,0000832101-18-000019,skipped (already exists),../data/item1a/0000832101_2018.txt
+IEX,IDEX Corporation,0000832101,2017,0000832101-17-000016,skipped (already exists),../data/item1a/0000832101_2017.txt
+IEX,IDEX Corporation,0000832101,2016,0000832101-16-000057,skipped (already exists),../data/item1a/0000832101_2016.txt
+IEX,IDEX Corporation,0000832101,2015,0000832101-15-000009,skipped (already exists),../data/item1a/0000832101_2015.txt
+IEX,IDEX Corporation,0000832101,2014,0001445305-14-000435,skipped (already exists),../data/item1a/0000832101_2014.txt
 IEX,IDEX Corporation,0000832101,2013,0001193125-13-069436,item1a_not_found,
 IEX,IDEX Corporation,0000832101,2012,0001193125-12-078246,item1a_not_found,
 IEX,IDEX Corporation,0000832101,2011,0000950123-11-018609,item1a_not_found,
-CTAS,Cintas,0000723254,2025,0000723254-25-000017,success,../data/item1a/0000723254_2025.txt
-CTAS,Cintas,0000723254,2024,0000723254-24-000036,success,../data/item1a/0000723254_2024.txt
-CTAS,Cintas,0000723254,2023,0000723254-23-000025,success,../data/item1a/0000723254_2023.txt
-CTAS,Cintas,0000723254,2022,0000723254-22-000019,success,../data/item1a/0000723254_2022.txt
-CTAS,Cintas,0000723254,2021,0000723254-21-000021,success,../data/item1a/0000723254_2021.txt
-CTAS,Cintas,0000723254,2020,0000723254-20-000025,success,../data/item1a/0000723254_2020.txt
-CTAS,Cintas,0000723254,2019,0000723254-19-000021,success,../data/item1a/0000723254_2019.txt
-CTAS,Cintas,0000723254,2018,0000723254-18-000015,success,../data/item1a/0000723254_2018.txt
-CTAS,Cintas,0000723254,2017,0000723254-17-000020,success,../data/item1a/0000723254_2017.txt
-CTAS,Cintas,0000723254,2016,0000723254-16-000050,success,../data/item1a/0000723254_2016.txt
-CTAS,Cintas,0000723254,2015,0000723254-15-000017,success,../data/item1a/0000723254_2015.txt
-CTAS,Cintas,0000723254,2014,0000723254-14-000020,success,../data/item1a/0000723254_2014.txt
-CTAS,Cintas,0000723254,2013,0000723254-13-000011,success,../data/item1a/0000723254_2013.txt
-CTAS,Cintas,0000723254,2012,0000723254-12-000004,success,../data/item1a/0000723254_2012.txt
-CTAS,Cintas,0000723254,2011,0001047469-11-006745,success,../data/item1a/0000723254_2011.txt
-CTAS,Cintas,0000723254,2010,0001047469-10-006785,success,../data/item1a/0000723254_2010.txt
+CTAS,Cintas,0000723254,2025,0000723254-25-000017,skipped (already exists),../data/item1a/0000723254_2025.txt
+CTAS,Cintas,0000723254,2024,0000723254-24-000036,skipped (already exists),../data/item1a/0000723254_2024.txt
+CTAS,Cintas,0000723254,2023,0000723254-23-000025,skipped (already exists),../data/item1a/0000723254_2023.txt
+CTAS,Cintas,0000723254,2022,0000723254-22-000019,skipped (already exists),../data/item1a/0000723254_2022.txt
+CTAS,Cintas,0000723254,2021,0000723254-21-000021,skipped (already exists),../data/item1a/0000723254_2021.txt
+CTAS,Cintas,0000723254,2020,0000723254-20-000025,skipped (already exists),../data/item1a/0000723254_2020.txt
+CTAS,Cintas,0000723254,2019,0000723254-19-000021,skipped (already exists),../data/item1a/0000723254_2019.txt
+CTAS,Cintas,0000723254,2018,0000723254-18-000015,skipped (already exists),../data/item1a/0000723254_2018.txt
+CTAS,Cintas,0000723254,2017,0000723254-17-000020,skipped (already exists),../data/item1a/0000723254_2017.txt
+CTAS,Cintas,0000723254,2016,0000723254-16-000050,skipped (already exists),../data/item1a/0000723254_2016.txt
+CTAS,Cintas,0000723254,2015,0000723254-15-000017,skipped (already exists),../data/item1a/0000723254_2015.txt
+CTAS,Cintas,0000723254,2014,0000723254-14-000020,skipped (already exists),../data/item1a/0000723254_2014.txt
+CTAS,Cintas,0000723254,2013,0000723254-13-000011,skipped (already exists),../data/item1a/0000723254_2013.txt
+CTAS,Cintas,0000723254,2012,0000723254-12-000004,skipped (already exists),../data/item1a/0000723254_2012.txt
+CTAS,Cintas,0000723254,2011,0001047469-11-006745,skipped (already exists),../data/item1a/0000723254_2011.txt
+CTAS,Cintas,0000723254,2010,0001047469-10-006785,skipped (already exists),../data/item1a/0000723254_2010.txt
 ROL,"Rollins, Inc.",0000084839,2026,0000084839-26-000008,item1a_not_found,
 ROL,"Rollins, Inc.",0000084839,2025,0000084839-25-000024,item1a_not_found,
-ROL,"Rollins, Inc.",0000084839,2024,0000084839-24-000025,item1a_not_found,
+ROL,"Rollins, Inc.",0000084839,2024,0000084839-24-000025,skipped (already exists),../data/item1a/0000084839_2024.txt
 ROL,"Rollins, Inc.",0000084839,2023,0000084839-23-000006,item1a_not_found,
 ROL,"Rollins, Inc.",0000084839,2022,0000084839-22-000011,item1a_not_found,
 ROL,"Rollins, Inc.",0000084839,2021,0001171200-21-000076,item1a_not_found,
@@ -377,70 +377,70 @@ ROL,"Rollins, Inc.",0000084839,2016,0001552781-16-001318,item1a_not_found,
 ROL,"Rollins, Inc.",0000084839,2015,0001552781-15-000273,item1a_not_found,
 ROL,"Rollins, Inc.",0000084839,2014,0001552781-14-000153,item1a_not_found,
 ROL,"Rollins, Inc.",0000084839,2013,0001047469-13-001764,item1a_not_found,
-TXT,Textron,0000217346,2026,0000217346-26-000006,success,../data/item1a/0000217346_2026.txt
-TXT,Textron,0000217346,2025,0000217346-25-000017,success,../data/item1a/0000217346_2025.txt
-TXT,Textron,0000217346,2024,0000217346-24-000017,success,../data/item1a/0000217346_2024.txt
-TXT,Textron,0000217346,2023,0000217346-23-000006,success,../data/item1a/0000217346_2023.txt
-TXT,Textron,0000217346,2022,0000217346-22-000005,success,../data/item1a/0000217346_2022.txt
-TXT,Textron,0000217346,2021,0000217346-21-000019,success,../data/item1a/0000217346_2021.txt
-TXT,Textron,0000217346,2020,0001104659-20-024773,success,../data/item1a/0000217346_2020.txt
-TXT,Textron,0000217346,2019,0001104659-19-008151,success,../data/item1a/0000217346_2019.txt
-TXT,Textron,0000217346,2018,0001104659-18-009905,success,../data/item1a/0000217346_2018.txt
-TXT,Textron,0000217346,2017,0001104659-17-010809,success,../data/item1a/0000217346_2017.txt
-TXT,Textron,0000217346,2016,0001104659-16-099562,success,../data/item1a/0000217346_2016.txt
-TXT,Textron,0000217346,2015,0001104659-15-013784,success,../data/item1a/0000217346_2015.txt
-TXT,Textron,0000217346,2014,0001104659-14-009908,success,../data/item1a/0000217346_2014.txt
-TXT,Textron,0000217346,2013,0001104659-13-011048,success,../data/item1a/0000217346_2013.txt
-CPRT,Copart,0000900075,2025,0001628280-25-042946,success,../data/item1a/0000900075_2025.txt
-CPRT,Copart,0000900075,2024,0000900075-24-000024,success,../data/item1a/0000900075_2024.txt
-CPRT,Copart,0000900075,2023,0000900075-23-000034,success,../data/item1a/0000900075_2023.txt
-CPRT,Copart,0000900075,2022,0000900075-22-000050,success,../data/item1a/0000900075_2022.txt
-CPRT,Copart,0000900075,2021,0000900075-21-000022,success,../data/item1a/0000900075_2021.txt
-CPRT,Copart,0000900075,2020,0000900075-20-000021,success,../data/item1a/0000900075_2020.txt
-CPRT,Copart,0000900075,2019,0000900075-19-000022,success,../data/item1a/0000900075_2019.txt
-CPRT,Copart,0000900075,2018,0000900075-18-000048,success,../data/item1a/0000900075_2018.txt
-CPRT,Copart,0000900075,2017,0000900075-17-000044,success,../data/item1a/0000900075_2017.txt
-CPRT,Copart,0000900075,2016,0000900075-16-000081,success,../data/item1a/0000900075_2016.txt
-CPRT,Copart,0000900075,2015,0001628280-15-007286,success,../data/item1a/0000900075_2015.txt
+TXT,Textron,0000217346,2026,0000217346-26-000006,skipped (already exists),../data/item1a/0000217346_2026.txt
+TXT,Textron,0000217346,2025,0000217346-25-000017,skipped (already exists),../data/item1a/0000217346_2025.txt
+TXT,Textron,0000217346,2024,0000217346-24-000017,skipped (already exists),../data/item1a/0000217346_2024.txt
+TXT,Textron,0000217346,2023,0000217346-23-000006,skipped (already exists),../data/item1a/0000217346_2023.txt
+TXT,Textron,0000217346,2022,0000217346-22-000005,skipped (already exists),../data/item1a/0000217346_2022.txt
+TXT,Textron,0000217346,2021,0000217346-21-000019,skipped (already exists),../data/item1a/0000217346_2021.txt
+TXT,Textron,0000217346,2020,0001104659-20-024773,skipped (already exists),../data/item1a/0000217346_2020.txt
+TXT,Textron,0000217346,2019,0001104659-19-008151,skipped (already exists),../data/item1a/0000217346_2019.txt
+TXT,Textron,0000217346,2018,0001104659-18-009905,skipped (already exists),../data/item1a/0000217346_2018.txt
+TXT,Textron,0000217346,2017,0001104659-17-010809,skipped (already exists),../data/item1a/0000217346_2017.txt
+TXT,Textron,0000217346,2016,0001104659-16-099562,skipped (already exists),../data/item1a/0000217346_2016.txt
+TXT,Textron,0000217346,2015,0001104659-15-013784,skipped (already exists),../data/item1a/0000217346_2015.txt
+TXT,Textron,0000217346,2014,0001104659-14-009908,skipped (already exists),../data/item1a/0000217346_2014.txt
+TXT,Textron,0000217346,2013,0001104659-13-011048,skipped (already exists),../data/item1a/0000217346_2013.txt
+CPRT,Copart,0000900075,2025,0001628280-25-042946,skipped (already exists),../data/item1a/0000900075_2025.txt
+CPRT,Copart,0000900075,2024,0000900075-24-000024,skipped (already exists),../data/item1a/0000900075_2024.txt
+CPRT,Copart,0000900075,2023,0000900075-23-000034,skipped (already exists),../data/item1a/0000900075_2023.txt
+CPRT,Copart,0000900075,2022,0000900075-22-000050,skipped (already exists),../data/item1a/0000900075_2022.txt
+CPRT,Copart,0000900075,2021,0000900075-21-000022,skipped (already exists),../data/item1a/0000900075_2021.txt
+CPRT,Copart,0000900075,2020,0000900075-20-000021,skipped (already exists),../data/item1a/0000900075_2020.txt
+CPRT,Copart,0000900075,2019,0000900075-19-000022,skipped (already exists),../data/item1a/0000900075_2019.txt
+CPRT,Copart,0000900075,2018,0000900075-18-000048,skipped (already exists),../data/item1a/0000900075_2018.txt
+CPRT,Copart,0000900075,2017,0000900075-17-000044,skipped (already exists),../data/item1a/0000900075_2017.txt
+CPRT,Copart,0000900075,2016,0000900075-16-000081,skipped (already exists),../data/item1a/0000900075_2016.txt
+CPRT,Copart,0000900075,2015,0001628280-15-007286,skipped (already exists),../data/item1a/0000900075_2015.txt
 CPRT,Copart,0000900075,2014,0001145443-14-001196,item1a_not_found,
 CPRT,Copart,0000900075,2013,0001145443-13-001938,item1a_not_found,
 CPRT,Copart,0000900075,2012,0001145443-12-001120,item1a_not_found,
 CPRT,Copart,0000900075,2011,0001145443-11-000951,item1a_not_found,
-CPRT,Copart,0000900075,2010,0001047469-10-008242,success,../data/item1a/0000900075_2010.txt
-FIX,Comfort Systems USA,0001035983,2026,0001104659-26-017530,success,../data/item1a/0001035983_2026.txt
-FIX,Comfort Systems USA,0001035983,2025,0001558370-25-001222,success,../data/item1a/0001035983_2025.txt
-FIX,Comfort Systems USA,0001035983,2024,0001558370-24-001529,success,../data/item1a/0001035983_2024.txt
-FIX,Comfort Systems USA,0001035983,2023,0001558370-23-001757,success,../data/item1a/0001035983_2023.txt
-FIX,Comfort Systems USA,0001035983,2022,0001558370-22-001753,success,../data/item1a/0001035983_2022.txt
-FIX,Comfort Systems USA,0001035983,2021,0001558370-21-001828,success,../data/item1a/0001035983_2021.txt
-FIX,Comfort Systems USA,0001035983,2020,0001558370-20-001491,success,../data/item1a/0001035983_2020.txt
-FIX,Comfort Systems USA,0001035983,2019,0001558370-19-000857,success,../data/item1a/0001035983_2019.txt
-FIX,Comfort Systems USA,0001035983,2018,0001558370-18-000936,success,../data/item1a/0001035983_2018.txt
-FIX,Comfort Systems USA,0001035983,2017,0001558370-17-000882,success,../data/item1a/0001035983_2017.txt
-FIX,Comfort Systems USA,0001035983,2016,0001047469-16-010332,success,../data/item1a/0001035983_2016.txt
-FIX,Comfort Systems USA,0001035983,2015,0001047469-15-001294,success,../data/item1a/0001035983_2015.txt
-FIX,Comfort Systems USA,0001035983,2014,0001047469-14-001513,success,../data/item1a/0001035983_2014.txt
-FIX,Comfort Systems USA,0001035983,2013,0001047469-13-001962,success,../data/item1a/0001035983_2013.txt
-PAYX,Paychex,0000723531,2025,0000950170-25-095300,success,../data/item1a/0000723531_2025.txt
-PAYX,Paychex,0000723531,2024,0000950170-24-082958,success,../data/item1a/0000723531_2024.txt
-PAYX,Paychex,0000723531,2023,0000950170-23-032988,success,../data/item1a/0000723531_2023.txt
-PAYX,Paychex,0000723531,2022,0000950170-22-012734,success,../data/item1a/0000723531_2022.txt
-PAYX,Paychex,0000723531,2021,0000723531-21-000035,success,../data/item1a/0000723531_2021.txt
-PAYX,Paychex,0000723531,2020,0000723531-20-000048,success,../data/item1a/0000723531_2020.txt
-PAYX,Paychex,0000723531,2019,0000723531-19-000032,item1a_not_found,
-PAYX,Paychex,0000723531,2018,0000723531-18-000026,item1a_not_found,
-PAYX,Paychex,0000723531,2017,0000723531-17-000023,item1a_not_found,
-PAYX,Paychex,0000723531,2016,0000723531-16-000046,item1a_not_found,
+CPRT,Copart,0000900075,2010,0001047469-10-008242,skipped (already exists),../data/item1a/0000900075_2010.txt
+FIX,Comfort Systems USA,0001035983,2026,0001104659-26-017530,skipped (already exists),../data/item1a/0001035983_2026.txt
+FIX,Comfort Systems USA,0001035983,2025,0001558370-25-001222,skipped (already exists),../data/item1a/0001035983_2025.txt
+FIX,Comfort Systems USA,0001035983,2024,0001558370-24-001529,skipped (already exists),../data/item1a/0001035983_2024.txt
+FIX,Comfort Systems USA,0001035983,2023,0001558370-23-001757,skipped (already exists),../data/item1a/0001035983_2023.txt
+FIX,Comfort Systems USA,0001035983,2022,0001558370-22-001753,skipped (already exists),../data/item1a/0001035983_2022.txt
+FIX,Comfort Systems USA,0001035983,2021,0001558370-21-001828,skipped (already exists),../data/item1a/0001035983_2021.txt
+FIX,Comfort Systems USA,0001035983,2020,0001558370-20-001491,skipped (already exists),../data/item1a/0001035983_2020.txt
+FIX,Comfort Systems USA,0001035983,2019,0001558370-19-000857,skipped (already exists),../data/item1a/0001035983_2019.txt
+FIX,Comfort Systems USA,0001035983,2018,0001558370-18-000936,skipped (already exists),../data/item1a/0001035983_2018.txt
+FIX,Comfort Systems USA,0001035983,2017,0001558370-17-000882,skipped (already exists),../data/item1a/0001035983_2017.txt
+FIX,Comfort Systems USA,0001035983,2016,0001047469-16-010332,skipped (already exists),../data/item1a/0001035983_2016.txt
+FIX,Comfort Systems USA,0001035983,2015,0001047469-15-001294,skipped (already exists),../data/item1a/0001035983_2015.txt
+FIX,Comfort Systems USA,0001035983,2014,0001047469-14-001513,skipped (already exists),../data/item1a/0001035983_2014.txt
+FIX,Comfort Systems USA,0001035983,2013,0001047469-13-001962,skipped (already exists),../data/item1a/0001035983_2013.txt
+PAYX,Paychex,0000723531,2025,0000950170-25-095300,skipped (already exists),../data/item1a/0000723531_2025.txt
+PAYX,Paychex,0000723531,2024,0000950170-24-082958,skipped (already exists),../data/item1a/0000723531_2024.txt
+PAYX,Paychex,0000723531,2023,0000950170-23-032988,skipped (already exists),../data/item1a/0000723531_2023.txt
+PAYX,Paychex,0000723531,2022,0000950170-22-012734,skipped (already exists),../data/item1a/0000723531_2022.txt
+PAYX,Paychex,0000723531,2021,0000723531-21-000035,skipped (already exists),../data/item1a/0000723531_2021.txt
+PAYX,Paychex,0000723531,2020,0000723531-20-000048,skipped (already exists),../data/item1a/0000723531_2020.txt
+PAYX,Paychex,0000723531,2019,0000723531-19-000032,skipped (already exists),../data/item1a/0000723531_2019.txt
+PAYX,Paychex,0000723531,2018,0000723531-18-000026,skipped (already exists),../data/item1a/0000723531_2018.txt
+PAYX,Paychex,0000723531,2017,0000723531-17-000023,skipped (already exists),../data/item1a/0000723531_2017.txt
+PAYX,Paychex,0000723531,2016,0000723531-16-000046,skipped (already exists),../data/item1a/0000723531_2016.txt
 PAYX,Paychex,0000723531,2015,0000723531-15-000011,item1a_not_found,
 PAYX,Paychex,0000723531,2014,0000723531-14-000014,item1a_not_found,
 PAYX,Paychex,0000723531,2013,0000723531-13-000021,item1a_not_found,
 PAYX,Paychex,0000723531,2012,0001193125-12-309041,item1a_not_found,
-FAST,Fastenal,0000815556,2026,0000815556-26-000009,success,../data/item1a/0000815556_2026.txt
-FAST,Fastenal,0000815556,2025,0000815556-25-000065,success,../data/item1a/0000815556_2025.txt
-FAST,Fastenal,0000815556,2024,0000815556-24-000009,success,../data/item1a/0000815556_2024.txt
-FAST,Fastenal,0000815556,2023,0000815556-23-000009,success,../data/item1a/0000815556_2023.txt
-FAST,Fastenal,0000815556,2022,0000815556-22-000009,success,../data/item1a/0000815556_2022.txt
-FAST,Fastenal,0000815556,2021,0000815556-21-000008,success,../data/item1a/0000815556_2021.txt
+FAST,Fastenal,0000815556,2026,0000815556-26-000009,skipped (already exists),../data/item1a/0000815556_2026.txt
+FAST,Fastenal,0000815556,2025,0000815556-25-000065,skipped (already exists),../data/item1a/0000815556_2025.txt
+FAST,Fastenal,0000815556,2024,0000815556-24-000009,skipped (already exists),../data/item1a/0000815556_2024.txt
+FAST,Fastenal,0000815556,2023,0000815556-23-000009,skipped (already exists),../data/item1a/0000815556_2023.txt
+FAST,Fastenal,0000815556,2022,0000815556-22-000009,skipped (already exists),../data/item1a/0000815556_2022.txt
+FAST,Fastenal,0000815556,2021,0000815556-21-000008,skipped (already exists),../data/item1a/0000815556_2021.txt
 FAST,Fastenal,0000815556,2020,0000815556-20-000011,item1a_not_found,
 FAST,Fastenal,0000815556,2019,0000815556-19-000015,item1a_not_found,
 FAST,Fastenal,0000815556,2018,0000815556-18-000010,item1a_not_found,
@@ -449,67 +449,67 @@ FAST,Fastenal,0000815556,2016,0000815556-16-000087,item1a_not_found,
 FAST,Fastenal,0000815556,2015,0000815556-15-000014,item1a_not_found,
 FAST,Fastenal,0000815556,2014,0000815556-14-000016,item1a_not_found,
 FAST,Fastenal,0000815556,2013,0000815556-13-000013,item1a_not_found,
-ODFL,Old Dominion,0000878927,2026,0001193125-26-067161,success,../data/item1a/0000878927_2026.txt
-ODFL,Old Dominion,0000878927,2025,0000950170-25-026661,success,../data/item1a/0000878927_2025.txt
-ODFL,Old Dominion,0000878927,2024,0000950170-24-020176,success,../data/item1a/0000878927_2024.txt
-ODFL,Old Dominion,0000878927,2023,0000950170-23-003783,success,../data/item1a/0000878927_2023.txt
-ODFL,Old Dominion,0000878927,2022,0001564590-22-006303,success,../data/item1a/0000878927_2022.txt
-ODFL,Old Dominion,0000878927,2021,0001564590-21-008056,success,../data/item1a/0000878927_2021.txt
-ODFL,Old Dominion,0000878927,2020,0001564590-20-006626,success,../data/item1a/0000878927_2020.txt
-ODFL,Old Dominion,0000878927,2019,0001564590-19-004755,success,../data/item1a/0000878927_2019.txt
-ODFL,Old Dominion,0000878927,2018,0000878927-18-000005,success,../data/item1a/0000878927_2018.txt
-ODFL,Old Dominion,0000878927,2017,0000878927-17-000005,success,../data/item1a/0000878927_2017.txt
-ODFL,Old Dominion,0000878927,2016,0000878927-16-000055,success,../data/item1a/0000878927_2016.txt
-ODFL,Old Dominion,0000878927,2015,0000878927-15-000006,success,../data/item1a/0000878927_2015.txt
-ODFL,Old Dominion,0000878927,2014,0000878927-14-000010,success,../data/item1a/0000878927_2014.txt
-ODFL,Old Dominion,0000878927,2013,0000878927-13-000012,success,../data/item1a/0000878927_2013.txt
-ODFL,Old Dominion,0000878927,2012,0001193125-12-087645,success,../data/item1a/0000878927_2012.txt
-EMR,Emerson Electric,0000032604,2025,0000032604-25-000087,success,../data/item1a/0000032604_2025.txt
-EMR,Emerson Electric,0000032604,2024,0000032604-24-000041,success,../data/item1a/0000032604_2024.txt
-EMR,Emerson Electric,0000032604,2023,0000032604-23-000044,success,../data/item1a/0000032604_2023.txt
-EMR,Emerson Electric,0000032604,2022,0000032604-22-000041,success,../data/item1a/0000032604_2022.txt
-EMR,Emerson Electric,0000032604,2021,0000032604-21-000038,success,../data/item1a/0000032604_2021.txt
-EMR,Emerson Electric,0000032604,2020,0000032604-20-000041,success,../data/item1a/0000032604_2020.txt
-EMR,Emerson Electric,0000032604,2019,0000032604-19-000048,success,../data/item1a/0000032604_2019.txt
-EMR,Emerson Electric,0000032604,2018,0000032604-18-000044,success,../data/item1a/0000032604_2018.txt
-EMR,Emerson Electric,0000032604,2017,0000032604-17-000046,success,../data/item1a/0000032604_2017.txt
-EMR,Emerson Electric,0000032604,2016,0000032604-16-000105,success,../data/item1a/0000032604_2016.txt
-EMR,Emerson Electric,0000032604,2015,0000032604-15-000051,success,../data/item1a/0000032604_2015.txt
-EMR,Emerson Electric,0000032604,2014,0000032604-14-000048,success,../data/item1a/0000032604_2014.txt
-EMR,Emerson Electric,0000032604,2013,0000032604-13-000044,success,../data/item1a/0000032604_2013.txt
-ROP,Roper Technologies,0000882835,2026,0000882835-26-000009,success,../data/item1a/0000882835_2026.txt
-ROP,Roper Technologies,0000882835,2025,0000882835-25-000008,success,../data/item1a/0000882835_2025.txt
-ROP,Roper Technologies,0000882835,2024,0000882835-24-000008,success,../data/item1a/0000882835_2024.txt
-ROP,Roper Technologies,0000882835,2023,0000882835-23-000016,success,../data/item1a/0000882835_2023.txt
-ROP,Roper Technologies,0000882835,2022,0000882835-22-000012,success,../data/item1a/0000882835_2022.txt
-ROP,Roper Technologies,0000882835,2021,0000882835-21-000011,success,../data/item1a/0000882835_2021.txt
+ODFL,Old Dominion,0000878927,2026,0001193125-26-067161,skipped (already exists),../data/item1a/0000878927_2026.txt
+ODFL,Old Dominion,0000878927,2025,0000950170-25-026661,skipped (already exists),../data/item1a/0000878927_2025.txt
+ODFL,Old Dominion,0000878927,2024,0000950170-24-020176,skipped (already exists),../data/item1a/0000878927_2024.txt
+ODFL,Old Dominion,0000878927,2023,0000950170-23-003783,skipped (already exists),../data/item1a/0000878927_2023.txt
+ODFL,Old Dominion,0000878927,2022,0001564590-22-006303,skipped (already exists),../data/item1a/0000878927_2022.txt
+ODFL,Old Dominion,0000878927,2021,0001564590-21-008056,skipped (already exists),../data/item1a/0000878927_2021.txt
+ODFL,Old Dominion,0000878927,2020,0001564590-20-006626,skipped (already exists),../data/item1a/0000878927_2020.txt
+ODFL,Old Dominion,0000878927,2019,0001564590-19-004755,skipped (already exists),../data/item1a/0000878927_2019.txt
+ODFL,Old Dominion,0000878927,2018,0000878927-18-000005,skipped (already exists),../data/item1a/0000878927_2018.txt
+ODFL,Old Dominion,0000878927,2017,0000878927-17-000005,skipped (already exists),../data/item1a/0000878927_2017.txt
+ODFL,Old Dominion,0000878927,2016,0000878927-16-000055,skipped (already exists),../data/item1a/0000878927_2016.txt
+ODFL,Old Dominion,0000878927,2015,0000878927-15-000006,skipped (already exists),../data/item1a/0000878927_2015.txt
+ODFL,Old Dominion,0000878927,2014,0000878927-14-000010,skipped (already exists),../data/item1a/0000878927_2014.txt
+ODFL,Old Dominion,0000878927,2013,0000878927-13-000012,skipped (already exists),../data/item1a/0000878927_2013.txt
+ODFL,Old Dominion,0000878927,2012,0001193125-12-087645,skipped (already exists),../data/item1a/0000878927_2012.txt
+EMR,Emerson Electric,0000032604,2025,0000032604-25-000087,skipped (already exists),../data/item1a/0000032604_2025.txt
+EMR,Emerson Electric,0000032604,2024,0000032604-24-000041,skipped (already exists),../data/item1a/0000032604_2024.txt
+EMR,Emerson Electric,0000032604,2023,0000032604-23-000044,skipped (already exists),../data/item1a/0000032604_2023.txt
+EMR,Emerson Electric,0000032604,2022,0000032604-22-000041,skipped (already exists),../data/item1a/0000032604_2022.txt
+EMR,Emerson Electric,0000032604,2021,0000032604-21-000038,skipped (already exists),../data/item1a/0000032604_2021.txt
+EMR,Emerson Electric,0000032604,2020,0000032604-20-000041,skipped (already exists),../data/item1a/0000032604_2020.txt
+EMR,Emerson Electric,0000032604,2019,0000032604-19-000048,skipped (already exists),../data/item1a/0000032604_2019.txt
+EMR,Emerson Electric,0000032604,2018,0000032604-18-000044,skipped (already exists),../data/item1a/0000032604_2018.txt
+EMR,Emerson Electric,0000032604,2017,0000032604-17-000046,skipped (already exists),../data/item1a/0000032604_2017.txt
+EMR,Emerson Electric,0000032604,2016,0000032604-16-000105,skipped (already exists),../data/item1a/0000032604_2016.txt
+EMR,Emerson Electric,0000032604,2015,0000032604-15-000051,skipped (already exists),../data/item1a/0000032604_2015.txt
+EMR,Emerson Electric,0000032604,2014,0000032604-14-000048,skipped (already exists),../data/item1a/0000032604_2014.txt
+EMR,Emerson Electric,0000032604,2013,0000032604-13-000044,skipped (already exists),../data/item1a/0000032604_2013.txt
+ROP,Roper Technologies,0000882835,2026,0000882835-26-000009,skipped (already exists),../data/item1a/0000882835_2026.txt
+ROP,Roper Technologies,0000882835,2025,0000882835-25-000008,skipped (already exists),../data/item1a/0000882835_2025.txt
+ROP,Roper Technologies,0000882835,2024,0000882835-24-000008,skipped (already exists),../data/item1a/0000882835_2024.txt
+ROP,Roper Technologies,0000882835,2023,0000882835-23-000016,skipped (already exists),../data/item1a/0000882835_2023.txt
+ROP,Roper Technologies,0000882835,2022,0000882835-22-000012,skipped (already exists),../data/item1a/0000882835_2022.txt
+ROP,Roper Technologies,0000882835,2021,0000882835-21-000011,skipped (already exists),../data/item1a/0000882835_2021.txt
 ROP,Roper Technologies,0000882835,2020,0000882835-20-000006,item1a_not_found,
 ROP,Roper Technologies,0000882835,2019,0000882835-19-000010,item1a_not_found,
 ROP,Roper Technologies,0000882835,2018,0000882835-18-000011,item1a_not_found,
 ROP,Roper Technologies,0000882835,2017,0000882835-17-000006,item1a_not_found,
 ROP,Roper Technologies,0000882835,2016,0000882835-16-000035,item1a_not_found,
 ROP,Roper Technologies,0000882835,2015,0000882835-15-000009,item1a_not_found,
-ROP,Roper Technologies,0000882835,2014,0000882835-14-000011,success,../data/item1a/0000882835_2014.txt
-ROP,Roper Technologies,0000882835,2013,0000882835-13-000008,success,../data/item1a/0000882835_2013.txt
-ROP,Roper Technologies,0000882835,2012,0000882835-12-000013,success,../data/item1a/0000882835_2012.txt
-AMAT,Applied Materials,0000006951,2025,0001628280-25-056742,success,../data/item1a/0000006951_2025.txt
-AMAT,Applied Materials,0000006951,2024,0000006951-24-000044,success,../data/item1a/0000006951_2024.txt
-AMAT,Applied Materials,0000006951,2023,0000006951-23-000041,success,../data/item1a/0000006951_2023.txt
-AMAT,Applied Materials,0000006951,2022,0000006951-22-000043,success,../data/item1a/0000006951_2022.txt
-AMAT,Applied Materials,0000006951,2021,0000006951-21-000043,success,../data/item1a/0000006951_2021.txt
-AMAT,Applied Materials,0000006951,2020,0000006951-20-000048,success,../data/item1a/0000006951_2020.txt
-AMAT,Applied Materials,0000006951,2019,0000006951-19-000046,success,../data/item1a/0000006951_2019.txt
+ROP,Roper Technologies,0000882835,2014,0000882835-14-000011,skipped (already exists),../data/item1a/0000882835_2014.txt
+ROP,Roper Technologies,0000882835,2013,0000882835-13-000008,skipped (already exists),../data/item1a/0000882835_2013.txt
+ROP,Roper Technologies,0000882835,2012,0000882835-12-000013,skipped (already exists),../data/item1a/0000882835_2012.txt
+AMAT,Applied Materials,0000006951,2025,0001628280-25-056742,skipped (already exists),../data/item1a/0000006951_2025.txt
+AMAT,Applied Materials,0000006951,2024,0000006951-24-000044,skipped (already exists),../data/item1a/0000006951_2024.txt
+AMAT,Applied Materials,0000006951,2023,0000006951-23-000041,skipped (already exists),../data/item1a/0000006951_2023.txt
+AMAT,Applied Materials,0000006951,2022,0000006951-22-000043,skipped (already exists),../data/item1a/0000006951_2022.txt
+AMAT,Applied Materials,0000006951,2021,0000006951-21-000043,skipped (already exists),../data/item1a/0000006951_2021.txt
+AMAT,Applied Materials,0000006951,2020,0000006951-20-000048,skipped (already exists),../data/item1a/0000006951_2020.txt
+AMAT,Applied Materials,0000006951,2019,0000006951-19-000046,skipped (already exists),../data/item1a/0000006951_2019.txt
 AMAT,Applied Materials,0000006951,2018,0000006951-18-000041,item1a_not_found,
 AMAT,Applied Materials,0000006951,2017,0000006951-17-000038,item1a_not_found,
 AMAT,Applied Materials,0000006951,2016,0000006951-16-000068,item1a_not_found,
-AMAT,Applied Materials,0000006951,2015,0000006951-15-000034,item1a_not_found,
-AMAT,Applied Materials,0000006951,2014,0000006951-14-000037,item1a_not_found,
-AMAT,Applied Materials,0000006951,2013,0000006951-13-000044,item1a_not_found,
-PKG,Packaging Corporation of America,0000075677,2026,0001193125-26-074129,success,../data/item1a/0000075677_2026.txt
-PKG,Packaging Corporation of America,0000075677,2025,0000950170-25-028533,success,../data/item1a/0000075677_2025.txt
-PKG,Packaging Corporation of America,0000075677,2024,0000950170-24-022794,success,../data/item1a/0000075677_2024.txt
-PKG,Packaging Corporation of America,0000075677,2023,0000950170-23-003990,success,../data/item1a/0000075677_2023.txt
-PKG,Packaging Corporation of America,0000075677,2022,0000950170-22-001913,success,../data/item1a/0000075677_2022.txt
+AMAT,Applied Materials,0000006951,2015,0000006951-15-000034,skipped (already exists),../data/item1a/0000006951_2015.txt
+AMAT,Applied Materials,0000006951,2014,0000006951-14-000037,skipped (already exists),../data/item1a/0000006951_2014.txt
+AMAT,Applied Materials,0000006951,2013,0000006951-13-000044,skipped (already exists),../data/item1a/0000006951_2013.txt
+PKG,Packaging Corporation of America,0000075677,2026,0001193125-26-074129,skipped (already exists),../data/item1a/0000075677_2026.txt
+PKG,Packaging Corporation of America,0000075677,2025,0000950170-25-028533,skipped (already exists),../data/item1a/0000075677_2025.txt
+PKG,Packaging Corporation of America,0000075677,2024,0000950170-24-022794,skipped (already exists),../data/item1a/0000075677_2024.txt
+PKG,Packaging Corporation of America,0000075677,2023,0000950170-23-003990,skipped (already exists),../data/item1a/0000075677_2023.txt
+PKG,Packaging Corporation of America,0000075677,2022,0000950170-22-001913,skipped (already exists),../data/item1a/0000075677_2022.txt
 PKG,Packaging Corporation of America,0000075677,2021,0001564590-21-008051,item1a_not_found,
 PKG,Packaging Corporation of America,0000075677,2020,0001564590-20-006774,item1a_not_found,
 PKG,Packaging Corporation of America,0000075677,2019,0001564590-19-005284,item1a_not_found,
@@ -519,12 +519,12 @@ PKG,Packaging Corporation of America,0000075677,2016,0000075677-16-000030,item1a
 PKG,Packaging Corporation of America,0000075677,2015,0000075677-15-000007,item1a_not_found,
 PKG,Packaging Corporation of America,0000075677,2014,0000075677-14-000009,item1a_not_found,
 PKG,Packaging Corporation of America,0000075677,2013,0001193125-13-083569,item1a_not_found,
-CSGP,CoStar Group,0001057352,2026,0001057352-26-000020,success,../data/item1a/0001057352_2026.txt
-CSGP,CoStar Group,0001057352,2025,0001057352-25-000016,success,../data/item1a/0001057352_2025.txt
-CSGP,CoStar Group,0001057352,2024,0001057352-24-000013,success,../data/item1a/0001057352_2024.txt
-CSGP,CoStar Group,0001057352,2023,0001057352-23-000030,success,../data/item1a/0001057352_2023.txt
-CSGP,CoStar Group,0001057352,2022,0001057352-22-000027,success,../data/item1a/0001057352_2022.txt
-CSGP,CoStar Group,0001057352,2021,0001057352-21-000032,success,../data/item1a/0001057352_2021.txt
+CSGP,CoStar Group,0001057352,2026,0001057352-26-000020,skipped (already exists),../data/item1a/0001057352_2026.txt
+CSGP,CoStar Group,0001057352,2025,0001057352-25-000016,skipped (already exists),../data/item1a/0001057352_2025.txt
+CSGP,CoStar Group,0001057352,2024,0001057352-24-000013,skipped (already exists),../data/item1a/0001057352_2024.txt
+CSGP,CoStar Group,0001057352,2023,0001057352-23-000030,skipped (already exists),../data/item1a/0001057352_2023.txt
+CSGP,CoStar Group,0001057352,2022,0001057352-22-000027,skipped (already exists),../data/item1a/0001057352_2022.txt
+CSGP,CoStar Group,0001057352,2021,0001057352-21-000032,skipped (already exists),../data/item1a/0001057352_2021.txt
 CSGP,CoStar Group,0001057352,2020,0001057352-20-000036,item1a_not_found,
 CSGP,CoStar Group,0001057352,2019,0001057352-19-000017,item1a_not_found,
 CSGP,CoStar Group,0001057352,2018,0001057352-18-000011,item1a_not_found,
@@ -534,78 +534,78 @@ CSGP,CoStar Group,0001057352,2015,0001057352-15-000012,item1a_not_found,
 CSGP,CoStar Group,0001057352,2014,0001057352-14-000006,item1a_not_found,
 CSGP,CoStar Group,0001057352,2013,0001057352-13-000013,item1a_not_found,
 CSGP,CoStar Group,0001057352,2012,0001057352-12-000024,item1a_not_found,
-KIM,Kimco Realty,0000879101,2026,0001193125-26-060760,item1a_not_found,
-KIM,Kimco Realty,0000879101,2025,0000950170-25-024723,item1a_not_found,
-KIM,Kimco Realty,0000879101,2024,0001437749-24-005407,success,../data/item1a/0000879101_2024.txt
-KIM,Kimco Realty,0000879101,2023,0001437749-23-004541,success,../data/item1a/0000879101_2023.txt
-KIM,Kimco Realty,0000879101,2022,0001437749-22-004700,success,../data/item1a/0000879101_2022.txt
-KIM,Kimco Realty,0000879101,2021,0001437749-21-003766,success,../data/item1a/0000879101_2021.txt
-KIM,Kimco Realty,0000879101,2020,0001437749-20-003500,success,../data/item1a/0000879101_2020.txt
-KIM,Kimco Realty,0000879101,2019,0001437749-19-002746,success,../data/item1a/0000879101_2019.txt
-KIM,Kimco Realty,0000879101,2018,0001437749-18-003230,success,../data/item1a/0000879101_2018.txt
-KIM,Kimco Realty,0000879101,2017,0001437749-17-003269,success,../data/item1a/0000879101_2017.txt
-KIM,Kimco Realty,0000879101,2016,0001437749-16-026173,success,../data/item1a/0000879101_2016.txt
-KIM,Kimco Realty,0000879101,2015,0001398432-15-000073,success,../data/item1a/0000879101_2015.txt
-KIM,Kimco Realty,0000879101,2014,0001398432-14-000081,success,../data/item1a/0000879101_2014.txt
-KIM,Kimco Realty,0000879101,2013,0001398432-13-000115,success,../data/item1a/0000879101_2013.txt
-ESS,Essex Property Trust,0000920522,2026,0000920522-26-000003,success,../data/item1a/0000920522_2026.txt
-ESS,Essex Property Trust,0000920522,2025,0000920522-25-000024,success,../data/item1a/0000920522_2025.txt
-ESS,Essex Property Trust,0000920522,2024,0000920522-24-000033,success,../data/item1a/0000920522_2024.txt
-ESS,Essex Property Trust,0000920522,2023,0000920522-23-000005,success,../data/item1a/0000920522_2023.txt
-ESS,Essex Property Trust,0000920522,2022,0000920522-22-000019,success,../data/item1a/0000920522_2022.txt
-ESS,Essex Property Trust,0000920522,2021,0000920522-21-000015,success,../data/item1a/0000920522_2021.txt
-ESS,Essex Property Trust,0000920522,2020,0000920522-20-000026,success,../data/item1a/0000920522_2020.txt
-ESS,Essex Property Trust,0000920522,2019,0000920522-19-000009,success,../data/item1a/0000920522_2019.txt
-ESS,Essex Property Trust,0000920522,2018,0000920522-18-000011,success,../data/item1a/0000920522_2018.txt
-ESS,Essex Property Trust,0000920522,2017,0000920522-17-000014,success,../data/item1a/0000920522_2017.txt
-ESS,Essex Property Trust,0000920522,2016,0000920522-16-000097,success,../data/item1a/0000920522_2016.txt
-ESS,Essex Property Trust,0000920522,2015,0000920522-15-000006,success,../data/item1a/0000920522_2015.txt
-ESS,Essex Property Trust,0000920522,2014,0001140361-14-009793,success,../data/item1a/0000920522_2014.txt
-ESS,Essex Property Trust,0000920522,2013,0001140361-13-009003,success,../data/item1a/0000920522_2013.txt
-CPT,Camden Property Trust,0000906345,2026,0001628280-26-007697,success,../data/item1a/0000906345_2026.txt
-CPT,Camden Property Trust,0000906345,2025,0000906345-25-000008,success,../data/item1a/0000906345_2025.txt
-CPT,Camden Property Trust,0000906345,2024,0000906345-24-000007,success,../data/item1a/0000906345_2024.txt
-CPT,Camden Property Trust,0000906345,2023,0000906345-23-000008,success,../data/item1a/0000906345_2023.txt
-CPT,Camden Property Trust,0000906345,2022,0000906345-22-000009,success,../data/item1a/0000906345_2022.txt
-CPT,Camden Property Trust,0000906345,2021,0000906345-21-000010,success,../data/item1a/0000906345_2021.txt
-CPT,Camden Property Trust,0000906345,2020,0000906345-20-000008,success,../data/item1a/0000906345_2020.txt
-CPT,Camden Property Trust,0000906345,2019,0000906345-19-000006,success,../data/item1a/0000906345_2019.txt
-CPT,Camden Property Trust,0000906345,2018,0000906345-18-000007,success,../data/item1a/0000906345_2018.txt
-CPT,Camden Property Trust,0000906345,2017,0000906345-17-000009,success,../data/item1a/0000906345_2017.txt
-CPT,Camden Property Trust,0000906345,2016,0000906345-16-000044,success,../data/item1a/0000906345_2016.txt
-CPT,Camden Property Trust,0000906345,2015,0000906345-15-000007,success,../data/item1a/0000906345_2015.txt
-CPT,Camden Property Trust,0000906345,2014,0000906345-14-000005,success,../data/item1a/0000906345_2014.txt
-CPT,Camden Property Trust,0000906345,2013,0000906345-13-000003,success,../data/item1a/0000906345_2013.txt
-CPT,Camden Property Trust,0000906345,2012,0001193125-12-067347,success,../data/item1a/0000906345_2012.txt
+KIM,Kimco Realty,0000879101,2026,0001193125-26-060760,skipped (already exists),../data/item1a/0000879101_2026.txt
+KIM,Kimco Realty,0000879101,2025,0000950170-25-024723,skipped (already exists),../data/item1a/0000879101_2025.txt
+KIM,Kimco Realty,0000879101,2024,0001437749-24-005407,skipped (already exists),../data/item1a/0000879101_2024.txt
+KIM,Kimco Realty,0000879101,2023,0001437749-23-004541,skipped (already exists),../data/item1a/0000879101_2023.txt
+KIM,Kimco Realty,0000879101,2022,0001437749-22-004700,skipped (already exists),../data/item1a/0000879101_2022.txt
+KIM,Kimco Realty,0000879101,2021,0001437749-21-003766,skipped (already exists),../data/item1a/0000879101_2021.txt
+KIM,Kimco Realty,0000879101,2020,0001437749-20-003500,skipped (already exists),../data/item1a/0000879101_2020.txt
+KIM,Kimco Realty,0000879101,2019,0001437749-19-002746,skipped (already exists),../data/item1a/0000879101_2019.txt
+KIM,Kimco Realty,0000879101,2018,0001437749-18-003230,skipped (already exists),../data/item1a/0000879101_2018.txt
+KIM,Kimco Realty,0000879101,2017,0001437749-17-003269,skipped (already exists),../data/item1a/0000879101_2017.txt
+KIM,Kimco Realty,0000879101,2016,0001437749-16-026173,skipped (already exists),../data/item1a/0000879101_2016.txt
+KIM,Kimco Realty,0000879101,2015,0001398432-15-000073,skipped (already exists),../data/item1a/0000879101_2015.txt
+KIM,Kimco Realty,0000879101,2014,0001398432-14-000081,skipped (already exists),../data/item1a/0000879101_2014.txt
+KIM,Kimco Realty,0000879101,2013,0001398432-13-000115,skipped (already exists),../data/item1a/0000879101_2013.txt
+ESS,Essex Property Trust,0000920522,2026,0000920522-26-000003,skipped (already exists),../data/item1a/0000920522_2026.txt
+ESS,Essex Property Trust,0000920522,2025,0000920522-25-000024,skipped (already exists),../data/item1a/0000920522_2025.txt
+ESS,Essex Property Trust,0000920522,2024,0000920522-24-000033,skipped (already exists),../data/item1a/0000920522_2024.txt
+ESS,Essex Property Trust,0000920522,2023,0000920522-23-000005,skipped (already exists),../data/item1a/0000920522_2023.txt
+ESS,Essex Property Trust,0000920522,2022,0000920522-22-000019,skipped (already exists),../data/item1a/0000920522_2022.txt
+ESS,Essex Property Trust,0000920522,2021,0000920522-21-000015,skipped (already exists),../data/item1a/0000920522_2021.txt
+ESS,Essex Property Trust,0000920522,2020,0000920522-20-000026,skipped (already exists),../data/item1a/0000920522_2020.txt
+ESS,Essex Property Trust,0000920522,2019,0000920522-19-000009,skipped (already exists),../data/item1a/0000920522_2019.txt
+ESS,Essex Property Trust,0000920522,2018,0000920522-18-000011,skipped (already exists),../data/item1a/0000920522_2018.txt
+ESS,Essex Property Trust,0000920522,2017,0000920522-17-000014,skipped (already exists),../data/item1a/0000920522_2017.txt
+ESS,Essex Property Trust,0000920522,2016,0000920522-16-000097,skipped (already exists),../data/item1a/0000920522_2016.txt
+ESS,Essex Property Trust,0000920522,2015,0000920522-15-000006,skipped (already exists),../data/item1a/0000920522_2015.txt
+ESS,Essex Property Trust,0000920522,2014,0001140361-14-009793,skipped (already exists),../data/item1a/0000920522_2014.txt
+ESS,Essex Property Trust,0000920522,2013,0001140361-13-009003,skipped (already exists),../data/item1a/0000920522_2013.txt
+CPT,Camden Property Trust,0000906345,2026,0001628280-26-007697,skipped (already exists),../data/item1a/0000906345_2026.txt
+CPT,Camden Property Trust,0000906345,2025,0000906345-25-000008,skipped (already exists),../data/item1a/0000906345_2025.txt
+CPT,Camden Property Trust,0000906345,2024,0000906345-24-000007,skipped (already exists),../data/item1a/0000906345_2024.txt
+CPT,Camden Property Trust,0000906345,2023,0000906345-23-000008,skipped (already exists),../data/item1a/0000906345_2023.txt
+CPT,Camden Property Trust,0000906345,2022,0000906345-22-000009,skipped (already exists),../data/item1a/0000906345_2022.txt
+CPT,Camden Property Trust,0000906345,2021,0000906345-21-000010,skipped (already exists),../data/item1a/0000906345_2021.txt
+CPT,Camden Property Trust,0000906345,2020,0000906345-20-000008,skipped (already exists),../data/item1a/0000906345_2020.txt
+CPT,Camden Property Trust,0000906345,2019,0000906345-19-000006,skipped (already exists),../data/item1a/0000906345_2019.txt
+CPT,Camden Property Trust,0000906345,2018,0000906345-18-000007,skipped (already exists),../data/item1a/0000906345_2018.txt
+CPT,Camden Property Trust,0000906345,2017,0000906345-17-000009,skipped (already exists),../data/item1a/0000906345_2017.txt
+CPT,Camden Property Trust,0000906345,2016,0000906345-16-000044,skipped (already exists),../data/item1a/0000906345_2016.txt
+CPT,Camden Property Trust,0000906345,2015,0000906345-15-000007,skipped (already exists),../data/item1a/0000906345_2015.txt
+CPT,Camden Property Trust,0000906345,2014,0000906345-14-000005,skipped (already exists),../data/item1a/0000906345_2014.txt
+CPT,Camden Property Trust,0000906345,2013,0000906345-13-000003,skipped (already exists),../data/item1a/0000906345_2013.txt
+CPT,Camden Property Trust,0000906345,2012,0001193125-12-067347,skipped (already exists),../data/item1a/0000906345_2012.txt
 CPT,Camden Property Trust,0000906345,2011,0000950123-11-017763,item1a_not_found,
-FRT,Federal Realty Investment Trust,0000034903,2026,0000034903-26-000017,success,../data/item1a/0000034903_2026.txt
-FRT,Federal Realty Investment Trust,0000034903,2025,0000034903-25-000016,success,../data/item1a/0000034903_2025.txt
-FRT,Federal Realty Investment Trust,0000034903,2024,0000034903-24-000032,success,../data/item1a/0000034903_2024.txt
-FRT,Federal Realty Investment Trust,0000034903,2023,0000034903-23-000020,success,../data/item1a/0000034903_2023.txt
-FRT,Federal Realty Investment Trust,0000034903,2022,0000034903-22-000023,success,../data/item1a/0000034903_2022.txt
-FRT,Federal Realty Investment Trust,0000034903,2021,0000034903-21-000020,success,../data/item1a/0000034903_2021.txt
-FRT,Federal Realty Investment Trust,0000034903,2020,0000034903-20-000008,success,../data/item1a/0000034903_2020.txt
-FRT,Federal Realty Investment Trust,0000034903,2019,0000034903-19-000013,success,../data/item1a/0000034903_2019.txt
-FRT,Federal Realty Investment Trust,0000034903,2018,0000034903-18-000009,success,../data/item1a/0000034903_2018.txt
-FRT,Federal Realty Investment Trust,0000034903,2017,0000034903-17-000008,success,../data/item1a/0000034903_2017.txt
-FRT,Federal Realty Investment Trust,0000034903,2016,0000034903-16-000045,success,../data/item1a/0000034903_2016.txt
-FRT,Federal Realty Investment Trust,0000034903,2015,0000034903-15-000014,success,../data/item1a/0000034903_2015.txt
-FRT,Federal Realty Investment Trust,0000034903,2014,0000034903-14-000009,success,../data/item1a/0000034903_2014.txt
-FRT,Federal Realty Investment Trust,0000034903,2013,0000034903-13-000006,success,../data/item1a/0000034903_2013.txt
-FRT,Federal Realty Investment Trust,0000034903,2012,0000034903-12-000008,success,../data/item1a/0000034903_2012.txt
-FRT,Federal Realty Investment Trust,0000034903,2011,0001193125-11-036800,success,../data/item1a/0000034903_2011.txt
-FRT,Federal Realty Investment Trust,0000034903,2010,0001193125-10-033308,success,../data/item1a/0000034903_2010.txt
-AES,AES Corporation,0000874761,2026,0000874761-26-000063,success,../data/item1a/0000874761_2026.txt
-AES,AES Corporation,0000874761,2025,0000874761-25-000013,success,../data/item1a/0000874761_2025.txt
-AES,AES Corporation,0000874761,2024,0000874761-24-000011,success,../data/item1a/0000874761_2024.txt
-AES,AES Corporation,0000874761,2023,0000874761-23-000010,success,../data/item1a/0000874761_2023.txt
-AES,AES Corporation,0000874761,2022,0000874761-22-000022,success,../data/item1a/0000874761_2022.txt
-AES,AES Corporation,0000874761,2021,0000874761-21-000015,success,../data/item1a/0000874761_2021.txt
-AES,AES Corporation,0000874761,2020,0000874761-20-000012,success,../data/item1a/0000874761_2020.txt
-AES,AES Corporation,0000874761,2019,0000874761-19-000012,success,../data/item1a/0000874761_2019.txt
-AES,AES Corporation,0000874761,2018,0000874761-18-000014,success,../data/item1a/0000874761_2018.txt
-AES,AES Corporation,0000874761,2017,0000874761-17-000003,success,../data/item1a/0000874761_2017.txt
-AES,AES Corporation,0000874761,2016,0000874761-16-000077,success,../data/item1a/0000874761_2016.txt
-AES,AES Corporation,0000874761,2015,0000874761-15-000009,success,../data/item1a/0000874761_2015.txt
-AES,AES Corporation,0000874761,2014,0000874761-14-000011,success,../data/item1a/0000874761_2014.txt
+FRT,Federal Realty Investment Trust,0000034903,2026,0000034903-26-000017,skipped (already exists),../data/item1a/0000034903_2026.txt
+FRT,Federal Realty Investment Trust,0000034903,2025,0000034903-25-000016,skipped (already exists),../data/item1a/0000034903_2025.txt
+FRT,Federal Realty Investment Trust,0000034903,2024,0000034903-24-000032,skipped (already exists),../data/item1a/0000034903_2024.txt
+FRT,Federal Realty Investment Trust,0000034903,2023,0000034903-23-000020,skipped (already exists),../data/item1a/0000034903_2023.txt
+FRT,Federal Realty Investment Trust,0000034903,2022,0000034903-22-000023,skipped (already exists),../data/item1a/0000034903_2022.txt
+FRT,Federal Realty Investment Trust,0000034903,2021,0000034903-21-000020,skipped (already exists),../data/item1a/0000034903_2021.txt
+FRT,Federal Realty Investment Trust,0000034903,2020,0000034903-20-000008,skipped (already exists),../data/item1a/0000034903_2020.txt
+FRT,Federal Realty Investment Trust,0000034903,2019,0000034903-19-000013,skipped (already exists),../data/item1a/0000034903_2019.txt
+FRT,Federal Realty Investment Trust,0000034903,2018,0000034903-18-000009,skipped (already exists),../data/item1a/0000034903_2018.txt
+FRT,Federal Realty Investment Trust,0000034903,2017,0000034903-17-000008,skipped (already exists),../data/item1a/0000034903_2017.txt
+FRT,Federal Realty Investment Trust,0000034903,2016,0000034903-16-000045,skipped (already exists),../data/item1a/0000034903_2016.txt
+FRT,Federal Realty Investment Trust,0000034903,2015,0000034903-15-000014,skipped (already exists),../data/item1a/0000034903_2015.txt
+FRT,Federal Realty Investment Trust,0000034903,2014,0000034903-14-000009,skipped (already exists),../data/item1a/0000034903_2014.txt
+FRT,Federal Realty Investment Trust,0000034903,2013,0000034903-13-000006,skipped (already exists),../data/item1a/0000034903_2013.txt
+FRT,Federal Realty Investment Trust,0000034903,2012,0000034903-12-000008,skipped (already exists),../data/item1a/0000034903_2012.txt
+FRT,Federal Realty Investment Trust,0000034903,2011,0001193125-11-036800,skipped (already exists),../data/item1a/0000034903_2011.txt
+FRT,Federal Realty Investment Trust,0000034903,2010,0001193125-10-033308,skipped (already exists),../data/item1a/0000034903_2010.txt
+AES,AES Corporation,0000874761,2026,0000874761-26-000063,skipped (already exists),../data/item1a/0000874761_2026.txt
+AES,AES Corporation,0000874761,2025,0000874761-25-000013,skipped (already exists),../data/item1a/0000874761_2025.txt
+AES,AES Corporation,0000874761,2024,0000874761-24-000011,skipped (already exists),../data/item1a/0000874761_2024.txt
+AES,AES Corporation,0000874761,2023,0000874761-23-000010,skipped (already exists),../data/item1a/0000874761_2023.txt
+AES,AES Corporation,0000874761,2022,0000874761-22-000022,skipped (already exists),../data/item1a/0000874761_2022.txt
+AES,AES Corporation,0000874761,2021,0000874761-21-000015,skipped (already exists),../data/item1a/0000874761_2021.txt
+AES,AES Corporation,0000874761,2020,0000874761-20-000012,skipped (already exists),../data/item1a/0000874761_2020.txt
+AES,AES Corporation,0000874761,2019,0000874761-19-000012,skipped (already exists),../data/item1a/0000874761_2019.txt
+AES,AES Corporation,0000874761,2018,0000874761-18-000014,skipped (already exists),../data/item1a/0000874761_2018.txt
+AES,AES Corporation,0000874761,2017,0000874761-17-000003,skipped (already exists),../data/item1a/0000874761_2017.txt
+AES,AES Corporation,0000874761,2016,0000874761-16-000077,skipped (already exists),../data/item1a/0000874761_2016.txt
+AES,AES Corporation,0000874761,2015,0000874761-15-000009,skipped (already exists),../data/item1a/0000874761_2015.txt
+AES,AES Corporation,0000874761,2014,0000874761-14-000011,skipped (already exists),../data/item1a/0000874761_2014.txt
 AES,AES Corporation,0000874761,2013,0001193125-13-077580,item1a_not_found,
