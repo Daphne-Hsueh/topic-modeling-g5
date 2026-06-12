@@ -2,7 +2,7 @@ Our business, financial condition, results of operations and cash flows are subj
 
 11
 
- 
+ 
 
 Risks Related to Our Business
 
@@ -28,7 +28,7 @@ We rely on information technology and third-party vendors to provide effective a
 
 12
 
- 
+ 
 
 We are an acquisitive organization, and the process of integrating the information systems of the businesses we acquire is complex and exposes us to additional risks as we might not adequately identify weaknesses in the acquired company’s information systems, which could expose us to unexpected liabilities or make our own systems more vulnerable to attack. In the future, any material breaches of cybersecurity, or media reports of the same, even if untrue, could cause us to experience reputational harm, loss of customers and revenue, loss of proprietary data, regulatory actions and scrutiny, sanctions or other statutory penalties, litigation, liability for failure to safeguard customers’ information, impairment of invested capital or financial losses. Such losses may not be insured against or not fully covered through insurance we maintain.
 
@@ -49,11 +49,11 @@ WE HAVE OPERATIONS INTERNATIONALLY, WHICH MAY RESULT IN A NUMBER OF ADDITIONAL R
 
 13
 
- 
+ 
 
 We have substantial operations in the United Kingdom, as well as operations in Belgium, Bermuda, Canada, Cayman Islands, France, Germany, Hong Kong, Republic of Ireland, Italy, Malaysia, the Netherlands, Singapore and United Arab Emirates. In the future, we intend to continue to consider additional international expansion opportunities. Our international operations may be subject to a number of risks, including:
 
- 
+ 
 
 •
 Difficulties in staffing and managing international operations;
@@ -94,7 +94,7 @@ Burdens of complying with, and the risk of employees or third parties acting on 
 •
 Burdens of complying with a wide variety of labor practices and international laws and or disclosure requirements, including those relating to export and import duties, environmental policies and privacy issues. 
 
- 
+ 
 
 The occurrence of one or more of these risks may impact our business, results of operations, or financial condition.
  
@@ -114,7 +114,7 @@ Additionally, we use artificial intelligence (“AI”) and robotic processing a
 
 14
 
- 
+ 
 
 those relating to data protection. If any of these risks materialize, such information could become part of a dataset that is accessible by other third-party AI or RPA applications and/or users.
  
@@ -146,7 +146,7 @@ Because our business is concentrated in the jurisdictions identified above, we f
 
 15
 
- 
+ 
 
 disasters is limited and is subject to deductibles and coverage limits. Such coverage may not be adequate or may not continue to be available at commercially reasonable rates and terms.
  
@@ -175,7 +175,7 @@ Our F&I businesses may be negatively impacted by a slowdown in vehicles sales in
 
 16
 
- 
+ 
 
 Our F&I businesses earn commissions and fees from the sale of non-insurance warranty services and products by vehicle dealers. For the year ended December 31, 2024, we derived less than 4% of our annual total revenues from our F&I businesses. If there were a slowdown in vehicle sales in the United States or regulatory changes, including tax-related changes, affecting the sale of non-insurance warranty services and products by vehicle dealers, our F&I businesses may be negatively impacted, which may impact our results of operation.
 
@@ -202,7 +202,7 @@ At December 31, 2024, our executive officers, directors and certain of their fam
 
 17
 
- 
+ 
 
 Risks Related to Legal, Compliance and Regulatory Matters
 
@@ -227,7 +227,7 @@ We have completed several acquisitions that have introduced us to various new ge
 
 18
 
- 
+ 
 
 OUR BUSINESS, RESULTS OF OPERATIONS, FINANCIAL CONDITION AND LIQUIDITY MAY BE MATERIALLY ADVERSELY AFFECTED BY CERTAIN ACTUAL AND POTENTIAL CLAIMS, REGULATORY ACTIONS AND PROCEEDINGS.
 
@@ -247,7 +247,7 @@ We conduct business throughout all of the United States of America and are subje
 
 19
 
- 
+ 
 
 could adversely affect us include: changes in our business compensation model as a result of regulatory developments (for example, potential changes to the Affordable Care Act); and federal and state governments establishing programs to provide health insurance or, in certain cases, property insurance in catastrophe-prone areas or other alternative market types of coverage that compete with or completely replace, insurance products offered by insurance carriers. Also, as climate change issues become more prevalent, the U.S. and other governments are beginning to respond to these issues. This increasing governmental focus on climate change may result in new environmental regulations, new or enhanced reporting, diligence or disclosure rules that may negatively affect us and our customers and could expand the nature, scope, and complexity of matters that we are required to control, assess, and report. This could cause us to incur additional direct costs in complying with any new environmental regulations, as well as increased indirect costs resulting from our customers incurring additional compliance costs that get passed on to us. These costs may adversely impact our results of operations and financial condition.
  
@@ -276,7 +276,7 @@ At December 31, 2024, we believe we were in compliance with the financial covena
 
 20
 
- 
+ 
 
 be required to lend any additional amounts to or purchase any additional notes from us and could elect to declare all borrowings outstanding, together with accrued and unpaid interest and fees, to be due and payable. If the indebtedness under these agreements or our other indebtedness, were to be accelerated, there can be no assurance that our assets would be sufficient to repay such indebtedness in full.
 
@@ -312,7 +312,7 @@ CHANGES IN CURRENT U.S. OR GLOBAL ECONOMIC CONDITIONS, INCLUDING AN EXTENDED SLO
 
 21
 
- 
+ 
 
 If economic conditions were to worsen, a number of negative effects on our business could result, including declines in insurable exposure units, declines in insurance premium rates, the financial insolvency of insurance companies, or the reduced ability of customers to pay. Also, if general economic conditions are poor, some of our customers may cease operations completely or be acquired by other companies, which could have an adverse effect on our results of operations and financial condition. If these customers are affected by poor economic conditions, but yet remain in existence, they may face liquidity problems or other financial difficulties that could result in delays or defaults in payments owed to us, which could have a significant adverse impact on our consolidated financial condition and results of operations. Additionally, decreased underwriting capacity for insurance and reinsurance may create difficulty for us to place business, which may adversely impact our ability to earn revenue. Any of these effects could decrease our net revenues and profitability.
  
@@ -339,7 +339,7 @@ Incentives and supplemental commissions are paid by insurance companies based up
 
 22
 
- 
+ 
 
 WE ARE EXPOSED TO INTANGIBLE ASSET RISK; SPECIFICALLY, OUR GOODWILL MAY BECOME IMPAIRED IN THE FUTURE.
 
@@ -365,6 +365,6 @@ We cannot predict the impact that future pandemics, epidemics or outbreaks of in
 
 These and other disruptions related to pandemics, epidemics or outbreaks of infectious disease could materially and adversely affect our business, financial condition, results of operations and cash flows. Further, the potential effects pandemics, epidemics or outbreaks of infectious disease also could impact and, in some cases, magnify many of our risk factors described in this Annual Report on Form 10-K. Additionally, any potential effects of pandemics, epidemics or outbreaks of infectious disease may lag behind the developments related to such events.
 
- 
+ 
 
 23

@@ -1,0 +1,496 @@
+The forward-looking statements included in
+this report are made only as of the date of this report and TI undertakes no
+obligation to update the forward-looking statements to reflect subsequent events
+or circumstances.
+
+ 
+
+21
+
+ 
+
+SIGNATURE
+
+ 
+ 
+
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of
+1934, the Registrant has duly caused this Report to be signed on its behalf by
+the undersigned, thereunto duly authorized.
+
+ 
+ 
+
+ 
+ 
+
+TEXAS
+ INSTRUMENTS INCORPORATED
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+By:
+
+/s/
+ 
+Kevin
+ P. March
+
+ 
+ 
+
+ 
+
+Kevin
+ P. March
+
+ 
+ 
+
+ 
+
+Senior
+ Vice President,
+
+ 
+ 
+
+ 
+
+Chief
+ Financial Officer
+
+ 
+ 
+
+ 
+
+and
+ Chief Accounting Officer
+
+Date:
+February 23, 2010
+
+ 
+ 
+
+Each
+person whose signature appears below constitutes and appoints each of Richard K.
+Templeton, Kevin P. March and Joseph F. Hubach, or any of them, each acting
+alone, his or her true and lawful attorneys-in-fact and agents, with full power
+of substitution and resubstitution, for such person and in his or her name,
+place and stead, in any and all capacities in connection with the annual report
+on Form 10-K of Texas Instruments Incorporated for the year ended December 31,
+2009, to sign any and all amendments to the Form 10-K, and to file the same,
+with all exhibits thereto, and other documents in connection therewith, with the
+Securities and Exchange Commission, granting unto said attorneys-in-fact and
+agents, each acting alone, full power and authority to do and perform each and
+every act and thing requisite and necessary to be done in and about the
+premises, as fully to all intents and purposes as he or she might or could do in
+person, hereby ratifying and confirming all that said attorneys-in-fact and
+agents, or their substitutes or substitute, may lawfully do or cause to be done
+by virtue hereof.
+
+ 
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this Report has been
+signed below by the following persons on behalf of the Registrant and in the
+capacities indicated on the 23rd day of February 2010.
+
+ 
+
+Signature
+
+ 
+
+ 
+
+Title
+
+ 
+
+/s/
+ James R. Adams
+
+ 
+
+Director
+
+James
+ R. Adams
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/
+ David L. Boren
+
+ 
+
+Director
+
+David
+ L. Boren
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/
+ Daniel A. Carp
+
+ 
+
+Director
+
+Daniel
+ A. Carp
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/
+ Carrie S. Cox
+
+ 
+
+Director
+
+Carrie
+ S. Cox
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/
+ David R. Goode
+
+ 
+
+Director
+
+David
+ R. Goode
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/
+ Stephen P. MacMillan
+
+ 
+
+Director
+
+Stephen
+ P. MacMillan
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/
+ Pamela H. Patsley
+
+ 
+
+Director
+
+Pamela
+ H. Patsley
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/
+ Wayne R. Sanders
+
+ 
+
+Director
+
+Wayne
+ R. Sanders
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/
+ Ruth J. Simmons
+
+ 
+
+Director
+
+Ruth
+ J. Simmons
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/
+ Richard K.Templeton
+
+ 
+
+Chairman
+ of the Board; Director; President and 
+
+Richard
+ K. Templeton
+
+ 
+
+Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+/s/
+ Christine Todd Whitman
+
+ 
+
+Director
+
+Christine
+ Todd Whitman
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/
+ Kevin P. March
+
+ 
+
+Senior
+ Vice President; Chief Financial Officer; 
+
+Kevin
+ P. March
+
+ 
+
+Chief Accounting
+Officer
+
+ 
+
+22
+
+ 
+
+TEXAS
+INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+
+INDEX TO
+FINANCIAL STATEMENTS
+
+(Item
+15(a))
+
+ 
+ 
+
+Page
+ Reference in 2009 Annual Report to Stockholders
+
+Information
+ incorporated by reference to the Registrant’s 2009 annual report to
+ stockholders
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Consolidated
+ financial statements:
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Income
+ for each of the three years in the period ended December 31,
+ 2009
+
+2
+
+ 
+ 
+
+ 
+ 
+
+Comprehensive
+ income for each of the three years in the period ended December 31,
+ 2009
+
+3
+
+ 
+ 
+
+ 
+ 
+
+Balance
+ sheets at December 31, 2009 and 2008
+
+4
+
+ 
+ 
+
+ 
+ 
+
+Cash
+ flows for each of the three years in the period ended December 31,
+ 2009
+
+5
+
+ 
+ 
+
+ 
+ 
+
+Stockholders’
+ equity for each of the three years in the period ended December 31,
+ 2009
+
+6
+
+ 
+ 
+
+ 
+ 
+
+Notes
+ to financial statements
+
+7
+
+ 
+ 
+
+ 
+ 
+
+Report
+ of independent registered public accounting firm
+
+31
+
+ 
+ 
+
+ 
+ 
+
+Report
+ by management on internal control over financial reporting
+
+32
+
+ 
+ 
+
+ 
+ 
+
+Report
+ of independent registered public accounting firm on internal control over
+ financial reporting
+
+33
+
+Schedules have been omitted because the
+required information is not present or not present in amounts sufficient to
+require submission of the schedule, or because the information required is
+included in the consolidated financial statements or the notes
+thereto.
+
+ 
+
+ 
+
+23
