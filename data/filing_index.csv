@@ -1,611 +1,881 @@
 ticker,company,cik,year,accession,status,path
-LYV,Live Nation Entertainment,0001335258,2026,0001335258-26-000009,skipped (already exists),../data/item1a/0001335258_2026.txt
-LYV,Live Nation Entertainment,0001335258,2025,0001335258-25-000028,skipped (already exists),../data/item1a/0001335258_2025.txt
-LYV,Live Nation Entertainment,0001335258,2024,0001335258-24-000017,skipped (already exists),../data/item1a/0001335258_2024.txt
-LYV,Live Nation Entertainment,0001335258,2023,0001335258-23-000014,skipped (already exists),../data/item1a/0001335258_2023.txt
-LYV,Live Nation Entertainment,0001335258,2022,0001335258-22-000019,skipped (already exists),../data/item1a/0001335258_2022.txt
-LYV,Live Nation Entertainment,0001335258,2021,0001335258-21-000009,skipped (already exists),../data/item1a/0001335258_2021.txt
-LYV,Live Nation Entertainment,0001335258,2020,0001335258-20-000028,skipped (already exists),../data/item1a/0001335258_2020.txt
-LYV,Live Nation Entertainment,0001335258,2019,0001335258-19-000024,skipped (already exists),../data/item1a/0001335258_2019.txt
-LYV,Live Nation Entertainment,0001335258,2018,0001335258-18-000023,skipped (already exists),../data/item1a/0001335258_2018.txt
-LYV,Live Nation Entertainment,0001335258,2017,0001335258-17-000031,skipped (already exists),../data/item1a/0001335258_2017.txt
-LYV,Live Nation Entertainment,0001335258,2016,0001335258-16-000167,skipped (already exists),../data/item1a/0001335258_2016.txt
-LYV,Live Nation Entertainment,0001335258,2015,0001335258-15-000026,skipped (already exists),../data/item1a/0001335258_2015.txt
-LYV,Live Nation Entertainment,0001335258,2014,0001335258-14-000027,skipped (already exists),../data/item1a/0001335258_2014.txt
-LYV,Live Nation Entertainment,0001335258,2013,0001193125-13-077102,item1a_not_found,
-SATS,EchoStar,0001415404,2026,0001104659-26-021817,skipped (already exists),../data/item1a/0001415404_2026.txt
-SATS,EchoStar,0001415404,2025,0001558370-25-001663,skipped (already exists),../data/item1a/0001415404_2025.txt
-SATS,EchoStar,0001415404,2024,0001558370-24-002209,skipped (already exists),../data/item1a/0001415404_2024.txt
-SATS,EchoStar,0001415404,2023,0001415404-23-000005,skipped (already exists),../data/item1a/0001415404_2023.txt
-SATS,EchoStar,0001415404,2022,0001415404-22-000005,skipped (already exists),../data/item1a/0001415404_2022.txt
-SATS,EchoStar,0001415404,2021,0001415404-21-000005,skipped (already exists),../data/item1a/0001415404_2021.txt
-SATS,EchoStar,0001415404,2020,0001415404-20-000005,skipped (already exists),../data/item1a/0001415404_2020.txt
-SATS,EchoStar,0001415404,2019,0001415404-19-000003,skipped (already exists),../data/item1a/0001415404_2019.txt
-SATS,EchoStar,0001415404,2018,0001415404-18-000005,skipped (already exists),../data/item1a/0001415404_2018.txt
-SATS,EchoStar,0001415404,2017,0001415404-17-000010,skipped (already exists),../data/item1a/0001415404_2017.txt
-SATS,EchoStar,0001415404,2016,0001104659-16-099355,skipped (already exists),../data/item1a/0001415404_2016.txt
-SATS,EchoStar,0001415404,2015,0001047469-15-000972,skipped (already exists),../data/item1a/0001415404_2015.txt
-SATS,EchoStar,0001415404,2014,0001047469-14-001113,skipped (already exists),../data/item1a/0001415404_2014.txt
-SATS,EchoStar,0001415404,2013,0001104659-13-011985,skipped (already exists),../data/item1a/0001415404_2013.txt
-SATS,EchoStar,0001415404,2012,0001104659-12-016268,skipped (already exists),../data/item1a/0001415404_2012.txt
-SATS,EchoStar,0001415404,2011,0001193125-11-044057,item1a_not_found,
-ULTA,Ulta Beauty,0001403568,2026,0001104659-26-035243,skipped (already exists),../data/item1a/0001403568_2026.txt
-ULTA,Ulta Beauty,0001403568,2025,0001558370-25-003810,skipped (already exists),../data/item1a/0001403568_2025.txt
-ULTA,Ulta Beauty,0001403568,2024,0001558370-24-003941,skipped (already exists),../data/item1a/0001403568_2024.txt
-ULTA,Ulta Beauty,0001403568,2023,0001558370-23-004581,skipped (already exists),../data/item1a/0001403568_2023.txt
-ULTA,Ulta Beauty,0001403568,2022,0001558370-22-004330,skipped (already exists),../data/item1a/0001403568_2022.txt
-ULTA,Ulta Beauty,0001403568,2021,0001558370-21-003523,skipped (already exists),../data/item1a/0001403568_2021.txt
-ULTA,Ulta Beauty,0001403568,2020,0001558370-20-003272,skipped (already exists),../data/item1a/0001403568_2020.txt
-ULTA,Ulta Beauty,0001403568,2019,0001558370-19-002739,skipped (already exists),../data/item1a/0001403568_2019.txt
-ULTA,Ulta Beauty,0001403568,2018,0001558370-18-002733,skipped (already exists),../data/item1a/0001403568_2018.txt
-ULTA,Ulta Beauty,0001403568,2017,0001193125-17-099261,item1a_not_found,
-ULTA,Ulta Beauty,0001403568,2016,0001193125-16-523101,item1a_not_found,
-ULTA,Ulta Beauty,0001403568,2015,0001193125-15-115602,item1a_not_found,
-ULTA,Ulta Beauty,0001403568,2014,0001193125-14-127781,item1a_not_found,
-ULTA,Ulta Beauty,0001403568,2013,0001193125-13-140116,item1a_not_found,
-ULTA,Ulta Beauty,0001403568,2012,0001193125-12-136579,item1a_not_found,
-ULTA,Ulta Beauty,0001403568,2011,0000950123-11-030900,item1a_not_found,
-ULTA,Ulta Beauty,0001403568,2010,0000950123-10-030932,item1a_not_found,
-LVS,Las Vegas Sands,0001300514,2026,0001300514-26-000013,skipped (already exists),../data/item1a/0001300514_2026.txt
-LVS,Las Vegas Sands,0001300514,2025,0001300514-25-000040,skipped (already exists),../data/item1a/0001300514_2025.txt
-LVS,Las Vegas Sands,0001300514,2024,0001300514-24-000048,skipped (already exists),../data/item1a/0001300514_2024.txt
-LVS,Las Vegas Sands,0001300514,2023,0001300514-23-000021,skipped (already exists),../data/item1a/0001300514_2023.txt
-LVS,Las Vegas Sands,0001300514,2022,0001300514-22-000007,skipped (already exists),../data/item1a/0001300514_2022.txt
-LVS,Las Vegas Sands,0001300514,2021,0001300514-21-000033,skipped (already exists),../data/item1a/0001300514_2021.txt
-LVS,Las Vegas Sands,0001300514,2020,0001300514-20-000011,skipped (already exists),../data/item1a/0001300514_2020.txt
-LVS,Las Vegas Sands,0001300514,2019,0001300514-19-000021,skipped (already exists),../data/item1a/0001300514_2019.txt
-LVS,Las Vegas Sands,0001300514,2018,0001300514-18-000022,skipped (already exists),../data/item1a/0001300514_2018.txt
-LVS,Las Vegas Sands,0001300514,2017,0001300514-17-000005,skipped (already exists),../data/item1a/0001300514_2017.txt
-LVS,Las Vegas Sands,0001300514,2016,0001300514-16-000023,skipped (already exists),../data/item1a/0001300514_2016.txt
-LVS,Las Vegas Sands,0001300514,2015,0001300514-15-000005,skipped (already exists),../data/item1a/0001300514_2015.txt
-LVS,Las Vegas Sands,0001300514,2014,0001445305-14-000758,skipped (already exists),../data/item1a/0001300514_2014.txt
-LVS,Las Vegas Sands,0001300514,2013,0001193125-13-087854,item1a_not_found,
-LVS,Las Vegas Sands,0001300514,2012,0000950123-12-004305,skipped (already exists),../data/item1a/0001300514_2012.txt
-LVS,Las Vegas Sands,0001300514,2011,0000950123-11-020089,item1a_not_found,
-LVS,Las Vegas Sands,0001300514,2010,0000950123-10-018509,skipped (already exists),../data/item1a/0001300514_2010.txt
-PHM,PulteGroup,0000822416,2026,0000822416-26-000007,skipped (already exists),../data/item1a/0000822416_2026.txt
-PHM,PulteGroup,0000822416,2025,0000822416-25-000007,skipped (already exists),../data/item1a/0000822416_2025.txt
-PHM,PulteGroup,0000822416,2024,0000822416-24-000010,skipped (already exists),../data/item1a/0000822416_2024.txt
-PHM,PulteGroup,0000822416,2023,0000822416-23-000007,skipped (already exists),../data/item1a/0000822416_2023.txt
-PHM,PulteGroup,0000822416,2022,0000822416-22-000007,skipped (already exists),../data/item1a/0000822416_2022.txt
-PHM,PulteGroup,0000822416,2021,0000822416-21-000007,skipped (already exists),../data/item1a/0000822416_2021.txt
-PHM,PulteGroup,0000822416,2020,0000822416-20-000007,skipped (already exists),../data/item1a/0000822416_2020.txt
-PHM,PulteGroup,0000822416,2019,0000822416-19-000008,skipped (already exists),../data/item1a/0000822416_2019.txt
-PHM,PulteGroup,0000822416,2018,0000822416-18-000009,skipped (already exists),../data/item1a/0000822416_2018.txt
-PHM,PulteGroup,0000822416,2017,0000822416-17-000008,skipped (already exists),../data/item1a/0000822416_2017.txt
-PHM,PulteGroup,0000822416,2016,0000822416-16-000048,skipped (already exists),../data/item1a/0000822416_2016.txt
-PHM,PulteGroup,0000822416,2015,0000822416-15-000007,skipped (already exists),../data/item1a/0000822416_2015.txt
-PHM,PulteGroup,0000822416,2014,0000822416-14-000010,skipped (already exists),../data/item1a/0000822416_2014.txt
-PHM,PulteGroup,0000822416,2013,0000822416-13-000006,skipped (already exists),../data/item1a/0000822416_2013.txt
-PHM,PulteGroup,0000822416,2012,0000822416-12-000010,skipped (already exists),../data/item1a/0000822416_2012.txt
-CCL,Carnival Corporation,0000815097,2026,0000815097-26-000007,success,../data/item1a/0000815097_2026.txt
-CCL,Carnival Corporation,0000815097,2025,0000815097-25-000007,success,../data/item1a/0000815097_2025.txt
-CCL,Carnival Corporation,0000815097,2024,0000815097-24-000011,success,../data/item1a/0000815097_2024.txt
-CCL,Carnival Corporation,0000815097,2023,0000815097-23-000012,success,../data/item1a/0000815097_2023.txt
-CCL,Carnival Corporation,0000815097,2022,0000815097-22-000009,success,../data/item1a/0000815097_2022.txt
-CCL,Carnival Corporation,0000815097,2021,0000815097-21-000027,success,../data/item1a/0000815097_2021.txt
-CCL,Carnival Corporation,0000815097,2020,0000815097-20-000003,success,../data/item1a/0000815097_2020.txt
-CCL,Carnival Corporation,0000815097,2019,0000815097-19-000004,success,../data/item1a/0000815097_2019.txt
-CCL,Carnival Corporation,0000815097,2018,0000815097-18-000005,success,../data/item1a/0000815097_2018.txt
-CCL,Carnival Corporation,0000815097,2017,0000815097-17-000001,success,../data/item1a/0000815097_2017.txt
-CCL,Carnival Corporation,0000815097,2016,0000815097-16-000030,success,../data/item1a/0000815097_2016.txt
-CCL,Carnival Corporation,0000815097,2015,0000815097-15-000007,success,../data/item1a/0000815097_2015.txt
-CCL,Carnival Corporation,0000815097,2014,0001193125-14-025514,item1a_not_found,
-CCL,Carnival Corporation,0000815097,2013,0001193125-13-027239,item1a_not_found,
-CCL,Carnival Corporation,0000815097,2012,0001193125-12-028375,item1a_not_found,
-WYNN,Wynn Resorts,0001174922,2026,0001174922-26-000013,skipped (already exists),../data/item1a/0001174922_2026.txt
-WYNN,Wynn Resorts,0001174922,2025,0001174922-25-000039,skipped (already exists),../data/item1a/0001174922_2025.txt
-WYNN,Wynn Resorts,0001174922,2024,0001174922-24-000046,skipped (already exists),../data/item1a/0001174922_2024.txt
-WYNN,Wynn Resorts,0001174922,2023,0001174922-23-000048,skipped (already exists),../data/item1a/0001174922_2023.txt
-WYNN,Wynn Resorts,0001174922,2022,0001174922-22-000031,skipped (already exists),../data/item1a/0001174922_2022.txt
-WYNN,Wynn Resorts,0001174922,2021,0001174922-21-000029,skipped (already exists),../data/item1a/0001174922_2021.txt
-WYNN,Wynn Resorts,0001174922,2020,0001174922-20-000024,skipped (already exists),../data/item1a/0001174922_2020.txt
-WYNN,Wynn Resorts,0001174922,2019,0001174922-19-000021,skipped (already exists),../data/item1a/0001174922_2019.txt
-WYNN,Wynn Resorts,0001174922,2018,0001174922-18-000019,skipped (already exists),../data/item1a/0001174922_2018.txt
-WYNN,Wynn Resorts,0001174922,2017,0001174922-17-000027,skipped (already exists),../data/item1a/0001174922_2017.txt
-WYNN,Wynn Resorts,0001174922,2016,0001174922-16-000144,skipped (already exists),../data/item1a/0001174922_2016.txt
-WYNN,Wynn Resorts,0001174922,2015,0001174922-15-000021,skipped (already exists),../data/item1a/0001174922_2015.txt
-WYNN,Wynn Resorts,0001174922,2014,0001193125-14-077632,item1a_not_found,
-WYNN,Wynn Resorts,0001174922,2013,0001193125-13-087674,item1a_not_found,
-LULU,Lululemon Athletica,0001397187,2026,0001397187-26-000020,skipped (already exists),../data/item1a/0001397187_2026.txt
-LULU,Lululemon Athletica,0001397187,2025,0001397187-25-000013,skipped (already exists),../data/item1a/0001397187_2025.txt
-LULU,Lululemon Athletica,0001397187,2024,0001397187-24-000010,skipped (already exists),../data/item1a/0001397187_2024.txt
-LULU,Lululemon Athletica,0001397187,2023,0001397187-23-000012,skipped (already exists),../data/item1a/0001397187_2023.txt
-LULU,Lululemon Athletica,0001397187,2022,0001397187-22-000014,skipped (already exists),../data/item1a/0001397187_2022.txt
-LULU,Lululemon Athletica,0001397187,2021,0001397187-21-000009,skipped (already exists),../data/item1a/0001397187_2021.txt
-LULU,Lululemon Athletica,0001397187,2020,0001397187-20-000012,skipped (already exists),../data/item1a/0001397187_2020.txt
-LULU,Lululemon Athletica,0001397187,2019,0001397187-19-000011,skipped (already exists),../data/item1a/0001397187_2019.txt
-LULU,Lululemon Athletica,0001397187,2018,0001397187-18-000013,skipped (already exists),../data/item1a/0001397187_2018.txt
-LULU,Lululemon Athletica,0001397187,2017,0001397187-17-000008,skipped (already exists),../data/item1a/0001397187_2017.txt
-LULU,Lululemon Athletica,0001397187,2016,0001397187-16-000089,skipped (already exists),../data/item1a/0001397187_2016.txt
-LULU,Lululemon Athletica,0001397187,2015,0001397187-15-000016,skipped (already exists),../data/item1a/0001397187_2015.txt
-LULU,Lululemon Athletica,0001397187,2014,0001397187-14-000021,skipped (already exists),../data/item1a/0001397187_2014.txt
-LULU,Lululemon Athletica,0001397187,2013,0001193125-13-118393,item1a_not_found,
-POOL,Pool Corporation,0000945841,2026,0001193125-26-074833,success,../data/item1a/0000945841_2026.txt
-POOL,Pool Corporation,0000945841,2025,0000945841-25-000032,success,../data/item1a/0000945841_2025.txt
-POOL,Pool Corporation,0000945841,2024,0000945841-24-000021,success,../data/item1a/0000945841_2024.txt
-POOL,Pool Corporation,0000945841,2023,0000945841-23-000015,success,../data/item1a/0000945841_2023.txt
-POOL,Pool Corporation,0000945841,2022,0000945841-22-000023,success,../data/item1a/0000945841_2022.txt
-POOL,Pool Corporation,0000945841,2021,0000945841-21-000022,success,../data/item1a/0000945841_2021.txt
-POOL,Pool Corporation,0000945841,2020,0000945841-20-000041,success,../data/item1a/0000945841_2020.txt
-POOL,Pool Corporation,0000945841,2019,0000945841-19-000013,success,../data/item1a/0000945841_2019.txt
-POOL,Pool Corporation,0000945841,2018,0000945841-18-000020,success,../data/item1a/0000945841_2018.txt
-POOL,Pool Corporation,0000945841,2017,0000945841-17-000028,success,../data/item1a/0000945841_2017.txt
-POOL,Pool Corporation,0000945841,2016,0000945841-16-000190,success,../data/item1a/0000945841_2016.txt
-POOL,Pool Corporation,0000945841,2015,0000945841-15-000034,success,../data/item1a/0000945841_2015.txt
-POOL,Pool Corporation,0000945841,2014,0000945841-14-000019,success,../data/item1a/0000945841_2014.txt
-POOL,Pool Corporation,0000945841,2013,0000945841-13-000019,success,../data/item1a/0000945841_2013.txt
-POOL,Pool Corporation,0000945841,2012,0000945841-12-000018,success,../data/item1a/0000945841_2012.txt
-NVR,"NVR, Inc.",0000906163,2026,0000906163-26-000018,success,../data/item1a/0000906163_2026.txt
-NVR,"NVR, Inc.",0000906163,2025,0000906163-25-000011,success,../data/item1a/0000906163_2025.txt
-NVR,"NVR, Inc.",0000906163,2024,0000906163-24-000033,success,../data/item1a/0000906163_2024.txt
-NVR,"NVR, Inc.",0000906163,2023,0000906163-23-000023,success,../data/item1a/0000906163_2023.txt
-NVR,"NVR, Inc.",0000906163,2022,0000906163-22-000008,success,../data/item1a/0000906163_2022.txt
-NVR,"NVR, Inc.",0000906163,2021,0000906163-21-000017,success,../data/item1a/0000906163_2021.txt
-NVR,"NVR, Inc.",0000906163,2020,0000906163-20-000026,success,../data/item1a/0000906163_2020.txt
-NVR,"NVR, Inc.",0000906163,2019,0000906163-19-000029,success,../data/item1a/0000906163_2019.txt
-NVR,"NVR, Inc.",0000906163,2018,0000906163-18-000007,success,../data/item1a/0000906163_2018.txt
-NVR,"NVR, Inc.",0000906163,2017,0001564590-17-001623,item1a_not_found,
-NVR,"NVR, Inc.",0000906163,2016,0001564590-16-012809,item1a_not_found,
-NVR,"NVR, Inc.",0000906163,2015,0001564590-15-000764,item1a_not_found,
-NVR,"NVR, Inc.",0000906163,2014,0001193125-14-060606,item1a_not_found,
-NVR,"NVR, Inc.",0000906163,2013,0001193125-13-065025,item1a_not_found,
-NVR,"NVR, Inc.",0000906163,2012,0001193125-12-072956,item1a_not_found,
-NVR,"NVR, Inc.",0000906163,2011,0000950123-11-018386,success,../data/item1a/0000906163_2011.txt
-NVR,"NVR, Inc.",0000906163,2010,0000950123-10-018033,success,../data/item1a/0000906163_2010.txt
-TJX,TJX Companies,0000109198,2026,0000109198-26-000008,skipped (already exists),../data/item1a/0000109198_2026.txt
-TJX,TJX Companies,0000109198,2025,0000109198-25-000010,skipped (already exists),../data/item1a/0000109198_2025.txt
-TJX,TJX Companies,0000109198,2024,0000109198-24-000014,skipped (already exists),../data/item1a/0000109198_2024.txt
-TJX,TJX Companies,0000109198,2023,0000109198-23-000004,skipped (already exists),../data/item1a/0000109198_2023.txt
-TJX,TJX Companies,0000109198,2022,0000109198-22-000008,skipped (already exists),../data/item1a/0000109198_2022.txt
-TJX,TJX Companies,0000109198,2021,0000109198-21-000006,skipped (already exists),../data/item1a/0000109198_2021.txt
-TJX,TJX Companies,0000109198,2020,0000109198-20-000004,skipped (already exists),../data/item1a/0000109198_2020.txt
-TJX,TJX Companies,0000109198,2019,0001628280-19-003834,skipped (already exists),../data/item1a/0000109198_2019.txt
-TJX,TJX Companies,0000109198,2018,0001193125-18-107423,item1a_not_found,
-TJX,TJX Companies,0000109198,2017,0001193125-17-099642,item1a_not_found,
-TJX,TJX Companies,0000109198,2016,0001193125-16-521424,item1a_not_found,
-TJX,TJX Companies,0000109198,2015,0001193125-15-114276,item1a_not_found,
-TJX,TJX Companies,0000109198,2014,0001193125-14-125980,item1a_not_found,
-TJX,TJX Companies,0000109198,2013,0001193125-13-138497,item1a_not_found,
-MNST,Monster Beverage,0000865752,2026,0001104659-26-020831,skipped (already exists),../data/item1a/0000865752_2026.txt
-MNST,Monster Beverage,0000865752,2025,0001410578-25-000248,skipped (already exists),../data/item1a/0000865752_2025.txt
-MNST,Monster Beverage,0000865752,2024,0001104659-24-029425,skipped (already exists),../data/item1a/0000865752_2024.txt
-MNST,Monster Beverage,0000865752,2023,0001104659-23-027245,skipped (already exists),../data/item1a/0000865752_2023.txt
-MNST,Monster Beverage,0000865752,2022,0001104659-22-028182,skipped (already exists),../data/item1a/0000865752_2022.txt
-MNST,Monster Beverage,0000865752,2021,0001104659-21-029943,skipped (already exists),../data/item1a/0000865752_2021.txt
-MNST,Monster Beverage,0000865752,2020,0001104659-20-027209,skipped (already exists),../data/item1a/0000865752_2020.txt
-MNST,Monster Beverage,0000865752,2019,0001104659-19-011581,skipped (already exists),../data/item1a/0000865752_2019.txt
-MNST,Monster Beverage,0000865752,2018,0001104659-18-014057,skipped (already exists),../data/item1a/0000865752_2018.txt
-MNST,Monster Beverage,0000865752,2017,0001104659-17-013048,skipped (already exists),../data/item1a/0000865752_2017.txt
-MNST,Monster Beverage,0000865752,2016,0001104659-16-100960,skipped (already exists),../data/item1a/0000865752_2016.txt
-MNST,Monster Beverage,0000865752,2015,0001104659-15-015731,skipped (already exists),../data/item1a/0000865752_2015.txt
-MNST,Monster Beverage,0000865752,2014,0001104659-14-015320,skipped (already exists),../data/item1a/0000865752_2014.txt
-MNST,Monster Beverage,0000865752,2013,0001104659-13-016713,skipped (already exists),../data/item1a/0000865752_2013.txt
-CASY,Casey's,0000726958,2025,0000726958-25-000065,item1a_not_found,
-CASY,Casey's,0000726958,2024,0000726958-24-000046,item1a_not_found,
-CASY,Casey's,0000726958,2023,0000726958-23-000059,item1a_not_found,
-CASY,Casey's,0000726958,2022,0000726958-22-000065,item1a_not_found,
-CASY,Casey's,0000726958,2021,0000726958-21-000078,item1a_not_found,
-CASY,Casey's,0000726958,2020,0000726958-20-000085,item1a_not_found,
-CASY,Casey's,0000726958,2019,0000726958-19-000078,item1a_not_found,
-CASY,Casey's,0000726958,2018,0000726958-18-000097,item1a_not_found,
-CASY,Casey's,0000726958,2017,0000726958-17-000055,item1a_not_found,
-CASY,Casey's,0000726958,2016,0000726958-16-000258,item1a_not_found,
-CASY,Casey's,0000726958,2015,0000726958-15-000075,item1a_not_found,
-CASY,Casey's,0000726958,2014,0001193125-14-253245,item1a_not_found,
-CASY,Casey's,0000726958,2013,0001193125-13-274177,item1a_not_found,
-CASY,Casey's,0000726958,2012,0001193125-12-283506,item1a_not_found,
-CASY,Casey's,0000726958,2011,0001193125-11-175866,item1a_not_found,
-VLO,Valero Energy,0001035002,2026,0001628280-26-011499,skipped (already exists),../data/item1a/0001035002_2026.txt
-VLO,Valero Energy,0001035002,2025,0001035002-25-000005,skipped (already exists),../data/item1a/0001035002_2025.txt
-VLO,Valero Energy,0001035002,2024,0001035002-24-000007,skipped (already exists),../data/item1a/0001035002_2024.txt
-VLO,Valero Energy,0001035002,2023,0001035002-23-000027,skipped (already exists),../data/item1a/0001035002_2023.txt
-VLO,Valero Energy,0001035002,2022,0001035002-22-000007,skipped (already exists),../data/item1a/0001035002_2022.txt
-VLO,Valero Energy,0001035002,2021,0001035002-21-000051,skipped (already exists),../data/item1a/0001035002_2021.txt
-VLO,Valero Energy,0001035002,2020,0001035002-20-000007,skipped (already exists),../data/item1a/0001035002_2020.txt
-VLO,Valero Energy,0001035002,2019,0001035002-19-000008,skipped (already exists),../data/item1a/0001035002_2019.txt
-VLO,Valero Energy,0001035002,2018,0001035002-18-000010,skipped (already exists),../data/item1a/0001035002_2018.txt
-VLO,Valero Energy,0001035002,2017,0001035002-17-000009,skipped (already exists),../data/item1a/0001035002_2017.txt
-VLO,Valero Energy,0001035002,2016,0001035002-16-000069,skipped (already exists),../data/item1a/0001035002_2016.txt
-VLO,Valero Energy,0001035002,2015,0001035002-15-000009,skipped (already exists),../data/item1a/0001035002_2015.txt
-VLO,Valero Energy,0001035002,2014,0001035002-14-000008,item1a_not_found,
+CMCSA,Comcast,0001166691,2010,0001193125-10-037551,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001166691_2010.txt
+CMCSA,Comcast,0001166691,2011,0001193125-11-047243,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001166691_2011.txt
+CMCSA,Comcast,0001166691,2012,0001193125-12-073905,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001166691_2012.txt
+CMCSA,Comcast,0001166691,2013,0001193125-13-067658,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001166691_2013.txt
+CMCSA,Comcast,0001166691,2014,0001193125-14-047522,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001166691_2014.txt
+CMCSA,Comcast,0001166691,2015,0001193125-15-068526,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001166691_2015.txt
+CMCSA,Comcast,0001166691,2016,0001193125-16-452423,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001166691_2016.txt
+CMCSA,Comcast,0001166691,2017,0001193125-17-030512,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001166691_2017.txt
+CMCSA,Comcast,0001166691,2018,0001166691-18-000004,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001166691_2018.txt
+CMCSA,Comcast,0001166691,2019,0001166691-19-000005,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001166691_2019.txt
+CMCSA,Comcast,0001166691,2020,0001166691-20-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001166691_2020.txt
+CMCSA,Comcast,0001166691,2021,0001166691-21-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001166691_2021.txt
+CMCSA,Comcast,0001166691,2022,0001166691-22-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001166691_2022.txt
+CMCSA,Comcast,0001166691,2023,0001166691-23-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001166691_2023.txt
+CMCSA,Comcast,0001166691,2024,0001166691-24-000011,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001166691_2024.txt
+CMCSA,Comcast,0001166691,2025,0001166691-25-000011,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001166691_2025.txt
+LYV,Live Nation Entertainment,0001335258,2010,0001193125-10-040804,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001335258_2010.txt
+LYV,Live Nation Entertainment,0001335258,2011,0001193125-11-050243,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001335258_2011.txt
+LYV,Live Nation Entertainment,0001335258,2012,0001193125-12-075895,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001335258_2012.txt
+LYV,Live Nation Entertainment,0001335258,2013,0001193125-13-077102,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001335258_2013.txt
+LYV,Live Nation Entertainment,0001335258,2014,0001335258-14-000027,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001335258_2014.txt
+LYV,Live Nation Entertainment,0001335258,2015,0001335258-15-000026,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001335258_2015.txt
+LYV,Live Nation Entertainment,0001335258,2016,0001335258-16-000167,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001335258_2016.txt
+LYV,Live Nation Entertainment,0001335258,2017,0001335258-17-000031,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001335258_2017.txt
+LYV,Live Nation Entertainment,0001335258,2018,0001335258-18-000023,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001335258_2018.txt
+LYV,Live Nation Entertainment,0001335258,2019,0001335258-19-000024,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001335258_2019.txt
+LYV,Live Nation Entertainment,0001335258,2020,0001335258-20-000028,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001335258_2020.txt
+LYV,Live Nation Entertainment,0001335258,2021,0001335258-21-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001335258_2021.txt
+LYV,Live Nation Entertainment,0001335258,2022,0001335258-22-000019,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001335258_2022.txt
+LYV,Live Nation Entertainment,0001335258,2023,0001335258-23-000014,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001335258_2023.txt
+LYV,Live Nation Entertainment,0001335258,2024,0001335258-24-000017,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001335258_2024.txt
+LYV,Live Nation Entertainment,0001335258,2025,0001335258-25-000028,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001335258_2025.txt
+T,AT&T,0000732717,2010,0000732717-10-000013,item1a_not_found,
+T,AT&T,0000732717,2011,0000732717-11-000014,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732717_2011.txt
+T,AT&T,0000732717,2012,0000732717-12-000025,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732717_2012.txt
+T,AT&T,0000732717,2013,0000732717-13-000017,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732717_2013.txt
+T,AT&T,0000732717,2014,0000732717-14-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732717_2014.txt
+T,AT&T,0000732717,2015,0000732717-15-000016,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732717_2015.txt
+T,AT&T,0000732717,2016,0000732717-16-000147,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732717_2016.txt
+T,AT&T,0000732717,2017,0000732717-17-000021,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732717_2017.txt
+T,AT&T,0000732717,2018,0000732717-18-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732717_2018.txt
+T,AT&T,0000732717,2019,0001193125-19-045608,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732717_2019.txt
+T,AT&T,0000732717,2020,0001562762-20-000064,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732717_2020.txt
+T,AT&T,0000732717,2021,0000732717-21-000012,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732717_2021.txt
+T,AT&T,0000732717,2022,0000732717-22-000015,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732717_2022.txt
+T,AT&T,0000732717,2023,0000732717-23-000011,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732717_2023.txt
+T,AT&T,0000732717,2024,0000732717-24-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732717_2024.txt
+T,AT&T,0000732717,2025,0000732717-25-000013,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732717_2025.txt
+VZ,Verizon,0000732712,2010,0001193125-10-041685,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732712_2010.txt
+VZ,Verizon,0000732712,2011,0001193125-11-049476,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732712_2011.txt
+VZ,Verizon,0000732712,2012,0001193125-12-077846,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732712_2012.txt
+VZ,Verizon,0000732712,2013,0001193125-13-075713,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732712_2013.txt
+VZ,Verizon,0000732712,2014,0001193125-14-073266,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732712_2014.txt
+VZ,Verizon,0000732712,2015,0001193125-15-057710,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732712_2015.txt
+VZ,Verizon,0000732712,2016,0001193125-16-473367,item1a_not_found,
+VZ,Verizon,0000732712,2017,0001193125-17-050292,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732712_2017.txt
+VZ,Verizon,0000732712,2018,0000732712-18-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732712_2018.txt
+VZ,Verizon,0000732712,2019,0000732712-19-000012,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732712_2019.txt
+VZ,Verizon,0000732712,2020,0000732712-20-000014,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732712_2020.txt
+VZ,Verizon,0000732712,2021,0000732712-21-000012,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732712_2021.txt
+VZ,Verizon,0000732712,2022,0000732712-22-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732712_2022.txt
+VZ,Verizon,0000732712,2023,0000732712-23-000012,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732712_2023.txt
+VZ,Verizon,0000732712,2024,0000732712-24-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732712_2024.txt
+VZ,Verizon,0000732712,2025,0000732712-25-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000732712_2025.txt
+WBD,Warner Bros. Discovery,0001437107,2010,0001193125-10-035850,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001437107_2010.txt
+WBD,Warner Bros. Discovery,0001437107,2011,0001193125-11-040418,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001437107_2011.txt
+WBD,Warner Bros. Discovery,0001437107,2012,0001193125-12-066285,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001437107_2012.txt
+WBD,Warner Bros. Discovery,0001437107,2013,0001437107-13-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001437107_2013.txt
+WBD,Warner Bros. Discovery,0001437107,2014,0001437107-14-000016,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001437107_2014.txt
+WBD,Warner Bros. Discovery,0001437107,2015,0001437107-15-000004,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001437107_2015.txt
+WBD,Warner Bros. Discovery,0001437107,2016,0001437107-16-000059,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001437107_2016.txt
+WBD,Warner Bros. Discovery,0001437107,2017,0001437107-17-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001437107_2017.txt
+WBD,Warner Bros. Discovery,0001437107,2018,0001437107-18-000028,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001437107_2018.txt
+WBD,Warner Bros. Discovery,0001437107,2019,0001437107-19-000013,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001437107_2019.txt
+WBD,Warner Bros. Discovery,0001437107,2020,0001437107-20-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001437107_2020.txt
+WBD,Warner Bros. Discovery,0001437107,2021,0001437107-21-000018,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001437107_2021.txt
+WBD,Warner Bros. Discovery,0001437107,2022,0001437107-22-000031,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001437107_2022.txt
+WBD,Warner Bros. Discovery,0001437107,2023,0001437107-23-000019,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001437107_2023.txt
+WBD,Warner Bros. Discovery,0001437107,2024,0001437107-24-000017,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001437107_2024.txt
+WBD,Warner Bros. Discovery,0001437107,2025,0001437107-25-000031,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001437107_2025.txt
+CMG,Chipotle Mexican Grill,0001058090,2010,0001193125-10-035029,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058090_2010.txt
+CMG,Chipotle Mexican Grill,0001058090,2011,0001193125-11-039010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058090_2011.txt
+CMG,Chipotle Mexican Grill,0001058090,2012,0001193125-12-052969,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058090_2012.txt
+CMG,Chipotle Mexican Grill,0001058090,2013,0001193125-13-046377,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058090_2013.txt
+CMG,Chipotle Mexican Grill,0001058090,2014,0001193125-14-035451,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058090_2014.txt
+CMG,Chipotle Mexican Grill,0001058090,2015,0001193125-15-033771,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058090_2015.txt
+CMG,Chipotle Mexican Grill,0001058090,2016,0001058090-16-000058,item1a_not_found,
+CMG,Chipotle Mexican Grill,0001058090,2017,0001058090-17-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058090_2017.txt
+CMG,Chipotle Mexican Grill,0001058090,2018,0001058090-18-000018,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058090_2018.txt
+CMG,Chipotle Mexican Grill,0001058090,2019,0001058090-19-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058090_2019.txt
+CMG,Chipotle Mexican Grill,0001058090,2020,0001058090-20-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058090_2020.txt
+CMG,Chipotle Mexican Grill,0001058090,2021,0001058090-21-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058090_2021.txt
+CMG,Chipotle Mexican Grill,0001058090,2022,0001058090-22-000011,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058090_2022.txt
+CMG,Chipotle Mexican Grill,0001058090,2023,0001058090-23-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058090_2023.txt
+CMG,Chipotle Mexican Grill,0001058090,2024,0001562762-24-000023,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058090_2024.txt
+CMG,Chipotle Mexican Grill,0001058090,2025,0001058090-25-000014,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058090_2025.txt
+HAS,Hasbro,0000046080,2010,0000950123-10-016315,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000046080_2010.txt
+HAS,Hasbro,0000046080,2011,0000950123-11-017113,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000046080_2011.txt
+HAS,Hasbro,0000046080,2012,0001193125-12-072846,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000046080_2012.txt
+HAS,Hasbro,0000046080,2013,0001193125-13-080002,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000046080_2013.txt
+HAS,Hasbro,0000046080,2014,0001193125-14-069828,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000046080_2014.txt
+HAS,Hasbro,0000046080,2015,0001193125-15-064946,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000046080_2015.txt
+HAS,Hasbro,0000046080,2016,0001193125-16-475520,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000046080_2016.txt
+HAS,Hasbro,0000046080,2017,0001193125-17-052143,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000046080_2017.txt
+HAS,Hasbro,0000046080,2018,0001193125-18-058659,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000046080_2018.txt
+HAS,Hasbro,0000046080,2019,0001193125-19-052025,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000046080_2019.txt
+HAS,Hasbro,0000046080,2020,0000046080-20-000028,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000046080_2020.txt
+HAS,Hasbro,0000046080,2021,0000046080-21-000035,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000046080_2021.txt
+HAS,Hasbro,0000046080,2022,0000046080-22-000023,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000046080_2022.txt
+HAS,Hasbro,0000046080,2023,0000046080-23-000017,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000046080_2023.txt
+HAS,Hasbro,0000046080,2024,0000046080-24-000034,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000046080_2024.txt
+HAS,Hasbro,0000046080,2025,0000046080-25-000027,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000046080_2025.txt
+HD,Home Depot (The),0000354950,2010,0001193125-10-067178,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000354950_2010.txt
+HD,Home Depot (The),0000354950,2011,0001193125-11-076501,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000354950_2011.txt
+HD,Home Depot (The),0000354950,2012,0000354950-12-000003,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000354950_2012.txt
+HD,Home Depot (The),0000354950,2013,0000354950-13-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000354950_2013.txt
+HD,Home Depot (The),0000354950,2014,0000354950-14-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000354950_2014.txt
+HD,Home Depot (The),0000354950,2015,0000354950-15-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000354950_2015.txt
+HD,Home Depot (The),0000354950,2016,0000354950-16-000060,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000354950_2016.txt
+HD,Home Depot (The),0000354950,2017,0000354950-17-000005,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000354950_2017.txt
+HD,Home Depot (The),0000354950,2018,0000354950-18-000019,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000354950_2018.txt
+HD,Home Depot (The),0000354950,2019,0000354950-19-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000354950_2019.txt
+HD,Home Depot (The),0000354950,2020,0000354950-20-000015,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000354950_2020.txt
+HD,Home Depot (The),0000354950,2021,0000354950-21-000089,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000354950_2021.txt
+HD,Home Depot (The),0000354950,2022,0000354950-22-000070,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000354950_2022.txt
+HD,Home Depot (The),0000354950,2023,0000354950-23-000059,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000354950_2023.txt
+HD,Home Depot (The),0000354950,2024,0000354950-24-000062,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000354950_2024.txt
+HD,Home Depot (The),0000354950,2025,0000354950-25-000085,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000354950_2025.txt
+LOW,Lowe's,0000060667,2010,0000060667-10-000059,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000060667_2010.txt
+LOW,Lowe's,0000060667,2011,0000060667-11-000061,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000060667_2011.txt
+LOW,Lowe's,0000060667,2012,0000060667-12-000096,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000060667_2012.txt
+LOW,Lowe's,0000060667,2013,0000060667-13-000045,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000060667_2013.txt
+LOW,Lowe's,0000060667,2014,0000060667-14-000054,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000060667_2014.txt
+LOW,Lowe's,0000060667,2015,0000060667-15-000057,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000060667_2015.txt
+LOW,Lowe's,0000060667,2016,0000060667-16-000276,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000060667_2016.txt
+LOW,Lowe's,0000060667,2017,0000060667-17-000076,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000060667_2017.txt
+LOW,Lowe's,0000060667,2018,0000060667-18-000051,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000060667_2018.txt
+LOW,Lowe's,0000060667,2019,0000060667-19-000042,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000060667_2019.txt
+LOW,Lowe's,0000060667,2020,0000060667-20-000036,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000060667_2020.txt
+LOW,Lowe's,0000060667,2021,0000060667-21-000026,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000060667_2021.txt
+LOW,Lowe's,0000060667,2022,0000060667-22-000038,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000060667_2022.txt
+LOW,Lowe's,0000060667,2023,0000060667-23-000034,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000060667_2023.txt
+LOW,Lowe's,0000060667,2024,0000060667-24-000033,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000060667_2024.txt
+LOW,Lowe's,0000060667,2025,0000060667-25-000049,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000060667_2025.txt
+ORLY,O’Reilly Automotive,0000898173,2010,0001193125-10-043016,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000898173_2010.txt
+ORLY,O’Reilly Automotive,0000898173,2011,0001193125-11-049998,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000898173_2011.txt
+ORLY,O’Reilly Automotive,0000898173,2012,0001193125-12-085384,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000898173_2012.txt
+ORLY,O’Reilly Automotive,0000898173,2013,0000898173-13-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000898173_2013.txt
+ORLY,O’Reilly Automotive,0000898173,2014,0000898173-14-000064,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000898173_2014.txt
+ORLY,O’Reilly Automotive,0000898173,2015,0000898173-15-000076,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000898173_2015.txt
+ORLY,O’Reilly Automotive,0000898173,2016,0000898173-16-000276,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000898173_2016.txt
+ORLY,O’Reilly Automotive,0000898173,2017,0000898173-17-000091,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000898173_2017.txt
+ORLY,O’Reilly Automotive,0000898173,2018,0000898173-18-000077,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000898173_2018.txt
+ORLY,O’Reilly Automotive,0000898173,2019,0000898173-19-000060,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000898173_2019.txt
+ORLY,O’Reilly Automotive,0000898173,2020,0000898173-20-000007,item1a_not_found,
+ORLY,O’Reilly Automotive,0000898173,2021,0000898173-21-000012,item1a_not_found,
+ORLY,O’Reilly Automotive,0000898173,2022,0000898173-22-000012,item1a_not_found,
+ORLY,O’Reilly Automotive,0000898173,2023,0000898173-23-000011,item1a_not_found,
+ORLY,O’Reilly Automotive,0000898173,2024,0000898173-24-000009,item1a_not_found,
+ORLY,O’Reilly Automotive,0000898173,2025,0000898173-25-000008,item1a_not_found,
+CAG,Conagra Brands,0000023217,2010,0000950123-10-067148,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000023217_2010.txt
+CAG,Conagra Brands,0000023217,2011,0000950123-11-066520,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000023217_2011.txt
+CAG,Conagra Brands,0000023217,2012,0001193125-12-308387,item1a_not_found,
+CAG,Conagra Brands,0000023217,2013,0001445305-13-001653,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000023217_2013.txt
+CAG,Conagra Brands,0000023217,2014,0000023217-14-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000023217_2014.txt
+CAG,Conagra Brands,0000023217,2015,0001628280-15-005333,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000023217_2015.txt
+CAG,Conagra Brands,0000023217,2016,0001628280-16-017613,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000023217_2016.txt
+CAG,Conagra Brands,0000023217,2017,0001628280-17-007184,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000023217_2017.txt
+CAG,Conagra Brands,0000023217,2018,0000023217-18-000005,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000023217_2018.txt
+CAG,Conagra Brands,0000023217,2019,0000023217-19-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000023217_2019.txt
+CAG,Conagra Brands,0000023217,2020,0001564590-20-033366,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000023217_2020.txt
+CAG,Conagra Brands,0000023217,2021,0001564590-21-037738,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000023217_2021.txt
+CAG,Conagra Brands,0000023217,2022,0001437749-22-017530,item1a_not_found,
+CAG,Conagra Brands,0000023217,2023,0001437749-23-019879,item1a_not_found,
+CAG,Conagra Brands,0000023217,2024,0001558370-24-009764,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000023217_2024.txt
+CAG,Conagra Brands,0000023217,2025,0001558370-25-009180,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000023217_2025.txt
+HSY,Hershey Company (The),0000047111,2010,0001193125-10-034780,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000047111_2010.txt
+HSY,Hershey Company (The),0000047111,2011,0001193125-11-039789,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000047111_2011.txt
+HSY,Hershey Company (The),0000047111,2012,0001193125-12-067143,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000047111_2012.txt
+HSY,Hershey Company (The),0000047111,2013,0000047111-13-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000047111_2013.txt
+HSY,Hershey Company (The),0000047111,2014,0000047111-14-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000047111_2014.txt
+HSY,Hershey Company (The),0000047111,2015,0000047111-15-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000047111_2015.txt
+HSY,Hershey Company (The),0000047111,2016,0000047111-16-000095,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000047111_2016.txt
+HSY,Hershey Company (The),0000047111,2017,0000047111-17-000005,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000047111_2017.txt
+HSY,Hershey Company (The),0000047111,2018,0000047111-18-000011,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000047111_2018.txt
+HSY,Hershey Company (The),0000047111,2019,0000047111-19-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000047111_2019.txt
+HSY,Hershey Company (The),0000047111,2020,0000047111-20-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000047111_2020.txt
+HSY,Hershey Company (The),0000047111,2021,0000047111-21-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000047111_2021.txt
+HSY,Hershey Company (The),0000047111,2022,0000047111-22-000017,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000047111_2022.txt
+HSY,Hershey Company (The),0000047111,2023,0000047111-23-000012,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000047111_2023.txt
+HSY,Hershey Company (The),0000047111,2024,0000047111-24-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000047111_2024.txt
+HSY,Hershey Company (The),0000047111,2025,0000047111-25-000014,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000047111_2025.txt
+KDP,Keurig Dr Pepper,0001418135,2010,0000950123-10-018549,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001418135_2010.txt
+KDP,Keurig Dr Pepper,0001418135,2011,0001445305-11-000302,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001418135_2011.txt
+KDP,Keurig Dr Pepper,0001418135,2012,0001418135-12-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001418135_2012.txt
+KDP,Keurig Dr Pepper,0001418135,2013,0001418135-13-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001418135_2013.txt
+KDP,Keurig Dr Pepper,0001418135,2014,0001418135-14-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001418135_2014.txt
+KDP,Keurig Dr Pepper,0001418135,2015,0001418135-15-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001418135_2015.txt
+KDP,Keurig Dr Pepper,0001418135,2016,0001418135-16-000050,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001418135_2016.txt
+KDP,Keurig Dr Pepper,0001418135,2017,0001418135-17-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001418135_2017.txt
+KDP,Keurig Dr Pepper,0001418135,2018,0001418135-18-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001418135_2018.txt
+KDP,Keurig Dr Pepper,0001418135,2019,0001418135-19-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001418135_2019.txt
+KDP,Keurig Dr Pepper,0001418135,2020,0001418135-20-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001418135_2020.txt
+KDP,Keurig Dr Pepper,0001418135,2021,0001418135-21-000005,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001418135_2021.txt
+KDP,Keurig Dr Pepper,0001418135,2022,0001418135-22-000005,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001418135_2022.txt
+KDP,Keurig Dr Pepper,0001418135,2023,0001418135-23-000003,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001418135_2023.txt
+KDP,Keurig Dr Pepper,0001418135,2024,0001418135-24-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001418135_2024.txt
+KDP,Keurig Dr Pepper,0001418135,2025,0001418135-25-000013,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001418135_2025.txt
+PEP,PepsiCo,0000077476,2010,0001193125-10-036385,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077476_2010.txt
+PEP,PepsiCo,0000077476,2011,0001193125-11-040427,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077476_2011.txt
+PEP,PepsiCo,0000077476,2012,0001193125-12-081822,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077476_2012.txt
+PEP,PepsiCo,0000077476,2013,0001445305-13-000278,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077476_2013.txt
+PEP,PepsiCo,0000077476,2014,0000077476-14-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077476_2014.txt
+PEP,PepsiCo,0000077476,2015,0000077476-15-000012,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077476_2015.txt
+PEP,PepsiCo,0000077476,2016,0000077476-16-000066,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077476_2016.txt
+PEP,PepsiCo,0000077476,2017,0000077476-17-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077476_2017.txt
+PEP,PepsiCo,0000077476,2018,0000077476-18-000012,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077476_2018.txt
+PEP,PepsiCo,0000077476,2019,0000077476-19-000017,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077476_2019.txt
+PEP,PepsiCo,0000077476,2020,0000077476-20-000015,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077476_2020.txt
+PEP,PepsiCo,0000077476,2021,0000077476-21-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077476_2021.txt
+PEP,PepsiCo,0000077476,2022,0000077476-22-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077476_2022.txt
+PEP,PepsiCo,0000077476,2023,0000077476-23-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077476_2023.txt
+PEP,PepsiCo,0000077476,2024,0000077476-24-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077476_2024.txt
+PEP,PepsiCo,0000077476,2025,0000077476-25-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077476_2025.txt
+TGT,Target Corporation,0000027419,2010,0001047469-10-002121,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000027419_2010.txt
+TGT,Target Corporation,0000027419,2011,0001047469-11-002032,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000027419_2011.txt
+TGT,Target Corporation,0000027419,2012,0001047469-12-002714,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000027419_2012.txt
+TGT,Target Corporation,0000027419,2013,0001047469-13-003100,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000027419_2013.txt
+TGT,Target Corporation,0000027419,2014,0000027419-14-000014,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000027419_2014.txt
+TGT,Target Corporation,0000027419,2015,0000027419-15-000012,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000027419_2015.txt
+TGT,Target Corporation,0000027419,2016,0000027419-16-000043,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000027419_2016.txt
+TGT,Target Corporation,0000027419,2017,0000027419-17-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000027419_2017.txt
+TGT,Target Corporation,0000027419,2018,0000027419-18-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000027419_2018.txt
+TGT,Target Corporation,0000027419,2019,0000027419-19-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000027419_2019.txt
+TGT,Target Corporation,0000027419,2020,0000027419-20-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000027419_2020.txt
+TGT,Target Corporation,0000027419,2021,0000027419-21-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000027419_2021.txt
+TGT,Target Corporation,0000027419,2022,0000027419-22-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000027419_2022.txt
+TGT,Target Corporation,0000027419,2023,0000027419-23-000015,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000027419_2023.txt
+TGT,Target Corporation,0000027419,2024,0000027419-24-000032,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000027419_2024.txt
+TGT,Target Corporation,0000027419,2025,0000027419-25-000018,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000027419_2025.txt
+CVX,Chevron Corporation,0000093410,2010,0000950123-10-016846,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093410_2010.txt
+CVX,Chevron Corporation,0000093410,2011,0000950123-11-017688,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093410_2011.txt
+CVX,Chevron Corporation,0000093410,2012,0000950123-12-002976,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093410_2012.txt
+CVX,Chevron Corporation,0000093410,2013,0000093410-13-000003,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093410_2013.txt
+CVX,Chevron Corporation,0000093410,2014,0000093410-14-000011,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093410_2014.txt
+CVX,Chevron Corporation,0000093410,2015,0000093410-15-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093410_2015.txt
+CVX,Chevron Corporation,0000093410,2016,0000093410-16-000049,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093410_2016.txt
+CVX,Chevron Corporation,0000093410,2017,0000093410-17-000013,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093410_2017.txt
+CVX,Chevron Corporation,0000093410,2018,0000093410-18-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093410_2018.txt
+CVX,Chevron Corporation,0000093410,2019,0000093410-19-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093410_2019.txt
+CVX,Chevron Corporation,0000093410,2020,0000093410-20-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093410_2020.txt
+CVX,Chevron Corporation,0000093410,2021,0000093410-21-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093410_2021.txt
+CVX,Chevron Corporation,0000093410,2022,0000093410-22-000019,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093410_2022.txt
+CVX,Chevron Corporation,0000093410,2023,0000093410-23-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093410_2023.txt
+CVX,Chevron Corporation,0000093410,2024,0000093410-24-000013,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093410_2024.txt
+CVX,Chevron Corporation,0000093410,2025,0000093410-25-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093410_2025.txt
+EXE,Expand Energy,0000895126,2010,0001193125-10-044784,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000895126_2010.txt
+EXE,Expand Energy,0000895126,2011,0001193125-11-052349,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000895126_2011.txt
+EXE,Expand Energy,0000895126,2012,0001193125-12-089591,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000895126_2012.txt
+EXE,Expand Energy,0000895126,2013,0000895126-13-000076,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000895126_2013.txt
+EXE,Expand Energy,0000895126,2014,0000895126-14-000104,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000895126_2014.txt
+EXE,Expand Energy,0000895126,2015,0000895126-15-000076,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000895126_2015.txt
+EXE,Expand Energy,0000895126,2016,0000895126-16-000395,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000895126_2016.txt
+EXE,Expand Energy,0000895126,2017,0000895126-17-000068,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000895126_2017.txt
+EXE,Expand Energy,0000895126,2018,0000895126-18-000060,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000895126_2018.txt
+EXE,Expand Energy,0000895126,2019,0000895126-19-000070,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000895126_2019.txt
+EXE,Expand Energy,0000895126,2020,0000895126-20-000061,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000895126_2020.txt
+EXE,Expand Energy,0000895126,2021,0000895126-21-000078,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000895126_2021.txt
+EXE,Expand Energy,0000895126,2022,0000895126-22-000029,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000895126_2022.txt
+EXE,Expand Energy,0000895126,2023,0000895126-23-000022,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000895126_2023.txt
+EXE,Expand Energy,0000895126,2024,0000895126-24-000013,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000895126_2024.txt
+EXE,Expand Energy,0000895126,2025,0000895126-25-000021,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000895126_2025.txt
+OKE,Oneok,0001039684,2010,0000909281-10-000030,item1a_not_found,
+OKE,Oneok,0001039684,2011,0001039684-11-000029,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001039684_2011.txt
+OKE,Oneok,0001039684,2012,0001039684-12-000027,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001039684_2012.txt
+OKE,Oneok,0001039684,2013,0001039684-13-000024,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001039684_2013.txt
+OKE,Oneok,0001039684,2014,0001039684-14-000019,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001039684_2014.txt
+OKE,Oneok,0001039684,2015,0001039684-15-000017,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001039684_2015.txt
+OKE,Oneok,0001039684,2016,0001039684-16-000113,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001039684_2016.txt
+OKE,Oneok,0001039684,2017,0001039684-17-000019,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001039684_2017.txt
+OKE,Oneok,0001039684,2018,0001039684-18-000021,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001039684_2018.txt
+OKE,Oneok,0001039684,2019,0001039684-19-000016,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001039684_2019.txt
+OKE,Oneok,0001039684,2020,0001039684-20-000012,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001039684_2020.txt
+OKE,Oneok,0001039684,2021,0001039684-21-000015,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001039684_2021.txt
+OKE,Oneok,0001039684,2022,0001039684-22-000015,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001039684_2022.txt
+OKE,Oneok,0001039684,2023,0001039684-23-000016,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001039684_2023.txt
+OKE,Oneok,0001039684,2024,0001039684-24-000015,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001039684_2024.txt
+OKE,Oneok,0001039684,2025,0001039684-25-000036,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001039684_2025.txt
+OXY,Occidental Petroleum,0000797468,2010,0000797468-10-000020,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000797468_2010.txt
+OXY,Occidental Petroleum,0000797468,2011,0000797468-11-000026,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000797468_2011.txt
+OXY,Occidental Petroleum,0000797468,2012,0000797468-12-000016,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000797468_2012.txt
+OXY,Occidental Petroleum,0000797468,2013,0000797468-13-000011,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000797468_2013.txt
+OXY,Occidental Petroleum,0000797468,2014,0000797468-14-000011,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000797468_2014.txt
+OXY,Occidental Petroleum,0000797468,2015,0000797468-15-000003,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000797468_2015.txt
+OXY,Occidental Petroleum,0000797468,2016,0000797468-16-000017,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000797468_2016.txt
+OXY,Occidental Petroleum,0000797468,2017,0000797468-17-000003,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000797468_2017.txt
+OXY,Occidental Petroleum,0000797468,2018,0000797468-18-000005,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000797468_2018.txt
+OXY,Occidental Petroleum,0000797468,2019,0000797468-19-000004,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000797468_2019.txt
+OXY,Occidental Petroleum,0000797468,2020,0000797468-20-000004,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000797468_2020.txt
+OXY,Occidental Petroleum,0000797468,2021,0000797468-21-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000797468_2021.txt
+OXY,Occidental Petroleum,0000797468,2022,0000797468-22-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000797468_2022.txt
+OXY,Occidental Petroleum,0000797468,2023,0000797468-23-000011,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000797468_2023.txt
+OXY,Occidental Petroleum,0000797468,2024,0000797468-24-000034,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000797468_2024.txt
+OXY,Occidental Petroleum,0000797468,2025,0000797468-25-000029,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000797468_2025.txt
+VLO,Valero Energy,0001035002,2010,0000950123-10-018097,item1a_not_found,
+VLO,Valero Energy,0001035002,2011,0001035002-11-000013,item1a_not_found,
+VLO,Valero Energy,0001035002,2012,0001035002-12-000008,item1a_not_found,
 VLO,Valero Energy,0001035002,2013,0001035002-13-000008,item1a_not_found,
-EG,Everest Group,0001095073,2026,0001095073-26-000006,skipped (already exists),../data/item1a/0001095073_2026.txt
-EG,Everest Group,0001095073,2025,0001095073-25-000015,skipped (already exists),../data/item1a/0001095073_2025.txt
-EG,Everest Group,0001095073,2024,0001095073-24-000009,skipped (already exists),../data/item1a/0001095073_2024.txt
-EG,Everest Group,0001095073,2023,0001095073-23-000007,skipped (already exists),../data/item1a/0001095073_2023.txt
-EG,Everest Group,0001095073,2022,0001095073-22-000005,skipped (already exists),../data/item1a/0001095073_2022.txt
-EG,Everest Group,0001095073,2021,0001095073-21-000006,skipped (already exists),../data/item1a/0001095073_2021.txt
-EG,Everest Group,0001095073,2020,0001095073-20-000006,skipped (already exists),../data/item1a/0001095073_2020.txt
-EG,Everest Group,0001095073,2019,0001095073-19-000011,skipped (already exists),../data/item1a/0001095073_2019.txt
-EG,Everest Group,0001095073,2018,0001095073-18-000008,skipped (already exists),../data/item1a/0001095073_2018.txt
-EG,Everest Group,0001095073,2017,0001095073-17-000011,skipped (already exists),../data/item1a/0001095073_2017.txt
-EG,Everest Group,0001095073,2016,0001095073-16-000071,skipped (already exists),../data/item1a/0001095073_2016.txt
-EG,Everest Group,0001095073,2015,0001095073-15-000007,skipped (already exists),../data/item1a/0001095073_2015.txt
-EG,Everest Group,0001095073,2014,0001095073-14-000008,skipped (already exists),../data/item1a/0001095073_2014.txt
-EG,Everest Group,0001095073,2013,0001095073-13-000015,skipped (already exists),../data/item1a/0001095073_2013.txt
-EG,Everest Group,0001095073,2012,0001095073-12-000013,skipped (already exists),../data/item1a/0001095073_2012.txt
-WRB,W. R. Berkley Corporation,0000011544,2026,0000011544-26-000005,skipped (already exists),../data/item1a/0000011544_2026.txt
-WRB,W. R. Berkley Corporation,0000011544,2025,0000011544-25-000005,skipped (already exists),../data/item1a/0000011544_2025.txt
-WRB,W. R. Berkley Corporation,0000011544,2024,0000011544-24-000005,skipped (already exists),../data/item1a/0000011544_2024.txt
-WRB,W. R. Berkley Corporation,0000011544,2023,0000011544-23-000004,skipped (already exists),../data/item1a/0000011544_2023.txt
-WRB,W. R. Berkley Corporation,0000011544,2022,0000011544-22-000007,skipped (already exists),../data/item1a/0000011544_2022.txt
-WRB,W. R. Berkley Corporation,0000011544,2021,0000011544-21-000013,skipped (already exists),../data/item1a/0000011544_2021.txt
-WRB,W. R. Berkley Corporation,0000011544,2020,0000011544-20-000016,skipped (already exists),../data/item1a/0000011544_2020.txt
-WRB,W. R. Berkley Corporation,0000011544,2019,0000011544-19-000016,skipped (already exists),../data/item1a/0000011544_2019.txt
-WRB,W. R. Berkley Corporation,0000011544,2018,0000011544-18-000012,skipped (already exists),../data/item1a/0000011544_2018.txt
-WRB,W. R. Berkley Corporation,0000011544,2017,0000011544-17-000009,skipped (already exists),../data/item1a/0000011544_2017.txt
-WRB,W. R. Berkley Corporation,0000011544,2016,0000011544-16-000086,skipped (already exists),../data/item1a/0000011544_2016.txt
-WRB,W. R. Berkley Corporation,0000011544,2015,0000011544-15-000010,skipped (already exists),../data/item1a/0000011544_2015.txt
-WRB,W. R. Berkley Corporation,0000011544,2014,0000011544-14-000012,skipped (already exists),../data/item1a/0000011544_2014.txt
-WRB,W. R. Berkley Corporation,0000011544,2013,0000011544-13-000018,skipped (already exists),../data/item1a/0000011544_2013.txt
-BRO,Brown & Brown,0000079282,2026,0001193125-26-046984,success,../data/item1a/0000079282_2026.txt
-BRO,Brown & Brown,0000079282,2025,0000950170-25-019039,success,../data/item1a/0000079282_2025.txt
-BRO,Brown & Brown,0000079282,2024,0000950170-24-018890,success,../data/item1a/0000079282_2024.txt
-BRO,Brown & Brown,0000079282,2023,0000950170-23-004717,success,../data/item1a/0000079282_2023.txt
-BRO,Brown & Brown,0000079282,2022,0000950170-22-001654,success,../data/item1a/0000079282_2022.txt
-BRO,Brown & Brown,0000079282,2021,0001564590-21-007624,success,../data/item1a/0000079282_2021.txt
-BRO,Brown & Brown,0000079282,2020,0001564590-20-006075,success,../data/item1a/0000079282_2020.txt
-BRO,Brown & Brown,0000079282,2019,0000079282-19-000006,success,../data/item1a/0000079282_2019.txt
-BRO,Brown & Brown,0000079282,2018,0000079282-18-000006,success,../data/item1a/0000079282_2018.txt
-BRO,Brown & Brown,0000079282,2017,0000079282-17-000006,success,../data/item1a/0000079282_2017.txt
-BRO,Brown & Brown,0000079282,2016,0000079282-16-000034,success,../data/item1a/0000079282_2016.txt
-BRO,Brown & Brown,0000079282,2015,0001193125-15-070864,item1a_not_found,
-BRO,Brown & Brown,0000079282,2014,0001193125-14-077842,item1a_not_found,
-BRO,Brown & Brown,0000079282,2013,0001193125-13-087664,item1a_not_found,
+VLO,Valero Energy,0001035002,2014,0001035002-14-000008,item1a_not_found,
+VLO,Valero Energy,0001035002,2015,0001035002-15-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001035002_2015.txt
+VLO,Valero Energy,0001035002,2016,0001035002-16-000069,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001035002_2016.txt
+VLO,Valero Energy,0001035002,2017,0001035002-17-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001035002_2017.txt
+VLO,Valero Energy,0001035002,2018,0001035002-18-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001035002_2018.txt
+VLO,Valero Energy,0001035002,2019,0001035002-19-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001035002_2019.txt
+VLO,Valero Energy,0001035002,2020,0001035002-20-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001035002_2020.txt
+VLO,Valero Energy,0001035002,2021,0001035002-21-000051,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001035002_2021.txt
+VLO,Valero Energy,0001035002,2022,0001035002-22-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001035002_2022.txt
+VLO,Valero Energy,0001035002,2023,0001035002-23-000027,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001035002_2023.txt
+VLO,Valero Energy,0001035002,2024,0001035002-24-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001035002_2024.txt
+VLO,Valero Energy,0001035002,2025,0001035002-25-000005,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001035002_2025.txt
+AFL,Aflac,0000004977,2010,0001193125-10-043173,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000004977_2010.txt
+AFL,Aflac,0000004977,2011,0001193125-11-047639,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000004977_2011.txt
+AFL,Aflac,0000004977,2012,0001193125-12-081967,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000004977_2012.txt
+AFL,Aflac,0000004977,2013,0000004977-13-000030,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000004977_2013.txt
+AFL,Aflac,0000004977,2014,0000004977-14-000052,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000004977_2014.txt
+AFL,Aflac,0000004977,2015,0000004977-15-000071,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000004977_2015.txt
+AFL,Aflac,0000004977,2016,0000004977-16-000259,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000004977_2016.txt
+AFL,Aflac,0000004977,2017,0000004977-17-000064,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000004977_2017.txt
+AFL,Aflac,0000004977,2018,0000004977-18-000054,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000004977_2018.txt
+AFL,Aflac,0000004977,2019,0000004977-19-000049,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000004977_2019.txt
+AFL,Aflac,0000004977,2020,0000004977-20-000044,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000004977_2020.txt
+AFL,Aflac,0000004977,2021,0000004977-21-000047,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000004977_2021.txt
+AFL,Aflac,0000004977,2022,0000004977-22-000058,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000004977_2022.txt
+AFL,Aflac,0000004977,2023,0000004977-23-000055,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000004977_2023.txt
+AFL,Aflac,0000004977,2024,0000004977-24-000053,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000004977_2024.txt
+AFL,Aflac,0000004977,2025,0000004977-25-000047,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000004977_2025.txt
+AON,Aon plc,0000315293,2010,0001047469-10-001535,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000315293_2010.txt
+AON,Aon plc,0000315293,2011,0001047469-11-001427,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000315293_2011.txt
+AON,Aon plc,0000315293,2012,0001047469-12-001478,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000315293_2012.txt
+AON,Aon plc,0000315293,2013,0001047469-13-001494,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000315293_2013.txt
+AON,Aon plc,0000315293,2014,0001445305-14-000476,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000315293_2014.txt
+AON,Aon plc,0000315293,2015,0001628280-15-000950,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000315293_2015.txt
+AON,Aon plc,0000315293,2016,0001628280-16-011485,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000315293_2016.txt
+AON,Aon plc,0000315293,2017,0001628280-17-001652,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000315293_2017.txt
+AON,Aon plc,0000315293,2018,0001628280-18-001923,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000315293_2018.txt
+AON,Aon plc,0000315293,2019,0001628280-19-001558,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000315293_2019.txt
+AON,Aon plc,0000315293,2020,0001628280-20-001607,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000315293_2020.txt
+AON,Aon plc,0000315293,2021,0001628280-21-002574,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000315293_2021.txt
+AON,Aon plc,0000315293,2022,0001628280-22-003180,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000315293_2022.txt
+AON,Aon plc,0000315293,2023,0001628280-23-004087,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000315293_2023.txt
+AON,Aon plc,0000315293,2024,0001628280-24-005392,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000315293_2024.txt
+AON,Aon plc,0000315293,2025,0001628280-25-006093,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000315293_2025.txt
+BRO,Brown & Brown,0000079282,2010,0001193125-10-044577,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000079282_2010.txt
+BRO,Brown & Brown,0000079282,2011,0001193125-11-051929,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000079282_2011.txt
 BRO,Brown & Brown,0000079282,2012,0001193125-12-089393,item1a_not_found,
-BRO,Brown & Brown,0000079282,2011,0001193125-11-051929,item1a_not_found,
-JKHY,Jack Henry & Associates,0000779152,2025,0000779152-25-000055,skipped (already exists),../data/item1a/0000779152_2025.txt
-JKHY,Jack Henry & Associates,0000779152,2024,0000779152-24-000079,skipped (already exists),../data/item1a/0000779152_2024.txt
-JKHY,Jack Henry & Associates,0000779152,2023,0000779152-23-000062,skipped (already exists),../data/item1a/0000779152_2023.txt
-JKHY,Jack Henry & Associates,0000779152,2022,0000779152-22-000076,skipped (already exists),../data/item1a/0000779152_2022.txt
-JKHY,Jack Henry & Associates,0000779152,2021,0000779152-21-000073,skipped (already exists),../data/item1a/0000779152_2021.txt
-JKHY,Jack Henry & Associates,0000779152,2020,0000779152-20-000064,skipped (already exists),../data/item1a/0000779152_2020.txt
-JKHY,Jack Henry & Associates,0000779152,2019,0000779152-19-000048,skipped (already exists),../data/item1a/0000779152_2019.txt
-JKHY,Jack Henry & Associates,0000779152,2018,0000779152-18-000060,skipped (already exists),../data/item1a/0000779152_2018.txt
-JKHY,Jack Henry & Associates,0000779152,2017,0000779152-17-000040,skipped (already exists),../data/item1a/0000779152_2017.txt
-JKHY,Jack Henry & Associates,0000779152,2016,0000779152-16-000142,skipped (already exists),../data/item1a/0000779152_2016.txt
-JKHY,Jack Henry & Associates,0000779152,2015,0000779152-15-000056,skipped (already exists),../data/item1a/0000779152_2015.txt
-JKHY,Jack Henry & Associates,0000779152,2014,0000779152-14-000036,skipped (already exists),../data/item1a/0000779152_2014.txt
-JKHY,Jack Henry & Associates,0000779152,2013,0000779152-13-000028,skipped (already exists),../data/item1a/0000779152_2013.txt
-JKHY,Jack Henry & Associates,0000779152,2012,0000779152-12-000051,skipped (already exists),../data/item1a/0000779152_2012.txt
-JKHY,Jack Henry & Associates,0000779152,2011,0000926236-11-000072,skipped (already exists),../data/item1a/0000779152_2011.txt
-JKHY,Jack Henry & Associates,0000779152,2010,0000926236-10-000031,skipped (already exists),../data/item1a/0000779152_2010.txt
-COO,Cooper Companies (The),0000711404,2025,0001628280-25-055615,skipped (already exists),../data/item1a/0000711404_2025.txt
-COO,Cooper Companies (The),0000711404,2024,0000711404-24-000074,skipped (already exists),../data/item1a/0000711404_2024.txt
-COO,Cooper Companies (The),0000711404,2023,0000711404-23-000072,skipped (already exists),../data/item1a/0000711404_2023.txt
-COO,Cooper Companies (The),0000711404,2022,0000711404-22-000053,skipped (already exists),../data/item1a/0000711404_2022.txt
-COO,Cooper Companies (The),0000711404,2021,0000711404-21-000038,skipped (already exists),../data/item1a/0000711404_2021.txt
-COO,Cooper Companies (The),0000711404,2020,0000711404-20-000042,skipped (already exists),../data/item1a/0000711404_2020.txt
-COO,Cooper Companies (The),0000711404,2019,0000711404-19-000051,skipped (already exists),../data/item1a/0000711404_2019.txt
-COO,Cooper Companies (The),0000711404,2018,0000711404-18-000047,skipped (already exists),../data/item1a/0000711404_2018.txt
-COO,Cooper Companies (The),0000711404,2017,0000711404-17-000044,skipped (already exists),../data/item1a/0000711404_2017.txt
-COO,Cooper Companies (The),0000711404,2016,0000711404-16-000042,skipped (already exists),../data/item1a/0000711404_2016.txt
-COO,Cooper Companies (The),0000711404,2015,0000711404-15-000021,skipped (already exists),../data/item1a/0000711404_2015.txt
-COO,Cooper Companies (The),0000711404,2014,0000711404-14-000017,skipped (already exists),../data/item1a/0000711404_2014.txt
-COO,Cooper Companies (The),0000711404,2013,0000711404-13-000012,skipped (already exists),../data/item1a/0000711404_2013.txt
-UHS,Universal Health Services,0000352915,2026,0001193125-26-071676,success,../data/item1a/0000352915_2026.txt
-UHS,Universal Health Services,0000352915,2025,0000950170-25-027785,success,../data/item1a/0000352915_2025.txt
-UHS,Universal Health Services,0000352915,2024,0000950170-24-021175,success,../data/item1a/0000352915_2024.txt
-UHS,Universal Health Services,0000352915,2023,0000950170-23-004656,success,../data/item1a/0000352915_2023.txt
-UHS,Universal Health Services,0000352915,2022,0001564590-22-006717,success,../data/item1a/0000352915_2022.txt
-UHS,Universal Health Services,0000352915,2021,0001564590-21-008851,success,../data/item1a/0000352915_2021.txt
-UHS,Universal Health Services,0000352915,2020,0001564590-20-006793,success,../data/item1a/0000352915_2020.txt
-UHS,Universal Health Services,0000352915,2019,0001564590-19-004919,success,../data/item1a/0000352915_2019.txt
-UHS,Universal Health Services,0000352915,2018,0001564590-18-003808,success,../data/item1a/0000352915_2018.txt
-UHS,Universal Health Services,0000352915,2017,0001564590-17-002860,success,../data/item1a/0000352915_2017.txt
-UHS,Universal Health Services,0000352915,2016,0001564590-16-013375,success,../data/item1a/0000352915_2016.txt
-UHS,Universal Health Services,0000352915,2015,0001193125-15-065954,success,../data/item1a/0000352915_2015.txt
-UHS,Universal Health Services,0000352915,2014,0001193125-14-073337,success,../data/item1a/0000352915_2014.txt
-UHS,Universal Health Services,0000352915,2013,0001193125-13-084679,item1a_not_found,
-UHS,Universal Health Services,0000352915,2012,0001193125-12-081900,item1a_not_found,
-UHS,Universal Health Services,0000352915,2011,0001193125-11-050142,success,../data/item1a/0000352915_2011.txt
-TECH,Bio-Techne,0000842023,2025,0001558370-25-011716,skipped (already exists),../data/item1a/0000842023_2025.txt
-TECH,Bio-Techne,0000842023,2024,0001558370-24-012430,skipped (already exists),../data/item1a/0000842023_2024.txt
-TECH,Bio-Techne,0000842023,2023,0001558370-23-015226,skipped (already exists),../data/item1a/0000842023_2023.txt
-TECH,Bio-Techne,0000842023,2022,0001558370-22-013935,skipped (already exists),../data/item1a/0000842023_2022.txt
-TECH,Bio-Techne,0000842023,2021,0001437749-21-020980,skipped (already exists),../data/item1a/0000842023_2021.txt
-TECH,Bio-Techne,0000842023,2020,0001437749-20-018754,skipped (already exists),../data/item1a/0000842023_2020.txt
-TECH,Bio-Techne,0000842023,2019,0001437749-19-017565,skipped (already exists),../data/item1a/0000842023_2019.txt
-TECH,Bio-Techne,0000842023,2018,0001437749-18-016190,skipped (already exists),../data/item1a/0000842023_2018.txt
-TECH,Bio-Techne,0000842023,2017,0001437749-17-015711,skipped (already exists),../data/item1a/0000842023_2017.txt
-TECH,Bio-Techne,0000842023,2016,0001437749-16-038182,skipped (already exists),../data/item1a/0000842023_2016.txt
-TECH,Bio-Techne,0000842023,2015,0001437749-15-016645,skipped (already exists),../data/item1a/0000842023_2015.txt
-TECH,Bio-Techne,0000842023,2014,0001193125-14-327566,skipped (already exists),../data/item1a/0000842023_2014.txt
-TECH,Bio-Techne,0000842023,2013,0001193125-13-351961,skipped (already exists),../data/item1a/0000842023_2013.txt
-TECH,Bio-Techne,0000842023,2012,0001193125-12-373084,skipped (already exists),../data/item1a/0000842023_2012.txt
-TECH,Bio-Techne,0000842023,2011,0001193125-11-235045,skipped (already exists),../data/item1a/0000842023_2011.txt
-TECH,Bio-Techne,0000842023,2010,0000842023-10-000031,skipped (already exists),../data/item1a/0000842023_2010.txt
-RVTY,Revvity,0000031791,2026,0000031791-26-000012,skipped (already exists),../data/item1a/0000031791_2026.txt
-RVTY,Revvity,0000031791,2025,0000031791-25-000009,skipped (already exists),../data/item1a/0000031791_2025.txt
-RVTY,Revvity,0000031791,2024,0000031791-24-000004,skipped (already exists),../data/item1a/0000031791_2024.txt
-RVTY,Revvity,0000031791,2023,0000031791-23-000004,skipped (already exists),../data/item1a/0000031791_2023.txt
-RVTY,Revvity,0000031791,2022,0000031791-22-000003,skipped (already exists),../data/item1a/0000031791_2022.txt
-RVTY,Revvity,0000031791,2021,0000031791-21-000003,skipped (already exists),../data/item1a/0000031791_2021.txt
-RVTY,Revvity,0000031791,2020,0000031791-20-000003,skipped (already exists),../data/item1a/0000031791_2020.txt
-RVTY,Revvity,0000031791,2019,0000031791-19-000003,skipped (already exists),../data/item1a/0000031791_2019.txt
-RVTY,Revvity,0000031791,2018,0000031791-18-000004,skipped (already exists),../data/item1a/0000031791_2018.txt
-RVTY,Revvity,0000031791,2017,0000031791-17-000003,skipped (already exists),../data/item1a/0000031791_2017.txt
-RVTY,Revvity,0000031791,2016,0000031791-16-000014,skipped (already exists),../data/item1a/0000031791_2016.txt
-RVTY,Revvity,0000031791,2015,0000031791-15-000003,skipped (already exists),../data/item1a/0000031791_2015.txt
-RVTY,Revvity,0000031791,2014,0001445305-14-000585,skipped (already exists),../data/item1a/0000031791_2014.txt
-RVTY,Revvity,0000031791,2013,0001445305-13-000333,skipped (already exists),../data/item1a/0000031791_2013.txt
-RVTY,Revvity,0000031791,2012,0001445305-12-000499,skipped (already exists),../data/item1a/0000031791_2012.txt
-IEX,IDEX Corporation,0000832101,2026,0000832101-26-000003,skipped (already exists),../data/item1a/0000832101_2026.txt
-IEX,IDEX Corporation,0000832101,2025,0000832101-25-000010,skipped (already exists),../data/item1a/0000832101_2025.txt
-IEX,IDEX Corporation,0000832101,2024,0000832101-24-000009,skipped (already exists),../data/item1a/0000832101_2024.txt
-IEX,IDEX Corporation,0000832101,2023,0000832101-23-000013,skipped (already exists),../data/item1a/0000832101_2023.txt
-IEX,IDEX Corporation,0000832101,2022,0000832101-22-000008,skipped (already exists),../data/item1a/0000832101_2022.txt
-IEX,IDEX Corporation,0000832101,2021,0000832101-21-000017,skipped (already exists),../data/item1a/0000832101_2021.txt
-IEX,IDEX Corporation,0000832101,2020,0000832101-20-000007,skipped (already exists),../data/item1a/0000832101_2020.txt
-IEX,IDEX Corporation,0000832101,2019,0000832101-19-000005,skipped (already exists),../data/item1a/0000832101_2019.txt
-IEX,IDEX Corporation,0000832101,2018,0000832101-18-000019,skipped (already exists),../data/item1a/0000832101_2018.txt
-IEX,IDEX Corporation,0000832101,2017,0000832101-17-000016,skipped (already exists),../data/item1a/0000832101_2017.txt
-IEX,IDEX Corporation,0000832101,2016,0000832101-16-000057,skipped (already exists),../data/item1a/0000832101_2016.txt
-IEX,IDEX Corporation,0000832101,2015,0000832101-15-000009,skipped (already exists),../data/item1a/0000832101_2015.txt
-IEX,IDEX Corporation,0000832101,2014,0001445305-14-000435,skipped (already exists),../data/item1a/0000832101_2014.txt
-IEX,IDEX Corporation,0000832101,2013,0001193125-13-069436,item1a_not_found,
-IEX,IDEX Corporation,0000832101,2012,0001193125-12-078246,item1a_not_found,
-IEX,IDEX Corporation,0000832101,2011,0000950123-11-018609,item1a_not_found,
-CTAS,Cintas,0000723254,2025,0000723254-25-000017,success,../data/item1a/0000723254_2025.txt
-CTAS,Cintas,0000723254,2024,0000723254-24-000036,success,../data/item1a/0000723254_2024.txt
-CTAS,Cintas,0000723254,2023,0000723254-23-000025,success,../data/item1a/0000723254_2023.txt
-CTAS,Cintas,0000723254,2022,0000723254-22-000019,success,../data/item1a/0000723254_2022.txt
-CTAS,Cintas,0000723254,2021,0000723254-21-000021,success,../data/item1a/0000723254_2021.txt
-CTAS,Cintas,0000723254,2020,0000723254-20-000025,success,../data/item1a/0000723254_2020.txt
-CTAS,Cintas,0000723254,2019,0000723254-19-000021,success,../data/item1a/0000723254_2019.txt
-CTAS,Cintas,0000723254,2018,0000723254-18-000015,success,../data/item1a/0000723254_2018.txt
-CTAS,Cintas,0000723254,2017,0000723254-17-000020,success,../data/item1a/0000723254_2017.txt
-CTAS,Cintas,0000723254,2016,0000723254-16-000050,success,../data/item1a/0000723254_2016.txt
-CTAS,Cintas,0000723254,2015,0000723254-15-000017,success,../data/item1a/0000723254_2015.txt
-CTAS,Cintas,0000723254,2014,0000723254-14-000020,success,../data/item1a/0000723254_2014.txt
-CTAS,Cintas,0000723254,2013,0000723254-13-000011,success,../data/item1a/0000723254_2013.txt
-CTAS,Cintas,0000723254,2012,0000723254-12-000004,success,../data/item1a/0000723254_2012.txt
-CTAS,Cintas,0000723254,2011,0001047469-11-006745,success,../data/item1a/0000723254_2011.txt
-CTAS,Cintas,0000723254,2010,0001047469-10-006785,success,../data/item1a/0000723254_2010.txt
-ROL,"Rollins, Inc.",0000084839,2026,0000084839-26-000008,item1a_not_found,
-ROL,"Rollins, Inc.",0000084839,2025,0000084839-25-000024,item1a_not_found,
-ROL,"Rollins, Inc.",0000084839,2024,0000084839-24-000025,item1a_not_found,
-ROL,"Rollins, Inc.",0000084839,2023,0000084839-23-000006,item1a_not_found,
-ROL,"Rollins, Inc.",0000084839,2022,0000084839-22-000011,item1a_not_found,
-ROL,"Rollins, Inc.",0000084839,2021,0001171200-21-000076,item1a_not_found,
-ROL,"Rollins, Inc.",0000084839,2020,0001171200-20-000103,item1a_not_found,
-ROL,"Rollins, Inc.",0000084839,2019,0001171200-19-000087,item1a_not_found,
-ROL,"Rollins, Inc.",0000084839,2018,0000084839-18-000065,item1a_not_found,
-ROL,"Rollins, Inc.",0000084839,2017,0001171200-17-000077,item1a_not_found,
-ROL,"Rollins, Inc.",0000084839,2016,0001552781-16-001318,item1a_not_found,
-ROL,"Rollins, Inc.",0000084839,2015,0001552781-15-000273,item1a_not_found,
-ROL,"Rollins, Inc.",0000084839,2014,0001552781-14-000153,item1a_not_found,
-ROL,"Rollins, Inc.",0000084839,2013,0001047469-13-001764,item1a_not_found,
-TXT,Textron,0000217346,2026,0000217346-26-000006,skipped (already exists),../data/item1a/0000217346_2026.txt
-TXT,Textron,0000217346,2025,0000217346-25-000017,skipped (already exists),../data/item1a/0000217346_2025.txt
-TXT,Textron,0000217346,2024,0000217346-24-000017,skipped (already exists),../data/item1a/0000217346_2024.txt
-TXT,Textron,0000217346,2023,0000217346-23-000006,skipped (already exists),../data/item1a/0000217346_2023.txt
-TXT,Textron,0000217346,2022,0000217346-22-000005,skipped (already exists),../data/item1a/0000217346_2022.txt
-TXT,Textron,0000217346,2021,0000217346-21-000019,skipped (already exists),../data/item1a/0000217346_2021.txt
-TXT,Textron,0000217346,2020,0001104659-20-024773,skipped (already exists),../data/item1a/0000217346_2020.txt
-TXT,Textron,0000217346,2019,0001104659-19-008151,skipped (already exists),../data/item1a/0000217346_2019.txt
-TXT,Textron,0000217346,2018,0001104659-18-009905,skipped (already exists),../data/item1a/0000217346_2018.txt
-TXT,Textron,0000217346,2017,0001104659-17-010809,skipped (already exists),../data/item1a/0000217346_2017.txt
-TXT,Textron,0000217346,2016,0001104659-16-099562,skipped (already exists),../data/item1a/0000217346_2016.txt
-TXT,Textron,0000217346,2015,0001104659-15-013784,skipped (already exists),../data/item1a/0000217346_2015.txt
-TXT,Textron,0000217346,2014,0001104659-14-009908,skipped (already exists),../data/item1a/0000217346_2014.txt
-TXT,Textron,0000217346,2013,0001104659-13-011048,skipped (already exists),../data/item1a/0000217346_2013.txt
-CPRT,Copart,0000900075,2025,0001628280-25-042946,skipped (already exists),../data/item1a/0000900075_2025.txt
-CPRT,Copart,0000900075,2024,0000900075-24-000024,skipped (already exists),../data/item1a/0000900075_2024.txt
-CPRT,Copart,0000900075,2023,0000900075-23-000034,skipped (already exists),../data/item1a/0000900075_2023.txt
-CPRT,Copart,0000900075,2022,0000900075-22-000050,skipped (already exists),../data/item1a/0000900075_2022.txt
-CPRT,Copart,0000900075,2021,0000900075-21-000022,skipped (already exists),../data/item1a/0000900075_2021.txt
-CPRT,Copart,0000900075,2020,0000900075-20-000021,skipped (already exists),../data/item1a/0000900075_2020.txt
-CPRT,Copart,0000900075,2019,0000900075-19-000022,skipped (already exists),../data/item1a/0000900075_2019.txt
-CPRT,Copart,0000900075,2018,0000900075-18-000048,skipped (already exists),../data/item1a/0000900075_2018.txt
-CPRT,Copart,0000900075,2017,0000900075-17-000044,skipped (already exists),../data/item1a/0000900075_2017.txt
-CPRT,Copart,0000900075,2016,0000900075-16-000081,skipped (already exists),../data/item1a/0000900075_2016.txt
-CPRT,Copart,0000900075,2015,0001628280-15-007286,skipped (already exists),../data/item1a/0000900075_2015.txt
-CPRT,Copart,0000900075,2014,0001145443-14-001196,item1a_not_found,
-CPRT,Copart,0000900075,2013,0001145443-13-001938,item1a_not_found,
-CPRT,Copart,0000900075,2012,0001145443-12-001120,item1a_not_found,
-CPRT,Copart,0000900075,2011,0001145443-11-000951,item1a_not_found,
-CPRT,Copart,0000900075,2010,0001047469-10-008242,skipped (already exists),../data/item1a/0000900075_2010.txt
-FIX,Comfort Systems USA,0001035983,2026,0001104659-26-017530,skipped (already exists),../data/item1a/0001035983_2026.txt
-FIX,Comfort Systems USA,0001035983,2025,0001558370-25-001222,skipped (already exists),../data/item1a/0001035983_2025.txt
-FIX,Comfort Systems USA,0001035983,2024,0001558370-24-001529,skipped (already exists),../data/item1a/0001035983_2024.txt
-FIX,Comfort Systems USA,0001035983,2023,0001558370-23-001757,skipped (already exists),../data/item1a/0001035983_2023.txt
-FIX,Comfort Systems USA,0001035983,2022,0001558370-22-001753,skipped (already exists),../data/item1a/0001035983_2022.txt
-FIX,Comfort Systems USA,0001035983,2021,0001558370-21-001828,skipped (already exists),../data/item1a/0001035983_2021.txt
-FIX,Comfort Systems USA,0001035983,2020,0001558370-20-001491,skipped (already exists),../data/item1a/0001035983_2020.txt
-FIX,Comfort Systems USA,0001035983,2019,0001558370-19-000857,skipped (already exists),../data/item1a/0001035983_2019.txt
-FIX,Comfort Systems USA,0001035983,2018,0001558370-18-000936,skipped (already exists),../data/item1a/0001035983_2018.txt
-FIX,Comfort Systems USA,0001035983,2017,0001558370-17-000882,skipped (already exists),../data/item1a/0001035983_2017.txt
-FIX,Comfort Systems USA,0001035983,2016,0001047469-16-010332,skipped (already exists),../data/item1a/0001035983_2016.txt
-FIX,Comfort Systems USA,0001035983,2015,0001047469-15-001294,skipped (already exists),../data/item1a/0001035983_2015.txt
-FIX,Comfort Systems USA,0001035983,2014,0001047469-14-001513,skipped (already exists),../data/item1a/0001035983_2014.txt
-FIX,Comfort Systems USA,0001035983,2013,0001047469-13-001962,skipped (already exists),../data/item1a/0001035983_2013.txt
-PAYX,Paychex,0000723531,2025,0000950170-25-095300,skipped (already exists),../data/item1a/0000723531_2025.txt
-PAYX,Paychex,0000723531,2024,0000950170-24-082958,skipped (already exists),../data/item1a/0000723531_2024.txt
-PAYX,Paychex,0000723531,2023,0000950170-23-032988,skipped (already exists),../data/item1a/0000723531_2023.txt
-PAYX,Paychex,0000723531,2022,0000950170-22-012734,skipped (already exists),../data/item1a/0000723531_2022.txt
-PAYX,Paychex,0000723531,2021,0000723531-21-000035,skipped (already exists),../data/item1a/0000723531_2021.txt
-PAYX,Paychex,0000723531,2020,0000723531-20-000048,skipped (already exists),../data/item1a/0000723531_2020.txt
-PAYX,Paychex,0000723531,2019,0000723531-19-000032,skipped (already exists),../data/item1a/0000723531_2019.txt
-PAYX,Paychex,0000723531,2018,0000723531-18-000026,skipped (already exists),../data/item1a/0000723531_2018.txt
-PAYX,Paychex,0000723531,2017,0000723531-17-000023,skipped (already exists),../data/item1a/0000723531_2017.txt
-PAYX,Paychex,0000723531,2016,0000723531-16-000046,skipped (already exists),../data/item1a/0000723531_2016.txt
-PAYX,Paychex,0000723531,2015,0000723531-15-000011,item1a_not_found,
-PAYX,Paychex,0000723531,2014,0000723531-14-000014,item1a_not_found,
-PAYX,Paychex,0000723531,2013,0000723531-13-000021,item1a_not_found,
-PAYX,Paychex,0000723531,2012,0001193125-12-309041,item1a_not_found,
-FAST,Fastenal,0000815556,2026,0000815556-26-000009,skipped (already exists),../data/item1a/0000815556_2026.txt
-FAST,Fastenal,0000815556,2025,0000815556-25-000065,skipped (already exists),../data/item1a/0000815556_2025.txt
-FAST,Fastenal,0000815556,2024,0000815556-24-000009,skipped (already exists),../data/item1a/0000815556_2024.txt
-FAST,Fastenal,0000815556,2023,0000815556-23-000009,skipped (already exists),../data/item1a/0000815556_2023.txt
-FAST,Fastenal,0000815556,2022,0000815556-22-000009,skipped (already exists),../data/item1a/0000815556_2022.txt
-FAST,Fastenal,0000815556,2021,0000815556-21-000008,skipped (already exists),../data/item1a/0000815556_2021.txt
-FAST,Fastenal,0000815556,2020,0000815556-20-000011,item1a_not_found,
-FAST,Fastenal,0000815556,2019,0000815556-19-000015,item1a_not_found,
-FAST,Fastenal,0000815556,2018,0000815556-18-000010,item1a_not_found,
-FAST,Fastenal,0000815556,2017,0000815556-17-000009,item1a_not_found,
-FAST,Fastenal,0000815556,2016,0000815556-16-000087,item1a_not_found,
-FAST,Fastenal,0000815556,2015,0000815556-15-000014,item1a_not_found,
-FAST,Fastenal,0000815556,2014,0000815556-14-000016,item1a_not_found,
-FAST,Fastenal,0000815556,2013,0000815556-13-000013,item1a_not_found,
-ODFL,Old Dominion,0000878927,2026,0001193125-26-067161,skipped (already exists),../data/item1a/0000878927_2026.txt
-ODFL,Old Dominion,0000878927,2025,0000950170-25-026661,skipped (already exists),../data/item1a/0000878927_2025.txt
-ODFL,Old Dominion,0000878927,2024,0000950170-24-020176,skipped (already exists),../data/item1a/0000878927_2024.txt
-ODFL,Old Dominion,0000878927,2023,0000950170-23-003783,skipped (already exists),../data/item1a/0000878927_2023.txt
-ODFL,Old Dominion,0000878927,2022,0001564590-22-006303,skipped (already exists),../data/item1a/0000878927_2022.txt
-ODFL,Old Dominion,0000878927,2021,0001564590-21-008056,skipped (already exists),../data/item1a/0000878927_2021.txt
-ODFL,Old Dominion,0000878927,2020,0001564590-20-006626,skipped (already exists),../data/item1a/0000878927_2020.txt
-ODFL,Old Dominion,0000878927,2019,0001564590-19-004755,skipped (already exists),../data/item1a/0000878927_2019.txt
-ODFL,Old Dominion,0000878927,2018,0000878927-18-000005,skipped (already exists),../data/item1a/0000878927_2018.txt
-ODFL,Old Dominion,0000878927,2017,0000878927-17-000005,skipped (already exists),../data/item1a/0000878927_2017.txt
-ODFL,Old Dominion,0000878927,2016,0000878927-16-000055,skipped (already exists),../data/item1a/0000878927_2016.txt
-ODFL,Old Dominion,0000878927,2015,0000878927-15-000006,skipped (already exists),../data/item1a/0000878927_2015.txt
-ODFL,Old Dominion,0000878927,2014,0000878927-14-000010,skipped (already exists),../data/item1a/0000878927_2014.txt
-ODFL,Old Dominion,0000878927,2013,0000878927-13-000012,skipped (already exists),../data/item1a/0000878927_2013.txt
-ODFL,Old Dominion,0000878927,2012,0001193125-12-087645,skipped (already exists),../data/item1a/0000878927_2012.txt
-EMR,Emerson Electric,0000032604,2025,0000032604-25-000087,skipped (already exists),../data/item1a/0000032604_2025.txt
-EMR,Emerson Electric,0000032604,2024,0000032604-24-000041,skipped (already exists),../data/item1a/0000032604_2024.txt
-EMR,Emerson Electric,0000032604,2023,0000032604-23-000044,skipped (already exists),../data/item1a/0000032604_2023.txt
-EMR,Emerson Electric,0000032604,2022,0000032604-22-000041,skipped (already exists),../data/item1a/0000032604_2022.txt
-EMR,Emerson Electric,0000032604,2021,0000032604-21-000038,skipped (already exists),../data/item1a/0000032604_2021.txt
-EMR,Emerson Electric,0000032604,2020,0000032604-20-000041,skipped (already exists),../data/item1a/0000032604_2020.txt
-EMR,Emerson Electric,0000032604,2019,0000032604-19-000048,skipped (already exists),../data/item1a/0000032604_2019.txt
-EMR,Emerson Electric,0000032604,2018,0000032604-18-000044,skipped (already exists),../data/item1a/0000032604_2018.txt
-EMR,Emerson Electric,0000032604,2017,0000032604-17-000046,skipped (already exists),../data/item1a/0000032604_2017.txt
-EMR,Emerson Electric,0000032604,2016,0000032604-16-000105,skipped (already exists),../data/item1a/0000032604_2016.txt
-EMR,Emerson Electric,0000032604,2015,0000032604-15-000051,skipped (already exists),../data/item1a/0000032604_2015.txt
-EMR,Emerson Electric,0000032604,2014,0000032604-14-000048,skipped (already exists),../data/item1a/0000032604_2014.txt
-EMR,Emerson Electric,0000032604,2013,0000032604-13-000044,skipped (already exists),../data/item1a/0000032604_2013.txt
-ROP,Roper Technologies,0000882835,2026,0000882835-26-000009,skipped (already exists),../data/item1a/0000882835_2026.txt
-ROP,Roper Technologies,0000882835,2025,0000882835-25-000008,skipped (already exists),../data/item1a/0000882835_2025.txt
-ROP,Roper Technologies,0000882835,2024,0000882835-24-000008,skipped (already exists),../data/item1a/0000882835_2024.txt
-ROP,Roper Technologies,0000882835,2023,0000882835-23-000016,skipped (already exists),../data/item1a/0000882835_2023.txt
-ROP,Roper Technologies,0000882835,2022,0000882835-22-000012,skipped (already exists),../data/item1a/0000882835_2022.txt
-ROP,Roper Technologies,0000882835,2021,0000882835-21-000011,skipped (already exists),../data/item1a/0000882835_2021.txt
-ROP,Roper Technologies,0000882835,2020,0000882835-20-000006,item1a_not_found,
-ROP,Roper Technologies,0000882835,2019,0000882835-19-000010,item1a_not_found,
-ROP,Roper Technologies,0000882835,2018,0000882835-18-000011,item1a_not_found,
-ROP,Roper Technologies,0000882835,2017,0000882835-17-000006,item1a_not_found,
-ROP,Roper Technologies,0000882835,2016,0000882835-16-000035,item1a_not_found,
-ROP,Roper Technologies,0000882835,2015,0000882835-15-000009,item1a_not_found,
-ROP,Roper Technologies,0000882835,2014,0000882835-14-000011,skipped (already exists),../data/item1a/0000882835_2014.txt
-ROP,Roper Technologies,0000882835,2013,0000882835-13-000008,skipped (already exists),../data/item1a/0000882835_2013.txt
-ROP,Roper Technologies,0000882835,2012,0000882835-12-000013,skipped (already exists),../data/item1a/0000882835_2012.txt
-AMAT,Applied Materials,0000006951,2025,0001628280-25-056742,success,../data/item1a/0000006951_2025.txt
-AMAT,Applied Materials,0000006951,2024,0000006951-24-000044,success,../data/item1a/0000006951_2024.txt
-AMAT,Applied Materials,0000006951,2023,0000006951-23-000041,success,../data/item1a/0000006951_2023.txt
-AMAT,Applied Materials,0000006951,2022,0000006951-22-000043,success,../data/item1a/0000006951_2022.txt
-AMAT,Applied Materials,0000006951,2021,0000006951-21-000043,success,../data/item1a/0000006951_2021.txt
-AMAT,Applied Materials,0000006951,2020,0000006951-20-000048,success,../data/item1a/0000006951_2020.txt
-AMAT,Applied Materials,0000006951,2019,0000006951-19-000046,success,../data/item1a/0000006951_2019.txt
-AMAT,Applied Materials,0000006951,2018,0000006951-18-000041,item1a_not_found,
-AMAT,Applied Materials,0000006951,2017,0000006951-17-000038,item1a_not_found,
-AMAT,Applied Materials,0000006951,2016,0000006951-16-000068,item1a_not_found,
-AMAT,Applied Materials,0000006951,2015,0000006951-15-000034,item1a_not_found,
-AMAT,Applied Materials,0000006951,2014,0000006951-14-000037,item1a_not_found,
-AMAT,Applied Materials,0000006951,2013,0000006951-13-000044,item1a_not_found,
-PKG,Packaging Corporation of America,0000075677,2026,0001193125-26-074129,skipped (already exists),../data/item1a/0000075677_2026.txt
-PKG,Packaging Corporation of America,0000075677,2025,0000950170-25-028533,skipped (already exists),../data/item1a/0000075677_2025.txt
-PKG,Packaging Corporation of America,0000075677,2024,0000950170-24-022794,skipped (already exists),../data/item1a/0000075677_2024.txt
-PKG,Packaging Corporation of America,0000075677,2023,0000950170-23-003990,skipped (already exists),../data/item1a/0000075677_2023.txt
-PKG,Packaging Corporation of America,0000075677,2022,0000950170-22-001913,skipped (already exists),../data/item1a/0000075677_2022.txt
-PKG,Packaging Corporation of America,0000075677,2021,0001564590-21-008051,item1a_not_found,
-PKG,Packaging Corporation of America,0000075677,2020,0001564590-20-006774,item1a_not_found,
-PKG,Packaging Corporation of America,0000075677,2019,0001564590-19-005284,item1a_not_found,
-PKG,Packaging Corporation of America,0000075677,2018,0001564590-18-003690,item1a_not_found,
-PKG,Packaging Corporation of America,0000075677,2017,0000075677-17-000004,item1a_not_found,
-PKG,Packaging Corporation of America,0000075677,2016,0000075677-16-000030,item1a_not_found,
-PKG,Packaging Corporation of America,0000075677,2015,0000075677-15-000007,item1a_not_found,
-PKG,Packaging Corporation of America,0000075677,2014,0000075677-14-000009,item1a_not_found,
-PKG,Packaging Corporation of America,0000075677,2013,0001193125-13-083569,item1a_not_found,
-CSGP,CoStar Group,0001057352,2026,0001057352-26-000020,skipped (already exists),../data/item1a/0001057352_2026.txt
-CSGP,CoStar Group,0001057352,2025,0001057352-25-000016,skipped (already exists),../data/item1a/0001057352_2025.txt
-CSGP,CoStar Group,0001057352,2024,0001057352-24-000013,skipped (already exists),../data/item1a/0001057352_2024.txt
-CSGP,CoStar Group,0001057352,2023,0001057352-23-000030,skipped (already exists),../data/item1a/0001057352_2023.txt
-CSGP,CoStar Group,0001057352,2022,0001057352-22-000027,skipped (already exists),../data/item1a/0001057352_2022.txt
-CSGP,CoStar Group,0001057352,2021,0001057352-21-000032,skipped (already exists),../data/item1a/0001057352_2021.txt
-CSGP,CoStar Group,0001057352,2020,0001057352-20-000036,item1a_not_found,
-CSGP,CoStar Group,0001057352,2019,0001057352-19-000017,item1a_not_found,
-CSGP,CoStar Group,0001057352,2018,0001057352-18-000011,item1a_not_found,
-CSGP,CoStar Group,0001057352,2017,0001057352-17-000008,item1a_not_found,
-CSGP,CoStar Group,0001057352,2016,0001057352-16-000103,item1a_not_found,
-CSGP,CoStar Group,0001057352,2015,0001057352-15-000012,item1a_not_found,
-CSGP,CoStar Group,0001057352,2014,0001057352-14-000006,item1a_not_found,
-CSGP,CoStar Group,0001057352,2013,0001057352-13-000013,item1a_not_found,
-CSGP,CoStar Group,0001057352,2012,0001057352-12-000024,item1a_not_found,
-KIM,Kimco Realty,0000879101,2026,0001193125-26-060760,skipped (already exists),../data/item1a/0000879101_2026.txt
-KIM,Kimco Realty,0000879101,2025,0000950170-25-024723,skipped (already exists),../data/item1a/0000879101_2025.txt
-KIM,Kimco Realty,0000879101,2024,0001437749-24-005407,skipped (already exists),../data/item1a/0000879101_2024.txt
-KIM,Kimco Realty,0000879101,2023,0001437749-23-004541,skipped (already exists),../data/item1a/0000879101_2023.txt
-KIM,Kimco Realty,0000879101,2022,0001437749-22-004700,skipped (already exists),../data/item1a/0000879101_2022.txt
-KIM,Kimco Realty,0000879101,2021,0001437749-21-003766,skipped (already exists),../data/item1a/0000879101_2021.txt
-KIM,Kimco Realty,0000879101,2020,0001437749-20-003500,skipped (already exists),../data/item1a/0000879101_2020.txt
-KIM,Kimco Realty,0000879101,2019,0001437749-19-002746,skipped (already exists),../data/item1a/0000879101_2019.txt
-KIM,Kimco Realty,0000879101,2018,0001437749-18-003230,skipped (already exists),../data/item1a/0000879101_2018.txt
-KIM,Kimco Realty,0000879101,2017,0001437749-17-003269,skipped (already exists),../data/item1a/0000879101_2017.txt
-KIM,Kimco Realty,0000879101,2016,0001437749-16-026173,skipped (already exists),../data/item1a/0000879101_2016.txt
-KIM,Kimco Realty,0000879101,2015,0001398432-15-000073,skipped (already exists),../data/item1a/0000879101_2015.txt
-KIM,Kimco Realty,0000879101,2014,0001398432-14-000081,skipped (already exists),../data/item1a/0000879101_2014.txt
-KIM,Kimco Realty,0000879101,2013,0001398432-13-000115,skipped (already exists),../data/item1a/0000879101_2013.txt
-ESS,Essex Property Trust,0000920522,2026,0000920522-26-000003,skipped (already exists),../data/item1a/0000920522_2026.txt
-ESS,Essex Property Trust,0000920522,2025,0000920522-25-000024,skipped (already exists),../data/item1a/0000920522_2025.txt
-ESS,Essex Property Trust,0000920522,2024,0000920522-24-000033,skipped (already exists),../data/item1a/0000920522_2024.txt
-ESS,Essex Property Trust,0000920522,2023,0000920522-23-000005,skipped (already exists),../data/item1a/0000920522_2023.txt
-ESS,Essex Property Trust,0000920522,2022,0000920522-22-000019,skipped (already exists),../data/item1a/0000920522_2022.txt
-ESS,Essex Property Trust,0000920522,2021,0000920522-21-000015,skipped (already exists),../data/item1a/0000920522_2021.txt
-ESS,Essex Property Trust,0000920522,2020,0000920522-20-000026,skipped (already exists),../data/item1a/0000920522_2020.txt
-ESS,Essex Property Trust,0000920522,2019,0000920522-19-000009,skipped (already exists),../data/item1a/0000920522_2019.txt
-ESS,Essex Property Trust,0000920522,2018,0000920522-18-000011,skipped (already exists),../data/item1a/0000920522_2018.txt
-ESS,Essex Property Trust,0000920522,2017,0000920522-17-000014,skipped (already exists),../data/item1a/0000920522_2017.txt
-ESS,Essex Property Trust,0000920522,2016,0000920522-16-000097,skipped (already exists),../data/item1a/0000920522_2016.txt
-ESS,Essex Property Trust,0000920522,2015,0000920522-15-000006,skipped (already exists),../data/item1a/0000920522_2015.txt
-ESS,Essex Property Trust,0000920522,2014,0001140361-14-009793,skipped (already exists),../data/item1a/0000920522_2014.txt
-ESS,Essex Property Trust,0000920522,2013,0001140361-13-009003,skipped (already exists),../data/item1a/0000920522_2013.txt
-CPT,Camden Property Trust,0000906345,2026,0001628280-26-007697,skipped (already exists),../data/item1a/0000906345_2026.txt
-CPT,Camden Property Trust,0000906345,2025,0000906345-25-000008,skipped (already exists),../data/item1a/0000906345_2025.txt
-CPT,Camden Property Trust,0000906345,2024,0000906345-24-000007,skipped (already exists),../data/item1a/0000906345_2024.txt
-CPT,Camden Property Trust,0000906345,2023,0000906345-23-000008,skipped (already exists),../data/item1a/0000906345_2023.txt
-CPT,Camden Property Trust,0000906345,2022,0000906345-22-000009,skipped (already exists),../data/item1a/0000906345_2022.txt
-CPT,Camden Property Trust,0000906345,2021,0000906345-21-000010,skipped (already exists),../data/item1a/0000906345_2021.txt
-CPT,Camden Property Trust,0000906345,2020,0000906345-20-000008,skipped (already exists),../data/item1a/0000906345_2020.txt
-CPT,Camden Property Trust,0000906345,2019,0000906345-19-000006,skipped (already exists),../data/item1a/0000906345_2019.txt
-CPT,Camden Property Trust,0000906345,2018,0000906345-18-000007,skipped (already exists),../data/item1a/0000906345_2018.txt
-CPT,Camden Property Trust,0000906345,2017,0000906345-17-000009,skipped (already exists),../data/item1a/0000906345_2017.txt
-CPT,Camden Property Trust,0000906345,2016,0000906345-16-000044,skipped (already exists),../data/item1a/0000906345_2016.txt
-CPT,Camden Property Trust,0000906345,2015,0000906345-15-000007,skipped (already exists),../data/item1a/0000906345_2015.txt
-CPT,Camden Property Trust,0000906345,2014,0000906345-14-000005,skipped (already exists),../data/item1a/0000906345_2014.txt
-CPT,Camden Property Trust,0000906345,2013,0000906345-13-000003,skipped (already exists),../data/item1a/0000906345_2013.txt
-CPT,Camden Property Trust,0000906345,2012,0001193125-12-067347,skipped (already exists),../data/item1a/0000906345_2012.txt
-CPT,Camden Property Trust,0000906345,2011,0000950123-11-017763,item1a_not_found,
-FRT,Federal Realty Investment Trust,0000034903,2026,0000034903-26-000017,skipped (already exists),../data/item1a/0000034903_2026.txt
-FRT,Federal Realty Investment Trust,0000034903,2025,0000034903-25-000016,skipped (already exists),../data/item1a/0000034903_2025.txt
-FRT,Federal Realty Investment Trust,0000034903,2024,0000034903-24-000032,skipped (already exists),../data/item1a/0000034903_2024.txt
-FRT,Federal Realty Investment Trust,0000034903,2023,0000034903-23-000020,skipped (already exists),../data/item1a/0000034903_2023.txt
-FRT,Federal Realty Investment Trust,0000034903,2022,0000034903-22-000023,skipped (already exists),../data/item1a/0000034903_2022.txt
-FRT,Federal Realty Investment Trust,0000034903,2021,0000034903-21-000020,skipped (already exists),../data/item1a/0000034903_2021.txt
-FRT,Federal Realty Investment Trust,0000034903,2020,0000034903-20-000008,skipped (already exists),../data/item1a/0000034903_2020.txt
-FRT,Federal Realty Investment Trust,0000034903,2019,0000034903-19-000013,skipped (already exists),../data/item1a/0000034903_2019.txt
-FRT,Federal Realty Investment Trust,0000034903,2018,0000034903-18-000009,skipped (already exists),../data/item1a/0000034903_2018.txt
-FRT,Federal Realty Investment Trust,0000034903,2017,0000034903-17-000008,skipped (already exists),../data/item1a/0000034903_2017.txt
-FRT,Federal Realty Investment Trust,0000034903,2016,0000034903-16-000045,skipped (already exists),../data/item1a/0000034903_2016.txt
-FRT,Federal Realty Investment Trust,0000034903,2015,0000034903-15-000014,skipped (already exists),../data/item1a/0000034903_2015.txt
-FRT,Federal Realty Investment Trust,0000034903,2014,0000034903-14-000009,skipped (already exists),../data/item1a/0000034903_2014.txt
-FRT,Federal Realty Investment Trust,0000034903,2013,0000034903-13-000006,skipped (already exists),../data/item1a/0000034903_2013.txt
-FRT,Federal Realty Investment Trust,0000034903,2012,0000034903-12-000008,skipped (already exists),../data/item1a/0000034903_2012.txt
-FRT,Federal Realty Investment Trust,0000034903,2011,0001193125-11-036800,skipped (already exists),../data/item1a/0000034903_2011.txt
-FRT,Federal Realty Investment Trust,0000034903,2010,0001193125-10-033308,skipped (already exists),../data/item1a/0000034903_2010.txt
-AES,AES Corporation,0000874761,2026,0000874761-26-000063,skipped (already exists),../data/item1a/0000874761_2026.txt
-AES,AES Corporation,0000874761,2025,0000874761-25-000013,skipped (already exists),../data/item1a/0000874761_2025.txt
-AES,AES Corporation,0000874761,2024,0000874761-24-000011,skipped (already exists),../data/item1a/0000874761_2024.txt
-AES,AES Corporation,0000874761,2023,0000874761-23-000010,skipped (already exists),../data/item1a/0000874761_2023.txt
-AES,AES Corporation,0000874761,2022,0000874761-22-000022,skipped (already exists),../data/item1a/0000874761_2022.txt
-AES,AES Corporation,0000874761,2021,0000874761-21-000015,skipped (already exists),../data/item1a/0000874761_2021.txt
-AES,AES Corporation,0000874761,2020,0000874761-20-000012,skipped (already exists),../data/item1a/0000874761_2020.txt
-AES,AES Corporation,0000874761,2019,0000874761-19-000012,skipped (already exists),../data/item1a/0000874761_2019.txt
-AES,AES Corporation,0000874761,2018,0000874761-18-000014,skipped (already exists),../data/item1a/0000874761_2018.txt
-AES,AES Corporation,0000874761,2017,0000874761-17-000003,skipped (already exists),../data/item1a/0000874761_2017.txt
-AES,AES Corporation,0000874761,2016,0000874761-16-000077,skipped (already exists),../data/item1a/0000874761_2016.txt
-AES,AES Corporation,0000874761,2015,0000874761-15-000009,skipped (already exists),../data/item1a/0000874761_2015.txt
-AES,AES Corporation,0000874761,2014,0000874761-14-000011,skipped (already exists),../data/item1a/0000874761_2014.txt
-AES,AES Corporation,0000874761,2013,0001193125-13-077580,item1a_not_found,
+BRO,Brown & Brown,0000079282,2013,0001193125-13-087664,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000079282_2013.txt
+BRO,Brown & Brown,0000079282,2014,0001193125-14-077842,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000079282_2014.txt
+BRO,Brown & Brown,0000079282,2015,0001193125-15-070864,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000079282_2015.txt
+BRO,Brown & Brown,0000079282,2016,0000079282-16-000034,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000079282_2016.txt
+BRO,Brown & Brown,0000079282,2017,0000079282-17-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000079282_2017.txt
+BRO,Brown & Brown,0000079282,2018,0000079282-18-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000079282_2018.txt
+BRO,Brown & Brown,0000079282,2019,0000079282-19-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000079282_2019.txt
+BRO,Brown & Brown,0000079282,2020,0001564590-20-006075,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000079282_2020.txt
+BRO,Brown & Brown,0000079282,2021,0001564590-21-007624,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000079282_2021.txt
+BRO,Brown & Brown,0000079282,2022,0000950170-22-001654,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000079282_2022.txt
+BRO,Brown & Brown,0000079282,2023,0000950170-23-004717,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000079282_2023.txt
+BRO,Brown & Brown,0000079282,2024,0000950170-24-018890,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000079282_2024.txt
+BRO,Brown & Brown,0000079282,2025,0000950170-25-019039,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000079282_2025.txt
+IBKR,Interactive Brokers,0001381197,2010,0001047469-10-001544,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001381197_2010.txt
+IBKR,Interactive Brokers,0001381197,2011,0001047469-11-001557,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001381197_2011.txt
+IBKR,Interactive Brokers,0001381197,2012,0001047469-12-001916,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001381197_2012.txt
+IBKR,Interactive Brokers,0001381197,2013,0001047469-13-002439,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001381197_2013.txt
+IBKR,Interactive Brokers,0001381197,2014,0001047469-14-001697,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001381197_2014.txt
+IBKR,Interactive Brokers,0001381197,2015,0001047469-15-001520,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001381197_2015.txt
+IBKR,Interactive Brokers,0001381197,2016,0001047469-16-010549,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001381197_2016.txt
+IBKR,Interactive Brokers,0001381197,2017,0001047469-17-001069,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001381197_2017.txt
+IBKR,Interactive Brokers,0001381197,2018,0001047469-18-001166,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001381197_2018.txt
+IBKR,Interactive Brokers,0001381197,2019,0001140361-19-004097,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001381197_2019.txt
+IBKR,Interactive Brokers,0001381197,2020,0001381197-20-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001381197_2020.txt
+IBKR,Interactive Brokers,0001381197,2021,0001381197-21-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001381197_2021.txt
+IBKR,Interactive Brokers,0001381197,2022,0001381197-22-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001381197_2022.txt
+IBKR,Interactive Brokers,0001381197,2023,0001381197-23-000014,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001381197_2023.txt
+IBKR,Interactive Brokers,0001381197,2024,0001381197-24-000083,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001381197_2024.txt
+IBKR,Interactive Brokers,0001381197,2025,0001381197-25-000036,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001381197_2025.txt
+PFG,Principal Financial Group,0001126328,2010,0001047469-10-000948,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001126328_2010.txt
+PFG,Principal Financial Group,0001126328,2011,0001047469-11-000974,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001126328_2011.txt
+PFG,Principal Financial Group,0001126328,2012,0001047469-12-001065,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001126328_2012.txt
+PFG,Principal Financial Group,0001126328,2013,0001047469-13-000940,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001126328_2013.txt
+PFG,Principal Financial Group,0001126328,2014,0001047469-14-000817,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001126328_2014.txt
+PFG,Principal Financial Group,0001126328,2015,0001047469-15-000727,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001126328_2015.txt
+PFG,Principal Financial Group,0001126328,2016,0001047469-16-010094,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001126328_2016.txt
+PFG,Principal Financial Group,0001126328,2017,0001047469-17-000589,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001126328_2017.txt
+PFG,Principal Financial Group,0001126328,2018,0001047469-18-000695,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001126328_2018.txt
+PFG,Principal Financial Group,0001126328,2019,0001047469-19-000469,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001126328_2019.txt
+PFG,Principal Financial Group,0001126328,2020,0001104659-20-021174,item1a_not_found,
+PFG,Principal Financial Group,0001126328,2021,0001104659-21-022074,item1a_not_found,
+PFG,Principal Financial Group,0001126328,2022,0001104659-22-020401,item1a_not_found,
+PFG,Principal Financial Group,0001126328,2023,0001104659-23-022860,item1a_not_found,
+PFG,Principal Financial Group,0001126328,2024,0001104659-24-025516,item1a_not_found,
+PFG,Principal Financial Group,0001126328,2025,0001410578-25-000160,item1a_not_found,
+HUM,Humana,0000049071,2010,0001193125-10-035019,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000049071_2010.txt
+HUM,Humana,0000049071,2011,0001193125-11-039288,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000049071_2011.txt
+HUM,Humana,0000049071,2012,0001193125-12-076885,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000049071_2012.txt
+HUM,Humana,0000049071,2013,0001193125-13-069911,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000049071_2013.txt
+HUM,Humana,0000049071,2014,0001193125-14-058508,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000049071_2014.txt
+HUM,Humana,0000049071,2015,0000049071-15-000019,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000049071_2015.txt
+HUM,Humana,0000049071,2016,0000049071-16-000117,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000049071_2016.txt
+HUM,Humana,0000049071,2017,0000049071-17-000019,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000049071_2017.txt
+HUM,Humana,0000049071,2018,0000049071-18-000014,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000049071_2018.txt
+HUM,Humana,0000049071,2019,0000049071-19-000023,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000049071_2019.txt
+HUM,Humana,0000049071,2020,0000049071-20-000032,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000049071_2020.txt
+HUM,Humana,0000049071,2021,0000049071-21-000039,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000049071_2021.txt
+HUM,Humana,0000049071,2022,0000049071-22-000017,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000049071_2022.txt
+HUM,Humana,0000049071,2023,0000049071-23-000011,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000049071_2023.txt
+HUM,Humana,0000049071,2024,0000049071-24-000012,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000049071_2024.txt
+HUM,Humana,0000049071,2025,0000049071-25-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000049071_2025.txt
+INCY,Incyte,0000879169,2010,0001047469-10-001834,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000879169_2010.txt
+INCY,Incyte,0000879169,2011,0001047469-11-001198,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000879169_2011.txt
+INCY,Incyte,0000879169,2012,0001047469-12-001295,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000879169_2012.txt
+INCY,Incyte,0000879169,2013,0001047469-13-001393,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000879169_2013.txt
+INCY,Incyte,0000879169,2014,0001047469-14-001174,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000879169_2014.txt
+INCY,Incyte,0000879169,2015,0001047469-15-000858,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000879169_2015.txt
+INCY,Incyte,0000879169,2016,0001558370-16-003196,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000879169_2016.txt
+INCY,Incyte,0000879169,2017,0001558370-17-000594,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000879169_2017.txt
+INCY,Incyte,0000879169,2018,0001558370-18-000722,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000879169_2018.txt
+INCY,Incyte,0000879169,2019,0001558370-19-000682,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000879169_2019.txt
+INCY,Incyte,0000879169,2020,0001558370-20-000774,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000879169_2020.txt
+INCY,Incyte,0000879169,2021,0001558370-21-000825,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000879169_2021.txt
+INCY,Incyte,0000879169,2022,0001558370-22-000902,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000879169_2022.txt
+INCY,Incyte,0000879169,2023,0000879169-23-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000879169_2023.txt
+INCY,Incyte,0000879169,2024,0000879169-24-000045,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000879169_2024.txt
+INCY,Incyte,0000879169,2025,0001628280-25-004633,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000879169_2025.txt
+PODD,Insulet Corporation,0001145197,2010,0000950123-10-022584,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001145197_2010.txt
+PODD,Insulet Corporation,0001145197,2011,0000950123-11-024185,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001145197_2011.txt
+PODD,Insulet Corporation,0001145197,2012,0001193125-12-085240,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001145197_2012.txt
+PODD,Insulet Corporation,0001145197,2013,0001193125-13-083670,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001145197_2013.txt
+PODD,Insulet Corporation,0001145197,2014,0001145197-14-000013,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001145197_2014.txt
+PODD,Insulet Corporation,0001145197,2015,0001145197-15-000020,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001145197_2015.txt
+PODD,Insulet Corporation,0001145197,2016,0001145197-16-000083,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001145197_2016.txt
+PODD,Insulet Corporation,0001145197,2017,0001145197-17-000005,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001145197_2017.txt
+PODD,Insulet Corporation,0001145197,2018,0001145197-18-000004,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001145197_2018.txt
+PODD,Insulet Corporation,0001145197,2019,0001145197-19-000003,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001145197_2019.txt
+PODD,Insulet Corporation,0001145197,2020,0001145197-20-000004,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001145197_2020.txt
+PODD,Insulet Corporation,0001145197,2021,0001145197-21-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001145197_2021.txt
+PODD,Insulet Corporation,0001145197,2022,0001145197-22-000012,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001145197_2022.txt
+PODD,Insulet Corporation,0001145197,2023,0001145197-23-000020,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001145197_2023.txt
+PODD,Insulet Corporation,0001145197,2024,0001145197-24-000011,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001145197_2024.txt
+PODD,Insulet Corporation,0001145197,2025,0001145197-25-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001145197_2025.txt
+SYK,Stryker Corporation,0000310764,2010,0001193125-10-042997,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000310764_2010.txt
+SYK,Stryker Corporation,0000310764,2011,0001193125-11-039845,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000310764_2011.txt
+SYK,Stryker Corporation,0000310764,2012,0000310764-12-000031,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000310764_2012.txt
+SYK,Stryker Corporation,0000310764,2013,0000310764-13-000054,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000310764_2013.txt
+SYK,Stryker Corporation,0000310764,2014,0000310764-14-000021,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000310764_2014.txt
+SYK,Stryker Corporation,0000310764,2015,0000310764-15-000022,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000310764_2015.txt
+SYK,Stryker Corporation,0000310764,2016,0000310764-16-000226,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000310764_2016.txt
+SYK,Stryker Corporation,0000310764,2017,0000310764-17-000034,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000310764_2017.txt
+SYK,Stryker Corporation,0000310764,2018,0000310764-18-000031,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000310764_2018.txt
+SYK,Stryker Corporation,0000310764,2019,0000310764-19-000014,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000310764_2019.txt
+SYK,Stryker Corporation,0000310764,2020,0000310764-20-000014,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000310764_2020.txt
+SYK,Stryker Corporation,0000310764,2021,0000310764-21-000027,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000310764_2021.txt
+SYK,Stryker Corporation,0000310764,2022,0000310764-22-000028,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000310764_2022.txt
+SYK,Stryker Corporation,0000310764,2023,0000310764-23-000017,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000310764_2023.txt
+SYK,Stryker Corporation,0000310764,2024,0000310764-24-000024,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000310764_2024.txt
+SYK,Stryker Corporation,0000310764,2025,0000310764-25-000023,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000310764_2025.txt
+VRTX,Vertex Pharmaceuticals,0000875320,2010,0001047469-10-001033,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000875320_2010.txt
+VRTX,Vertex Pharmaceuticals,0000875320,2011,0001047469-11-001025,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000875320_2011.txt
+VRTX,Vertex Pharmaceuticals,0000875320,2012,0001047469-12-001298,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000875320_2012.txt
+VRTX,Vertex Pharmaceuticals,0000875320,2013,0000875320-13-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000875320_2013.txt
+VRTX,Vertex Pharmaceuticals,0000875320,2014,0000875320-14-000015,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000875320_2014.txt
+VRTX,Vertex Pharmaceuticals,0000875320,2015,0000875320-15-000012,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000875320_2015.txt
+VRTX,Vertex Pharmaceuticals,0000875320,2016,0000875320-16-000067,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000875320_2016.txt
+VRTX,Vertex Pharmaceuticals,0000875320,2017,0000875320-17-000017,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000875320_2017.txt
+VRTX,Vertex Pharmaceuticals,0000875320,2018,0000875320-18-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000875320_2018.txt
+VRTX,Vertex Pharmaceuticals,0000875320,2019,0000875320-19-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000875320_2019.txt
+VRTX,Vertex Pharmaceuticals,0000875320,2020,0000875320-20-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000875320_2020.txt
+VRTX,Vertex Pharmaceuticals,0000875320,2021,0000875320-21-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000875320_2021.txt
+VRTX,Vertex Pharmaceuticals,0000875320,2022,0000875320-22-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000875320_2022.txt
+VRTX,Vertex Pharmaceuticals,0000875320,2023,0000875320-23-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000875320_2023.txt
+VRTX,Vertex Pharmaceuticals,0000875320,2024,0000875320-24-000062,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000875320_2024.txt
+VRTX,Vertex Pharmaceuticals,0000875320,2025,0000875320-25-000053,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000875320_2025.txt
+BA,Boeing,0000012927,2010,0001193125-10-024406,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000012927_2010.txt
+BA,Boeing,0000012927,2011,0001193125-11-028490,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000012927_2011.txt
+BA,Boeing,0000012927,2012,0001193125-12-048565,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000012927_2012.txt
+BA,Boeing,0000012927,2013,0000012927-13-000014,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000012927_2013.txt
+BA,Boeing,0000012927,2014,0000012927-14-000004,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000012927_2014.txt
+BA,Boeing,0000012927,2015,0000012927-15-000011,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000012927_2015.txt
+BA,Boeing,0000012927,2016,0000012927-16-000099,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000012927_2016.txt
+BA,Boeing,0000012927,2017,0000012927-17-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000012927_2017.txt
+BA,Boeing,0000012927,2018,0000012927-18-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000012927_2018.txt
+BA,Boeing,0000012927,2019,0000012927-19-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000012927_2019.txt
+BA,Boeing,0000012927,2020,0000012927-20-000014,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000012927_2020.txt
+BA,Boeing,0000012927,2021,0000012927-21-000011,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000012927_2021.txt
+BA,Boeing,0000012927,2022,0000012927-22-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000012927_2022.txt
+BA,Boeing,0000012927,2023,0000012927-23-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000012927_2023.txt
+BA,Boeing,0000012927,2024,0000012927-24-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000012927_2024.txt
+BA,Boeing,0000012927,2025,0000012927-25-000015,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000012927_2025.txt
+MMM,3M,0000066740,2010,0001104659-10-007295,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000066740_2010.txt
+MMM,3M,0000066740,2011,0001104659-11-007845,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000066740_2011.txt
+MMM,3M,0000066740,2012,0001104659-12-010566,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000066740_2012.txt
+MMM,3M,0000066740,2013,0001104659-13-010881,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000066740_2013.txt
+MMM,3M,0000066740,2014,0001104659-14-009773,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000066740_2014.txt
+MMM,3M,0000066740,2015,0001104659-15-009560,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000066740_2015.txt
+MMM,3M,0000066740,2016,0001558370-16-003162,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000066740_2016.txt
+MMM,3M,0000066740,2017,0001558370-17-000479,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000066740_2017.txt
+MMM,3M,0000066740,2018,0001558370-18-000535,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000066740_2018.txt
+MMM,3M,0000066740,2019,0001558370-19-000470,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000066740_2019.txt
+MMM,3M,0000066740,2020,0001558370-20-000581,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000066740_2020.txt
+MMM,3M,0000066740,2021,0001558370-21-000737,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000066740_2021.txt
+MMM,3M,0000066740,2022,0000066740-22-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000066740_2022.txt
+MMM,3M,0000066740,2023,0000066740-23-000014,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000066740_2023.txt
+MMM,3M,0000066740,2024,0000066740-24-000016,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000066740_2024.txt
+MMM,3M,0000066740,2025,0000066740-25-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000066740_2025.txt
+PNR,Pentair,0000077360,2010,0000950123-10-015693,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077360_2010.txt
+PNR,Pentair,0000077360,2011,0000950123-11-016702,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077360_2011.txt
+PNR,Pentair,0000077360,2012,0001193125-12-070520,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077360_2012.txt
+PNR,Pentair,0000077360,2013,0001193125-13-077034,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077360_2013.txt
+PNR,Pentair,0000077360,2014,0000077360-14-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077360_2014.txt
+PNR,Pentair,0000077360,2015,0000077360-15-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077360_2015.txt
+PNR,Pentair,0000077360,2016,0000077360-16-000058,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077360_2016.txt
+PNR,Pentair,0000077360,2017,0000077360-17-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077360_2017.txt
+PNR,Pentair,0000077360,2018,0000077360-18-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077360_2018.txt
+PNR,Pentair,0000077360,2019,0000077360-19-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077360_2019.txt
+PNR,Pentair,0000077360,2020,0000077360-20-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077360_2020.txt
+PNR,Pentair,0000077360,2021,0000077360-21-000005,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077360_2021.txt
+PNR,Pentair,0000077360,2022,0000077360-22-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077360_2022.txt
+PNR,Pentair,0000077360,2023,0000077360-23-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077360_2023.txt
+PNR,Pentair,0000077360,2024,0000077360-24-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077360_2024.txt
+PNR,Pentair,0000077360,2025,0000077360-25-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000077360_2025.txt
+SWK,Stanley Black & Decker,0000093556,2010,0000950123-10-014663,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093556_2010.txt
+SWK,Stanley Black & Decker,0000093556,2011,0000950123-11-015782,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093556_2011.txt
+SWK,Stanley Black & Decker,0000093556,2012,0001193125-12-075395,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093556_2012.txt
+SWK,Stanley Black & Decker,0000093556,2013,0000093556-13-000004,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093556_2013.txt
+SWK,Stanley Black & Decker,0000093556,2014,0000093556-14-000004,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093556_2014.txt
+SWK,Stanley Black & Decker,0000093556,2015,0000093556-15-000005,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093556_2015.txt
+SWK,Stanley Black & Decker,0000093556,2016,0000093556-16-000051,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093556_2016.txt
+SWK,Stanley Black & Decker,0000093556,2017,0000093556-17-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093556_2017.txt
+SWK,Stanley Black & Decker,0000093556,2018,0000093556-18-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093556_2018.txt
+SWK,Stanley Black & Decker,0000093556,2019,0000093556-19-000011,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093556_2019.txt
+SWK,Stanley Black & Decker,0000093556,2020,0000093556-20-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093556_2020.txt
+SWK,Stanley Black & Decker,0000093556,2021,0000093556-21-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093556_2021.txt
+SWK,Stanley Black & Decker,0000093556,2022,0000093556-22-000015,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093556_2022.txt
+SWK,Stanley Black & Decker,0000093556,2023,0000093556-23-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093556_2023.txt
+SWK,Stanley Black & Decker,0000093556,2024,0000093556-24-000032,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093556_2024.txt
+SWK,Stanley Black & Decker,0000093556,2025,0000093556-25-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000093556_2025.txt
+URI,United Rentals,0001067701,2010,0001193125-10-020819,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001067701_2010.txt
+URI,United Rentals,0001067701,2011,0001193125-11-020326,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001067701_2011.txt
+URI,United Rentals,0001067701,2012,0001445305-12-000134,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001067701_2012.txt
+URI,United Rentals,0001067701,2013,0001067701-13-000004,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001067701_2013.txt
+URI,United Rentals,0001067701,2014,0001067701-14-000004,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001067701_2014.txt
+URI,United Rentals,0001067701,2015,0001067701-15-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001067701_2015.txt
+URI,United Rentals,0001067701,2016,0001067701-16-000039,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001067701_2016.txt
+URI,United Rentals,0001067701,2017,0001067701-17-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001067701_2017.txt
+URI,United Rentals,0001067701,2018,0001067701-18-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001067701_2018.txt
+URI,United Rentals,0001067701,2019,0001067701-19-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001067701_2019.txt
+URI,United Rentals,0001067701,2020,0001067701-20-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001067701_2020.txt
+URI,United Rentals,0001067701,2021,0001067701-21-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001067701_2021.txt
+URI,United Rentals,0001067701,2022,0001067701-22-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001067701_2022.txt
+URI,United Rentals,0001067701,2023,0001067701-23-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001067701_2023.txt
+URI,United Rentals,0001067701,2024,0001067701-24-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001067701_2024.txt
+URI,United Rentals,0001067701,2025,0001067701-25-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001067701_2025.txt
+CTSH,Cognizant,0001058290,2010,0001193125-10-040500,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058290_2010.txt
+CTSH,Cognizant,0001058290,2011,0001193125-11-043696,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058290_2011.txt
+CTSH,Cognizant,0001058290,2012,0001193125-12-081638,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058290_2012.txt
+CTSH,Cognizant,0001058290,2013,0001193125-13-077271,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058290_2013.txt
+CTSH,Cognizant,0001058290,2014,0001193125-14-067531,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058290_2014.txt
+CTSH,Cognizant,0001058290,2015,0001058290-15-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058290_2015.txt
+CTSH,Cognizant,0001058290,2016,0001058290-16-000049,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058290_2016.txt
+CTSH,Cognizant,0001058290,2017,0001058290-17-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058290_2017.txt
+CTSH,Cognizant,0001058290,2018,0001058290-18-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058290_2018.txt
+CTSH,Cognizant,0001058290,2019,0001058290-19-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058290_2019.txt
+CTSH,Cognizant,0001058290,2020,0001058290-20-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058290_2020.txt
+CTSH,Cognizant,0001058290,2021,0001058290-21-000031,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058290_2021.txt
+CTSH,Cognizant,0001058290,2022,0001058290-22-000023,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058290_2022.txt
+CTSH,Cognizant,0001058290,2023,0001058290-23-000027,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058290_2023.txt
+CTSH,Cognizant,0001058290,2024,0001058290-24-000017,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058290_2024.txt
+CTSH,Cognizant,0001058290,2025,0001058290-25-000017,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001058290_2025.txt
+IT,Gartner,0000749251,2010,0000950123-10-014517,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000749251_2010.txt
+IT,Gartner,0000749251,2011,0000950123-11-014318,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000749251_2011.txt
+IT,Gartner,0000749251,2012,0000930413-12-001031,item1a_not_found,
+IT,Gartner,0000749251,2013,0000930413-13-001003,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000749251_2013.txt
+IT,Gartner,0000749251,2014,0000749251-14-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000749251_2014.txt
+IT,Gartner,0000749251,2015,0000749251-15-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000749251_2015.txt
+IT,Gartner,0000749251,2016,0000749251-16-000034,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000749251_2016.txt
+IT,Gartner,0000749251,2017,0000749251-17-000005,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000749251_2017.txt
+IT,Gartner,0000749251,2018,0000749251-18-000004,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000749251_2018.txt
+IT,Gartner,0000749251,2019,0000749251-19-000005,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000749251_2019.txt
+IT,Gartner,0000749251,2020,0000749251-20-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000749251_2020.txt
+IT,Gartner,0000749251,2021,0000749251-21-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000749251_2021.txt
+IT,Gartner,0000749251,2022,0000749251-22-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000749251_2022.txt
+IT,Gartner,0000749251,2023,0000749251-23-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000749251_2023.txt
+IT,Gartner,0000749251,2024,0000749251-24-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000749251_2024.txt
+IT,Gartner,0000749251,2025,0000749251-25-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000749251_2025.txt
+SNPS,Synopsys,0000883241,2010,0001193125-10-282648,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000883241_2010.txt
+SNPS,Synopsys,0000883241,2011,0001193125-11-343034,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000883241_2011.txt
+SNPS,Synopsys,0000883241,2012,0001193125-12-510596,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000883241_2012.txt
+SNPS,Synopsys,0000883241,2013,0001193125-13-479653,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000883241_2013.txt
+SNPS,Synopsys,0000883241,2014,0000883241-14-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000883241_2014.txt
+SNPS,Synopsys,0000883241,2015,0000883241-15-000014,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000883241_2015.txt
+SNPS,Synopsys,0000883241,2016,0000883241-16-000027,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000883241_2016.txt
+SNPS,Synopsys,0000883241,2017,0000883241-17-000014,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000883241_2017.txt
+SNPS,Synopsys,0000883241,2018,0000883241-18-000012,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000883241_2018.txt
+SNPS,Synopsys,0000883241,2019,0000883241-19-000019,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000883241_2019.txt
+SNPS,Synopsys,0000883241,2020,0000883241-20-000015,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000883241_2020.txt
+SNPS,Synopsys,0000883241,2021,0000883241-21-000022,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000883241_2021.txt
+SNPS,Synopsys,0000883241,2022,0000883241-22-000017,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000883241_2022.txt
+SNPS,Synopsys,0000883241,2023,0000883241-23-000019,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000883241_2023.txt
+SNPS,Synopsys,0000883241,2024,0000883241-24-000024,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000883241_2024.txt
+SNPS,Synopsys,0000883241,2025,0000883241-25-000028,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000883241_2025.txt
+STX,Seagate Technology,0001137789,2010,0001047469-10-007649,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001137789_2010.txt
+STX,Seagate Technology,0001137789,2011,0001047469-11-007483,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001137789_2011.txt
+STX,Seagate Technology,0001137789,2012,0001047469-12-007998,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001137789_2012.txt
+STX,Seagate Technology,0001137789,2013,0001047469-13-008213,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001137789_2013.txt
+STX,Seagate Technology,0001137789,2014,0001047469-14-006770,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001137789_2014.txt
+STX,Seagate Technology,0001137789,2015,0001047469-15-006787,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001137789_2015.txt
+STX,Seagate Technology,0001137789,2016,0001047469-16-014732,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001137789_2016.txt
+STX,Seagate Technology,0001137789,2017,0001193125-17-248796,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001137789_2017.txt
+STX,Seagate Technology,0001137789,2018,0001193125-18-238271,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001137789_2018.txt
+STX,Seagate Technology,0001137789,2019,0001193125-19-212028,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001137789_2019.txt
+STX,Seagate Technology,0001137789,2020,0001137789-20-000057,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001137789_2020.txt
+STX,Seagate Technology,0001137789,2021,0001137789-21-000049,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001137789_2021.txt
+STX,Seagate Technology,0001137789,2022,0001137789-22-000055,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001137789_2022.txt
+STX,Seagate Technology,0001137789,2023,0001137789-23-000049,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001137789_2023.txt
+STX,Seagate Technology,0001137789,2024,0001137789-24-000068,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001137789_2024.txt
+STX,Seagate Technology,0001137789,2025,0001137789-25-000157,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001137789_2025.txt
+TXN,Texas Instruments,0000097476,2010,0001140361-10-007923,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000097476_2010.txt
+TXN,Texas Instruments,0000097476,2011,0001140361-11-012312,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000097476_2011.txt
+TXN,Texas Instruments,0000097476,2012,0000097476-12-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000097476_2012.txt
+TXN,Texas Instruments,0000097476,2013,0000097476-13-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000097476_2013.txt
+TXN,Texas Instruments,0000097476,2014,0000097476-14-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000097476_2014.txt
+TXN,Texas Instruments,0000097476,2015,0000097476-15-000003,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000097476_2015.txt
+TXN,Texas Instruments,0000097476,2016,0001564590-16-013126,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000097476_2016.txt
+TXN,Texas Instruments,0000097476,2017,0001564590-17-002142,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000097476_2017.txt
+TXN,Texas Instruments,0000097476,2018,0001564590-18-002832,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000097476_2018.txt
+TXN,Texas Instruments,0000097476,2019,0001564590-19-003839,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000097476_2019.txt
+TXN,Texas Instruments,0000097476,2020,0000097476-20-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000097476_2020.txt
+TXN,Texas Instruments,0000097476,2021,0000097476-21-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000097476_2021.txt
+TXN,Texas Instruments,0000097476,2022,0000097476-22-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000097476_2022.txt
+TXN,Texas Instruments,0000097476,2023,0000097476-23-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000097476_2023.txt
+TXN,Texas Instruments,0000097476,2024,0000097476-24-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000097476_2024.txt
+TXN,Texas Instruments,0000097476,2025,0000097476-25-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000097476_2025.txt
+ALB,Albemarle Corporation,0000915913,2010,0001193125-10-042722,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000915913_2010.txt
+ALB,Albemarle Corporation,0000915913,2011,0001193125-11-047404,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000915913_2011.txt
+ALB,Albemarle Corporation,0000915913,2012,0001193125-12-071957,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000915913_2012.txt
+ALB,Albemarle Corporation,0000915913,2013,0001193125-13-062728,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000915913_2013.txt
+ALB,Albemarle Corporation,0000915913,2014,0000915913-14-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000915913_2014.txt
+ALB,Albemarle Corporation,0000915913,2015,0000915913-15-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000915913_2015.txt
+ALB,Albemarle Corporation,0000915913,2016,0000915913-16-000041,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000915913_2016.txt
+ALB,Albemarle Corporation,0000915913,2017,0000915913-17-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000915913_2017.txt
+ALB,Albemarle Corporation,0000915913,2018,0000915913-18-000005,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000915913_2018.txt
+ALB,Albemarle Corporation,0000915913,2019,0000915913-19-000021,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000915913_2019.txt
+ALB,Albemarle Corporation,0000915913,2020,0000915913-20-000040,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000915913_2020.txt
+ALB,Albemarle Corporation,0000915913,2021,0000915913-21-000018,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000915913_2021.txt
+ALB,Albemarle Corporation,0000915913,2022,0000915913-22-000027,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000915913_2022.txt
+ALB,Albemarle Corporation,0000915913,2023,0000915913-23-000039,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000915913_2023.txt
+ALB,Albemarle Corporation,0000915913,2024,0000915913-24-000016,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000915913_2024.txt
+ALB,Albemarle Corporation,0000915913,2025,0000915913-25-000026,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000915913_2025.txt
+APD,Air Products,0000002969,2010,0001193125-10-266784,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000002969_2010.txt
+APD,Air Products,0000002969,2011,0001193125-11-319887,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000002969_2011.txt
+APD,Air Products,0000002969,2012,0001193125-12-476878,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000002969_2012.txt
+APD,Air Products,0000002969,2013,0001193125-13-453925,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000002969_2013.txt
+APD,Air Products,0000002969,2014,0001193125-14-423115,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000002969_2014.txt
+APD,Air Products,0000002969,2015,0001193125-15-386399,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000002969_2015.txt
+APD,Air Products,0000002969,2016,0001193125-16-773346,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000002969_2016.txt
+APD,Air Products,0000002969,2017,0000002969-17-000039,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000002969_2017.txt
+APD,Air Products,0000002969,2018,0000002969-18-000044,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000002969_2018.txt
+APD,Air Products,0000002969,2019,0000002969-19-000051,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000002969_2019.txt
+APD,Air Products,0000002969,2020,0000002969-20-000049,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000002969_2020.txt
+APD,Air Products,0000002969,2021,0000002969-21-000055,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000002969_2021.txt
+APD,Air Products,0000002969,2022,0000002969-22-000054,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000002969_2022.txt
+APD,Air Products,0000002969,2023,0000002969-23-000047,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000002969_2023.txt
+APD,Air Products,0000002969,2024,0000002969-24-000056,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000002969_2024.txt
+APD,Air Products,0000002969,2025,0000002969-25-000055,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000002969_2025.txt
+ECL,Ecolab,0000031462,2010,0001104659-10-010302,item1a_not_found,
+ECL,Ecolab,0000031462,2011,0001104659-11-010321,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000031462_2011.txt
+ECL,Ecolab,0000031462,2012,0001104659-12-014104,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000031462_2012.txt
+ECL,Ecolab,0000031462,2013,0001104659-13-014387,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000031462_2013.txt
+ECL,Ecolab,0000031462,2014,0001104659-14-014489,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000031462_2014.txt
+ECL,Ecolab,0000031462,2015,0001104659-15-014788,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000031462_2015.txt
+ECL,Ecolab,0000031462,2016,0001558370-16-003581,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000031462_2016.txt
+ECL,Ecolab,0000031462,2017,0001558370-17-000944,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000031462_2017.txt
+ECL,Ecolab,0000031462,2018,0001558370-18-000999,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000031462_2018.txt
+ECL,Ecolab,0000031462,2019,0001558370-19-001379,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000031462_2019.txt
+ECL,Ecolab,0000031462,2020,0001558370-20-001788,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000031462_2020.txt
+ECL,Ecolab,0000031462,2021,0001558370-21-001916,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000031462_2021.txt
+ECL,Ecolab,0000031462,2022,0001558370-22-002059,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000031462_2022.txt
+ECL,Ecolab,0000031462,2023,0001558370-23-001969,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000031462_2023.txt
+ECL,Ecolab,0000031462,2024,0001558370-24-001581,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000031462_2024.txt
+ECL,Ecolab,0000031462,2025,0001558370-25-001263,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000031462_2025.txt
+NUE,Nucor,0000073309,2010,0001193125-10-040686,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000073309_2010.txt
+NUE,Nucor,0000073309,2011,0001193125-11-049351,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000073309_2011.txt
+NUE,Nucor,0000073309,2012,0001193125-12-083972,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000073309_2012.txt
+NUE,Nucor,0000073309,2013,0001193125-13-084517,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000073309_2013.txt
+NUE,Nucor,0000073309,2014,0001193125-14-077349,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000073309_2014.txt
+NUE,Nucor,0000073309,2015,0001193125-15-068895,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000073309_2015.txt
+NUE,Nucor,0000073309,2016,0001193125-16-481119,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000073309_2016.txt
+NUE,Nucor,0000073309,2017,0001193125-17-062124,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000073309_2017.txt
+NUE,Nucor,0000073309,2018,0001193125-18-064018,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000073309_2018.txt
+NUE,Nucor,0000073309,2019,0001193125-19-057744,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000073309_2019.txt
+NUE,Nucor,0000073309,2020,0001564590-20-007794,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000073309_2020.txt
+NUE,Nucor,0000073309,2021,0001564590-21-009503,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000073309_2021.txt
+NUE,Nucor,0000073309,2022,0001564590-22-007679,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000073309_2022.txt
+NUE,Nucor,0000073309,2023,0001564590-23-002793,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000073309_2023.txt
+NUE,Nucor,0000073309,2024,0000950170-24-021195,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000073309_2024.txt
+NUE,Nucor,0000073309,2025,0000950170-25-028427,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000073309_2025.txt
+STLD,Steel Dynamics,0001022671,2010,0001047469-10-001104,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001022671_2010.txt
+STLD,Steel Dynamics,0001022671,2011,0001047469-11-001181,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001022671_2011.txt
+STLD,Steel Dynamics,0001022671,2012,0001047469-12-001586,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001022671_2012.txt
+STLD,Steel Dynamics,0001022671,2013,0001047469-13-001827,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001022671_2013.txt
+STLD,Steel Dynamics,0001022671,2014,0001047469-14-001662,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001022671_2014.txt
+STLD,Steel Dynamics,0001022671,2015,0001047469-15-001486,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001022671_2015.txt
+STLD,Steel Dynamics,0001022671,2016,0001047469-16-010496,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001022671_2016.txt
+STLD,Steel Dynamics,0001022671,2017,0001144204-17-011732,item1a_not_found,
+STLD,Steel Dynamics,0001022671,2018,0001144204-18-011155,item1a_not_found,
+STLD,Steel Dynamics,0001022671,2019,0001144204-19-010579,item1a_not_found,
+STLD,Steel Dynamics,0001022671,2020,0001558370-20-001641,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001022671_2020.txt
+STLD,Steel Dynamics,0001022671,2021,0001558370-21-002129,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001022671_2021.txt
+STLD,Steel Dynamics,0001022671,2022,0001558370-22-002377,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001022671_2022.txt
+STLD,Steel Dynamics,0001022671,2023,0001558370-23-002303,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001022671_2023.txt
+STLD,Steel Dynamics,0001022671,2024,0001558370-24-002152,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001022671_2024.txt
+STLD,Steel Dynamics,0001022671,2025,0001558370-25-001886,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001022671_2025.txt
+DLR,Digital Realty,0001297996,2010,0001193125-10-043123,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001297996_2010.txt
+DLR,Digital Realty,0001297996,2011,0001193125-11-047638,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001297996_2011.txt
+DLR,Digital Realty,0001297996,2012,0001193125-12-082659,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001297996_2012.txt
+DLR,Digital Realty,0001297996,2013,0001193125-13-084894,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001297996_2013.txt
+DLR,Digital Realty,0001297996,2014,0001193125-14-078397,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001297996_2014.txt
+DLR,Digital Realty,0001297996,2015,0001297996-15-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001297996_2015.txt
+DLR,Digital Realty,0001297996,2016,0001297996-16-000124,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001297996_2016.txt
+DLR,Digital Realty,0001297996,2017,0001297996-17-000020,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001297996_2017.txt
+DLR,Digital Realty,0001297996,2018,0001297996-18-000026,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001297996_2018.txt
+DLR,Digital Realty,0001297996,2019,0001297996-19-000032,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001297996_2019.txt
+DLR,Digital Realty,0001297996,2020,0001558370-20-001906,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001297996_2020.txt
+DLR,Digital Realty,0001297996,2021,0001558370-21-002191,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001297996_2021.txt
+DLR,Digital Realty,0001297996,2022,0001558370-22-002195,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001297996_2022.txt
+DLR,Digital Realty,0001297996,2023,0001558370-23-002087,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001297996_2023.txt
+DLR,Digital Realty,0001297996,2024,0001558370-24-001575,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001297996_2024.txt
+DLR,Digital Realty,0001297996,2025,0001558370-25-001424,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001297996_2025.txt
+EXR,Extra Space Storage,0001289490,2010,0001047469-10-001564,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001289490_2010.txt
+EXR,Extra Space Storage,0001289490,2011,0001047469-11-001398,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001289490_2011.txt
+EXR,Extra Space Storage,0001289490,2012,0001047469-12-001880,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001289490_2012.txt
+EXR,Extra Space Storage,0001289490,2013,0001047469-13-001942,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001289490_2013.txt
+EXR,Extra Space Storage,0001289490,2014,0001047469-14-001686,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001289490_2014.txt
+EXR,Extra Space Storage,0001289490,2015,0001193125-15-073584,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001289490_2015.txt
+EXR,Extra Space Storage,0001289490,2016,0001193125-16-485633,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001289490_2016.txt
+EXR,Extra Space Storage,0001289490,2017,0001628280-17-001815,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001289490_2017.txt
+EXR,Extra Space Storage,0001289490,2018,0001628280-18-002649,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001289490_2018.txt
+EXR,Extra Space Storage,0001289490,2019,0001628280-19-001968,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001289490_2019.txt
+EXR,Extra Space Storage,0001289490,2020,0001628280-20-002202,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001289490_2020.txt
+EXR,Extra Space Storage,0001289490,2021,0001628280-21-003458,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001289490_2021.txt
+EXR,Extra Space Storage,0001289490,2022,0001628280-22-004274,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001289490_2022.txt
+EXR,Extra Space Storage,0001289490,2023,0001628280-23-005628,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001289490_2023.txt
+EXR,Extra Space Storage,0001289490,2024,0001628280-24-008044,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001289490_2024.txt
+EXR,Extra Space Storage,0001289490,2025,0001628280-25-009060,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001289490_2025.txt
+IRM,Iron Mountain,0001020569,2010,0001047469-10-001537,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001020569_2010.txt
+IRM,Iron Mountain,0001020569,2011,0001047469-11-001600,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001020569_2011.txt
+IRM,Iron Mountain,0001020569,2012,0001047469-12-001785,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001020569_2012.txt
+IRM,Iron Mountain,0001020569,2013,0001047469-13-002039,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001020569_2013.txt
+IRM,Iron Mountain,0001020569,2014,0001047469-14-001562,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001020569_2014.txt
+IRM,Iron Mountain,0001020569,2015,0001047469-15-001413,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001020569_2015.txt
+IRM,Iron Mountain,0001020569,2016,0001020569-16-000013,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001020569_2016.txt
+IRM,Iron Mountain,0001020569,2017,0001020569-17-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001020569_2017.txt
+IRM,Iron Mountain,0001020569,2018,0001020569-18-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001020569_2018.txt
+IRM,Iron Mountain,0001020569,2019,0001020569-19-000018,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001020569_2019.txt
+IRM,Iron Mountain,0001020569,2020,0001020569-20-000029,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001020569_2020.txt
+IRM,Iron Mountain,0001020569,2021,0001020569-21-000067,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001020569_2021.txt
+IRM,Iron Mountain,0001020569,2022,0001020569-22-000035,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001020569_2022.txt
+IRM,Iron Mountain,0001020569,2023,0001020569-23-000043,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001020569_2023.txt
+IRM,Iron Mountain,0001020569,2024,0001020569-24-000040,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001020569_2024.txt
+IRM,Iron Mountain,0001020569,2025,0001020569-25-000040,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001020569_2025.txt
+REG,Regency Centers,0000910606,2010,0001193125-10-042921,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000910606_2010.txt
+REG,Regency Centers,0000910606,2011,0001193125-11-051803,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000910606_2011.txt
+REG,Regency Centers,0000910606,2012,0000910606-12-000004,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000910606_2012.txt
+REG,Regency Centers,0000910606,2013,0000910606-13-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000910606_2013.txt
+REG,Regency Centers,0000910606,2014,0000910606-14-000004,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000910606_2014.txt
+REG,Regency Centers,0000910606,2015,0000910606-15-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000910606_2015.txt
+REG,Regency Centers,0000910606,2016,0000910606-16-000047,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000910606_2016.txt
+REG,Regency Centers,0000910606,2017,0000910606-17-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000910606_2017.txt
+REG,Regency Centers,0000910606,2018,0000910606-18-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000910606_2018.txt
+REG,Regency Centers,0000910606,2019,0000910606-19-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000910606_2019.txt
+REG,Regency Centers,0000910606,2020,0001564590-20-004859,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000910606_2020.txt
+REG,Regency Centers,0000910606,2021,0001564590-21-006390,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000910606_2021.txt
+REG,Regency Centers,0000910606,2022,0000950170-22-001418,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000910606_2022.txt
+REG,Regency Centers,0000910606,2023,0000950170-23-003160,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000910606_2023.txt
+REG,Regency Centers,0000910606,2024,0000950170-24-016260,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000910606_2024.txt
+REG,Regency Centers,0000910606,2025,0000950170-25-021359,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000910606_2025.txt
+WELL,Welltower,0000766704,2010,0000950123-10-018352,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000766704_2010.txt
+WELL,Welltower,0000766704,2011,0000950123-11-018750,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000766704_2011.txt
+WELL,Welltower,0000766704,2012,0000950123-12-002707,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000766704_2012.txt
+WELL,Welltower,0000766704,2013,0000766704-13-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000766704_2013.txt
+WELL,Welltower,0000766704,2014,0000766704-14-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000766704_2014.txt
+WELL,Welltower,0000766704,2015,0000766704-15-000012,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000766704_2015.txt
+WELL,Welltower,0000766704,2016,0000766704-16-000055,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000766704_2016.txt
+WELL,Welltower,0000766704,2017,0000766704-17-000012,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000766704_2017.txt
+WELL,Welltower,0000766704,2018,0000766704-18-000012,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000766704_2018.txt
+WELL,Welltower,0000766704,2019,0000766704-19-000014,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000766704_2019.txt
+WELL,Welltower,0000766704,2020,0000766704-20-000015,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000766704_2020.txt
+WELL,Welltower,0000766704,2021,0000766704-21-000018,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000766704_2021.txt
+WELL,Welltower,0000766704,2022,0000766704-22-000013,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000766704_2022.txt
+WELL,Welltower,0000766704,2023,0000766704-23-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000766704_2023.txt
+WELL,Welltower,0000766704,2024,0000766704-24-000008,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000766704_2024.txt
+WELL,Welltower,0000766704,2025,0000766704-25-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000766704_2025.txt
+AES,AES Corporation,0000874761,2010,0001193125-10-041006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000874761_2010.txt
+AES,AES Corporation,0000874761,2011,0001193125-11-047720,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000874761_2011.txt
+AES,AES Corporation,0000874761,2012,0001193125-12-078654,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000874761_2012.txt
+AES,AES Corporation,0000874761,2013,0001193125-13-077580,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000874761_2013.txt
+AES,AES Corporation,0000874761,2014,0000874761-14-000011,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000874761_2014.txt
+AES,AES Corporation,0000874761,2015,0000874761-15-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000874761_2015.txt
+AES,AES Corporation,0000874761,2016,0000874761-16-000077,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000874761_2016.txt
+AES,AES Corporation,0000874761,2017,0000874761-17-000003,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000874761_2017.txt
+AES,AES Corporation,0000874761,2018,0000874761-18-000014,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000874761_2018.txt
+AES,AES Corporation,0000874761,2019,0000874761-19-000012,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000874761_2019.txt
+AES,AES Corporation,0000874761,2020,0000874761-20-000012,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000874761_2020.txt
+AES,AES Corporation,0000874761,2021,0000874761-21-000015,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000874761_2021.txt
+AES,AES Corporation,0000874761,2022,0000874761-22-000022,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000874761_2022.txt
+AES,AES Corporation,0000874761,2023,0000874761-23-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000874761_2023.txt
+AES,AES Corporation,0000874761,2024,0000874761-24-000011,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000874761_2024.txt
+AES,AES Corporation,0000874761,2025,0000874761-25-000013,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000874761_2025.txt
+D,Dominion Energy,0000715957,2010,0001193125-10-042883,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000715957_2010.txt
+D,Dominion Energy,0000715957,2011,0001193125-11-049905,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000715957_2011.txt
+D,Dominion Energy,0000715957,2012,0001193125-12-085811,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000715957_2012.txt
+D,Dominion Energy,0000715957,2013,0001193125-13-082933,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000715957_2013.txt
+D,Dominion Energy,0000715957,2014,0001193125-14-073496,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000715957_2014.txt
+D,Dominion Energy,0000715957,2015,0001193125-15-067777,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000715957_2015.txt
+D,Dominion Energy,0000715957,2016,0001193125-16-480850,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000715957_2016.txt
+D,Dominion Energy,0000715957,2017,0001193125-17-060413,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000715957_2017.txt
+D,Dominion Energy,0000715957,2018,0001193125-18-059578,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000715957_2018.txt
+D,Dominion Energy,0000715957,2019,0001193125-19-057924,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000715957_2019.txt
+D,Dominion Energy,0000715957,2020,0001193125-20-054469,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000715957_2020.txt
+D,Dominion Energy,0000715957,2021,0001564590-21-008442,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000715957_2021.txt
+D,Dominion Energy,0000715957,2022,0001564590-22-006589,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000715957_2022.txt
+D,Dominion Energy,0000715957,2023,0000950170-23-003287,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000715957_2023.txt
+D,Dominion Energy,0000715957,2024,0000950170-24-019110,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000715957_2024.txt
+D,Dominion Energy,0000715957,2025,0000950170-25-028387,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000715957_2025.txt
+ED,Consolidated Edison,0001047862,2010,0001193125-10-036116,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001047862_2010.txt
+ED,Consolidated Edison,0001047862,2011,0001193125-11-042145,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001047862_2011.txt
+ED,Consolidated Edison,0001047862,2012,0001193125-12-069828,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001047862_2012.txt
+ED,Consolidated Edison,0001047862,2013,0001193125-13-069310,item1a_not_found,
+ED,Consolidated Edison,0001047862,2014,0001193125-14-061037,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001047862_2014.txt
+ED,Consolidated Edison,0001047862,2015,0001193125-15-054350,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001047862_2015.txt
+ED,Consolidated Edison,0001047862,2016,0001047862-16-000225,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001047862_2016.txt
+ED,Consolidated Edison,0001047862,2017,0001047862-17-000029,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001047862_2017.txt
+ED,Consolidated Edison,0001047862,2018,0001047862-18-000037,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001047862_2018.txt
+ED,Consolidated Edison,0001047862,2019,0001047862-19-000035,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001047862_2019.txt
+ED,Consolidated Edison,0001047862,2020,0001047862-20-000041,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001047862_2020.txt
+ED,Consolidated Edison,0001047862,2021,0001047862-21-000049,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001047862_2021.txt
+ED,Consolidated Edison,0001047862,2022,0001047862-22-000039,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001047862_2022.txt
+ED,Consolidated Edison,0001047862,2023,0001047862-23-000038,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001047862_2023.txt
+ED,Consolidated Edison,0001047862,2024,0001047862-24-000012,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001047862_2024.txt
+ED,Consolidated Edison,0001047862,2025,0001047862-25-000011,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0001047862_2025.txt
+PNW,Pinnacle West Capital,0000764622,2010,0000950123-10-014366,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000764622_2010.txt
+PNW,Pinnacle West Capital,0000764622,2011,0000950123-11-015421,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000764622_2011.txt
+PNW,Pinnacle West Capital,0000764622,2012,0001104659-12-012301,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000764622_2012.txt
+PNW,Pinnacle West Capital,0000764622,2013,0001104659-13-012982,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000764622_2013.txt
+PNW,Pinnacle West Capital,0000764622,2014,0001104659-14-012068,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000764622_2014.txt
+PNW,Pinnacle West Capital,0000764622,2015,0000764622-15-000013,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000764622_2015.txt
+PNW,Pinnacle West Capital,0000764622,2016,0000764622-16-000087,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000764622_2016.txt
+PNW,Pinnacle West Capital,0000764622,2017,0000764622-17-000010,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000764622_2017.txt
+PNW,Pinnacle West Capital,0000764622,2018,0000764622-18-000018,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000764622_2018.txt
+PNW,Pinnacle West Capital,0000764622,2019,0000764622-19-000019,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000764622_2019.txt
+PNW,Pinnacle West Capital,0000764622,2020,0000764622-20-000017,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000764622_2020.txt
+PNW,Pinnacle West Capital,0000764622,2021,0000764622-21-000013,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000764622_2021.txt
+PNW,Pinnacle West Capital,0000764622,2022,0000764622-22-000014,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000764622_2022.txt
+PNW,Pinnacle West Capital,0000764622,2023,0000764622-23-000023,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000764622_2023.txt
+PNW,Pinnacle West Capital,0000764622,2024,0000764622-24-000016,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000764622_2024.txt
+PNW,Pinnacle West Capital,0000764622,2025,0000764622-25-000023,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000764622_2025.txt
+SO,Southern Company,0000092122,2010,0000092122-10-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000092122_2010.txt
+SO,Southern Company,0000092122,2011,0000092122-11-000013,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000092122_2011.txt
+SO,Southern Company,0000092122,2012,0000092122-12-000016,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000092122_2012.txt
+SO,Southern Company,0000092122,2013,0000092122-13-000014,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000092122_2013.txt
+SO,Southern Company,0000092122,2014,0000092122-14-000012,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000092122_2014.txt
+SO,Southern Company,0000092122,2015,0000092122-15-000015,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000092122_2015.txt
+SO,Southern Company,0000092122,2016,0000092122-16-000126,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000092122_2016.txt
+SO,Southern Company,0000092122,2017,0000092122-17-000007,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000092122_2017.txt
+SO,Southern Company,0000092122,2018,0000092122-18-000012,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000092122_2018.txt
+SO,Southern Company,0000092122,2019,0000092122-19-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000092122_2019.txt
+SO,Southern Company,0000092122,2020,0000092122-20-000017,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000092122_2020.txt
+SO,Southern Company,0000092122,2021,0000092122-21-000006,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000092122_2021.txt
+SO,Southern Company,0000092122,2022,0000092122-22-000003,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000092122_2022.txt
+SO,Southern Company,0000092122,2023,0000092122-23-000012,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000092122_2023.txt
+SO,Southern Company,0000092122,2024,0000092122-24-000009,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000092122_2024.txt
+SO,Southern Company,0000092122,2025,0000092122-25-000018,success,/Users/hdaphne/Desktop/bipm/NLP/topic-modeling-G5/data/item1a/0000092122_2025.txt

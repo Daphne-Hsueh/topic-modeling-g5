@@ -20,8 +20,24 @@ www.ticketmaster.com
  website that informs consumers that no tickets were found in response to their ticket request to our TicketsNow resale website without first obtaining approval from the State of New Jersey as to any changes to our current Ticketmaster/TicketsNow linking practices; a restriction on using or allowing our affiliates to use domain names that, among other things, contain the unique names of venues, sports teams or performers, or contain names that are substantially similar to or are misspelled versions of same; a requirement to clearly and conspicuously disclose on the TicketsNow website (or any other resale website owned by us or on any primary ticketing website where a link or redirect to such a resale website is posted) that it is a resale website and ticket prices often exceed the ticket’s original price; and a requirement to make certain clear and conspicuous disclosures and in certain instances to create separate listings when a ticket being offered for resale is not “in-hand” as well as a requirement to monitor and enforce the compliance of third parties offering tickets on our websites with such disclosure requirements. Our competitors in the secondary ticket sales market are not, to our knowledge, bound by similar restrictions. As a result, our ability to effectively compete in the secondary ticket sales market, through our TicketsNow business or otherwise, may be adversely affected, which could in turn adversely affect our business, financial condition and results of operations. 
 The artist management industry is also a highly competitive industry. There are numerous other artist management companies and individual managers in the United States alone. We compete with these companies and individuals to discover new and emerging artists and to represent established artists. In addition, certain of our arrangements with clients of our artist management business are terminable at will by either party, leading to competition to retain those artists as clients. Competition is intense and may contribute to a decline in the volume of our artist management business, which could adversely affect our business, financial condition and results of operations. 
 Other variables that could adversely affect our financial performance by, among other things, leading to decreases in overall revenue, the number of sponsors, event attendance, ticket prices and fees or profit margins include: 
+•
+an increased level of competition for advertising dollars, which may lead to lower sponsorships as we attempt to retain advertisers or which may cause us to lose advertisers to our competitors offering better programs that we are unable or unwilling to match; 
+•
+unfavorable fluctuations in operating costs, including increased guarantees to artists, which we may be unwilling or unable to pass through to our customers via ticket prices; 
+•
+competitors’ offerings that may include more favorable terms than we do in order to obtain agreements for new venues or ticketing arrangements or to obtain events for the venues they operate; 
+•
+technological changes and innovations that we are unable to adopt or are late in adopting that offer more attractive entertainment alternatives than we or other live entertainment providers currently offer, which may lead to a reduction in attendance at live events, a loss of ticket sales or to lower ticket fees; 
+•
+other entertainment options available to our audiences that we do not offer; 
+•
+general economic conditions which could cause our consumers to reduce discretionary spending; 
 22
 Table of Contents
+•
+unfavorable changes in labor conditions which may require us to spend more to retain and attract key employees; and 
+•
+unfavorable shifts in population and other demographics which may cause us to lose audiences as people migrate to markets where we have a smaller presence, or which may cause sponsors to be unwilling to pay for sponsorship and advertising opportunities if the general population shifts into a less desirable age or geographical demographic from an advertising perspective. 
 We have incurred net losses and may experience future net losses. 
 Our operating results have been adversely affected by, among other things, variability in ticket sales, event profitability, overhead costs and high amortization of intangibles related to prior acquisitions. We incurred net losses of 
 $36.0 million
@@ -39,6 +55,55 @@ $70.4 million
 Our operations are seasonal and our results of operations vary from quarter to quarter and year over year, so our financial performance in certain financial quarters or years may not be indicative of, or comparable to, our financial performance in subsequent financial quarters or years. 
 We believe our financial results and cash needs will vary greatly from quarter to quarter and year to year depending on, among other things, the timing of tours, tour cancellations, event ticket on-sales, capital expenditures, seasonal and other fluctuations in our operating results, the timing of guaranteed payments and receipt of ticket sales and fees, financing activities, acquisitions and investments and receivables management. Because our results may vary significantly from quarter to quarter and year to year, our financial results for one quarter or year cannot necessarily be compared to another quarter or year and may not be indicative of our future financial performance in subsequent quarters or years. Typically, we experience our lowest financial performance in the first and fourth quarters of the calendar year as our outdoor venues are primarily used, and our festivals primarily occur, during May through September. In addition, the timing of tours of top grossing acts can impact comparability of quarterly results year over year and potentially annual results. The timing of event on-sales by our ticketing clients can also impact this comparability. 
 The following table sets forth our operating income (loss) for the last eight fiscal quarters: 
+Fiscal Quarter Ended
+ 
+ 
+Operating
+income (loss)
+ 
+ 
+ 
+ 
+(in thousands)
+ 
+ 
+ 
+March 31, 2012
+ 
+$
+(42,803
+)
+June 30, 2012
+ 
+$
+42,968
+September 30, 2012
+ 
+$
+104,515
+December 31, 2012
+ 
+$
+(126,319
+)
+March 31, 2013
+ 
+$
+(33,189
+)
+June 30, 2013
+ 
+$
+97,806
+September 30, 2013
+ 
+$
+126,037
+December 31, 2013
+ 
+$
+(50,994
+)
 Our success depends, in significant part, on entertainment, sporting and leisure events and economic and other factors adversely affecting such events could have a material adverse effect on our business, financial condition and results of operations. 
 A decline in attendance at or reduction in the number of live entertainment, sporting and leisure events may have an adverse effect on our revenue and operating income. In addition, during periods of economic slowdown and recession, many consumers have historically reduced their discretionary spending and advertisers have reduced their advertising expenditures. The impact of economic slowdowns on our business is difficult to predict, but they may result in reductions in ticket sales, sponsorship opportunities and our ability to generate revenue. The risks associated with our businesses may become more acute in periods of a slowing economy or recession, which may be accompanied by a decrease in attendance at live entertainment, sporting and leisure events. Many of the factors affecting the number and availability of live entertainment, sporting and leisure events are beyond our control. For instance, certain sports leagues have recently had labor disputes leading to threatened or actual player lockouts. Any such lockouts that result in shortened or canceled seasons would adversely impact our business to the extent that we provide ticketing services to the affected teams both due to the loss of games and ticketing opportunities as well as the possibility of decreased attendance following such a lockout due to adverse fan reaction. 
 23
@@ -46,6 +111,26 @@ Table of Contents
 Our business depends on discretionary consumer and corporate spending. Many factors related to corporate spending and discretionary consumer spending, including economic conditions affecting disposable consumer income such as employment, fuel prices, interest and tax rates and inflation can significantly impact our operating results. Business conditions, as well as various industry conditions, including corporate marketing and promotional spending and interest levels, can also significantly impact our operating results. These factors can affect attendance at our events, premium seat sales, sponsorship, advertising and hospitality spending, concession and merchandise sales, as well as the financial results of sponsors of our venues, events and the industry. Negative factors such as challenging economic conditions, public concerns over terrorism and security incidents, particularly when combined, can impact corporate and consumer spending, and one negative factor can impact our results more than another. There can be no assurance that consumer and corporate spending will not be adversely impacted by current economic conditions, or by any future deterioration in economic conditions, thereby possibly impacting our operating results and growth. 
 We operate in international markets which subject us to risks associated with the legislative, judicial, accounting, regulatory, political and economic risks and conditions specific to such markets, which could adversely affect our business, financial condition and results of operations.
 We provide services in various jurisdictions abroad through a number of brands and businesses that we own and operate, as well as through joint ventures, and we expect to continue to expand our international presence. We face, and expect to continue to face, additional risks in the case of our existing and future international operations, including: 
+•
+political instability, adverse changes in diplomatic relations and unfavorable economic conditions in the markets in which we currently have international operations or into which we may expand; 
+•
+more restrictive or otherwise unfavorable government regulation of the live entertainment and ticketing industries, which could result in increased compliance costs and/or otherwise restrict the manner in which we provide services and the amount of related fees charged for such services; 
+•
+limitations on the enforcement of intellectual property rights; 
+•
+limitations on the ability of foreign subsidiaries to repatriate profits or otherwise remit earnings; 
+•
+adverse tax consequences; 
+•
+expropriations of property and risks of renegotiation or modification of existing agreements with governmental authorities; 
+•
+diminished ability to legally enforce our contractual rights in foreign countries; 
+•
+limitations on technology infrastructure, which could limit our ability to migrate international operations to a common ticketing system; 
+•
+lower levels of internet usage, credit card usage and consumer spending in comparison to those in the United States; and 
+•
+difficulties in managing operations and adapting to consumer desires due to distance, language and cultural differences, including issues associated with (i) business practices and customs that are common in certain foreign countries but might be prohibited by United States law and our internal policies and procedures, and (ii) management and operational systems and infrastructures, including internal financial control and reporting systems and functions, staffing and managing of foreign operations, which we might not be able to do effectively, or if so, on a cost-efficient basis. 
 Our ability to expand our international operations into new jurisdictions, or further into existing jurisdictions will depend, in significant part, on our ability to identify potential acquisition candidates, joint venture or other partners, and enter into arrangements with these parties on favorable terms, as well as our ability to make continued investments to maintain and grow existing international operations. If the revenue generated by international operations are insufficient to offset expenses incurred in connection with the maintenance and growth of these operations, our business, financial condition and results of operations could be materially and adversely affected. In addition, in an effort to make international operations in one or more given jurisdictions profitable over the long term, significant additional investments that are not profitable over the short term could be required over a prolonged period. 
 In foreign countries in which we have operations, a risk exists that our employees, contractors or agents could, in contravention of our policies, engage in business practices prohibited by applicable United States laws and regulations, such as the United States Foreign Corrupt Practices Act, as well as the laws and regulations of other countries prohibiting corrupt payments to government officials such as the United Kingdom Bribery Act 2010. We maintain policies prohibiting such business practices and have in place global anti-corruption compliance programs designed to ensure compliance with these laws and regulations. Nevertheless, we remain subject to the risk that one or more of our employees, contractors or agents, 
 24
@@ -53,19 +138,41 @@ Table of Contents
 including those based in or from countries where practices that violate such United States laws and regulations or the laws and regulations of other countries may be customary, will engage in business practices that are prohibited by our policies, circumvent our compliance programs and, by doing so, violate such laws and regulations. Any such violations, even if prohibited by our internal policies, could result in fines, criminal sanctions against us and/or our employees, prohibitions on the conduct of our business and damage to our reputation, which could adversely affect our business, financial condition and results of operations.
 Exchange rates may cause fluctuations in our results of operations that are not related to our operations. 
 Because we own assets overseas and derive revenue from our international operations, we may incur currency translation losses or gains due to changes in the values of foreign currencies relative to the United States Dollar. We cannot predict the effect of exchange rate fluctuations upon future operating results. For the year ended 
-December 31, 2013
+December 31, 2013
 , our international operations accounted for approximately 
 39%
  of our revenue. Although we cannot predict the future relationship between the United States Dollar and the currencies used by our international businesses, principally the British Pound, Euro, Australian Dollar and Canadian Dollar, we experienced foreign exchange rate net losses of $2.5 million and $1.3 million in 
 2012
  and 
 2011
-, respectively, which increased our net loss. We experienced a foreign exchange rate net gain of $2.7 million in 2013. See Item 7A—Quantitative and Qualitative Disclosures about Market Risk. 
+, respectively, which increased our net loss. We experienced a foreign exchange rate net gain of $2.7 million in 2013. See Item 7A—Quantitative and Qualitative Disclosures about Market Risk. 
 We may enter into future acquisitions and take certain actions in connection with such transactions that could affect our results of operations and the price of our common stock. 
 As part of our growth strategy, we expect to review acquisition prospects that would offer growth opportunities. In the event of future acquisitions, we could, among other things: 
+•
+use a significant portion of our available cash; 
+•
+issue equity securities, which would dilute current stockholders’ percentage ownership; 
+•
+incur substantial debt; 
+•
+incur or assume contingent liabilities, known or unknown; 
+•
+incur amortization expenses related to intangibles; and 
+•
+incur large accounting write-offs. 
 Such actions by us could adversely affect our results of operations and the price of our common stock. 
 We may be unsuccessful in our future acquisition endeavors, if any, which may have an adverse effect on our business; in addition, some of the businesses we acquire may incur significant losses from operations or experience impairment of carrying value. Our compliance with antitrust, competition and other regulations may limit our operations and future acquisitions. 
 Our future growth rate depends in part on our selective acquisition of additional businesses. A significant portion of our growth has been attributable to acquisitions. We may be unable to identify other suitable targets for further acquisition or make further acquisitions at favorable prices. If we identify a suitable acquisition candidate, our ability to successfully complete the acquisition would depend on a variety of factors, and may include our ability to obtain financing on acceptable terms and requisite government approvals. In addition, the credit agreement for our senior secured credit facility restricts our ability to make certain acquisitions. Acquisitions involve risks, including those associated with: 
+•
+integrating the operations, financial reporting, technologies and personnel of acquired companies; 
+•
+managing geographically dispersed operations; 
+•
+the diversion of management’s attention from other business concerns; 
+•
+the inherent risks in entering markets or lines of business in which we have either limited or no direct experience; and 
+•
+the potential loss of key employees, customers and strategic partners of acquired companies. 
 We may not successfully integrate any businesses or technologies we may acquire in the future and may not achieve anticipated revenue and cost benefits. Acquisitions may be expensive, time consuming and may strain our resources. Acquisitions may not be accretive to our earnings and may negatively impact our results of operations as a result of, among other things, expenses to pursue the acquisition and the incurrence of debt. In addition, future acquisitions that we may pursue could result in dilutive issuances of equity securities. Also, the value of goodwill and other intangible assets that currently exist or will be acquired in the future could be impacted by one or more unfavorable events or trends, which could result in impairment charges. The occurrence of any of these events could adversely affect our business, financial condition and results 
 25
 Table of Contents
@@ -96,7 +203,7 @@ Table of Contents
 proceedings by governmental agencies and/or consumers, one or all of which could adversely affect our business, financial condition and results of operations. 
 Costs associated with, and our ability to obtain, adequate insurance could adversely affect our profitability and financial condition. 
 Heightened concerns and challenges regarding property, casualty, liability, business interruption and other insurance coverage have resulted from terrorist and related security incidents along with varying weather-related conditions and incidents. As a result, we may experience increased difficulty obtaining high policy limits of coverage at a reasonable cost, including coverage for acts of terrorism and weather-related property damage. We have a material investment in property and equipment at each of our venues, which are generally located near major cities and which hold events typically attended by a large number of fans. We also have a significant investment in technology including our ticketing systems. At 
-December 31, 2013
+December 31, 2013
 , we had property and equipment with a net book value of 
 $706.8 million
 . 
@@ -105,7 +212,27 @@ In addition, we enter into various agreements with artists from time to time, in
 We cannot guarantee that our insurance policy coverage limits, including insurance coverage for property, casualty, liability, artists and business interruption losses and acts of terrorism, would be adequate under the circumstances should one or multiple events occur at or near any of our venues, or that our insurers would have adequate financial resources to sufficiently or fully pay our related claims or damages. We cannot guarantee that adequate coverage limits will be available, offered at a reasonable cost, or offered by insurers with sufficient financial soundness. The occurrence of such an incident or incidents affecting any one or more of our venues could have a material adverse effect on our financial position and future results of operations if asset damage and/or company liability were to exceed insurance coverage limits or if an insurer were unable to sufficiently or fully pay our related claims or damages. 
 Costs associated with capital improvements could adversely affect our profitability and liquidity. 
 Growth or maintenance of our existing revenue depends in part on consistent investment in our venues and our technology. Therefore, we expect to continue to make substantial capital improvements to meet long-term increasing demand, improve value and grow revenue. We frequently have a number of significant capital projects underway. Numerous factors, many of which are beyond our control, may influence the ultimate costs and timing of various capital improvements, including: 
-The amount of capital expenditures can vary significantly from year to year. In addition, actual costs could vary materially from our estimates if the factors listed above and our assumptions about the quality of materials, equipment or workmanship required or the cost of financing such expenditures were to change. Construction is also subject to governmental permitting processes which, if changed, could materially affect the ultimate cost. See Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations-Uses of Cash. 
+•
+availability of financing on favorable terms; 
+•
+advances in technology and related changes in customer expectations; 
+•
+unforeseen changes in design; 
+•
+increases in the cost of materials, equipment and labor; 
+•
+fluctuations in foreign exchange rates; 
+•
+litigation, accidents or natural disasters; 
+•
+national or regional economic changes; 
+•
+additional land acquisition costs; 
+•
+environmental or hazardous conditions; and 
+•
+undetected soil or land conditions. 
+The amount of capital expenditures can vary significantly from year to year. In addition, actual costs could vary materially from our estimates if the factors listed above and our assumptions about the quality of materials, equipment or workmanship required or the cost of financing such expenditures were to change. Construction is also subject to governmental permitting processes which, if changed, could materially affect the ultimate cost. See Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations-Uses of Cash. 
 28
 Table of Contents
 We may fail to adequately protect our intellectual property rights or may be accused of infringing upon intellectual property rights of third parties. 
@@ -116,8 +243,34 @@ Some of our businesses have been granted patents and/or have patent applications
 From time to time, we are subject to legal proceedings and claims in the ordinary course of business, including claims of alleged infringement of the trademarks, copyrights, patents and other intellectual property rights of third parties. In addition, litigation may be necessary in the future to enforce our intellectual property rights, protect trade secrets or determine the validity and scope of proprietary rights claimed by others. Any litigation of this nature, regardless of outcome or merit, could result in substantial costs and diversion of management and technical resources, any of which could adversely affect our business, financial condition and results of operations. Patent litigation tends to be particularly protracted and expensive. 
 We are subject to extensive governmental regulation, and our failure to comply with these regulations could adversely affect our business, financial condition and results of operations. 
 Our operations are subject to federal, state and local statutes, rules, regulations policies and procedures, both domestically and internationally, which are subject to change at any time, governing matters such as: 
+•
+construction, renovation and operation of our venues; 
+•
+licensing, permitting and zoning, including noise ordinances; 
+•
+human health, safety and sanitation requirements; 
+•
+the service of food and alcoholic beverages; 
+•
+working conditions, labor, minimum wage and hour, citizenship and employment laws; 
+•
+compliance with the ADA and the DDA; 
+•
+historic landmark rules; 
+•
+compliance with the United States Foreign Corrupt Practices Act, the United Kingdom Bribery Act 2010 and similar regulations in other countries, as more particularly described above under the risk factor related to our international operations; 
+•
+hazardous and non-hazardous waste and other environmental protection laws; 
 29
 Table of Contents
+•
+sales and other taxes and withholding of taxes; 
+•
+privacy laws and protection of personally identifiable information; 
+•
+marketing activities via the telephone and online; and 
+•
+primary ticketing and ticket resale services. 
 Our failure to comply with these laws and regulations could result in fines and/or proceedings against us by governmental agencies and/or consumers, which if material, could adversely affect our business, financial condition and results of operations. While we attempt to conduct our business and operations in a manner that we believe to be in compliance with such laws and regulations, there can be no assurance that a law or regulation will not be interpreted or enforced in a manner contrary to our current understanding of the law or regulation. In addition, the promulgation of new laws, rules and regulations could restrict or unfavorably impact our business, which could decrease demand for services, reduce revenue, increase costs and/or subject us to additional liabilities. For example, some legislatures have proposed laws in the past that would impose potential liability on us and other promoters and producers of live music events for entertainment taxes and for incidents that occur at our events, particularly relating to drugs and alcohol. Additionally, new legislation could be passed that may negatively impact our business, such as provisions that have recently been proposed in various jurisdictions that would restrict ticketing methods, mandate ticket inventory disclosure and attack current policies governing season tickets for sports teams. 
 From time to time, federal, state and local authorities and/or consumers commence investigations, inquiries or litigation with respect to our compliance with applicable consumer protection, advertising, unfair business practice, antitrust (and similar or related laws) and other laws. Our businesses have historically cooperated with authorities in connection with these investigations and have satisfactorily resolved each such material investigation, inquiry or litigation. We and our TicketsNow business are currently subject to agreements with the States of New Jersey, Maryland and Illinois and the FTC which govern, and in certain cases place limitations on, our ticketing resale practices. Our competitors in the secondary ticket sales market are not, to our knowledge, bound by such limitations and as a result, we may be at a competitive disadvantage. Other states and Canadian provinces have commenced investigations or inquiries regarding the relationship between us and TicketsNow and other aspects of our ticketing business. We have incurred significant legal expenses in connection with the defense of governmental investigations and litigation in the past and may be required to incur additional expenses in the future regarding such investigations and litigation. In the case of antitrust (and similar or related) matters, any adverse outcome could limit or prevent us from engaging in the ticketing business generally (or in a particular market thereof) or subject us to potential damage assessments, all of which could have a material adverse effect on our business, financial condition and results of operations. 
 Unfavorable outcomes in legal proceedings may adversely affect our business and operating results. 
@@ -131,8 +284,14 @@ We participate in, and make recurrent contributions to, various multiemployer pe
 Table of Contents
 term of a collective bargaining agreement due to ERISA laws that require additional contributions to be made when a pension fund enters into critical status, which may occur for reasons that are beyond our control. In addition, we may be required by law to fulfill our pension withdrawal liability with respect to any multiemployer pension plans from which we may withdraw or partially withdraw. Our potential withdrawal liability will increase if a multiemployer pension plan in which we participate has significant underfunded liabilities. Any unplanned multiemployer pension liabilities could have a material adverse effect on our business, financial condition and results of operations.
 We are dependent upon our ability to lease, acquire and develop live music venues, and if we are unable to do so on acceptable terms, or at all, our results of operations could be adversely affected. 
-Our Concerts and Sponsorship & Advertising segments require access to venues to generate revenue from live music events. For these events, we use venues that we own, but we also operate a number of our live music venues under various agreements which include leases with third parties, ownership through an equity interest or booking agreements, which are agreements where we contract to book the events at a venue for a specific period of time. Our long-term success in the live music business will depend in part on the availability of venues, our ability to lease these venues and our ability to enter into booking agreements upon their expiration. As many of these agreements are with third parties over whom we have little or no control, we may be unable to renew these agreements or enter into new agreements on acceptable terms or at all, and may be unable to obtain favorable agreements with venues. Our ability to renew these agreements or obtain new agreements on favorable terms depends on a number of other factors, many of which are also beyond our control, such as national and local business conditions and competition from other promoters. If the cost of renewing these agreements is too high or the terms of any new agreement with a new venue are unacceptable or incompatible with our existing operations, we may decide to forego these opportunities. There can be no assurance that we will be able to renew these agreements on acceptable terms or at all, or that we will be able to obtain attractive agreements with substitute venues, which could have a material adverse effect on our results of operations. 
+Our Concerts and Sponsorship & Advertising segments require access to venues to generate revenue from live music events. For these events, we use venues that we own, but we also operate a number of our live music venues under various agreements which include leases with third parties, ownership through an equity interest or booking agreements, which are agreements where we contract to book the events at a venue for a specific period of time. Our long-term success in the live music business will depend in part on the availability of venues, our ability to lease these venues and our ability to enter into booking agreements upon their expiration. As many of these agreements are with third parties over whom we have little or no control, we may be unable to renew these agreements or enter into new agreements on acceptable terms or at all, and may be unable to obtain favorable agreements with venues. Our ability to renew these agreements or obtain new agreements on favorable terms depends on a number of other factors, many of which are also beyond our control, such as national and local business conditions and competition from other promoters. If the cost of renewing these agreements is too high or the terms of any new agreement with a new venue are unacceptable or incompatible with our existing operations, we may decide to forego these opportunities. There can be no assurance that we will be able to renew these agreements on acceptable terms or at all, or that we will be able to obtain attractive agreements with substitute venues, which could have a material adverse effect on our results of operations. 
 We may continue to expand our operations through the development of live music venues and the expansion of existing live music venues, which poses a number of risks, including: 
+•
+construction of live music venues may result in cost overruns, delays or unanticipated expenses; 
+•
+desirable sites for live music venues may be unavailable or costly; and 
+•
+the attractiveness of our venue locations may deteriorate over time. 
 Additionally, the market potential of live music venue sites cannot be precisely determined, and our live music venues may face competition in markets from unexpected sources. Newly constructed live music venues may not perform up to our expectations. We face significant competition for potential live music venue locations and for opportunities to acquire existing live music venues. Because of this competition, we may be unable to add to or maintain the number of our live music venues on terms we consider acceptable. 
 Our revenue depends in part on the promotional success of our marketing campaigns, and there can be no assurance that such advertising, promotional and other marketing campaigns will be successful or will generate revenue or profits. 
 Similar to many companies, we spend significant amounts on advertising, promotional, branding and other marketing campaigns for our live music events, the Live Nation, Ticketmaster, 
@@ -154,7 +313,7 @@ Following past terrorism actions, some artists refused to travel or book tours, 
 Risks Relating to Our Leverage 
 We have a large amount of debt and lease obligations that could restrict our operations and impair our financial condition. 
 As of 
-December 31, 2013
+December 31, 2013
 , our total indebtedness, excluding unamortized debt discounts of 
 $24.0 million
  and including debt premium of 
@@ -167,9 +326,25 @@ $266.9 million
 $68.1 million
 . We may also incur significant additional indebtedness in the future. 
 Our substantial indebtedness could have adverse consequences, including: 
+•
+making it more difficult for us to satisfy our obligations; 
+•
+increasing our vulnerability to adverse economic, regulatory and industry conditions; 
+•
+limiting our ability to obtain additional financing for future working capital, capital expenditures, mergers and other purposes; 
+•
+requiring us to dedicate a substantial portion of our cash flow from operations to fund payments on our debt, thereby reducing funds available for operations and other purposes; 
+•
+limiting our flexibility in planning for, or reacting to, changes in our business and the industry in which we operate; 
+•
+making us more vulnerable to increases in interest rates; 
+•
+placing us at a competitive disadvantage compared to our competitors that have less debt; and 
+•
+having a material adverse effect on us if we fail to comply with the covenants in the instruments governing our debt. 
 To service our debt and lease obligations and to fund potential acquisitions, artist and ticketing advances and capital expenditures, we will require a significant amount of cash, which depends on many factors beyond our control. 
 As of 
-December 31, 2013
+December 31, 2013
 , 
 $286.0 million
  of our total indebtedness (excluding interest and unamortized debt discount) is due in 
@@ -189,7 +364,7 @@ $101.3 million
  and 
 $1.3 billion
  is due thereafter. In addition, as of 
-December 31, 2013
+December 31, 2013
 , we had 
 $2.3 billion
  in operating lease agreements, of which 
@@ -200,7 +375,7 @@ $119.4 million
 $123.6 million
  is due in 
 2015
-. All long-term debt without a stated maturity date is considered current and is reflected here as due in 2014. See the table in Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations-Contractual Obligations and Commitments-Firm Commitments. 
+. All long-term debt without a stated maturity date is considered current and is reflected here as due in 2014. See the table in Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations-Contractual Obligations and Commitments-Firm Commitments. 
 Our ability to service our debt and lease obligations and to fund potential acquisitions, artist and ticketing advances and capital expenditures will require a significant amount of cash, which depends on many factors beyond our control. Our ability to make payments on and to refinance our debt will also depend on our ability to generate cash in the future. This is, to an extent, subject to general economic, financial, competitive, legislative, regulatory and other factors that are beyond our control. 
 We cannot assure you that our business will generate sufficient cash flow or that future borrowings will be available to us in an amount sufficient to enable us to pay our debt or to fund our other liquidity needs. If our future cash flow from operations and other capital resources are insufficient to pay our obligations as they mature or to fund our liquidity needs, we may be forced to reduce or delay our business activities and capital expenditures, sell assets, obtain additional equity capital or restructure or refinance all or a portion of our debt on or before maturity. In addition, the terms of our existing debt, including our senior secured credit facility, and other future debt may limit our ability to pursue any of these alternatives. 
 32
@@ -208,6 +383,26 @@ Table of Contents
 These measures might also be unsuccessful or inadequate in permitting us to meet scheduled debt service or lease obligations. We may be unable to restructure or refinance our obligations and obtain additional debt or equity financing or sell assets on satisfactory terms or at all. Capital markets have been volatile in the recent past; a downturn could negatively impact our ability to access capital should the need arise. As a result, the inability to meet our debt or lease obligations could cause us to default on those obligations. Any such defaults could materially harm our financial condition and liquidity. 
 The agreements governing our senior secured credit facility and certain of our other indebtedness impose restrictions on us that limit the discretion of management in operating our business and that, in turn, could impair our ability to meet our obligations under our debt. 
 The agreements governing our senior secured credit facility and certain of our other indebtedness include restrictive covenants that, among other things, restrict our ability to: 
+•
+incur additional debt; 
+•
+pay dividends and make distributions; 
+•
+make certain investments; 
+•
+repurchase our stock and prepay certain indebtedness; 
+•
+create liens; 
+•
+enter into transactions with affiliates; 
+•
+modify the nature of our business; 
+•
+enter into sale-leaseback transactions; 
+•
+transfer and sell material assets; and 
+•
+merge or consolidate. 
 In addition, our senior secured credit facility includes other restrictions, including requirements to maintain certain financial ratios. Our failure to comply with the terms and covenants in our indebtedness could lead to a default under the terms of the governing documents, which would entitle the lenders to accelerate the indebtedness and declare all amounts owed due and payable. 
 These covenants could materially and adversely affect our ability to finance our future operations or capital needs. Furthermore, they may restrict our ability to expand, to pursue our business strategies and otherwise to conduct our business. Our ability to comply with these covenants may be affected by circumstances and events beyond our control, such as prevailing economic conditions and changes in regulations, and we cannot assure you that we will be able to comply. A breach of these covenants could result in a default under our debt. If there were an event of default under our outstanding indebtedness and the obligations there under accelerated, our assets and cash flow might not be sufficient to repay our outstanding debt and we could be forced into bankruptcy. 
 We depend on the cash flows of our subsidiaries in order to satisfy our obligations. 
@@ -220,20 +415,44 @@ agreement. If we do not have sufficient cash on hand or capacity under our senio
 Risks Relating to Our Common Stock 
 We cannot predict the prices at which our common stock may trade. 
 Our stock price has fluctuated between $7.14 and $19.94 over the past three fiscal years. The market price of our common stock may continue to fluctuate significantly due to a number of factors, some of which may be beyond our control, including: 
+•
+our quarterly or annual earnings, or those of other companies in our industry; 
+•
+actual or anticipated fluctuations in our operating results due to the seasonality of our business and other factors related to our business; 
+•
+our loss of or inability to obtain significant popular artists or ticketing clients; 
+•
+changes in accounting standards, policies, guidance, interpretations or principles; 
+•
+announcements by us or our competitors of significant contracts, acquisitions or divestitures; 
+•
+the publication by securities analysts of financial estimates or reports about our business; 
+•
+changes by securities analysts of earnings estimates or reports, or our inability to meet those estimates or achieve any goals described in those reports; 
+•
+the disclosure of facts about our business that may differ from those assumed by securities analysts in preparing their estimates or reports about us; 
+•
+media reports, whether accurate or inaccurate; 
+•
+the operating and stock price performance of other comparable companies; 
+•
+overall market fluctuations; and 
+•
+general economic conditions. 
 In particular, the realization of any of the risks described in these Risk Factors could have a significant and adverse impact on the market price of our common stock. 
 In addition, in the past, some companies that have had volatile market prices for their securities have been subject to securities class action suits filed against them. If a suit were to be filed against us, regardless of the outcome, it could result in substantial legal costs and a diversion of our management’s attention and resources. This could have a material adverse effect on our business, financial condition and results of operations. 
-Our corporate governance documents, rights agreement and Delaware law may delay, deter or prevent an acquisition of us that stockholders may consider favorable, which could decrease the value of our common stock. 
+Our corporate governance documents, rights agreement and Delaware law may delay, deter or prevent an acquisition of us that stockholders may consider favorable, which could decrease the value of our common stock. 
 Our amended and restated certificate of incorporation and amended and restated bylaws and Delaware law contain provisions that could make it more difficult for a third party to acquire us without the consent of the board of directors. These provisions include supermajority voting requirements for stockholders to amend our organizational documents and to remove directors as well as limitations on action by our stockholders by written consent. In addition, the board of directors has the right to issue preferred stock without stockholder approval, which could be used to dilute the stock ownership of a potential hostile acquirer. Delaware law, for instance, also imposes some restrictions on mergers and other business combinations between any holder of 15% or more of our outstanding common stock and us. Although we believe these provisions protect our stockholders from coercive or otherwise unfair takeover tactics and thereby provide for an opportunity to receive a higher bid by requiring potential acquirers to negotiate with the board of directors, these provisions apply even if the offer may be considered beneficial by some stockholders. 
 We have also adopted a stockholder rights plan intended to deter hostile or coercive attempts to acquire us. Under the plan, if any person or group acquires, or begins a tender or exchange offer that could result in such person acquiring, 15% or more of our common stock, and in the case of certain Schedule 13G filers, 20% or more of our common stock, and in the case of Liberty Media and certain of its affiliates, more than 35% of our common stock, without approval of the board of directors under specified circumstances, our other stockholders have the right to purchase shares of our common stock, or shares of the 
 34
 Table of Contents
 acquiring company, at a substantial discount to the public market price. Therefore, the plan makes an acquisition much more costly to a potential acquirer. 
-In addition, the terms of our senior secured credit facility provide that the lenders can require us to repay all outstanding indebtedness upon a change of control. These provisions make an acquisition more costly to a potential acquirer. See Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations-Liquidity and Capital Resources. 
+In addition, the terms of our senior secured credit facility provide that the lenders can require us to repay all outstanding indebtedness upon a change of control. These provisions make an acquisition more costly to a potential acquirer. See Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations-Liquidity and Capital Resources. 
 We have no plans to pay dividends on our common stock, which could affect its market price. 
 We currently intend to retain any future earnings to finance the growth, development and expansion of our business and/or to repay existing indebtedness. Accordingly, we do not intend to declare or pay any dividends on our common stock for the foreseeable future. The declaration, payment and amount of future dividends, if any, will be at the sole discretion of the board of directors after taking into account various factors, including our financial condition, results of operations, cash flow from operations, current and anticipated capital requirements and expansion plans, the income tax laws then in effect and the requirements of Delaware law. In addition, the agreement governing our senior secured credit facility includes restrictions on our ability to pay cash dividends without meeting certain financial ratios and obtaining the consent of the lenders. Accordingly, holders of common stock will not receive cash payments on their investment and the market price may be adversely affected. 
 Future sales or other issuances of our common stock could adversely affect its market price. 
 We have a large number of shares of common stock outstanding. Sales of a substantial number of shares of our common stock in the public market, or the possibility that these sales may occur, could cause the market price for our common stock to decline. As of 
-December 31, 2013
+December 31, 2013
 , there were 199.6 million shares of Live Nation common stock outstanding (including 
 2.2 million
  shares of unvested restricted stock awards and excluding 0.4 million shares held in treasury), 
@@ -253,18 +472,17 @@ If the spin-off of Ticketmaster from IAC or one or more of the Spincos were to f
 In connection with IAC’s spin-off of each of the Spincos, IAC received a private letter ruling from the United States Internal Revenue Service, or IRS, regarding the qualification of these spin-offs as transactions that are generally tax-free for United States federal income tax purposes. IAC’s spin-off of each of the Spincos is referred to collectively as the IAC spin-offs. IAC also received an opinion of counsel regarding certain aspects of the transaction that were not covered by the private letter ruling. Notwithstanding the IRS private letter ruling and opinion of counsel, the IRS could determine that one or more of the IAC spin-offs should be treated as a taxable distribution if it determines that any of the representations, statements or assumptions or undertakings that were included in the request for the IRS private letter ruling are false or have been violated or if it disagrees with the conclusions in the opinion of counsel that are not covered by the IRS ruling. In addition, if any of the representations, statements or assumptions upon which the opinion of counsel was based were or become inaccurate, the opinion may be invalid. 
 35
 Table of Contents
-If any of the IAC spin-offs were to fail to qualify as a transaction that is generally tax-free for United States federal income tax purposes, then IAC would incur material income tax liabilities for which we, as successor-in-interest to Ticketmaster could be liable. Under applicable federal income tax rules, Ticketmaster is severally liable for any federal income taxes imposed on IAC with respect to taxable periods during which Ticketmaster was a member of IAC’s consolidated federal income tax return group, including the period in which the IAC spin-offs were consummated. Under the tax sharing agreement that Ticketmaster entered into with IAC and the other Spincos, Ticketmaster generally is required to indemnify IAC and the other Spincos for any taxes resulting from the spin-off to the extent such amounts resulted from (i) any act or failure to act by Ticketmaster described in the covenants in the tax sharing agreement, (ii) any acquisition of equity securities or assets of Ticketmaster or (iii) any breach by Ticketmaster of any representation or covenant contained in the spin-off documents or in the documents relating to the IRS private letter ruling and/or tax opinions. Corresponding indemnification provisions also apply to the other Spincos. Ticketmaster is entitled to indemnification from IAC, among other things, if, Ticketmaster is liable for, or otherwise required to make a payment in respect of, a spin-off tax liability for which Ticketmaster is not responsible under the tax sharing agreement and, if applicable, is unable to collect from the Spinco responsible for such liability under the tax sharing agreement. Ticketmaster’s ability to collect under these indemnity provisions would depend on the financial position of the indemnifying party. 
+If any of the IAC spin-offs were to fail to qualify as a transaction that is generally tax-free for United States federal income tax purposes, then IAC would incur material income tax liabilities for which we, as successor-in-interest to Ticketmaster could be liable. Under applicable federal income tax rules, Ticketmaster is severally liable for any federal income taxes imposed on IAC with respect to taxable periods during which Ticketmaster was a member of IAC’s consolidated federal income tax return group, including the period in which the IAC spin-offs were consummated. Under the tax sharing agreement that Ticketmaster entered into with IAC and the other Spincos, Ticketmaster generally is required to indemnify IAC and the other Spincos for any taxes resulting from the spin-off to the extent such amounts resulted from (i) any act or failure to act by Ticketmaster described in the covenants in the tax sharing agreement, (ii) any acquisition of equity securities or assets of Ticketmaster or (iii) any breach by Ticketmaster of any representation or covenant contained in the spin-off documents or in the documents relating to the IRS private letter ruling and/or tax opinions. Corresponding indemnification provisions also apply to the other Spincos. Ticketmaster is entitled to indemnification from IAC, among other things, if, Ticketmaster is liable for, or otherwise required to make a payment in respect of, a spin-off tax liability for which Ticketmaster is not responsible under the tax sharing agreement and, if applicable, is unable to collect from the Spinco responsible for such liability under the tax sharing agreement. Ticketmaster’s ability to collect under these indemnity provisions would depend on the financial position of the indemnifying party. 
 Certain transactions in IAC, Ticketmaster, or other Spinco equity securities could cause one or more of the IAC spin-offs to be taxable to IAC and may give rise to indemnification obligations of Ticketmaster under the tax sharing agreement. 
 Current United States federal income tax law creates a presumption that any of the IAC spin-offs would be taxable to IAC if it is part of a “plan or series of related transactions” pursuant to which one or more persons acquire directly or indirectly stock representing a 50% or greater interest (by vote or value) in IAC or a Spinco (including Ticketmaster). Acquisitions that occur during the four-year period that begins two years before the date of a spin-off are presumed to occur pursuant to a plan or series of related transactions, unless it is established that the acquisition is not pursuant to a plan or series of transactions that includes the spin-off. 
-These rules limited Ticketmaster’s ability during the two-year period following the spin-off to enter into certain transactions that might have otherwise been advantageous to us and our stockholders, particularly issuing equity securities to satisfy financing needs, repurchasing equity securities, and, under certain circumstances, acquiring businesses or assets with equity securities or agreeing to be acquired. Under the tax sharing agreement, there were restrictions on Ticketmaster’s ability to take such actions for a period of 25 months from the day after the date of the spin-off. Entering into the Merger Agreement with Live Nation did not violate these restrictions because, prior to entering into the agreement, Ticketmaster provided IAC with an unqualified opinion of tax counsel contemplated by the tax sharing agreement and IAC confirmed that the opinion was satisfactory to IAC. We believe that we did not take any actions during the two-year period following the spin-off that compromised the tax-free nature of that transaction. However, the statutes of limitations related to these tax periods remain open, and if taxing authorities successfully assert tax claims against IAC related to the spin-off, it could give rise to indemnification obligations of Ticketmaster under the tax sharing agreement. 
+These rules limited Ticketmaster’s ability during the two-year period following the spin-off to enter into certain transactions that might have otherwise been advantageous to us and our stockholders, particularly issuing equity securities to satisfy financing needs, repurchasing equity securities, and, under certain circumstances, acquiring businesses or assets with equity securities or agreeing to be acquired. Under the tax sharing agreement, there were restrictions on Ticketmaster’s ability to take such actions for a period of 25 months from the day after the date of the spin-off. Entering into the Merger Agreement with Live Nation did not violate these restrictions because, prior to entering into the agreement, Ticketmaster provided IAC with an unqualified opinion of tax counsel contemplated by the tax sharing agreement and IAC confirmed that the opinion was satisfactory to IAC. We believe that we did not take any actions during the two-year period following the spin-off that compromised the tax-free nature of that transaction. However, the statutes of limitations related to these tax periods remain open, and if taxing authorities successfully assert tax claims against IAC related to the spin-off, it could give rise to indemnification obligations of Ticketmaster under the tax sharing agreement. 
 In addition to actions of IAC and the Spincos (including Ticketmaster), certain transactions that are outside their control and therefore not subject to the restrictive covenants contained in the tax sharing agreement, such as a sale or disposition of the stock of IAC or the stock of a Spinco by certain persons that own five percent or more of any class of stock of IAC or a Spinco could have a similar effect on the tax-free status of a spin-off as transactions to which IAC or a Spinco is a party. 
 As a result of these rules, even if each IAC spin-off otherwise qualifies as a transaction that is generally tax-free for United States federal income tax purposes, transactions involving Spinco or IAC equity securities (including transactions by certain significant stockholders) could cause IAC to recognize taxable gain with respect to the stock of the Spinco as described above. Although the restrictive covenants and indemnification provisions contained in the tax sharing agreement are intended to minimize the likelihood that such an event will occur, one or more of the IAC spin-offs may become taxable to IAC as a result of transactions in IAC or Spinco equity securities. As discussed previously, we, as successor-in-interest to Ticketmaster could be liable for such taxes under the tax sharing agreement or under applicable federal income tax rules. 
-In connection with the Merger, Ticketmaster received (i) two unqualified opinions of tax counsel (one dated as of the date of execution of the definitive Merger Agreement and one dated as of the closing date of the Merger) that the transaction as contemplated in the definitive Merger Agreement would not have an adverse tax effect on the spin-off, and (ii) IAC’s written acknowledgement that the closing date opinion was in form and substance satisfactory to IAC. However, the IRS may disagree with the conclusions in these opinions of counsel and determine that the Merger caused the spin-off to be taxable to IAC. Were this to occur and that position were sustained, we, as successor-in-interest to Ticketmaster would be required to make material indemnification payments to IAC. 
+In connection with the Merger, Ticketmaster received (i) two unqualified opinions of tax counsel (one dated as of the date of execution of the definitive Merger Agreement and one dated as of the closing date of the Merger) that the transaction as contemplated in the definitive Merger Agreement would not have an adverse tax effect on the spin-off, and (ii) IAC’s written acknowledgement that the closing date opinion was in form and substance satisfactory to IAC. However, the IRS may disagree with the conclusions in these opinions of counsel and determine that the Merger caused the spin-off to be taxable to IAC. Were this to occur and that position were sustained, we, as successor-in-interest to Ticketmaster would be required to make material indemnification payments to IAC. 
 36
 Table of Contents
 Risks Relating to the Merger 
 In connection with the Merger, we became subject to a court-imposed final judgment placing certain restrictions and obligations on us which could negatively impact our business. 
 In connection with the Merger, we became subject, through July 2020, to a court-imposed final judgment, or the Final Judgment, that places certain restrictions and obligations on us in order to address the issues the DOJ raised in its antitrust review of the Merger. Pursuant to the Final Judgment, we have agreed to abide by certain behavioral remedies that prevent us from engaging in retaliatory business tactics or improper tying arrangements and to provide periodic reports to the DOJ about our compliance with the Final Judgment. 
 During the duration of the Final Judgment, we are restricted from engaging in certain business activities that, absent the Final Judgment, would be lawful for us to undertake. Our inability to undertake these business strategies could disadvantage us when we compete against firms that are not restricted by any such order. Our compliance with the Final Judgment therefore creates certain unquantifiable business risks for us. 
-In connection with the Merger we also entered into a consent agreement with the Canadian Competition Commission, or the Canadian Consent Agreement, which has the effect of imposing essentially the same terms as the Final Judgment on our business in Canada. The Canadian Consent Agreement will remain in effect through July 2020. The Canadian Consent Agreement creates similar risks for us, both in terms of creating potential enforcement actions and in limiting us from pursuing certain business practices. 
-None.
+In connection with the Merger we also entered into a consent agreement with the Canadian Competition Commission, or the Canadian Consent Agreement, which has the effect of imposing essentially the same terms as the Final Judgment on our business in Canada. The Canadian Consent Agreement will remain in effect through July 2020. The Canadian Consent Agreement creates similar risks for us, both in terms of creating potential enforcement actions and in limiting us from pursuing certain business practices.

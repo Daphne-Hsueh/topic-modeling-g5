@@ -22,7 +22,7 @@ We cannot entirely eliminate all risk of improper access to private information,
 
 13
 
- 
+ 
 
 these threats evolve, cybersecurity incidents will be more difficult to detect, defend against and remediate. Any of the foregoing may have a material adverse effect on our business, financial condition and reputation.
 
@@ -75,19 +75,19 @@ Burdens of complying with a wide variety of labor practices and international la
 
 RAPID TECHNOLOGICAL CHANGE MAY REQUIRE ADDITIONAL RESOURCES AND TIME TO ADEQUATELY RESPOND TO DYNAMICS, WHICH MAY ADVERSELY AFFECT OUR BUSINESS AND OPERATING RESULTS.
 
- 
+ 
 
 Frequent technological changes, new products and services and evolving industry standards are influencing the insurance business. The internet, for example, is increasingly used to securely transmit benefits and related information to customers and to facilitate business-to-business information exchange and transactions.
 
 14
 
- 
+ 
 
- 
+ 
 
 We are continuously taking steps to upgrade and expand our information systems capabilities, including how we electronically interact with our customers and insurance carriers. Maintaining, protecting and enhancing these capabilities to keep pace with evolving industry and regulatory standards, and changing customer preferences, requires an ongoing commitment of significant resources. If the information we rely upon to run our businesses was found to be inaccurate or unreliable or if we fail to effectively maintain our information systems and data integrity, we could experience operational disruptions, regulatory or other legal problems, increases in operating expenses, loss of existing customers, difficulty in attracting new customers, or suffer other adverse consequences.
 
- 
+ 
 
 Our technological development projects may not deliver the benefits we expect once they are completed or may be replaced or become obsolete more quickly than expected, which could result in the accelerated recognition of expenses. If we do not effectively and efficiently manage and upgrade our technology portfolio regularly, or if the costs of doing so are higher than we expect, our ability to provide competitive services to new and existing customers in a cost-effective manner and our ability to implement our strategic initiatives could be adversely impacted.
 
@@ -112,7 +112,7 @@ Because our business is concentrated in the jurisdictions identified above, we f
 
 15
 
- 
+ 
 
 OUR CORPORATE CULTURE HAS CONTRIBUTED TO OUR SUCCESS, AND IF WE CANNOT MAINTAIN THIS CULTURE, OR IF WE EXPERIENCE A SIGNIFICANT CHANGE IN MANAGEMENT, MANAGEMENT PHILOSOPHY, OR BUSINESS STRATEGY, OUR BUSINESS MAY BE HARMED.
 
@@ -140,7 +140,7 @@ Our F&I businesses earn commissions and fees from the sale of non-insurance warr
 
 16
 
- 
+ 
 
 sales in the United States or regulatory changes, including tax-related changes, affecting the sale of non-insurance warranty services and products by vehicle dealers, our F&I businesses may be negatively impacted, which may impact our results of operation.
 
@@ -171,7 +171,7 @@ Many statutory requirements, both in the United States and abroad, include oblig
 
 17
 
- 
+ 
 
 continue to be new proposed laws and regulations concerning data privacy and security, and we cannot yet determine the impact such future laws, regulations and standards may have on our business. Data protection laws also include strict notification requirements for organizations related to confirmed or suspected breaches. With such a limited time available to validate indicators, there is an increased risk of reporting a false alarm or immaterial breach, which may lead to reputational damage despite there not being an actual data breach.
 
@@ -195,7 +195,7 @@ Our business, results of operations, financial condition and liquidity may be ad
 
 18
 
- 
+ 
 
 OUR BUSINESS PRACTICES AND COMPENSATION ARRANGEMENTS WITH INSURANCE CARRIERS ARE SUBJECT TO UNCERTAINTY DUE TO POTENTIAL CHANGES IN REGULATIONS.
 
@@ -214,7 +214,7 @@ Additionally, there has been increased regulatory focus on ESG and sustainabilit
 
 19
 
- 
+ 
 
 we have otherwise run afoul of regulation. Such perceptions or accusations could damage our reputation, result in litigation or regulatory enforcement actions, and adversely affect our business. Furthermore, perceptions of our efforts to achieve ESG goals or advance ESG and sustainable-related strategies may differ widely among stakeholders and could present risks to our reputation and business.
 
@@ -242,11 +242,11 @@ The failure of any lender under our revolving credit facility (which matures in 
 
 We also have a significant amount of trade accounts receivable from some insurance companies with which we place insurance. If those insurance companies were to experience liquidity problems or other financial difficulties, we could encounter delays or defaults in payments owed to us, which could have a significant adverse impact on our financial condition and results of operations.
 
- 
+ 
 
 20
 
- 
+ 
 
 Risks Related to Our Industry
 
@@ -275,7 +275,7 @@ Over the last three years our profit-sharing contingent commissions generally ha
 
 21
 
- 
+ 
 
 Supplemental commissions are paid by insurance companies based upon the volume of business that we place with them and are generally paid over the course of the year. Any decrease in their payment to us could adversely affect our results of operations, profitability and our financial condition.
 

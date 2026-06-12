@@ -1,3 +1,62 @@
+Environmental Protection Agency Renewable Fuel Standard could adversely affect our performance;
+•
+Item 1A, “Risk Factors”—
+We may incur additional costs as a result of our use of rail cars for the transportation of crude oil and the products that we manufacture
+;
+•
+Item 3, “Legal Proceedings” under the caption “Environmental Enforcement Matters,” and;
+•
+Item 8, “Financial Statements and Supplementary Data” in 
+Note 7
+ of Notes to Consolidated Financial Statements and 
+Note 9
+ of Notes to Consolidated Financial Statements under the caption “
+Environmental Matters.
+”
+Capital Expenditures Attributable to Compliance with Environmental Regulations
+. In 
+2017
+, our capital expenditures attributable to compliance with environmental regulations were 
+$145 million
+, and they are currently estimated to be 
+$290 million
+ for 
+2018
+ and 
+$123 million
+ for 
+2019
+. The estimates for 
+2018
+ and 
+2019
+ do not include amounts related to capital investments at our facilities that management has deemed to be strategic investments. These amounts could materially change as a result of governmental and regulatory actions.
+PROPERTIES
+Our principal properties are described above under the caption “Valero’s Operations,” and that information is incorporated herein by reference. We believe that our properties and facilities are generally adequate for our operations and that our facilities are maintained in a good state of repair. As of 
+December 31, 2017
+, we were the lessee under a number of cancelable and noncancelable leases for certain properties. Our leases are discussed more fully in Notes 
+8
+ and 
+9
+ of Notes to Consolidated Financial Statements. Financial information about our properties is presented in 
+Note 5
+ of Notes to Consolidated Financial Statements and is incorporated herein by reference.
+Our patents relating to our refining operations are not material to us as a whole. The trademarks and tradenames under which we conduct our branded wholesale business — Valero
+®
+, Diamond Shamrock
+®
+, Shamrock
+®
+, Ultramar
+®
+, Beacon
+®
+, and Texaco
+®
+— and other trademarks employed in the marketing of petroleum products are integral to our wholesale rack marketing operations.
+15
+Table of Contents
+ITEM 1A. RISK FACTORS
 You should carefully consider the following risk factors in addition to the other information included in this report. Each of these risk factors could adversely affect our business, operating results, and/or financial condition, as well as adversely affect the value of an investment in our common stock.
 Our financial results are affected by volatile refining margins, which are dependent upon factors beyond our control, including the price of crude oil and the market price at which we can sell refined petroleum
  
@@ -14,13 +73,13 @@ Table of Contents
 pollution prevention measures, greenhouse gas (GHG) emissions, and characteristics and composition of fuels, including gasoline and diesel. Certain of these laws and regulations could impose obligations to conduct assessment or remediation efforts at our facilities as well as at formerly owned properties or third-party sites where we have taken wastes for disposal or where our wastes have migrated. Environmental laws and regulations also may impose liability on us for the conduct of third parties, or for actions that complied with applicable requirements when taken, regardless of negligence or fault. If we violate or fail to comply with these laws and regulations, we could be fined or otherwise sanctioned.
 Because environmental laws and regulations are becoming more stringent and new environmental laws and regulations are continuously being enacted or proposed, such as those relating to GHG emissions and climate change, the level of expenditures required for environmental matters could increase in the future. Current and future legislative action and regulatory initiatives could result in changes to operating permits, material changes in operations, increased capital expenditures and operating costs, increased costs of the goods we sell, and decreased demand for our products that cannot be assessed with certainty at this time. We may be required to make expenditures to modify operations, discontinue use of certain process units, or install pollution control equipment that could materially and adversely affect our business, financial condition, results of operations, and liquidity.
 For example, the U.S. Environmental Protection Agency (EPA) recently adopted the Residual Risk and Technology Review Rule (RTR) adding new standards for air toxic emissions, among other requirements. Emerging rules and permitting requirements implementing these revised standards may require us to install more stringent controls at our facilities, which may result in increased capital expenditures. Governmental regulations regarding GHG emissions and low carbon fuel standards could result in increased compliance costs, additional operating restrictions or permitting delays for our business, and an increase in the cost of, and reduction in demand for, the products we produce, which could have a material adverse effect on our financial position, results of operations, and liquidity.
-In addition, in 2015, the U.S., Canada, and the U.K. participated in the United Nations Conference on Climate Change, which led to the creation of the Paris Agreement. The Paris Agreement, which was signed by the U.S. in April 2016, requires countries to review and “represent a progression” in their intended nationally determined contributions (which set GHG emission reduction goals) every five years beginning in 2020. While the current U.S. administration announced its intent to withdraw from the Paris Agreement in June 2017, there are no guarantees that it will not be implemented in the U.S., or in part by U.S. states or local governments. Restrictions on emissions of methane or carbon dioxide that have been or may be imposed in various U.S. states or at the U.S. federal level or in other countries could adversely affect the oil and gas industry.
+In addition, in 2015, the U.S., Canada, and the U.K. participated in the United Nations Conference on Climate Change, which led to the creation of the Paris Agreement. The Paris Agreement, which was signed by the U.S. in April 2016, requires countries to review and “represent a progression” in their intended nationally determined contributions (which set GHG emission reduction goals) every five years beginning in 2020. While the current U.S. administration announced its intent to withdraw from the Paris Agreement in June 2017, there are no guarantees that it will not be implemented in the U.S., or in part by U.S. states or local governments. Restrictions on emissions of methane or carbon dioxide that have been or may be imposed in various U.S. states or at the U.S. federal level or in other countries could adversely affect the oil and gas industry.
 Severe weather events may have an adverse effect on our assets and operations.
 Some members within the scientific community believe that the increasing concentrations of greenhouse gas emissions in the Earth’s atmosphere, among other reasons, may produce climate changes that have significant physical effects, such as increased frequency and severity of storms, droughts and floods and other climatic events. If any such climatic events were to occur, they could have an adverse effect on our assets and operations.
 17
 Table of Contents
 Compliance with the U.S. Environmental Protection Agency Renewable Fuel Standard could adversely affect our performance.
-The U.S. EPA has implemented a Renewable Fuel Standard (RFS) pursuant to the Energy Policy Act of 2005 and the Energy Independence and Security Act of 2007. The RFS program sets annual quotas for the quantity of renewable fuels (such as ethanol) that must be blended into transportation fuels consumed in the U.S. A Renewable Identification Number (RIN) is assigned to each gallon of renewable fuel produced in or imported into the U.S. As a producer of petroleum-based transportation fuels, we are obligated to blend renewable fuels into the products we produce at a rate that is at least commensurate to the U.S. EPA’s quota and, to the extent we do not, we must purchase RINs in the open market to satisfy our obligation under the RFS program.
+The U.S. EPA has implemented a Renewable Fuel Standard (RFS) pursuant to the Energy Policy Act of 2005 and the Energy Independence and Security Act of 2007. The RFS program sets annual quotas for the quantity of renewable fuels (such as ethanol) that must be blended into transportation fuels consumed in the U.S. A Renewable Identification Number (RIN) is assigned to each gallon of renewable fuel produced in or imported into the U.S. As a producer of petroleum-based transportation fuels, we are obligated to blend renewable fuels into the products we produce at a rate that is at least commensurate to the U.S. EPA’s quota and, to the extent we do not, we must purchase RINs in the open market to satisfy our obligation under the RFS program.
 We are exposed to the volatility in the market price of RINs. We cannot predict the future prices of RINs. RINs prices are dependent upon a variety of factors, including U.S. EPA regulations, the availability of RINs for purchase, and levels of transportation fuels produced, which can vary significantly from quarter to quarter. If sufficient RINs are unavailable for purchase or if we have to pay a significantly higher price for RINs, or if we are otherwise unable to meet the U.S. EPA’s RFS mandates, our results of operations and cash flows could be adversely affected.
 Disruption of our ability to obtain crude oil could adversely affect our operations
 .
@@ -68,7 +127,7 @@ We may engage in capital projects based on the forecasted project economics and 
 Compliance with and changes in tax laws could adversely affect our performance
 .
 We are subject to extensive tax liabilities imposed by multiple jurisdictions, including income taxes, indirect taxes (excise/duty, sales/use, gross receipts, and value-added taxes), payroll taxes, franchise taxes, withholding taxes, and ad valorem taxes. New tax laws and regulations and changes in existing tax laws and regulations are continuously being enacted or proposed that could result in increased expenditures for tax liabilities in the future. Many of these liabilities are subject to periodic audits by the respective taxing authority. Subsequent changes to our tax liabilities as a result of these audits may subject us to interest and penalties.
-On December 22, 2017, tax legislation commonly known as the Tax Cuts and Jobs Act of 2017 (Tax Reform) was enacted. Among other things, Tax Reform reduces the U.S. corporate income tax rate from 35 percent to 21 percent (beginning in 2018) and implements a new system of taxation for non-U.S. earnings, including by imposing a one-time tax on the deemed repatriation of undistributed earnings of non-U.S. subsidiaries. Beginning in 2018, Tax Reform also generally will (i) limit our annual deductions for interest expense to no more than 30 percent of our “adjusted taxable income” (plus 100 percent of our business interest income) for the year and (ii) permit us to offset only 80 percent (rather than 100 percent) of our taxable income with any net operating losses we generate after 2017. While we are currently evaluating the effects of Tax Reform, including the one-time deemed repatriation tax and the re-measurement of our deferred tax assets and liabilities, we do not expect that the provisions of Tax Reform, taken as a whole, will have any adverse impact on our cash tax liabilities, results of operations, or financial condition. In the absence of guidance on various uncertainties and ambiguities in the application of certain provisions of Tax Reform, we will use what we believe are reasonable interpretations and assumptions in applying Tax Reform, but it is possible that the Internal Revenue Service (IRS) could issue subsequent guidance or take positions on audit that differ from our prior interpretations and assumptions, which could adversely impact our cash tax liabilities, results of operations, and financial condition.
+On December 22, 2017, tax legislation commonly known as the Tax Cuts and Jobs Act of 2017 (Tax Reform) was enacted. Among other things, Tax Reform reduces the U.S. corporate income tax rate from 35 percent to 21 percent (beginning in 2018) and implements a new system of taxation for non-U.S. earnings, including by imposing a one-time tax on the deemed repatriation of undistributed earnings of non-U.S. subsidiaries. Beginning in 2018, Tax Reform also generally will (i) limit our annual deductions for interest expense to no more than 30 percent of our “adjusted taxable income” (plus 100 percent of our business interest income) for the year and (ii) permit us to offset only 80 percent (rather than 100 percent) of our taxable income with any net operating losses we generate after 2017. While we are currently evaluating the effects of Tax Reform, including the one-time deemed repatriation tax and the re-measurement of our deferred tax assets and liabilities, we do not expect that the provisions of Tax Reform, taken as a whole, will have any adverse impact on our cash tax liabilities, results of operations, or financial condition. In the absence of guidance on various uncertainties and ambiguities in the application of certain provisions of Tax Reform, we will use what we believe are reasonable interpretations and assumptions in applying Tax Reform, but it is possible that the Internal Revenue Service (IRS) could issue subsequent guidance or take positions on audit that differ from our prior interpretations and assumptions, which could adversely impact our cash tax liabilities, results of operations, and financial condition.
 We may incur losses and additional costs as a result of our forward-contract activities and derivative transactions
 .
 We currently use commodity derivative instruments, and we expect to continue their use in the future. If the instruments we use to hedge our exposure to various types of risk are not effective, we may incur losses. In addition, we may be required to incur additional costs in connection with future regulation of derivative instruments to the extent it is applicable to us.

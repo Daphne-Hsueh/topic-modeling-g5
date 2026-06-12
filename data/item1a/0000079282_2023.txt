@@ -24,7 +24,7 @@ Additionally, we are an acquisitive organization and the process of integrating 
 
 13
 
- 
+ 
 
 expose us to unexpected liabilities or make our own systems more vulnerable to attack. In the future, any material breaches of cybersecurity, or media reports of the same, even if untrue, could cause us to experience reputational harm, loss of customers and revenue, loss of proprietary data, regulatory actions and scrutiny, sanctions or other statutory penalties, litigation, liability for failure to safeguard customers’ information or financial losses. Such losses may not be insured against or not fully covered through insurance we maintain.
 
@@ -82,7 +82,7 @@ We are continuously taking steps to upgrade and expand our information systems c
 
 14
 
- 
+ 
 
 Our technological development projects may not deliver the benefits we expect once they are completed or may be replaced or become obsolete more quickly than expected, which could result in the accelerated recognition of expenses. If we do not effectively and efficiently manage and upgrade our technology portfolio regularly, or if the costs of doing so are higher than we expect, our ability to provide competitive services to new and existing customers in a cost-effective manner and our ability to implement our strategic initiatives could be adversely impacted.
 
@@ -111,7 +111,7 @@ We believe that a significant contributor to our success has been our corporate 
 
 15
 
- 
+ 
 
 future success. We may face pressure to change our culture as we grow, particularly if we experience difficulties in attracting competent employees who are willing to embrace our culture. Remote and hybrid work arrangements as a result of the COVID-19 pandemic may also negatively impact our ability to maintain our culture. In addition, as our organization grows and we are required to implement more complex organizational structures, or if we experience a significant change in management, management philosophy or business strategy, we may find it increasingly difficult to maintain the beneficial aspects of our corporate culture, such as our decentralized sales and service operating model, which could negatively impact our future success.
 
@@ -160,7 +160,7 @@ Our management, including our chief executive officer and chief financial office
 
 16
 
- 
+ 
 
 There can be no assurance that the design of any of our systems of controls will succeed in achieving its stated goals under all potential future conditions.
  
@@ -187,7 +187,7 @@ In 2022, the Company acquired GRP (Jersey) Holdco Limited and its business and t
 
 17
 
- 
+ 
 
 OUR BUSINESS, RESULTS OF OPERATIONS, FINANCIAL CONDITION AND LIQUIDITY MAY BE MATERIALLY ADVERSELY AFFECTED BY CERTAIN ACTUAL AND POTENTIAL CLAIMS, REGULATORY ACTIONS AND PROCEEDINGS.
 
@@ -207,7 +207,7 @@ We conduct business in each of the 50 states of the United States of America and
 
 18
 
- 
+ 
 
 insurance in catastrophe-prone areas or other alternative market types of coverage that compete with or completely replace, insurance products offered by insurance carriers. Also, as climate change issues become more prevalent, the U.S. and other governments are beginning to respond to these issues. This increasing governmental focus on climate change may result in new environmental regulations, new or enhanced reporting, diligence or disclosure rules that may negatively affect us and our customers and could expand the nature, scope, and complexity of matters that we are required to control, assess, and report. This could cause us to incur additional direct costs in complying with any new environmental regulations, as well as increased indirect costs resulting from our customers incurring additional compliance costs that get passed on to us. These costs may adversely impact our results of operations and financial condition.
 
@@ -236,7 +236,7 @@ The restrictive covenants in our debt agreements may impact how we operate our b
 
 19
 
- 
+ 
 
 Our compliance with these covenants could limit management’s discretion in operating our business and could prevent us from engaging in certain potentially beneficial activities.
 
@@ -246,7 +246,7 @@ The failure of any lender under our revolving credit facility (which matures in 
 
 We also have a significant amount of trade accounts receivable from some insurance companies with which we place insurance. If those insurance companies were to experience liquidity problems or other financial difficulties, we could encounter delays or defaults in payments owed to us, which could have a significant adverse impact on our financial condition and results of operations.
 
- 
+ 
 
 WE ARE SUBJECT TO RISKS ASSOCIATED WITH THE CURRENT INTEREST RATE ENVIRONMENT AND TO THE EXTENT WE USE DEBT TO FINANCE OUR INVESTMENTS, CHANGES IN INTEREST RATES WILL AFFECT OUR COST OF CAPITAL AND NET INVESTMENT INCOME.
 
@@ -269,7 +269,7 @@ OUR CURRENT MARKET SHARE MAY DECREASE AS A RESULT OF DISINTERMEDIATION WITHIN TH
 
 20
 
- 
+ 
 
 The insurance intermediary business is highly competitive and we actively compete with numerous firms for customers and insurance companies, many of which have relationships with insurance companies or have a significant presence in niche insurance markets that may give them an advantage over us. Other competitive concerns may include the quality of our products and services, our pricing and the ability of some of our customers to self-insure and the entrance of technology companies into the insurance intermediary business. A number of insurance companies are engaged in the direct sale of insurance, primarily to individuals, and do not pay commissions to agents and brokers. In addition, and to the extent that banks, securities firms, private equity funds and insurance companies affiliate, the financial services industry may experience further consolidation, and we therefore may experience increased competition from insurance companies and the financial services industry, as a growing number of larger financial institutions increasingly, and aggressively, offer a wider variety of financial services, including insurance intermediary services.
  
@@ -296,14 +296,14 @@ As of the date of the filing of our Annual Report on Form 10-K for the 2022 fisc
 
 21
 
- 
+ 
 
 See Note 1-“Summary of Significant Accounting Policies” and Note 4-“Goodwill” to the Consolidated Financial Statements and “Management’s Report on Internal Control Over Financial Reporting.”
 
 Additionally, the carrying value of amortizable intangible assets attributable to each business or asset group comprising the Company is periodically reviewed by management to determine if there are events or changes in circumstances that would indicate that its carrying amount may not be recoverable. Accordingly, if there are any such circumstances that occur during the year, we assess the carrying value of our amortizable intangible assets by considering the estimated future undiscounted cash flows generated by the corresponding business or asset group. Any impairment identified through this assessment may require that the carrying value of related amortizable intangible assets be adjusted.
  
 
-  
+ 
 
 There have been no impairments recorded to either goodwill or amortizable intangibles for the years ended December 31, 2022, 2021 and 2020.
 
@@ -311,7 +311,7 @@ THE COVID-19 PANDEMIC, AS WELL AS FUTURE PANDEMICS, EPIDEMICS OR OUTBREAKS OF IN
 
 The COVID-19 pandemic created significant volatility, uncertainty and economic disruption, which could further adversely affect our business and may materially and adversely affect our financial condition, results of operations and cash flows. The extent to which COVID-19 impacts our business will depend on future developments, which are highly uncertain and cannot be predicted with confidence. In addition, if COVID-19 creates disruptions or turmoil in the credit or financial markets in the future, or impacts our credit ratings, it could adversely affect our ability to access capital on favorable terms and continue to meet our liquidity needs, all of which are highly uncertain and cannot be predicted.
 
-  
+ 
 
 We cannot predict the impact that COVID-19, or future pandemics, epidemics or outbreaks of infectious disease, will have in the future on our customers, insurance carriers, suppliers and other third-party contractors, and each of their financial conditions; however, any material effect on these parties could adversely impact us. Even after a pandemic, epidemic or outbreak of infectious disease has subsided, we may experience materially adverse impacts to our business as a result of the global economic impact of these events. Further, these events may affect our operating and financial results in a manner that is not presently known to us or that we currently do not consider as presenting significant risks to our operations.
  

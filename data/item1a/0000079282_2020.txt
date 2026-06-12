@@ -10,7 +10,7 @@ Our success depends on our ability to attract and retain skilled and experienced
 
 Table of Contents
 
- 
+ 
 
 Losing employees who manage or support substantial customer relationships or possess substantial experience or expertise could adversely affect our ability to secure and complete customer engagements, which would adversely affect our results of operations. Also, if any of our key personnel were to join an existing competitor or form a competing company, some of our customers could choose to use the services of that competitor instead of our services. While our key personnel are generally prohibited by contract from soliciting our employees and customers for a two-year period following separation from employment with us, they are not prohibited from competing with us.
 
@@ -32,7 +32,7 @@ While we have invested and continue to invest in technology security initiatives
 
 Table of Contents
 
- 
+ 
 
 RAPID TECHNOLOGICAL CHANGE MAY REQUIRE ADDITIONAL RESOURCES AND TIME TO ADEQUATELY RESPOND TO DYNAMICS, WHICH MAY ADVERSELY AFFECT OUR BUSINESS AND OPERATING RESULTS.
 
@@ -52,25 +52,67 @@ These and similar initiatives around the world could increase the cost of develo
 
 WE DERIVE A SIGNIFICANT PORTION OF OUR COMMISSION REVENUES FROM A LIMITED NUMBER OF INSURANCE COMPANIES, THE LOSS OF WHICH COULD RESULT IN ADDITIONAL EXPENSE AND LOSS OF MARKET SHARE.
 
-For the year ended December 31, 2019, no insurance company accounted for more than 4.0% of our total core commissions. For each of the years ended December 31, 2018 and 2017, approximately 5.0% of our total core commissions was derived from insurance policies underwritten by one insurance company. Should this insurance company seek to terminate its arrangements with us or to otherwise decrease the number of insurance policies underwritten for us, we believe that other insurance companies are available to underwrite the business, although some additional expense and loss of market share could result.
+For the year ended December 31, 2019, no insurance company accounted for more than 4.0% of our total core commissions. For each of the years ended December 31, 2018 and 2017, approximately 5.0% of our total core commissions was derived from insurance policies underwritten by one insurance company. Should this insurance company seek to terminate its arrangements with us or to otherwise decrease the number of insurance policies underwritten for us, we believe that other insurance companies are available to underwrite the business, although some additional expense and loss of market share could result.
 
 13
 
 Table of Contents
 
- 
+ 
 
 BECAUSE OUR BUSINESS IS HIGHLY CONCENTRATED IN ARIZONA, CALIFORNIA, FLORIDA, GEORGIA, ILLINOIS, INDIANA, KENTUCKY, MASSACHUSETTS, MICHIGAN, MINNESOTA, NEW JERSEY, NEW YORK, NORTH CAROLINA, OREGON, PENNSYLVANIA, TEXAS, VIRGINIA, WASHINGTON AND WISCONSIN, ADVERSE ECONOMIC CONDITIONS, NATURAL DISASTERS, OR REGULATORY CHANGES IN THESE STATES COULD ADVERSELY AFFECT OUR FINANCIAL CONDITION.
 
-A significant portion of our business is concentrated in Arizona, California, Florida, Georgia, Illinois, Indiana, Kentucky, Massachusetts, Michigan, Minnesota, New Jersey, New York, North Carolina, Oregon, Pennsylvania, Texas, Virginia, Washington and Wisconsin. For the years ended December 31, 2019, 2018 and 2017, we derived $2,106.3 million or 88.1%, $1,976.5 million or 88.6%, and $1,692.6 million or 90.0%, of our annualized revenue, respectively, from our operations located in these states. We believe the current regulatory environment for insurance intermediaries in these states is no more restrictive than in other states. The insurance business is primarily a state-regulated industry, and therefore, state legislatures may enact laws that adversely affect the insurance industry. Because our business is concentrated in the states identified above, we face greater exposure to unfavorable changes in regulatory conditions in those states than insurance intermediaries whose operations are more diversified through a greater number of states. In addition, the occurrence of adverse economic conditions, natural or other disasters, or other circumstances specific to or otherwise significantly impacting these states could adversely affect our financial condition, results of operations and cash flows. We are susceptible to losses and interruptions caused by hurricanes (particularly in Florida, where we have 52 offices and our headquarters, as well as in Texas, where we have 20 offices), earthquakes (including in California, where we have 29 offices), power shortages, telecommunications failures, water shortages, floods, fire, extreme weather conditions, geopolitical events such as terrorist acts and other natural or man-made disasters. Our insurance coverage with respect to natural disasters is limited and is subject to deductibles and coverage limits. Such coverage may not be adequate, or may not continue to be available at commercially reasonable rates and terms.
+A significant portion of our business is concentrated in Arizona, California, Florida, Georgia, Illinois, Indiana, Kentucky, Massachusetts, Michigan, Minnesota, New Jersey, New York, North Carolina, Oregon, Pennsylvania, Texas, Virginia, Washington and Wisconsin. For the years ended December 31, 2019, 2018 and 2017, we derived $2,106.3 million or 88.1%, $1,976.5 million or 88.6%, and $1,692.6 million or 90.0%, of our annualized revenue, respectively, from our operations located in these states. We believe the current regulatory environment for insurance intermediaries in these states is no more restrictive than in other states. The insurance business is primarily a state-regulated industry, and therefore, state legislatures may enact laws that adversely affect the insurance industry. Because our business is concentrated in the states identified above, we face greater exposure to unfavorable changes in regulatory conditions in those states than insurance intermediaries whose operations are more diversified through a greater number of states. In addition, the occurrence of adverse economic conditions, natural or other disasters, or other circumstances specific to or otherwise significantly impacting these states could adversely affect our financial condition, results of operations and cash flows. We are susceptible to losses and interruptions caused by hurricanes (particularly in Florida, where we have 52 offices and our headquarters, as well as in Texas, where we have 20 offices), earthquakes (including in California, where we have 29 offices), power shortages, telecommunications failures, water shortages, floods, fire, extreme weather conditions, geopolitical events such as terrorist acts and other natural or man-made disasters. Our insurance coverage with respect to natural disasters is limited and is subject to deductibles and coverage limits. Such coverage may not be adequate, or may not continue to be available at commercially reasonable rates and terms.
 
 OUR CORPORATE CULTURE HAS CONTRIBUTED TO OUR SUCCESS, AND IF WE CANNOT MAINTAIN THIS CULTURE, OR IF WE EXPERIENCE A CHANGE IN MANAGEMENT, MANAGEMENT PHILOSOPHY, OR BUSINESS STRATEGY, OUR BUSINESS MAY BE HARMED.
 
-We believe that a significant contributor to our success has been our corporate culture as a lean, decentralized, highly competitive, profit-oriented sales and service organization.  As we grow, including from the integration of employees and businesses acquired in connection with previous or future acquisitions, we may find it difficult to maintain important aspects of our corporate culture, which could negatively affect our profitability and/or our ability to retain and recruit people of the highest integrity and quality who are essential to our future success.  We may face pressure to change our culture as we grow, particularly if we experience difficulties in attracting competent personnel who are willing to embrace our culture.  In addition, as our organization grows and we are required to implement more complex organizational structures, or if we experience a change in management, management philosophy, or business strategy, we may find it increasingly difficult to maintain the beneficial aspects of our corporate culture, such as our decentralized sales and service operating model, which could negatively impact our future success.
+We believe that a significant contributor to our success has been our corporate culture as a lean, decentralized, highly competitive, profit-oriented sales and service organization. As we grow, including from the integration of employees and businesses acquired in connection with previous or future acquisitions, we may find it difficult to maintain important aspects of our corporate culture, which could negatively affect our profitability and/or our ability to retain and recruit people of the highest integrity and quality who are essential to our future success. We may face pressure to change our culture as we grow, particularly if we experience difficulties in attracting competent personnel who are willing to embrace our culture. In addition, as our organization grows and we are required to implement more complex organizational structures, or if we experience a change in management, management philosophy, or business strategy, we may find it increasingly difficult to maintain the beneficial aspects of our corporate culture, such as our decentralized sales and service operating model, which could negatively impact our future success.
 
 We face a variety of risks in our services segement, including our third-party claims administration operations, that are distinct from those we face in our insurance intermediary operations.
 
 Our Services Segment, including our third-party claims administration operations, face a variety of risks distinct from those faced by our insurance intermediary operations, including the risks that:
+
+ 
+
+•
+
+The favorable trend among both insurance companies and self-insured entities toward outsourcing various types of claims administration and risk management services may reverse or slow, causing our revenues or revenue growth to decline;
+
+ 
+
+•
+
+Concentration of large amounts of revenue with certain customers may result in greater exposure to the potential negative effects of lost business due to changes in management at such customers or for other reasons;
+
+ 
+
+•
+
+Contracting terms will become less favorable or the margins on our services may decrease due to increased competition, regulatory constraints, or other developments;
+
+ 
+
+•
+
+Our revenue is impacted by claims volumes, which are dependent upon a number of factors and difficult to forecast accurately;
+
+ 
+
+•
+
+Economic weakness or a slow-down in economic activity could lead to a reduction in the number of claims we process;
+
+ 
+
+•
+
+We may be unable to develop further efficiencies in our claims-handling business and may be unable to obtain or retain certain customers if we fail to make adequate improvements in technology or operations; and
+
+ 
+
+•
+
+Insurance companies or certain large self-insured entities may create in-house servicing capabilities that compete with our services.
 
 If any of these risks materialize, our results of operations and financial condition could be adversely affected.
 
@@ -78,11 +120,11 @@ If any of these risks materialize, our results of operations and financial condi
 
 Table of Contents
 
- 
+ 
 
 IF WE FAIL TO COMPLY WITH THE COVENANTS CONTAINED IN CERTAIN OF OUR AGREEMENTS, OUR LIQUIDITY, RESULTS OF OPERATIONS AND FINANCIAL CONDITION MAY BE ADVERSELY AFFECTED.
 
-The credit agreements that govern our debt contain various covenants and other limitations with which we must comply. At December 31, 2019, we believe we were in compliance with the financial covenants and other limitations contained in each of these agreements. However, failure to comply with material provisions of our covenants in these agreements or other credit or similar agreements to which we may become a party could result in a default, rendering them unavailable to us and causing a material adverse effect on our liquidity, results of operations and financial condition. In the event of certain defaults, the lenders thereunder would not be required to lend any additional amounts to or purchase any additional notes from us and could elect to declare all borrowings outstanding, together with accrued and unpaid interest and fees, to be due and payable. If the indebtedness under these agreements or our other indebtedness, were to be accelerated, there can be no assurance that our assets would be sufficient to repay such indebtedness in full.
+The credit agreements that govern our debt contain various covenants and other limitations with which we must comply. At December 31, 2019, we believe we were in compliance with the financial covenants and other limitations contained in each of these agreements. However, failure to comply with material provisions of our covenants in these agreements or other credit or similar agreements to which we may become a party could result in a default, rendering them unavailable to us and causing a material adverse effect on our liquidity, results of operations and financial condition. In the event of certain defaults, the lenders thereunder would not be required to lend any additional amounts to or purchase any additional notes from us and could elect to declare all borrowings outstanding, together with accrued and unpaid interest and fees, to be due and payable. If the indebtedness under these agreements or our other indebtedness, were to be accelerated, there can be no assurance that our assets would be sufficient to repay such indebtedness in full.
 
 CERTAIN OF OUR AGREEMENTS CONTAIN VARIOUS COVENANTS THAT LIMIT THE DISCRETION OF OUR MANAGEMENT IN OPERATING OUR BUSINESS AND COULD PREVENT US FROM ENGAGING IN CERTAIN POTENTIALLY BENEFICIAL ACTIVITIES.
 
@@ -106,7 +148,7 @@ The design of any system of controls also is based in part upon certain assumpti
 
 Table of Contents
 
- 
+ 
 
 OUR BUSINESS, RESULTS OF OPERATIONS, FINANCIAL CONDITION AND LIQUIDITY MAY BE MATERIALLY ADVERSELY AFFECTED BY CERTAIN ACTUAL AND POTENTIAL CLAIMS, REGULATORY ACTIONS AND PROCEEDINGS.
 
@@ -122,17 +164,95 @@ We also have a significant amount of trade accounts receivable from some insuran
 
 CERTAIN OF OUR EXISTING SHAREHOLDERS HAVE SIGNIFICANT CONTROL OF THE COMPANY.
 
-At December 31, 2019, our executive officers, directors and certain of their family members collectively beneficially owned approximately 16.7% of our outstanding common stock, of which J. Hyatt Brown, our Chairman, and his son, J. Powell Brown, our President and Chief Executive Officer, beneficially owned approximately 15.7%. As a result, our executive officers, directors and certain of their family members have significant influence over (1) the election of our Board of Directors, (2) the approval or disapproval of any other matters requiring shareholder approval and (3) our affairs and policies.
+At December 31, 2019, our executive officers, directors and certain of their family members collectively beneficially owned approximately 16.7% of our outstanding common stock, of which J. Hyatt Brown, our Chairman, and his son, J. Powell Brown, our President and Chief Executive Officer, beneficially owned approximately 15.7%. As a result, our executive officers, directors and certain of their family members have significant influence over (1) the election of our Board of Directors, (2) the approval or disapproval of any other matters requiring shareholder approval and (3) our affairs and policies.
 
 WE HAVE OPERATIONS INTERNATIONALLY, WHICH MAY RESULT IN A NUMBER OF ADDITIONAL RISKS AND REQUIRE MORE MANAGEMENT TIME AND EXPENSE THAN OUR DOMESTIC OPERATIONS TO ACHIEVE OR MAINTAIN PROFITABILITY.
 
 We have operations in the United Kingdom, Bermuda, Canada and the Cayman Islands. In the future, we intend to continue to consider additional international expansion opportunities. Our international operations may be subject to a number of risks, including:
 
+ 
+
+•
+
+Difficulties in staffing and managing foreign operations;
+
+ 
+
+•
+
+Less flexible employee relationships, which may make it difficult and expensive to terminate employees and which limits our ability to prohibit employees from competing with us after their employment ceases;
+
+ 
+
+•
+
+Political and economic instability (including acts of terrorism and outbreaks of war);
+
+ 
+
+•
+
+Coordinating our communications and logistics across geographic distances and multiple time zones;
+
+ 
+
+•
+
+Unexpected changes in regulatory requirements and laws;
+
 16
 
 Table of Contents
 
- 
+ 
+
+ 
+
+•
+
+Adverse trade policies, and adverse changes to any of the policies of either the U.S. or any of the foreign jurisdictions in which we operate;
+
+ 
+
+•
+
+Adverse changes in tax rates;
+
+ 
+
+•
+
+Variations in foreign currency exchange rates;
+
+ 
+
+•
+
+Legal or political constraints on our ability to maintain or increase prices;
+
+ 
+
+•
+
+Governmental restrictions on the transfer of funds to or from us, including to or from our operations outside the United States;
+
+ 
+
+•
+
+Any adverse developments arising out of the exit of the United Kingdom from the European Union, including any related economic downturn in the United Kingdom and any sustained weakness in the British pound’s exchange rate against the U.S. dollar resulting from such exit;
+
+ 
+
+•
+
+Burdens of complying with, and the risk of employees or third parties acting on our behalf violating, anti-corruption laws in foreign countries; and
+
+ 
+
+•
+
+Burdens of complying with a wide variety of labor practices and foreign laws, including those relating to export and import duties, environmental policies and privacy issues.
 
 WE ARE SUBJECT TO RISKS ASSOCIATED WITH THE CURRENT INTEREST RATE ENVIRONMENT AND TO THE EXTENT WE USE DEBT TO FINANCE OUR INVESTMENTS, CHANGES IN INTEREST RATES WILL AFFECT OUR COST OF CAPITAL AND NET INVESTMENT INCOME.
 
@@ -154,7 +274,7 @@ In addition, there has been an increase in alternative insurance markets, such a
 
 Table of Contents
 
- 
+ 
 
 CURRENT U.S. 
 OR GLOBAL 
@@ -184,7 +304,7 @@ The business practices and compensation arrangements of the insurance intermedia
 
 Table of Contents
 
- 
+ 
 
 arrangements, and addressing disclosure of such arrangements to insureds. Various state departments of insurance may also adopt new regulations addressing these matters which could adversely affect our results of operations.
 
@@ -202,9 +322,9 @@ As of the date of the filing of our Annual Report on Form 10-K for the 2019 fisc
 
 Table of Contents
 
- 
+ 
 
-Additionally, the carrying value of amortizable intangible assets attributable to each business or asset group comprising the Company is periodically reviewed by management to determine if there are events or changes in circumstances that would indicate that its carrying amount may not be recoverable. Accordingly, if there are any such circumstances that occur during the year, we assess the carrying value of our amortizable intangible assets by considering the estimated future undiscounted cash flows generated by the corresponding business or asset group. Any impairment identified through this assessment may require that the carrying value of related amortizable intangible assets be adjusted; however, no impairments have been recorded for the years ended December 31, 201
+Additionally, the carrying value of amortizable intangible assets attributable to each business or asset group comprising the Company is periodically reviewed by management to determine if there are events or changes in circumstances that would indicate that its carrying amount may not be recoverable. Accordingly, if there are any such circumstances that occur during the year, we assess the carrying value of our amortizable intangible assets by considering the estimated future undiscounted cash flows generated by the corresponding business or asset group. Any impairment identified through this assessment may require that the carrying value of related amortizable intangible assets be adjusted; however, no impairments have been recorded for the years ended December 31, 201
 9
 , 201
 8
