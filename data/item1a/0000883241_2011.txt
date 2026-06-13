@@ -1,0 +1,787 @@
+A description of the risk factors associated with our business is set forth below. Investors should carefully
+consider these risks and uncertainties before investing in our common stock. 
+ 
+The continued uncertainty in the global economy, and
+its potential impact on the semiconductor and electronics industries in particular, may negatively affect our business, operating results and financial condition. 
+ 
+As a result of the recent global recession, the global economy experienced significant uncertainty, stock market volatility, tightened credit markets, concerns about both deflation and inflation, reduced demand for
+products, lower consumer confidence, reduced capital spending, liquidity concerns and business insolvencies. Further declines, and uncertainty about future economic conditions, could negatively impact our customers’ businesses, reducing demand
+for our products and adversely affecting our business. 
+ 
+The recent global recession adversely affected the semiconductor industry.
+Semiconductor companies generally remain cautious and focused on their costs, including their research and development budgets which capture spending on EDA products and services. These factors could among other things limit our ability to maintain
+or increase our sales or recognize revenue from committed contracts and in turn adversely affect our business, operating results and financial condition. 
+ 
+Under our business model, we generally expect more than 90% of our total revenue to be recurring revenue, as a substantial majority of our customers pay for licenses over a three-year period. However, the turmoil
+and uncertainty caused by recent economic conditions caused some of our customers to postpone their decision-making, decrease their spending and/or delay their payments to us. Future periods of decreased committed average annual revenue, customer
+bankruptcies, or consolidation among our customers, could adversely affect our year-over-year revenue growth. 
+ 
+The recent global
+recession also adversely affected the banking and financial industry. If the global economy continues to experience uncertainty, our ability to obtain credit on favorable terms could be jeopardized. Furthermore, we rely on several large financial
+institutions to act as counterparties under our foreign currency forward contracts, provide credit and banking transactions and deposit services worldwide. Should any of our banking partners declare bankruptcy or otherwise default on their
+obligations, it could adversely affect our financial results and our business. 
+ 
+We cannot predict if or when global economic confidence
+will be restored. Accordingly, our future business and financial results are subject to considerable uncertainty, and our stock price is at risk of volatile change. If economic conditions fail to significantly improve for any extended period of time
+or deteriorate in the future, or, in particular, if semiconductor industry revenues do not continue to grow, our future revenues and financial results could be adversely affected. Conversely, in the event of future improvements in economic
+conditions for our customers, the positive impact on our revenues and financial results may be deferred due to our business model. 
+
+The growth of our business depends on the semiconductor and electronics industries. 
+
+The growth of the EDA industry as a whole, and our business in particular, is dependent on the semiconductor and electronics industries. The
+semiconductor industry is currently anticipated to have modest growth in 2012. A substantial portion of our business and revenue depends upon the commencement of new design projects by semiconductor manufacturers and their customers. The increasing
+complexity of designs of SoCs and ICs, and customers’ concerns about managing costs, have previously led and in the future could lead to a decrease in design starts and design activity in general, with some customers focusing more on one
+discrete phase of the design process. Demand for our products and services could decrease and our financial condition and results of operations could 
+
+ 
+ 
+10 
+
+Table of Contents
+
+be adversely affected if the semiconductor and electronics industries do not continue to grow, or grow at a slower rate. Additionally, as the EDA industry matures, consolidation has increased
+competition for a greater share of our customers’ EDA spending. This increased competition may cause our revenue growth rate to decline and exert downward pressure on our operating margins, which may have an adverse effect on our business and
+financial condition. 
+ 
+We may not be able to realize the potential financial or strategic benefits of the acquisitions we complete,
+or find suitable target businesses and technology to acquire, which could hurt our ability to grow our business, develop new products or sell our products. 
+ 
+Acquisitions are an important part of our growth strategy. We have completed a significant number of acquisitions in recent years, including the acquisitions of CoWare, Inc., VaST Systems Technology Corporation,
+and Virage Logic Corporation. On November 30, 2011, we entered into a definitive agreement pursuant to which we, through our wholly owned subsidiary, have agreed to acquire 100% of the outstanding common stock of Magma Design Automation, Inc.
+(Magma) in exchange for cash. Our pending acquisition of Magma carries certain risks, including our ability to obtain governmental approvals of the acquisition in a timely manner or at all, the risk that such approvals are not obtained and we must
+pay a break-up fee, risks related to class action lawsuits filed by purported Magma stockholders that could be costly, time-consuming and affect our ability to close the transaction, and the risk that Magma stockholders will not approve the
+acquisition. 
+ 
+We expect to make additional acquisitions in the future, but we may not find suitable acquisition targets or we may not be
+able to consummate desired acquisitions due to unfavorable credit markets or other risks, which could harm our operating results. Acquisitions are difficult, time consuming, and pose a number of risks, including: 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Potential negative impact on our earnings per share; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Failure of acquired products to achieve projected sales; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Problems in integrating the acquired products with our products; 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Difficulties entering into new market segments in which we are not experienced; 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Potential downward pressure on operating margins due to lower operating margins of acquired businesses, increased headcount costs and other expenses associated
+with adding and supporting new products; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Difficulties in retaining and integrating key employees; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Failure to realize expected synergies or cost savings; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Dilution of our current stockholders through the issuance of common stock, a substantial reduction of our cash resources and/or the incurrence of debt;
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Assumption of unknown liabilities, including tax and litigation, and the related expenses and diversion of resources; 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Disruption of ongoing business operations, including diversion of management’s attention; 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Potential negative impact on our relationships with customers, distributors and business partners; and 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Negative impact on our earnings resulting from the application of ASC 805, 
+Business Combinations
+. 
+
+If we do not manage these risks, the acquisitions that we complete may have an adverse effect on our business and financial condition. For instance,
+if, after the closing of our acquisition of Magma, we are unable to successfully integrate Magma products and technology, we may not be able to achieve the anticipated revenue growth from this transaction. The integration process may involve
+significant management time and create uncertainty for employees and customers, and delays in the process 
+
+ 
+ 
+11 
+
+Table of Contents
+
+could have a material adverse effect on our revenues, expenses, operating results and financial condition. Additionally, if we determine we cannot use or sell the acquired products or technology,
+we will be required to write down the associated intangible assets, which would negatively impact our operating results. 
+
+Consolidation among our customers, as well as within the industries in which we operate, may negatively impact our operating results.
+
+ 
+A number of business combinations, including mergers, asset acquisitions and strategic partnerships, among our customers and in
+the semiconductor and electronics industries have occurred recently, and more could occur in the future. Consolidation among our customers could lead to fewer customers or the loss of customers, increased customer bargaining power, or reduced
+customer spending on software and services. Moreover, business combinations within the industries in which we compete may result in stronger competition from companies that are better able to compete as sole source vendors to customers. The loss of
+customers or reduced customer spending could adversely affect our business and financial condition. 
+ 
+In addition, we and our competitors
+from time to time acquire business and technologies to complement and expand our respective product offerings. If any of our competitors consolidate or acquire businesses and technologies which we do not offer, they may be able to offer a larger
+technology portfolio, a larger support and service capability, or lower prices, which could negatively impact our business and operating results. 
+ 
+Changes in accounting principles or standards, or in the way they are applied, could result in unfavorable accounting charges or effects and unexpected financial reporting fluctuations, and could adversely
+affect our reported operating results. 
+ 
+We prepare our consolidated financial statements in conformity with U.S. Generally
+Accepted Accounting Principles (GAAP). These principles are subject to interpretation by the SEC and various bodies formed to interpret and create appropriate accounting principles and guidance. A change in existing principles or guidance can have a
+significant effect on our reported results and may retroactively affect previously reported results. Additionally, proposed accounting standards could have a significant impact on our operational processes, revenues and expenses, and could cause
+unexpected financial reporting fluctuations. 
+ 
+For example, the Financial Accounting Standards Board (FASB) is currently working together
+with the International Accounting Standards Board (IASB) to converge certain accounting principles and facilitate more comparable financial reporting between companies who are required to follow GAAP and those who are required to follow
+International Financial Reporting Standards (IFRS). These efforts may result in different accounting principles under GAAP, which may have a material impact on the way in which we report financial results in areas including, but not limited to,
+revenue recognition, lease accounting, and financial statement presentation. We expect the SEC to make a determination in the near future regarding the incorporation of IFRS into the financial reporting system for U.S. companies. A change in
+accounting principles from GAAP to IFRS may have a material impact on our financial statements and may retroactively adversely affect previously reported transactions. 
+ 
+Our operating results may fluctuate in the future, which may adversely affect our stock price. 
+ 
+Our operating results are subject to quarterly and annual fluctuations, which may adversely affect our stock price. Our historical results should not be viewed as indicative of our future performance due to these
+periodic fluctuations. Many factors may cause our revenue or earnings to fluctuate, including: 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Changes in demand for our products due to fluctuations in demand for our customers’ products and due to constraints in our customers’ budgets for
+research and development and EDA products and services; 
+
+ 
+ 
+12 
+
+Table of Contents
+
+ 
+
+•
+
+ 
+
+ 
+Product competition in the EDA industry, which can change rapidly due to industry or customer consolidation and technological innovation;
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Our ability to innovate and introduce new products and services or effectively integrate products and technologies that we acquire; 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Failures or delays in completing sales due to our lengthy sales cycle; 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Cancellations or changes to levels of license orders or the mix between upfront and time-based license revenue; 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Our ability to implement effective cost control measures; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Delay of one or more orders for a particular period, particularly orders generating upfront revenue; 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Our dependence on a relatively small number of large customers for a large portion of our revenue; 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Changes in or challenges to our revenue recognition model; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Amendments or renewals of customer contracts which provide discounts or require the deferral of revenue to later periods; 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Expenses related to our acquisition and integration of businesses and technology; 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Delays, increased costs or quality issues resulting from our reliance on third parties to manufacture our hardware products; and 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+General economic and political conditions that affect the semiconductor and electronics industries. 
+
+These factors, or any other factors or risks discussed herein, could negatively impact our revenue or earnings and cause our stock price to decline.
+
+ 
+We operate in highly competitive industries, and if we do not continue to meet our customers’ demand for innovative
+technology at lower costs, our business and financial condition will be harmed. 
+ 
+We compete against EDA vendors that offer a
+variety of products and services, such as Cadence Design Systems, Inc., Mentor Graphics Corporation and Magma. We also compete with other EDA vendors, including frequent new entrants to the marketplace, that offer products focused on one or more
+discrete phases of the IC design process, as well as vendors of IP products and system-level solutions. Moreover, our customers internally develop design tools and capabilities that compete with our products. 
+
+The industries in which we operate are highly competitive and the demand for our products and services is dynamic and depends on a number of
+factors, including demand for our customers’ products, design starts and our customers’ budgetary constraints. Technology in these industries evolves rapidly and is characterized by frequent product introductions and improvements and
+changes in industry standards and customer requirements. Semiconductor device functionality requirements continually increase while feature widths decrease, substantially increasing the complexity, cost and risk of chip design and
+manufacturing. At the same time, our customers and potential customers continue to demand an overall lower total cost of design, which can lead to the consolidation of their purchases with one vendor. In order to succeed in this environment, we
+must successfully meet our customers’ technology requirements and increase the value of our products, while also striving to reduce their overall costs and our own operating costs. 
+
+ 
+ 
+13 
+
+Table of Contents
+
+We compete principally on the basis of technology, product quality and features (including
+ease-of-use), license or usage terms, post-contract customer support, interoperability among products, and price and payment terms. Specifically, we believe the following competitive factors affect our success: 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Our ability to anticipate and lead critical development cycles, innovate rapidly and efficiently, improve our existing products, and successfully develop or
+acquire new products; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Our ability to offer products that provide both a high level of integration into a comprehensive platform and a high level of individual product performance;
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Our ability to enhance the value of our offering through more favorable terms such as expanded license usage, future purchase rights, price discounts and other
+unique rights, such as multiple tool copies, post-contract customer support, and the ability to purchase pools of technology; and 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Our ability to compete on the basis of payment terms. 
+ 
+If we fail to successfully manage these competitive factors, fail to successfully balance the conflicting demands for innovative technology and lower overall costs, or fail to address new competitive forces, our
+business and financial condition will be adversely affected. 
+ 
+If we fail to protect our proprietary technology our business will
+be harmed. 
+ 
+Our success depends in part upon protecting our proprietary technology. Our efforts to protect our technology may be
+costly and unsuccessful. We rely on agreements with customers, employees and others and on intellectual property laws worldwide to protect our proprietary technology. These agreements may be breached, and we may not have adequate remedies for any
+breach. Additionally, despite our measures to prevent piracy, other parties may attempt to illegally copy or use our products, which could result in lost revenue. Some foreign countries do not currently provide effective legal protection for
+intellectual property and our ability to prevent the unauthorized use of our products in those countries is therefore limited. Our trade secrets may also otherwise become known or be independently developed by competitors. 
+
+We may need to commence litigation or other legal proceedings in order to: 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Assert claims of infringement of our intellectual property; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Defend our products from piracy; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Protect our trade secrets or know-how; or 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Determine the enforceability, scope and validity of the propriety rights of others. 
+
+If we do not obtain or maintain appropriate patent, copyright or trade secret protection, for any reason, or cannot fully defend our intellectual
+property rights in some jurisdictions, our business and operating results would be harmed. In addition, intellectual property litigation is lengthy, expensive and uncertain and legal fees related to such litigation will increase our operating
+expenses and may reduce our net income. 
+ 
+Unfavorable tax law changes, an unfavorable government review of our tax returns or
+changes in our geographical earnings mix or forecasts of foreign source income could adversely affect our effective tax rate and our operating results. 
+ 
+Our operations are subject to income and transaction taxes in the United States and in multiple foreign jurisdictions. A change in the tax law in the jurisdictions in which we do business, including an increase in
+tax rates or an adverse change in the treatment of an item of income or expense, could result in a material increase in our tax expense. Currently, a substantial portion of our revenue is generated from customers located outside the United States,
+and a substantial portion of our assets, 
+
+ 
+ 
+14 
+
+Table of Contents
+
+including employees, are located outside the United States. United States income taxes and foreign withholding taxes have not been provided on undistributed earnings for certain non-United States
+subsidiaries to the extent such earnings are considered to be indefinitely reinvested in the operations of those subsidiaries. A number of proposals for broad reform of the corporate tax system in the United States are under evaluation by various
+legislative and administrative bodies, but it is not possible to determine accurately the overall impact of such proposals on our effective tax rate at this time. 
+ 
+Our tax filings are subject to review or audit by the Internal Revenue Service (IRS) and state, local and foreign taxing authorities. We exercise judgment in determining our worldwide provision for income taxes
+and, in the ordinary course of our business, there may be transactions and calculations where the ultimate tax determination is uncertain. The IRS examinations of our federal tax returns for the years 2000 through 2001 and 2002 through 2004 resulted
+in significant proposed adjustments which were subsequently settled without a material financial statement impact. In addition, we are currently being audited in jurisdictions outside the United States. Although we believe our tax estimates are
+reasonable, we can provide no assurance that any final determination in an audit will not be materially different than the treatment reflected in our historical income tax provisions and accruals. An assessment of additional taxes as a result of an
+audit could adversely affect our income tax provision and net income in the period or periods for which that determination is made. 
+ 
+We
+have operations both in the United States and in multiple foreign jurisdictions with a wide range of statutory tax rates. Therefore, any changes in our geographical earnings mix in various tax jurisdictions, including those resulting from transfer
+pricing adjustments, could materially increase our effective tax rate. Furthermore, we maintain deferred tax assets related to federal foreign tax credits and certain state tax credits. Our ability to use these credits is dependent upon having
+sufficient future foreign source income in the United States, as well as sufficient taxable income in certain states. Changes in our forecasts of future income could result in an adjustment to the deferred tax asset and a related charge to earnings
+which could materially affect our financial results. 
+ 
+We may have to invest more resources in research and development than
+anticipated, which could increase our operating expenses and negatively affect our operating results. 
+ 
+We devote substantial
+resources to research and development. New competitors, technological advances by existing competitors, our acquisitions, our entry into new markets, or other competitive factors may require us to invest significantly greater resources than we
+anticipate. If we are required to invest significantly greater resources than anticipated without a corresponding increase in revenue, our operating results could decline. Additionally, our periodic research and development expenses may be
+independent of our level of revenue which could negatively impact our financial results. 
+ 
+The global nature of our operations
+exposes us to increased risks and compliance obligations which may adversely affect our business. 
+ 
+We derive more than half of
+our revenue from sales outside the United States, and we expect our orders and revenue to continue to depend on sales to customers outside the United States. In addition, we have expanded our non-U.S. operations significantly in the past several
+years. This strategy requires us to recruit and retain qualified technical and managerial employees, manage multiple, remote locations performing complex software development projects and ensure intellectual property protection outside of the United
+States. Our international operations and sales subject us to a number of increased risks, including: 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+International economic and political conditions, such as political tensions between countries in which we do business; 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Difficulties in adapting to cultural differences in the conduct of business; 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Ineffective legal protection of intellectual property rights; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Financial risks such as longer payment cycles and difficulty in collecting accounts receivable; 
+
+ 
+ 
+15 
+
+Table of Contents
+
+ 
+
+•
+
+ 
+
+ 
+Inadequate local infrastructure that could result in business disruptions; 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Additional taxes and penalties; and 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Other factors beyond our control such as natural disasters, terrorism, civil unrest, war and infectious diseases. 
+
+If any of the foreign economies in which we do business deteriorate or if we fail to effectively manage our global operations, our business and
+results of operations will be harmed. 
+ 
+In addition, our global operations are subject to numerous U.S. and foreign laws and regulations,
+including those related to anti-corruption, tax, corporate governance, imports and exports, financial and other disclosures, privacy and labor relations. These laws and regulations are complex and may have differing or conflicting legal standards,
+making compliance difficult and costly. If we violate these laws and regulations we could be subject to fines, penalties or criminal sanctions, and may be prohibited from conducting business in one or more countries. Although we have implemented
+policies and procedures to ensure compliance with these laws and regulations, there can be no assurance that our employees, contractors or agents will not violate these laws and regulations. Any violation individually or in the aggregate could have
+a material adverse effect on our operations and financial condition. 
+ 
+Our financial statements are also affected by fluctuations in
+foreign currency exchange rates. A weakening U.S. dollar relative to other currencies increases expenses of our foreign subsidiaries when they are translated into U.S. dollars in our consolidated statement of operations. Likewise, a
+strengthening U.S. dollar relative to other currencies, especially the Japanese yen, reduces revenue of our foreign subsidiaries upon translation and consolidation. Exchange rates are subject to significant and rapid fluctuations, and therefore
+we cannot predict the prospective impact of exchange rate fluctuations. Although we engage in foreign currency hedging activity, we may be unable to hedge all of our foreign currency risk, which could have a negative impact on our results of
+operations. 
+ 
+Liquidity requirements in our U.S. operations may require us to raise cash in uncertain capital markets, which could
+negatively affect our financial condition. 
+ 
+As of October 31, 2011, approximately 77% of our worldwide cash, cash
+equivalents and short term investments balance was held in subsidiary accounts outside the United States. In addition, typically about half of our operating cash flow is received by our overseas subsidiaries. Should our cash spending needs
+in the United States rise and exceed our existing U.S. balances, revolving credit facility and future U.S. cash flows, we may be required to incur debt at higher than anticipated interest rates or access other funding sources, which could negatively
+affect our results of operations, capital structure and/or the market price of our common stock. For example, we expect to partially fund our acquisition of Magma using debt, which would require us to draw on our revolving credit facility or to
+incur additional debt separate from our credit facility.
+ 
+From time to time we are subject to claims that our products infringe on
+third party intellectual property rights. 
+ 
+We are from time to time subject to claims alleging our infringement of third party
+intellectual property rights, including patent rights. For example, in December 2011, a patent infringement lawsuit was filed against us by Dynetix Design Solutions, Inc., which seeks, among other things, compensatory damages and a permanent
+injunction. Further information regarding this lawsuit is contained in Part I, Item 3, 
+Legal Proceedings
+. In addition, under our customer agreements and other license agreements, we agree in many cases to indemnify our customers if our
+products infringe a third party’s intellectual property rights. We have recently defended some of our customers against claims that their use of one of our products infringes on a patent held by a Japanese electronics company. Although we were
+successful in that case, there can be no assurances that we will prevail in defending against any current or future claims of infringement. In addition, these types of claims can result in costly and
+time-
+
+ 
+ 
+16 
+
+Table of Contents
+
+consuming litigation, require us to enter into royalty arrangements, subject us to damages or injunctions restricting our sale of products, invalidate a patent or family of patents, require us to
+refund license fees to our customers or to forgo future payments or require us to redesign certain of our products, any one of which could harm our business and operating results. 
+
+Product errors or defects could expose us to liability and harm our reputation and we could lose market share. 
+
+Software products frequently contain errors or defects, especially when first introduced, when new versions are released or when integrated with
+technologies developed by acquired companies. Product errors could affect the performance or interoperability of our products, could delay the development or release of new products or new versions of products and could adversely affect market
+acceptance or perception of our products. In addition, allegations of IC manufacturability issues resulting from use of our IP products could, even if untrue, adversely affect our reputation and our customers’ willingness to license IP products
+from us. Any such errors or delays in releasing new products or new versions of products or allegations of unsatisfactory performance could cause us to lose customers, increase our service costs, subject us to liability for damages and divert our
+resources from other tasks, any one of which could materially and adversely affect our business and operating results. 
+ 
+Customer
+payment defaults or related issues could harm our operating results. 
+ 
+The majority of our revenue backlog consists of customer
+payment obligations not yet due that are attributable to software we have already delivered. A significant portion of the revenue we recognize in any period comes from backlog and is dependent upon our receipt of cash from customers. We will not
+achieve expected revenue and cash flow if customers default, declare bankruptcy, or otherwise fail to pay amounts owed. Moreover, existing customers may seek to renegotiate pre-existing contractual commitments due to adverse changes in their own
+businesses. Our customers’ financial condition, and in turn their ability or willingness to fulfill their contractual and financial obligations, could be adversely affected by current economic conditions. If payment defaults by our customers
+significantly increase or we experience significant reductions in existing contractual commitments, our operating results would be harmed. 
+ 
+We may be subject to litigation proceedings that could harm our business. 
+ 
+We may be
+subject to legal claims or regulatory matters involving stockholder, consumer, competition, and other issues on a global basis. Litigation is subject to inherent uncertainties, and unfavorable rulings could occur. An unfavorable ruling could include
+monetary damages or, in cases for which injunctive relief is sought, an injunction prohibiting us from manufacturing or selling one or more products. If we were to receive an unfavorable ruling on a matter, our business and results of operations
+could be materially harmed. 
+ 
+In connection with our definitive agreement to acquire Magma, purported Magma stockholders filed shareholder
+class action lawsuits in December 2011 against Magma, Magma’s directors and Synopsys. Further information regarding these lawsuits is contained in Part I, Item 3, 
+Legal Proceedings
+. 
+
+If we fail to timely recruit and retain senior management and key employees our business may be harmed. 
+
+We depend in large part upon the services of key members of our senior management team to drive our future success. If we were to lose the
+services of any member of our senior management team, our business could be adversely affected. 
+ 
+To be successful, we must also attract
+and retain key technical, sales and managerial employees, including those who join Synopsys in connection with acquisitions. There are a limited number of qualified EDA and IC design engineers, and competition for these individuals is intense
+and has 
+
+ 
+ 
+17 
+
+Table of Contents
+
+increased. Our employees are often recruited aggressively by our competitors and our customers. Any failure to recruit and retain key technical, sales and managerial employees could harm our
+business, results of operations and financial condition. Additionally, efforts to recruit and retain qualified employees could be costly and negatively impact our operating expenses. 
+
+We issue stock options and restricted stock units and maintain employee stock purchase plans as a key component of our overall compensation. We face
+pressure to limit the use of such equity-based compensation due to its dilutive effect on stockholders. In addition, we are required under GAAP to recognize compensation expense in our results from operations for employee share-based equity
+compensation under our equity grants and our employee stock purchase plan, which has increased the pressure to limit equity-based compensation. These factors may make it more difficult for us to grant attractive equity-based packages in the future,
+which could adversely impact and limit our ability to attract and retain key employees. 
+ 
+Our business is subject to evolving
+corporate governance and public disclosure regulations that have increased both our compliance costs and the risk of noncompliance, which could have an adverse effect on our stock price. 
+
+We are subject to changing rules and regulations promulgated by a number of governmental and self-regulated organizations, including the SEC, the
+NASDAQ Stock Market, and the FASB. These rules and regulations continue to evolve in scope and complexity and many new requirements have been created in response to laws enacted by Congress, making compliance more difficult and uncertain. For
+example, Congress recently passed the Dodd-Frank Wall Street Reform and Consumer Protection Act. Our efforts to comply with the Dodd-Frank Act and other new regulations have resulted in, and are likely to continue to result in, increased general and
+administrative expenses and a diversion of management time and attention from revenue-generating activities to compliance activities. 
+
+There are inherent limitations on the effectiveness of our controls. 
+
+Regardless of how well designed and operated it is, a control system can provide only reasonable assurance that its objectives will be met. Further,
+the design of a control system must reflect the fact that there are resource constraints and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls
+can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. Failure of our control systems to prevent error or fraud could have a material adverse impact on our business. 
+
+Our investment portfolio may be impaired by deterioration of the capital markets. 
+
+Our cash equivalent and short-term investment portfolio as of October 31, 2011 consists of investment grade municipal bonds, tax-exempt money
+market mutual funds, taxable money market mutual funds and bank deposits. Our investment portfolio carries both interest rate risk and credit risk. Fixed rate debt securities may have their market value adversely impacted due to a credit downgrade
+or a rise in interest rates, while floating rate securities may produce less income than expected if interest rates fall or a credit downgrade occurs. As a result of current adverse financial market conditions, including the recent downgrade by
+Standard and Poor’s (S&P) of the U.S. long-term sovereign credit rating, capital pressures on certain banks, especially in Europe, and the continuing low interest rate environment, some of our financial instruments may become
+impaired. Our future investment income may fall short of expectations due to changes in interest rates or if the decline in fair value of our publicly traded debt or equity investments is judged to be other-than-temporary. In addition, we may
+suffer losses in principal if we are forced to sell securities that decline in market value due to changes in the issuer’s credit quality or changes in interest rates. 
+
+ 
+ 
+18 
+
+Table of Contents
+
+Security breaches could compromise sensitive information belonging to us or our customers and
+could harm our business and reputation. 
+ 
+We store sensitive data, including intellectual property, our proprietary business
+information and that of our customers, and confidential employee information, in our data centers and on our networks. Despite our security measures, our information technology and infrastructure may be vulnerable to attacks by hackers or breached
+due to employee error, malfeasance or other disruptions that could result in unauthorized disclosure or loss of sensitive information. Any such security breach could cause us to be non-compliant with applicable laws or regulations, subject us
+to legal claims or proceedings, disrupt our operations, damage our reputation, and cause a loss of confidence in our products and services, any of which could adversely affect our business. 
+
+Catastrophic events may disrupt our business and harm our operating results. 
+
+Due to the global nature of our business, our operating results may be negatively impacted by catastrophic events throughout the world. We rely on a
+global network of infrastructure applications, enterprise applications and technology systems for our development, marketing, operational, support and sales activities. A disruption or failure of these systems in the event of a major earthquake,
+fire, telecommunications failure, cybersecurity attack, terrorist attack, or other catastrophic event could cause system interruptions, delays in our product development and loss of critical data and could prevent us from fulfilling our
+customers’ orders. Moreover, our corporate headquarters, a significant portion of our research and development activities, our data centers, and certain other critical business operations are located in California, near major earthquake faults.
+A catastrophic event that results in the destruction or disruption of our data centers or our critical business or information technology systems would severely affect our ability to conduct normal business operations and, as a result, our operating
+results would be adversely affected.

@@ -1,3 +1,62 @@
+Environmental Protection Agency Renewable Fuel Standard could adversely affect our performance;
+•
+Item 1A, “Risk Factors”—
+We may incur additional costs as a result of our use of rail cars for the transportation of crude oil and the products that we manufacture
+;
+•
+Item 3, “Legal Proceedings” under the caption “Environmental Enforcement Matters,” and;
+•
+Item 8, “Financial Statements and Supplementary Data” in 
+Note 7
+ of Notes to Consolidated Financial Statements and 
+Note 9
+ of Notes to Consolidated Financial Statements under the caption “
+Environmental Matters.
+”
+Capital Expenditures Attributable to Compliance with Environmental Regulations
+. In 
+2016
+, our capital expenditures attributable to compliance with environmental regulations were 
+$58 million
+, and they are currently estimated to be 
+$169 million
+ for 
+2017
+ and 
+$289 million
+ for 
+2018
+. The estimates for 
+2017
+ and 
+2018
+ do not include amounts related to capital investments at our facilities that management has deemed to be strategic investments. These amounts could materially change as a result of governmental and regulatory actions.
+PROPERTIES
+Our principal properties are described above under the caption “Valero’s Operations,” and that information is incorporated herein by reference. We believe that our properties and facilities are generally adequate for our operations and that our facilities are maintained in a good state of repair. As of 
+December 31, 2016
+, we were the lessee under a number of cancelable and noncancelable leases for certain properties. Our leases are discussed more fully in Notes 
+8
+ and 
+9
+ of Notes to Consolidated Financial Statements. Financial information about our properties is presented in 
+Note 5
+ of Notes to Consolidated Financial Statements and is incorporated herein by reference.
+Our patents relating to our refining operations are not material to us as a whole. The trademarks and tradenames under which we conduct our branded wholesale business — Valero
+®
+, Diamond Shamrock
+®
+, Shamrock
+®
+, Ultramar
+®
+, Beacon
+®
+, and Texaco
+®
+— and other trademarks employed in the marketing of petroleum products are integral to our wholesale rack marketing operations.
+10
+Table of Contents
+ITEM 1A. RISK FACTORS
 You should carefully consider the following risk factors in addition to the other information included in this report. Each of these risk factors could adversely affect our business, operating results, and/or financial condition, as well as adversely affect the value of an investment in our common stock.
 Our financial results are affected by volatile refining margins, which are dependent upon factors beyond our control, including the price of crude oil and the market price at which we can sell refined petroleum
  
@@ -16,7 +75,7 @@ Because environmental laws and regulations are becoming more stringent and new e
 e.g
 ., HF alkylation), or install pollution control equipment that could materially and adversely affect our business, financial condition, results of operations, and liquidity.
 For example, the U.S. Environmental Protection Agency (EPA) has, in recent years, adopted final rules making more stringent the National Ambient Air Quality Standards (NAAQS) for ozone, sulfur dioxide, and nitrogen dioxide. Emerging rules and permitting requirements implementing these revised standards may require us to install more stringent controls at our facilities, which may result in increased capital expenditures. Governmental regulations regarding GHG emissions and low carbon fuel standards could result in increased compliance costs, additional operating restrictions or permitting delays for our business, and an increase in the cost of, and reduction in demand for, the products we produce, which could have a material adverse effect on our financial position, results of operations, and liquidity.
-In addition, in 2015, the U.S., Canada, and the U.K. participated in the United Nations Conference on Climate Change, which led to the creation of the Paris Agreement.  The Paris Agreement, which was signed by the U.S. in April 2016, requires countries to review and “represent a progression” in their intended nationally determined contributions (which set GHG emission reduction goals) every five years beginning in 2020. While the current administration is considering withdrawal from the Paris Agreement, there are no guarantees that it will not be implemented. Restrictions on emissions of methane or carbon dioxide that have been or may be imposed in various U.S. states or at the U.S. federal level or in other countries could adversely affect the oil and gas industry.
+In addition, in 2015, the U.S., Canada, and the U.K. participated in the United Nations Conference on Climate Change, which led to the creation of the Paris Agreement. The Paris Agreement, which was signed by the U.S. in April 2016, requires countries to review and “represent a progression” in their intended nationally determined contributions (which set GHG emission reduction goals) every five years beginning in 2020. While the current administration is considering withdrawal from the Paris Agreement, there are no guarantees that it will not be implemented. Restrictions on emissions of methane or carbon dioxide that have been or may be imposed in various U.S. states or at the U.S. federal level or in other countries could adversely affect the oil and gas industry.
 Finally, some scientists have concluded that increasing concentrations of GHG emissions in the Earth’s atmosphere may produce climate changes that have significant physical effects, such as increased frequency and severity of storms, droughts, and floods and other climatic events. If any such effects were to occur, it is uncertain if they would have an adverse effect on our financial condition and operations.
 Compliance with the U.S. Environmental Protection Agency Renewable Fuel Standard could adversely affect our performance.
 The U.S. EPA has implemented a Renewable Fuel Standard (RFS) pursuant to the Energy Policy Act of 2005 and the Energy Independence and Security Act of 2007. The RFS program sets annual quotas for the quantity of renewable fuels (such as ethanol) that must be blended into transportation fuels consumed in the United States. A Renewable Identification Number (RIN) is assigned to each gallon of renewable fuel produced in or imported into the U.S. As a producer of petroleum-based transportation fuels, we are obligated to blend renewable fuels into the products we produce at a rate that is at least commensurate to the U.S. EPA’s quota 
@@ -32,7 +91,7 @@ We are subject to interruptions and increased costs as a result of our reliance 
 We generally use the services of third parties to transport feedstocks to our facilities and to transport the products we manufacture to market. If we experience prolonged interruptions of supply or increases in costs to deliver our products to market, or if the ability of the pipelines, vessels, or railroads to transport feedstocks or products is disrupted because of weather events, accidents, derailment, collision, fire, explosion, governmental regulations, or third-party actions, it could have a material adverse effect on our financial position, results of operations, and liquidity.
 We may incur additional costs as a result of our use of rail cars for the transportation of crude oil and the products that we manufacture
 .
-We currently use rail cars for the transportation of some feedstocks to certain of our facilities and for the transportation of some of the products we manufacture to their markets. We own and lease rail cars for our operations. Rail transportation is subject to a variety of federal, state, and local regulations. New laws and regulations and changes in existing laws and regulations are continuously being enacted or proposed that could result in increased expenditures for compliance. For example, in May 2014, the U.S. Department of Transportation (DOT) issued an order requiring rail carriers to provide certain notifications to state agencies along routes used by trains over a certain length carrying crude oil. In addition, in November 2014, the U.S. DOT issued a final rule regarding safety training standards under the Rail Safety Improvement Act of 2008. The rule required each railroad or contractor to develop and submit a training program to perform regular oversight and annual written reviews. In May 2015, the Pipeline and Hazardous Materials Safety Administration (PHMSA) and the Federal Railroad Administration (FRA) issued new final rules for enhanced 
+We currently use rail cars for the transportation of some feedstocks to certain of our facilities and for the transportation of some of the products we manufacture to their markets. We own and lease rail cars for our operations. Rail transportation is subject to a variety of federal, state, and local regulations. New laws and regulations and changes in existing laws and regulations are continuously being enacted or proposed that could result in increased expenditures for compliance. For example, in May 2014, the U.S. Department of Transportation (DOT) issued an order requiring rail carriers to provide certain notifications to state agencies along routes used by trains over a certain length carrying crude oil. In addition, in November 2014, the U.S. DOT issued a final rule regarding safety training standards under the Rail Safety Improvement Act of 2008. The rule required each railroad or contractor to develop and submit a training program to perform regular oversight and annual written reviews. In May 2015, the Pipeline and Hazardous Materials Safety Administration (PHMSA) and the Federal Railroad Administration (FRA) issued new final rules for enhanced 
 13
 Table of Contents
 tank car standards and operational controls for high-hazard flammable trains. In August 2016, PHMSA and FRA adopted a final rule expanding the requirements and mandating additional controls for enhanced tank cars. Although we do not believe recently adopted rules will have a material impact on our financial position, results of operations, and liquidity, further changes in law, regulations or industry standards could require us to incur additional costs to the extent they are applicable to us.

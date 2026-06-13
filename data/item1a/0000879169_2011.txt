@@ -1,0 +1,802 @@
+RISKS RELATING TO OUR BUSINESS 
+ 
+
+We are building our drug discovery, development and commercialization operations and we may be unsuccessful in our efforts. 
+
+ We are building our drug discovery, development and commercialization operations. Our ability to discover, develop and commercialize pharmaceutical products will
+depend on our ability to: 
+
+•
+hire and retain key scientific employees; 
+ 
+
+•
+identify high quality therapeutic targets; 
+ 
+
+•
+identify potential drug candidates; 
+ 
+
+•
+develop products internally or license drug candidates from others; 
+ 
+
+•
+identify and enroll suitable human subjects, either in the United States or abroad, for our clinical trials; 
+ 
+
+•
+complete laboratory testing and clinical trials on humans; 
+ 
+
+•
+obtain and maintain necessary intellectual property rights to our products; 
+ 
+
+•
+obtain and maintain necessary regulatory approvals for our products, both in the United States and abroad; 
+ 
+
+•
+enter into arrangements with third parties to provide services or to manufacture our products on our behalf; 
+ 
+
+•
+deploy sales and marketing resources effectively or enter into arrangements with third parties to provide these functions
+in compliance with all applicable laws; 
+ 
+
+•
+obtain appropriate coverage and reimbursement levels for the cost of our products from governmental authorities, private
+health insurers and other third party payors; 
+ 
+
+•
+lease facilities at reasonable rates to support our growth; and 
+ 
+
+•
+enter into arrangements with third parties to license and commercialize our products. 
+
+ We
+have limited experience with the activities listed above and may not be successful in discovering, developing, or commercializing drug products. 
+
+Our efforts to discover and develop potential drug candidates may not lead to the discovery, development, commercialization or marketing of drug products. 
+
+ None of our drug candidates has, to date, been submitted for approval for sale in the United States or any foreign market. Discovery and development of potential
+drug candidates are expensive and time-consuming, and we do not know if our efforts will lead to discovery of any drug candidates that can be successfully developed and marketed. If our
+efforts do not lead to the discovery of a suitable drug candidate, we may be unable to grow our clinical pipeline or we may be unable to enter into agreements with collaborators who are willing to
+develop our drug candidates. Of the
+compounds that we identify as potential drug products or that we in-license from other companies, only a few, if any, are likely to lead to successful drug development programs. For
+example, in 2006, we discontinued the development of dexelvucitabine, or DFC, which was at the time our most advanced drug candidate and was in Phase IIb clinical trials. Prior to
+discontinuation of the DFC program, we expended a significant amount of effort and money on that program. We have also licensed to other parties certain rights to our JAK and c-MET
+inhibitor compounds and our portfolio of CCR2 antagonist compounds. We have no or limited control over the further clinical development of these compounds. 
+
+23
+
+ 
+
+Table of Contents
+
+The success of our drug discovery and development efforts may depend on our ability to find suitable collaborators to fully exploit our capabilities. If we are unable to
+establish collaborations or if these future collaborations are unsuccessful in the development and commercialization of our compounds, our research, development and commercialization efforts may be
+unsuccessful, which could adversely affect our results of operations and financial condition. 
+
+ An important element of our business strategy is to enter into collaborative or license arrangements with other parties, such as our collaborations with Novartis
+and Lilly for our JAK inhibitors, under which we license our drug candidates to those parties for development and commercialization. We are evaluating strategic relationships with respect to several
+of our other programs and may enter into an agreement with respect to one or more of these programs in the future. However, these arrangements and negotiations are complex and time consuming and there
+can be no assurance that we will reach agreement with a collaborator or licensee with respect to any of these programs. 
+
+ Because
+collaboration and license arrangements are complex to negotiate, we may not be successful in our attempts to establish these arrangements. Also, we may not have drug compounds
+that are desirable to other parties, or we may be unwilling to license a drug compound because the party interested in it is a competitor. The terms of any such arrangements that we establish may not
+be favorable to us. Alternatively, potential collaborators may decide against entering into an agreement with us because of our financial, regulatory or intellectual property position or for
+scientific, commercial or other reasons. If we are not able to establish collaborative or license arrangements, we may not be able to develop and commercialize a drug product, which would adversely
+affect our business and our revenues. 
+
+ In
+order for any of these collaboration or license arrangements to be successful, we must first identify potential collaborators or licensees whose capabilities complement and integrate
+well with ours. We may rely on these arrangements for not only financial resources, but also for expertise or economies of scale that we expect to need in the future relating to clinical trials,
+manufacturing, sales and marketing, and for licenses to technology rights. However, it is likely that we will not be able to control the amount and timing of resources that our collaborators or
+licensees devote to our programs or potential
+products. If our collaborators or licensees prove difficult to work with, are less skilled than we originally expected, do not devote adequate resources to the program, or do not agree with our
+approach to development or manufacturing of the potential product, the relationship could be unsuccessful. If a business combination involving a collaborator or licensees and a third party were to
+occur, the effect could be to diminish, terminate or cause delays in development of a potential product. 
+
+Conflicts may arise between our collaborators and licensees and us, or our collaborators and licensees may choose to terminate their agreements with us, which may adversely
+affect our business. 
+
+ Conflicts may arise with our collaborators and licensees if they pursue alternative technologies or develop alternative products either on their own or in
+collaboration with others as a means for developing treatments for the diseases that we have targeted. Competing products and product opportunities may lead our collaborators and licensees to withdraw
+their support for our product candidates. Any failure of our collaborators and licensees to perform their obligations under our agreements with them could negatively impact the development of our
+compounds and product candidates, lead to our loss of potential revenues from product sales and milestones and delay our achievement, if any, of profitability. Additionally, conflicts may arise if
+there is a dispute about the achievement and payment of a milestone amount or the ownership of intellectual property that is developed during the course of a collaborative relationship. 
+
+ Our
+existing collaborative and license agreements can be terminated by our collaborators and licensees for convenience, among other circumstances. If any of our collaborators or
+licensees terminates its agreement with us, or terminates its rights with respect to certain indications or compounds, we may not be able to find a new collaborator for them, and our business could be
+adversely affected. Should an agreement be terminated before we have realized the benefits of the collaboration or license, our 
+
+24
+
+ 
+
+Table of Contents
+
+reputation
+could be harmed, we may not obtain revenues that we anticipated receiving, and our business could be adversely affected. 
+
+Although we obtained special protocol assessments for our JAK inhibitor for each of myelofibrosis and polycythemia vera, a special protocol assessment does not guarantee any
+particular outcome from regulatory review, including any regulatory approval. 
+
+ We have obtained a special protocol assessment, or SPA, for the registration trial for our JAK inhibitor for the treatment of myelofibrosis in the United States
+and for the registration trial for our JAK inhibitor for the treatment of polycythemia vera in the United States. The SPA process allows for Food and Drug Administration, or FDA, evaluation of a
+clinical trial protocol intended to form the primary basis of an efficacy claim in support of a new drug application, or NDA, and provides a product sponsor with an agreement confirming that the
+design and size of a trial will be appropriate to form the primary basis of an efficacy claim for an NDA if the trial is performed according to the SPA. Even
+if we believe that the data from a clinical trial are supportive, an SPA is not a guarantee of approval, and we cannot be certain that the design of, or data collected from, a trial will be adequate
+to demonstrate safety and efficacy, or otherwise be sufficient to support regulatory approval. There can be no assurance that the terms of an SPA will ultimately be binding on the FDA, and the FDA is
+not obligated to approve an NDA, if any, even if the clinical outcome is positive. The FDA retains significant latitude and discretion in interpreting the terms of an SPA and the data and results from
+a clinical trial, and can require trial design changes or additional studies if issues arise essential to determining safety or efficacy. Data may subsequently become available that causes the FDA to
+reconsider the previously agreed upon scope of review and the FDA may have subsequent safety or efficacy concerns that override an SPA, and we can give no assurance that as clinical trials proceed or
+as part of an NDA review process, if any, the FDA will determine that a previously approved SPA is still valid. 
+
+ Additionally,
+an SPA may be changed only with written agreement of the FDA and sponsor, and any further changes we may propose to the protocol will remain subject to the FDA's approval.
+The FDA may not agree to any such amendment and, even if they agree, they may request other amendments to the trial design that could require additional cost and time, as well as increase the degree
+of difficulty in reaching clinical endpoints. As a result, even with an SPA, we cannot be certain that the trial results will be found to be adequate to support an efficacy claim and product approval. 
+
+We depend heavily on the success of our most advanced product candidates. We might not be able to commercialize any of our drug candidates successfully, and we may spend
+significant time and money attempting to do so. 
+
+ We have invested significant resources in the development of our most advanced product candidates. Our drug candidate, ruxolitinib, is in Phase III
+development for myelofibrosis and a Phase III clinical trial for polycythemia vera. We have a number of drug candidates in Phase I and Phase II clinical trials. Our ability to
+generate product revenues will depend on the successful development and eventual commercialization of our most advanced product candidates. We, or our collaborators or licensees, may decide to
+discontinue development of any or all of our drug candidates at any time for commercial, scientific or other reasons. We discontinued development of DFC in April 2006 for safety reasons. In March
+2008, we announced that we would not advance our lead CCR5 antagonist into Phase IIb trials and that we were seeking to out-license this program. If a product is developed, but is
+not marketed, we may have spent significant amounts of time and money on it, which would adversely affect our operating results and financial condition. 
+
+25
+
+ 
+
+Table of Contents
+
+Even if a drug candidate that we develop receives regulatory approval, we may decide not to commercialize it if we determine that commercialization of that product would
+require more money and time than we are willing to invest. 
+
+ Even if any of our drug candidates receive regulatory approval, they would be subject to post-regulatory surveillance, and may have to be withdrawn
+from the market or subject to restrictions if previously unknown problems occur. Regulatory agencies may also require additional clinical trials or testing, and the drug product may be recalled or may
+be subject to reformulation, additional studies, changes in labeling, warnings to the public and negative publicity. As a result, we may not continue to commercialize a product even though it has
+obtained regulatory approval. Further, we may decide not to continue to commercialize a product if the market does not accept the product because it is too expensive or because third parties such as
+insurance companies or Medicare have not approved it for substantial reimbursement. In addition, we may decide not to continue to commercialize a product if another product comes on the market that is
+as effective but has fewer side effects. There is also a risk that competitors may develop similar or superior products or have proprietary rights that preclude us from ultimately marketing our
+products. 
+
+We have not commercialized a drug product to date. If we do not develop effective sales and marketing capabilities or establish third-party relationships for the
+commercialization of our drug candidates, we will not be able to successfully commercialize any drug candidates that obtain regulatory approval, and we may incur significant additional costs or
+difficulties in doing so. 
+
+ We do not have experience selling or marketing drug products or with respect to pricing and obtaining adequate third-party reimbursement for drugs. We will need
+to either develop sales and marketing capabilities or enter into arrangements with third parties to sell and market our drug candidates, if they are approved for sale by regulatory authorities. Under
+our collaboration and license agreement with Novartis, we have retained commercialization rights to ruxolitinib in the United States. In anticipation of the regulatory approval of ruxolitinib for
+myelofibrosis, we have started to build the sales and marketing, medical and operational infrastructure to support commercialization. This will require substantial efforts and significant management
+and financial resources. We will need such an infrastructure to market any of our drug candidates for which we have retained commercialization rights, if they receive regulatory approval. We will need
+to devote significant effort and investment, in particular, to recruiting individuals with experience in the sales and marketing of pharmaceutical products. Competition for personnel with these skills
+is very high, and we will be competing with companies that are currently marketing successful drugs. We may not be able to successfully develop our own sales and marketing capabilities for ruxolitinib
+in the United States in order to support an effective launch of ruxolitinib if it is approved for sale. If we do not obtain regulatory approval for ruxolitinib for myelofibrosis, we will have incurred
+significant expenses to build this commercialization infrastructure. 
+
+ We
+have granted commercialization rights to other pharmaceutical companies with respect to certain of our drug candidates in specific geographic locations, and intend to seek other
+collaborative or licensing arrangements with respect to other of our drug candidates. To the extent that our collaborators have commercial rights to our drug candidates, any revenues we receive from
+any approved drugs will depend primarily on the sales and marketing efforts of others. We do not know whether we will be able to enter into additional third- party sales and marketing arrangements
+with respect to any of our other
+drug candidates on acceptable terms, if at all, or whether we will be able to leverage the sales and marketing capabilities we intend to build for ruxolitinib for myelofibrosis in order to market and
+sell any other drug candidate if it is approved for sale. 
+
+26
+
+ 
+
+Table of Contents
+
+If we fail to enter into additional licensing agreements or if these arrangements are unsuccessful, our business and operations might be adversely affected. 
+
+ In addition to establishing collaborative or license arrangements under which other parties license our drug candidates for development and commercialization, we
+may explore opportunities to develop our clinical pipeline by in-licensing drug compounds that fit within our expertise and research and development capabilities. We may be unable to enter
+into any additional in-licensing agreements because suitable product candidates that are within our expertise may not be available to us on terms that are acceptable to us or because
+competitors with greater resources seek to in-license the same product candidates. Product candidates that we would like to develop may not be available to us because they are controlled
+by competitors who are unwilling to license the rights to the drug compound or candidate to us. In addition, we may enter into license agreements that are unsuccessful and our business and operations
+might be adversely affected by the termination of a drug candidate and termination and winding down of the related license agreement. We may also need to license drug delivery or other technology in
+order to continue to develop our drug candidate pipeline. If we are unable to enter into additional agreements to license drug candidates, drug delivery technology or other technology or if these
+arrangements are unsuccessful, our research and development efforts could be adversely affected. 
+
+Any drug products that we bring to the market, even if they receive marketing approval, may not gain market acceptance by physicians, patients, healthcare payors and others in
+the medical community. 
+
+ Even if we are successful in gaining regulatory approval of our products, we may not generate significant product revenues and we may not become profitable if
+these drug products do not achieve an adequate level of acceptance. Physicians will not recommend our drug products until clinical data or other factors demonstrate the safety and efficacy of our drug
+products as compared to other alternative treatments. Even if the clinical safety and efficacy of our drug products is established, physicians may elect not to prescribe these drug products for a
+variety of reasons, including the reimbursement policies of government and other third-party payors and the effectiveness of our competitors in marketing their products. 
+
+ Market
+acceptance of our drug products, if approved for commercial sale, will depend on a number of factors, including: 
+
+•
+the willingness and ability of patients and the healthcare community to use our products; 
+ 
+
+•
+the ability to manufacture our drug products in sufficient quantities with acceptable quality and to offer our drug
+products for sale at competitive prices; 
+ 
+
+•
+the perception of patients and the healthcare community, including third-party payors, regarding the safety, efficacy and
+benefits of our drug products compared to those of competing products or therapies; 
+ 
+
+•
+the label and promotional claims allowed by the FDA; 
+ 
+
+•
+the pricing and reimbursement of our drug products relative to existing treatments; and 
+ 
+
+•
+marketing and distribution support for our drug products. 
+
+27
+
+ 
+
+Table of Contents
+ 
+
+ We have limited expertise with and capacity to conduct preclinical testing and clinical trials, and our resulting dependence on other parties could result in delays in and
+additional costs for our drug development efforts. 
+
+ We have limited experience with clinical trials, formulation, manufacturing and commercialization of drug products. We also have
+limited internal resources and capacity to perform preclinical testing and clinical trials. As part of our development strategy, we intend to hire clinical research organizations, or CROs, to perform
+preclinical testing and clinical trials for drug candidates. If the CROs that we hire to perform our preclinical testing and clinical trials or our collaborators or licensees do not meet deadlines, do
+not follow proper procedures, or a conflict arises between us and our CROs, our preclinical testing and clinical trials may take longer than expected, may be delayed or may be terminated. If we were
+forced to find a replacement entity to perform any of our preclinical testing or clinical trials, we may not be able to find a suitable entity on favorable terms, or at all. Even if we were able to
+find another company to perform a preclinical test or clinical trial, the delay in the test or trial may result in significant additional expenditures. Events such as these may result in delays in our
+obtaining regulatory approval for our drug candidates or our ability to
+commercialize our products and could result in increased expenditures that would adversely affect our operating results. 
+
+ In
+addition, for some of our drug candidates, we have contracted with collaborators to advance those candidates through later-stage, more expensive clinical trials, rather than invest
+our own resources to perform these clinical trials. Under the terms of our agreements with these collaborators, we have no or limited control over the conduct of these clinical trials, and in any
+event we are subject to the risks associated with depending on collaborators to develop these drug candidates. 
+
+ If we are unable to obtain regulatory approval to develop and market products in the United States and foreign jurisdictions, we will not be permitted to manufacture or
+commercialize products resulting from our research. 
+
+ In order to manufacture and commercialize drug products in the United States, our drug candidates will have to obtain regulatory
+approval from the Food and Drug Administration, or the FDA. Satisfaction of regulatory requirements typically takes many years. To obtain regulatory approval, we must first show that our drug products
+are safe and effective for target indications through preclinical testing (animal testing) and clinical trials (human testing). Preclinical testing and clinical development are long, expensive and
+uncertain processes, and we do not know whether the FDA will allow us to undertake clinical trials of any potential drug products in addition to our compounds currently in clinical trials. 
+
+ Completion
+of clinical trials may take several years and failure may occur at any stage of testing. The length of time required varies substantially according to the type, complexity,
+novelty and intended use of the product candidate. Interim results of a preclinical test or clinical trial do not necessarily predict final results, and acceptable results in early clinical trials may
+not be repeated in later clinical trials. For example, a drug candidate that is successful at the preclinical level may cause harmful or dangerous side effects when tested at the clinical level. Our
+rate of commencement and completion of clinical trials may be delayed by many factors, including: 
+
+•
+the high degree of risk associated with drug development; 
+ 
+
+•
+our inability to formulate or manufacture sufficient quantities of materials for use in clinical trials; 
+ 
+
+•
+variability in the number and types of patients available for each study; 
+ 
+
+•
+difficulty in maintaining contact with patients after treatment, resulting in incomplete data; 
+ 
+
+•
+unforeseen safety issues or side effects; 
+
+28
+
+ 
+
+Table of Contents
+
+•
+poor or unanticipated effectiveness of drug candidates during the clinical trials; or 
+ 
+
+•
+government or regulatory delays. 
+
+ Data
+obtained from clinical trials are susceptible to varying interpretation, which may delay, limit or prevent regulatory approval. A number of companies in the pharmaceutical industry,
+including biotechnology companies, have suffered significant setbacks in advanced clinical trials, even after achieving promising results in earlier clinical trials. In addition, regulatory
+authorities may refuse or delay approval as a result of other factors, such as changes in regulatory policy during the period of product development and regulatory agency review. For example, the FDA
+has in the past required and could in the future require that we conduct additional trials of any of our product candidates, which would result in delays. 
+
+ Due,
+in part, to the early stage of our drug candidate research and development process, we cannot predict whether regulatory approval will be obtained for any product we develop. None
+of our drug candidates has, to date, been submitted for approval for sale in the United States of any foreign market. We have licensed to Novartis rights to ruxolitinib in certain indications outside
+of the United States and worldwide rights to c-MET and licensed to Lilly worldwide rights to LY3009104. We have also licensed to Pfizer our portfolio of CCR2 antagonist compounds. We have
+no or limited control over the further clinical development of any compounds we licensed to these
+collaborators. Compounds developed by us, alone or with other parties, may not prove to be safe and effective in clinical trials and may not meet all of the applicable regulatory requirements needed
+to receive marketing approval. If regulatory approval of a product is granted, this approval will be limited to those disease states and conditions for which the product is demonstrated through
+clinical trials to be safe and effective. Failure to obtain regulatory approval would delay or prevent us from commercializing products. 
+
+ Outside
+the United States, our ability to market a product is contingent upon receiving a marketing authorization from the appropriate regulatory authorities. This foreign regulatory
+approval process typically includes all of the risks associated with the FDA approval process described above and may also include additional risks. The requirements governing the conduct of clinical
+trials, product licensing, pricing and reimbursement vary greatly from country to country and may require us to perform additional testing and expend additional resources. Approval by the FDA does not
+ensure approval by regulatory authorities in other countries, and approval by one foreign regulatory authority does not ensure approval by regulatory authorities in other countries or by the FDA. 
+
+ We face significant competition for our drug discovery and development efforts, and if we do not compete effectively, our commercial opportunities will be reduced or
+eliminated. 
+
+ The biotechnology and pharmaceutical industries are intensely competitive and subject to rapid and significant technological change.
+Our drug discovery and development efforts may target diseases and conditions that are already subject to existing therapies or that are being developed by our competitors, many of which have
+substantially greater resources, larger research and development staffs and facilities, more experience in completing preclinical testing and clinical trials, and formulation, marketing and
+manufacturing capabilities. As a result of these resources, our competitors may develop drug products that render our products obsolete or noncompetitive by developing more effective drugs or by
+developing their products more efficiently. Our ability to develop competitive products would be limited if our competitors succeeded in obtaining regulatory approvals for drug candidates more rapidly
+than we were able to or in obtaining patent protection or other intellectual property rights that limited our drug development efforts. Any drugs resulting from our research and development efforts,
+or from our joint efforts with collaborators or licensees, might not be able to compete successfully with our competitors' existing and future products, or obtain regulatory approval in the United
+States or elsewhere. 
+
+29
+
+ 
+
+Table of Contents
+
+ Our reliance on other parties to manufacture our drug candidates could result in a short supply of the drugs, delays in clinical trials or drug development, increased costs,
+and withdrawal or denial of a regulatory authority's approval. 
+
+ We do not currently operate manufacturing facilities for clinical or commercial production of our drug candidates. We currently rely on
+third parties for the manufacture of both the active pharmaceutical ingredient, or API, and finished drug product of our drug candidates for clinical trials. In addition, we expect to continue to rely
+on third parties for the manufacture of commercial supplies of API and finished drug product for any drugs that we successfully develop. For most of our drug candidates, including our lead drug
+candidate ruxolitinib, we rely on one third party to manufacture the API, another to make finished drug product and a third to package and label the finished product. The FDA requires that the API and
+finished product for each of our drug products be manufactured according to its current Good Manufacturing Practices, or cGMP, regulations and regulatory authorities in other countries have similar
+requirements. There are only a limited number of manufacturers that comply with these requirements. If the third parties that manufacture our drug candidates are not compliant with the applicable
+regulatory requirements, the FDA or a foreign regulatory authority may require us to halt ongoing clinical trials or not approve our application to market our drug products. Failure to comply with
+cGMP and the applicable regulatory requirements of other countries in the manufacture of our products could result in the FDA or foreign regulatory authority halting our clinical trials, withdrawing
+or denying regulatory approval of our drug product, enforcing product recalls or other enforcement actions, which could have a material adverse effect on our business. 
+
+ We
+may not be able to obtain sufficient quantities of our drug candidates or any drug products we may develop if our designated manufacturers do not have the capacity or capability to
+manufacture our products according to our schedule and specifications. In addition, we may not be able to arrange for our drug candidates or any drug products that we may develop to be manufactured by
+one of these parties on reasonable terms, if at all. Also, raw materials that may be required to manufacture any products we develop may only be available from a limited number of suppliers.
+Generally, we have only a single source that is qualified to supply the API and finished product of our drug candidates. If any of these single source suppliers were to become unable or unwilling to
+supply us with API or finished product that complies with applicable regulatory requirements, we could incur significant delays in our clinical trials or interruption of commercial supply which could
+have a material adverse effect on our business. We are currently seeking to qualify a second source of supply for the API for our lead drug candidate, ruxolitinib, however, there is no assurance that
+we will be able to identify and qualify a second source of supply for ruxolitinib or any of our other drug candidates or drug products on a timely basis. If we have promised delivery of a new product
+and are unable to meet the delivery requirement due to manufacturing difficulties, our development programs would be delayed, and we may have to expend additional sums in order to ensure that
+manufacturing capacity is available when we need it even if we do not use all of the manufacturing capacity. This expense would adversely affect our operating results. 
+
+ Manufacturers
+of pharmaceutical products often encounter difficulties in production, especially in scaling up initial production. These problems include difficulties with production
+costs and yields, quality control and assurance and shortages of qualified personnel, as well as compliance with strictly enforced federal, state and foreign regulations. 
+
+ In
+order to obtain approval of our products, including ruxolitinib, by the FDA and foreign regulatory agencies, we need to complete testing on both the API and on the finished product in
+the packaging we propose for commercial sales. This includes testing of stability, identification of impurities and testing of other product specifications by validated test methods. In addition, we
+will be required to consistently produce the API in commercial quantities and of specified quality on a repeated basis and document our ability to do so. This requirement is referred to as process
+validation. With respect to ruxolitinib, although we have manufactured the product at commercial scale, we have started, but not yet completed, this 
+
+30
+
+ 
+
+Table of Contents
+
+process
+validation requirement. If the required testing or process validation is delayed or produces unfavorable results, we may not obtain approval to launch the product or product launch may be
+delayed. 
+
+ We
+may not be able to adequately manage and oversee the manufacturers we choose, they may not perform as agreed or they may terminate their agreements with us. Foreign manufacturing
+approval processes typically include all of the risks associated with the FDA approval process for manufacturing and may also include additional risks. 
+
+ If we fail to comply with the extensive legal and regulatory requirements affecting the health care industry, we could face increased costs, penalties and a loss of
+business. 
+
+ Our activities, and the activities of our collaborators, partners and third party providers, are subject to extensive government
+regulation and oversight both in the United States and in foreign jurisdictions. The FDA and comparable agencies in other jurisdictions directly regulate many of our most critical business activities,
+including the conduct of preclinical and clinical studies, product manufacturing, advertising and promotion, product distribution, adverse event reporting and product risk management. States
+increasingly have been placing greater restrictions on the marketing practices of healthcare companies. In addition, pharmaceutical and biotechnology companies have been the target of lawsuits and
+investigations alleging violations of government regulation, including claims asserting submission of incorrect pricing information, impermissible off-label promotion of pharmaceutical
+products, payments intended to influence the referral of federal or state healthcare business, submission of false claims for government reimbursement, antitrust violations, or violations related to
+environmental matters. Violations of governmental regulation may be punishable by criminal and civil sanctions, including fines and civil monetary penalties and exclusion from participation in
+government programs, including Medicare and Medicaid. In addition to penalties for violation of laws and regulations, we could be required to repay amounts we received from government payors, or pay
+additional rebates and interest if we are found to have miscalculated the pricing information we have submitted to the government. Whether or not we have complied with the law, an investigation into
+alleged unlawful conduct could increase our expenses, damage our reputation, divert management time and attention and adversely affect our business. 
+
+ Health care reform measures could impact the pricing and profitability of pharmaceuticals, and adversely affect the commercial viability of our drug candidates. Our ability
+to generate revenues will be diminished if we are unable to obtain an adequate level of reimbursement from private insurers, government insurance programs or other third-party payors of health care
+costs, which could be affected by recent healthcare reform legislation. 
+
+ Our ability to commercialize our drug candidates successfully will depend in part on the extent to which adequate reimbursement levels
+for the cost of our products and related treatment are obtained from third-party payors, such as private insurers, government insurance programs, including Medicare and Medicaid, health maintenance
+organizations (HMOs) and other health care related organizations. The continuing efforts of these third-party payors to contain or reduce the costs of health care by challenging the prices charged for
+medical products and services may affect our future revenues and profitability, and the future revenues and profitability of our potential customers, suppliers, collaborators and licensees and the
+availability of capital. 
+
+ In
+recent years, through legislative and regulatory actions, the federal government has made substantial changes to various payment systems under the Medicare program. Comprehensive
+reforms to the U.S. healthcare system were recently enacted, including changes to the methods for, and amounts of, Medicare reimbursement. These reforms could significantly reduce payments from
+Medicare and Medicaid. Reforms or other changes to these payment systems, may change the availability, methods and rates of reimbursements from Medicare, private insurers and other third-party payors
+for our drug candidates. Some of these changes and proposed changes could result in reduced reimbursement rates, which could reduce the price that we or any of our collaborators or licensees receive
+for any products, if 
+
+31
+
+ 
+
+Table of Contents
+
+commercialized,
+in the future, and which would adversely affect our business strategy, operations and financial results. Further federal and state proposals and health care reforms are possible, which
+could limit the prices that can be charged for any of our drug candidates and may further limit the commercial viability of our drug candidates. In certain foreign markets, pricing or profitability of
+prescription pharmaceuticals is subject to government control. If reimbursement for our products, if commercialized, is unavailable, limited in scope or amount, or if pricing is set at unsatisfactory
+levels, our business could be materially harmed. There may be future changes that result in reductions in current coverage and reimbursement levels for our drug candidates, and we cannot predict the
+scope of any future changes or the impact that those changes would have on our operations. 
+
+ Third-party
+payors are increasingly challenging the prices charged for medical products and services. Also, the trend toward managed health care in the United States and the concurrent
+growth of organizations such as HMOs, which could control or significantly influence the purchase of health care services and products, as well as legislative proposals to reform health care or reduce
+government insurance programs, may all result in lower prices for or rejection of our products. Adoption of our drug candidates by the medical community may be limited without adequate reimbursement
+for our products. Cost control initiatives may decrease coverage and payment levels for our drug candidates
+and, in turn, the price that we will be able to charge for any product, if commercialized. Our drug candidates may not be considered cost-effective, and coverage and reimbursement may not
+be available or sufficient to allow us to sell our products on a profitable basis. We are unable to predict all changes to the coverage or reimbursement methodologies that will be applied by private
+or government payors to our drug candidates. 
+
+ The
+cost containment measures that health care payors and providers are instituting and any denial of private or government payor coverage or inadequate reimbursement for our drug
+candidates could materially and adversely affect our business strategy, operations and financial results. 
+
+ As our drug discovery and development operations are conducted at our headquarters in Wilmington, Delaware, the loss of access to this facility would negatively impact our
+business. 
+
+ Our facility in Wilmington, Delaware is our headquarters and is also where we conduct all of our drug discovery operations and research
+and development activities. Our lease contains provisions that provide for its early termination upon the occurrence of certain events of default or upon a change of control. Further, our headquarters
+facility is located in a large research and development complex that may be temporarily or permanently shutdown if certain environmental or other hazardous conditions were to occur within the complex.
+In addition, actions of activists opposed to aspects of pharmaceutical research may disrupt our experiments or our ability to access or use our facilities. The loss of access to or use of our
+Wilmington, Delaware, facility, either on a temporary or permanent basis, or early termination of our lease would result in an interruption of our business and, consequently, would adversely affect
+the advancement of our drug discovery and development programs and our overall business. 
+
+ We depend on key employees in a competitive market for skilled personnel, and the loss of the services of any of our key employees or our inability to attract and retain
+additional personnel would affect our ability to expand our drug discovery and development programs and achieve our objectives. 
+
+ We are highly dependent on the principal members of our management, operations and scientific staff. We experience intense competition
+for qualified personnel. Our future success also depends in part on the continued service of our executive management team, key scientific and management personnel and our ability to recruit, train
+and retain essential personnel for our drug discovery and development programs, including those who will be responsible for overseeing our preclinical testing and clinical trials, for the
+establishment of collaborations with other companies and for our marketing, medical, and operational infrastructure to support commercialization marketing efforts. If we lose the services of any of
+these people or if we are unable to recruit sufficient qualified personnel, our research and product development goals, including the identification and establishment of key collaborations, operations
+and 
+
+32
+
+ 
+
+Table of Contents
+
+marketing
+efforts could be delayed or curtailed. We do not maintain "key person" insurance on any of our employees. 
+
+ If we fail to manage our growth effectively, our ability to develop and commercialize products could suffer. 
+
+ We expect that if our clinical drug candidates continue to progress in development, we continue to build our development, medical and
+marketing organizations and our drug discovery efforts continue to generate drug candidates, we will require significant additional investment in personnel, management and resources. Our ability to
+commercialize our drug candidates and to achieve our research and development objectives depends on our ability to respond effectively to these demands and expand our internal organization, systems
+and controls to accommodate additional anticipated growth. If we are unable to manage our growth effectively, our business could be harmed and our ability to execute our business strategy could
+suffer. 
+
+ If product liability lawsuits are brought against us, we could face substantial liabilities and may be required to limit commercialization of our products and our results of
+operations could be harmed. 
+
+ The clinical trials and marketing of medical products that are intended for human use entails an inherent risk of product liability. If
+any product that we or any of our
+collaborators or licensees develops causes or is alleged to cause injury or is found to be unsuitable during clinical trials, manufacturing or sale, we may be held liable. If we cannot successfully
+defend ourselves against product liability claims, we may incur substantial liabilities, including substantial damages to be paid to the plaintiffs and legal costs, or we may be required to limit
+commercialization of our products. Our product liability insurance policy that provides coverage for liabilities arising from our clinical trials may not fully cover our potential liabilities. In
+addition, we may determine that we should increase our coverage upon the undertaking of new clinical trials, and this insurance may be prohibitively expensive to us or our collaborators or licensees
+and may not fully cover our potential liabilities. Our inability to obtain sufficient product liability insurance at an acceptable cost to protect against potential product liability claims could
+prevent or inhibit the commercialization of pharmaceutical products we develop, alone or with our collaborators. Additionally, any product liability lawsuit could cause injury to our reputation,
+recall of products, participants to withdraw from clinical trials, and potential collaborators or licensees to seek other partners, any of which could impact our results of operations. 
+
+ Because our activities involve the use of hazardous materials, we may be subject to claims relating to improper handling, storage or disposal of these materials that could
+be time consuming and costly. 
+
+ We are subject to various environmental, health and safety laws and regulations governing, among other things, the use, handling,
+storage and disposal of regulated substances and the health and safety of our employees. Our research and development processes involve the controlled use of hazardous and radioactive materials and
+biological waste resulting in the production of hazardous waste products. We cannot completely eliminate the risk of accidental contamination or discharge and any resultant injury from these
+materials. If any injury or contamination results from our use or the use by our collaborators or licensees of these materials, we may be sued and our liability may exceed our insurance coverage and
+our total assets. Further, we may be required to indemnify our collaborators or licensees against all damages and other liabilities arising out of our development activities or products produced in
+connection with these collaborations or licenses. Compliance with the applicable environmental and workplace laws and regulations is expensive. Future changes to environmental, health, workplace and
+safety laws could cause us to incur additional expense or may restrict our operations or impair our research, development and production efforts. 
+
+33
+
+ 
+
+Table of Contents
+
+ 
+
+ 
+
+ RISKS RELATING TO OUR FINANCIAL RESULTS 
+ 
+
+ We expect to incur losses in the future and we may not achieve or maintain profitability in the future. 
+
+ We had net losses from inception in 1991 through 1996 and in 1999 through 2010. Because of those losses, we had an accumulated deficit
+of $1.4 billion as of December 31, 2010. We will continue to spend significant amounts on our efforts to discover and develop drugs. As a result, we expect to continue to incur losses in
+2011 and in future periods as well. 
+
+ We
+anticipate that our drug discovery and development efforts and related expenditures will increase as we focus on the studies, including preclinical tests and clinical trials prior to
+seeking regulatory approval, that are required before we can sell a drug product. 
+
+ The
+development of drug products will require us to spend significant funds on research, development, testing, obtaining regulatory approvals, manufacturing and marketing. To date, we do
+not have any drug products that have generated revenues and we cannot assure you that we will generate revenues from the drug candidates that we license or develop for several years, if ever. 
+
+ We
+cannot be certain whether or when we will achieve profitability because of the significant uncertainties relating to our ability to generate commercially successful drug products.
+Even if we were successful in obtaining regulatory approvals for manufacturing and commercializing a drug candidate, we expect that we will continue to incur losses if our drug products do not
+generate significant revenues. If we achieve profitability, we may not be able to sustain or increase profitability. 
+
+ We will need additional capital in the future. The capital markets may not permit us to raise additional capital at the time that we require it, which could result in
+limitations on our research and development or commercialization efforts or the loss of certain of our rights in our technologies or drug candidates. 
+
+ Our future funding requirements will depend on many factors and we anticipate that we will need to raise additional capital to fund our
+business plan and research and development efforts going-forward and to repay our indebtedness. 
+
+ Additional
+factors that may affect our future funding requirements include: 
+
+•
+any changes in the breadth of our research and development programs; 
+ 
+
+•
+the results of research and development, preclinical testing and clinical trials conducted by us or our future
+collaborators or licensees, if any; 
+ 
+
+•
+our exercise of any co-development options with collaborators that may require us to fund future development; 
+ 
+
+•
+the acquisition of technologies, if any; 
+ 
+
+•
+our ability to maintain and establish new corporate relationships and research collaborations; 
+ 
+
+•
+competing technological and market developments; 
+ 
+
+•
+the amount of revenues generated from our business activities, if any; 
+ 
+
+•
+the time and costs involved in filing, prosecuting, defending and enforcing patent and intellectual property claims; 
+ 
+
+•
+the receipt of contingent licensing or milestone fees or royalties on product sales from our current or future
+collaborative and license arrangements, if established; and 
+ 
+
+•
+the timing of regulatory approvals, if any. 
+
+ If
+we require additional capital at a time when investment in companies such as ours, or in the marketplace generally, is limited due to the then prevailing market or other conditions,
+we may have to 
+
+34
+
+ 
+
+Table of Contents
+
+scale
+back our operations, eliminate one or more of our research or development programs, or attempt to obtain funds by entering into an agreement with a collaborator or licensee that would result in
+terms that are not favorable to us or relinquishing our rights in certain of our proprietary technologies or drug candidates. If we are unable to raise funds at the time that we desire or at any time
+thereafter on acceptable terms, we may not be able to continue to develop our potential drug products. The sale of equity or additional convertible debt securities in the future may be dilutive to our
+stockholders, and debt financing arrangements may require us to pledge certain assets or enter into covenants that could restrict our operations or our ability to incur further indebtedness. 
+
+ We have a large amount of debt and our debt service obligations may prevent us from taking actions that we would otherwise consider to be in our best interests. 
+
+ As of December 31, 2010, the aggregate principal amount of our total consolidated debt was $420.0 million and our
+stockholders' deficit was $88.6 million. Our substantial
+leverage could have significant negative consequences for our future operations, including: 
+
+•
+increasing our vulnerability to general adverse economic and industry conditions; 
+ 
+
+•
+limiting our ability to obtain additional financing for working capital, capital and research and development
+expenditures, and general corporate purposes; 
+ 
+
+•
+requiring the dedication of a substantial portion of our expected cash flow or our existing cash to service our
+indebtedness, thereby reducing the amount of our cash available for other purposes, including working capital, capital expenditures and research and development expenditures; 
+ 
+
+•
+limiting our flexibility in planning for, or reacting to, changes in our business and the industry in which we compete;
+or 
+ 
+
+•
+placing us at a possible competitive disadvantage compared to less leveraged competitors and competitors that have better
+access to capital resources. 
+
+ We
+may not generate sufficient cash flow from our operations in the future to enable us to meet our anticipated fixed charges, including our obligations with respect to our outstanding
+convertible senior notes. As of December 31, 2010, $20.0 million aggregate principal amount of the non-interest bearing convertible subordinated notes held by Pfizer was
+outstanding, of which $10.0 million is due in 2013 and $10.0 million is due in 2014. As of December 31, 2010, $400.0 million aggregate principal amount of our 4.75%
+convertible senior notes due 2015 was outstanding and due in October 2015. Annual interest payments for our 4.75% convertible senior notes through 2015, assuming that none of these notes are
+converted, repurchased or exchanged, are $19.0 million. Funds sufficient to pay interest payments through October 2012 on our 4.75% convertible senior notes are held in an escrow account as
+security for these interest payments. If we are unable to generate cash from our operations or raise additional cash through financings sufficient to meet the remaining obligations under our 4.75%
+convertible senior notes or under our notes held by Pfizer, we will need to use existing cash or liquidate marketable securities in order to fund these obligations, which may delay or curtail our
+research, development and commercialization programs. 
+
+ The
+indenture governing our 4.75% convertible senior notes includes limitations on our ability to incur additional indebtedness, issue certain preferred stock, and incur liens on our
+assets, including on intellectual property concerning our JAK inhibitor program. These limitations could interfere with our ability to raise additional capital in the future or engage in activities
+that may be in our long-term best interest. 
+
+35
+
+ 
+
+Table of Contents
+
+ Our marketable securities are subject to certain risks that could adversely affect our overall financial position. 
+
+ We invest our cash in accordance with an established internal policy and customarily in instruments and money market funds which
+historically have been highly liquid and carried relatively low risk. However, with recent credit market conditions, similar types of investments and money market funds have experienced losses in
+value or liquidity issues which differ from their historical pattern. 
+
+ Should
+a portion of our cash or marketable securities lose value or have their liquidity impaired, it could adversely affect our overall financial position by imperiling our ability to
+fund our operations and forcing us to seek additional financing sooner than we would otherwise. Such financing, if available, may not be available on commercially attractive terms. 
+
+ Our current revenues are derived from collaborations and from licensing our intellectual property. If we are unable to achieve milestones, develop products or renew or enter
+into new collaborations, our revenues may decrease, and future milestone and royalty payments may not contribute significantly to revenues for several years, and may never result in revenues. 
+
+ We derived all of our revenues for the year ended December 31, 2010 from our collaborations and licensing our intellectual
+property to others. Future revenues from research and development collaborations depend upon continuation of the collaborations, the achievement of milestones and royalties we earn from any future
+products developed from our research. If we are unable to successfully achieve milestones or our collaborators fail to develop successful products, we will not earn the future revenues contemplated
+under our collaborative agreements. 
+
+ 
+
+ 
+
+ RISKS RELATING TO INTELLECTUAL PROPERTY AND LEGAL MATTERS 
+ 
+
+ If we are subject to arbitration, litigation and infringement claims, they could be costly and disrupt our drug discovery and development efforts. 
+
+ The technology that we use to make and develop our drug products, the technology that we incorporate in our products, and the products
+we are developing may be subject to claims that they infringe the patents or proprietary rights of others. The success of our drug discovery and development efforts will also depend on our ability to
+develop new compounds, drugs and technologies without infringing or misappropriating the proprietary rights of others. We are aware of patents and patent applications filed in certain countries
+claiming intellectual property relating to some of our drug discovery targets and product candidates. While the validity of issued patents, patentability of pending patent applications and
+applicability of any of them to our programs are uncertain, if any of these patents are asserted against us or if we choose to license any of these patents, our ability to commercialize our products
+could be harmed or the potential return to us from any product that may be successfully commercialized could be diminished. 
+
+ From
+time to time we have received, and we may in the future receive, notices from third parties offering licenses to technology or alleging patent, trademark, or copyright infringement,
+claims regarding trade secrets or other contract claims. Receipt of these notices could result in significant costs as a result of the diversion of the attention of management from our drug discovery
+and development efforts. Parties sending these notices may have brought and in the future may bring litigation against us or seek arbitration relating to contract claims. 
+
+ We
+may be involved in future lawsuits or other legal proceedings alleging patent infringement or other intellectual property rights or contract violations. In addition, litigation or
+other legal proceedings may be necessary to: 
+
+•
+assert claims of infringement; 
+ 
+
+•
+enforce our patents or trademarks; 
+
+36
+
+ 
+
+Table of Contents
+
+•
+protect our trade secrets or know-how; or 
+ 
+
+•
+determine the enforceability, scope and validity of the proprietary rights of others. 
+
+ We
+may be unsuccessful in defending or pursuing these lawsuits, claims or other legal proceedings. Regardless of the outcome, litigation or other legal proceedings can be very costly and
+can divert management's efforts. For example, we settled patent litigation with Invitrogen Corporation in 2006. We incurred significant expenses related to this litigation and, as part of the
+settlement, paid Invitrogen $3.4 million. An adverse determination may subject us to significant liabilities or require us or our collaborators or licensees to seek licenses to other parties'
+patents or proprietary rights. We or our collaborators or licensees may also be restricted or prevented from manufacturing or selling a drug or other product that we or they develop. Further, we or
+our future collaborators or licensees may not be able to obtain any necessary licenses on acceptable terms, if at all. If we are unable to develop non-infringing technology or license
+technology on a timely basis or on reasonable terms, our business could be harmed. 
+
+ We may be unable to adequately protect or enforce our proprietary information, which may result in its unauthorized use, a loss of revenue under a collaboration agreement or
+loss of sales to generic versions of our products or otherwise reduce our ability to compete in developing and commercializing products. 
+
+ Our business and competitive position depends in significant part upon our ability to protect our proprietary technology, including any
+drug products that we create. Despite our efforts to protect this information, unauthorized parties may attempt to obtain and use information that we regard as proprietary. For example, one of our
+collaborators may disclose proprietary information pertaining to our drug discovery efforts. In addition, while we have filed numerous patent applications with respect to our product candidates in the
+United States and in foreign countries, our patent applications may fail to result in issued patents. In addition, because patent applications can take several years to issue as patents, there may be
+pending patent applications of others that may later issue as patents that cover some aspect of our drug candidates. Our existing patents and any future
+patents we may obtain may not be broad enough to protect our products or all of the potential uses of our products, or otherwise prevent others from developing competing products or technologies. In
+addition, our patents may be challenged and invalidated or may fail to provide us with any competitive advantages if, for example, others were first to invent or first to file a patent
+application for the technologies and products covered by our patents. 
+
+ Additionally,
+when we do not control the prosecution, maintenance and enforcement of certain important intellectual property, such as a drug compound in-licensed to us or
+subject to a collaboration with a third party, the protection of the intellectual property rights may not be in our hands. If we do not control the intellectual property rights in-licensed
+to us with respect to a compound and the entity that controls the intellectual property rights does not adequately protect those rights, our rights may be impaired, which may impact our ability to
+develop, market and commercialize the in-licensed compound. 
+
+ Our
+means of protecting our proprietary rights may not be adequate, and our competitors may: 
+
+•
+independently develop substantially equivalent proprietary information, products and techniques; 
+ 
+
+•
+otherwise gain access to our proprietary information; or 
+ 
+
+•
+design around patents issued to us or our other intellectual property. 
+
+ We
+pursue a policy of having our employees, consultants and advisors execute proprietary information and invention agreements when they begin working for us. However, these agreements
+may not provide meaningful protection for our trade secrets or other proprietary information in the event of unauthorized use or disclosure. If we fail to maintain trade secret and patent protection,
+our potential, future revenues may be decreased. 
+
+37
+
+ 
+
+Table of Contents
+
+ If the effective term of our patents is decreased due to changes in the United States patent laws or if we need to refile some of our patent applications, the value of our
+patent portfolio and the revenues we derive from it may be decreased. 
+
+ The value of our patents depends in part on their duration. A shorter period of patent protection could lessen the value of our rights
+under any patents that we obtain and may decrease the revenues we derive from our patents. The United States patent laws were amended in 1995 to change the term of patent protection from
+17 years from patent issuance to 20 years from the earliest effective filing date of the application. Because the time from filing to issuance of biotechnology applications may be more
+than three years depending on the subject matter, a 20-year patent term from the filing date may result in substantially shorter patent protection. 
+
+ International patent protection is particularly uncertain and costly, and if we are involved in opposition proceedings in foreign countries, we may have to expend
+substantial sums and management resources. 
+
+ Biotechnology and pharmaceutical patent law outside the United States is even more uncertain and costly than in the United States and
+is currently undergoing review and revision in many countries. Further, the laws of some foreign countries may not protect our intellectual property rights to the same extent as United States laws.
+For example, certain countries do not grant patent claims that are directed to the treatment of humans. We may participate in opposition proceedings to determine the validity of our foreign patents or
+our competitors' foreign patents, which could result in substantial costs and diversion of our efforts.

@@ -8,7 +8,7 @@ In December 2019, a novel strain of coronavirus, COVID-19, surfaced. Since then,
 
 As the COVID-19 pandemic and any associated protective or preventative measures continue to spread in the United States and around the world, we may experience disruptions to our business, including:
 
- 
+ 
 
 •
 our customers choosing to limit purchases of insurance and services due to declining business conditions, our customers ceasing their business operations on a temporary or permanent basis, and a reduction in our customers’ insurable exposure units, all of which would impact our ability to generate commission revenue and other revenue;
@@ -25,14 +25,14 @@ alternative working arrangements, including employees working remotely, which co
 •
 failure of third parties upon which we rely to meet their obligations to us, or significant disruptions in their ability to meet those obligations in a timely manner, which may be caused by their own financial or operational difficulties.
 
- 
+ 
 
 We cannot predict the impact that COVID-19 will have on our customers, insurance carriers, suppliers and other third-party contractors, and each of their financial conditions; however, any material effect on these parties could adversely impact us. Even after the COVID-19 outbreak has subsided, we may experience materially adverse impacts to our business as a result of the virus’ global economic impact. Further, COVID-19 may affect our operating and financial results in a manner that is not presently known to us or that we currently do not consider as presenting significant risks to our operations.
  
 
 14
 
- 
+ 
 
 Additionally, should any key employees become ill from the coronavirus and unable to work, the attention of the management team could be diverted.
  
@@ -62,7 +62,7 @@ Our growth strategy partially includes the acquisition of other insurance interm
 
 15
 
- 
+ 
 
 A CYBERSECURITY ATTACK, OR ANY OTHER INTERRUPTION IN INFORMATION TECHNOLOGY AND/OR DATA SECURITY AND/OR OUTSOURCING RELATIONSHIPS, COULD ADVERSELY AFFECT OUR BUSINESS, FINANCIAL CONDITION AND REPUTATION.
 
@@ -86,7 +86,7 @@ For the year ended December 31, 2021, 2020, and 2019, no more than 5.0% of our t
 
 16
 
- 
+ 
 
 BECAUSE A SIGNIFICANT PORTION OF OUR BUSINESSES ARE CONCENTRATED IN FLORIDA, CALIFORNIA, MASSACHUSETTS, GEORGIA, NEW YORK, AND MICHIGAN, ADVERSE ECONOMIC CONDITIONS, NATURAL DISASTERS, OR REGULATORY CHANGES IN THESE STATES COULD ADVERSELY AFFECT OUR FINANCIAL CONDITION.
 
@@ -128,7 +128,7 @@ If any of these risks materialize, our results of operations and financial condi
 
 17
 
- 
+ 
 
 DUE TO INHERENT LIMITATIONS, OUR SYSTEM OF DISCLOSURE AND INTERNAL CONTROLS AND PROCEDURES MAY NOT BE SUCCESSFUL IN PREVENTING ALL ERRORS OR FRAUD, OR IN INFORMING MANAGEMENT OF ALL MATERIAL INFORMATION IN A TIMELY MANNER.
 
@@ -190,7 +190,7 @@ We are subject to a variety of continuously evolving and developing laws and reg
 
 18
 
- 
+ 
 
 fully effective in May 2018 and requires companies to satisfy new requirements regarding the handling of personal and sensitive data, including its processing, protection and the ability of persons whose data is stored to correct or delete such data about themselves. Failure to comply with GDPR requirements could result in penalties of up to 4% of worldwide revenue. Complying with the enhanced obligations imposed by the GDPR may result in significant costs to our business and require us to revise certain of our business practices. Additionally, a judgement by the Court of Justice of the European Union on Schrems II has made cross border data transfers to organizations outside of the European Economic Area more onerous and uncertain. In addition, legislators and regulators in the U.S. have enacted and are proposing new and more robust privacy and cybersecurity laws and regulations in light of the recent broad-based cyber-attacks at a number of companies, including but not limited to the New York State Department of Financial Services Cybersecurity Requirements for Financial Services Companies and the California Consumer Privacy Act of 2018. Some states provide right of action for data breaches or for collection of certain categories of personal information without consent, which may result in increased litigation.
 
@@ -209,7 +209,7 @@ Our business, results of operations, financial condition and liquidity may be ad
 
 19
 
- 
+ 
 
 OUR BUSINESS PRACTICES AND COMPENSATION ARRANGEMENTS ARE SUBJECT TO UNCERTAINTY DUE TO POTENTIAL CHANGES IN REGULATIONS.
 
@@ -225,7 +225,7 @@ Legislation concerning tort reform has been considered, from time to time, in th
 
 20
 
- 
+ 
 
 Risks Related to Our Indebtedness and Financing
 
@@ -243,7 +243,7 @@ The failure of any lender under our revolving credit facility (which matures in 
 
 We also have a significant amount of trade accounts receivable from some insurance companies with which we place insurance. If those insurance companies were to experience liquidity problems or other financial difficulties, we could encounter delays or defaults in payments owed to us, which could have a significant adverse impact on our financial condition and results of operations.
 
- 
+ 
 
 WE ARE SUBJECT TO RISKS ASSOCIATED WITH THE CURRENT INTEREST RATE ENVIRONMENT AND TO THE EXTENT WE USE DEBT TO FINANCE OUR INVESTMENTS, CHANGES IN INTEREST RATES WILL AFFECT OUR COST OF CAPITAL AND NET INVESTMENT INCOME.
 
@@ -256,7 +256,7 @@ The Company is currently evaluating the transition from LIBOR as an interest rat
 
 21
 
- 
+ 
 
 Risks Related to Our Industry
 
@@ -284,7 +284,7 @@ Profit-sharing contingent commissions are special revenue-sharing commissions pa
 
 22
 
- 
+ 
 
 WE ARE EXPOSED TO INTANGIBLE ASSET RISK; SPECIFICALLY, OUR GOODWILL MAY BECOME IMPAIRED IN THE FUTURE.
 
