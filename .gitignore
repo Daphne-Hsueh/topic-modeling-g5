@@ -18,7 +18,7 @@ __pycache__/
 
 # Data (large files — share via other means)
 data/raw_filings/
-data/corpus.csv
+# data/corpus.csv
 
 # OS
 .DS_Store
