@@ -55,22 +55,56 @@ BOILERPLATE = [
     "these risks are not the only risks we face", "among other things", "including but not limited to",
 ]
 _BOILERPLATE_RE = re.compile("|".join(re.escape(p) for p in BOILERPLATE), re.IGNORECASE)
-_PAGE_NUM_RE    = re.compile(r"^\s*(?:page\s+\d+\s+of\s+\d+|\d+)\s*$", re.IGNORECASE)
 _PUNCT_RE       = re.compile(r"[^\w\s]")
+
+_FURNITURE_PATTERNS = [
+    re.compile(r"^\d{1,4}$"),
+    re.compile(r"^page\s+\d+(\s+of\s+\d+)?$", re.I),
+    re.compile(r"^table of contents(\s*\(continued\))?$", re.I),
+    re.compile(r"^[\w .,&'/-]{0,60}annual report(\s+on)?\s+form\s+10-?k$", re.I),
+    re.compile(r"^form\s+10-?k$", re.I),
+]
+_TERMINAL = (".", "!", "?", ":", ";", '."', '.”', '.)')
+
+
+def _is_furniture(line: str) -> bool:
+    s = line.strip()
+    if not s:
+        return True
+    if s == s.upper() and len(s.split()) < 5:  # short ALL-CAPS header
+        return True
+    return any(p.match(s) for p in _FURNITURE_PATTERNS)
 
 
 # ── Step 1: light clean (keep natural language) ───────────────────────────────
 def light_clean(raw: str) -> str:
-    """Remove page numbers and short ALL-CAPS header lines; normalise blank lines."""
-    kept = []
-    for line in raw.splitlines():
-        if _PAGE_NUM_RE.match(line):
+    """Drop page furniture and rejoin lines wrapped by raw PDF line breaks."""
+    text = raw.replace("\r\n", "\n").replace("\r", "\n")
+    paras, cur = [], []
+
+    def flush():
+        if cur:
+            para = re.sub(r"[ \t]{2,}", " ", " ".join(s.strip() for s in cur)).strip()
+            if para:
+                paras.append(para)
+            cur.clear()
+
+    for line in text.split("\n"):
+        s = line.strip()
+        if s == "":            # blank line -> paragraph boundary
+            flush(); continue
+        if _is_furniture(s):   # drop furniture; don't break the paragraph
             continue
-        stripped = line.strip()
-        if stripped and stripped == stripped.upper() and len(stripped.split()) < 5:
-            continue
-        kept.append(line)
-    return re.sub(r"\n{3,}", "\n\n", "\n".join(kept))
+        cur.append(s)          # content line -> accumulate (unwraps single \n)
+    flush()
+
+    merged = []                # conservative cross-page rejoin
+    for para in paras:
+        if merged and not merged[-1].rstrip().endswith(_TERMINAL) and para[:1].islower():
+            merged[-1] = merged[-1].rstrip() + " " + para
+        else:
+            merged.append(para)
+    return "\n\n".join(merged)
 
 
 # ── Step 2: split into chunks ─────────────────────────────────────────────────
