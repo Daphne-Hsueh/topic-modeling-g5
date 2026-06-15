@@ -65,7 +65,7 @@ def main() -> None:
     df = pd.read_csv(INPUT_PATH)
     total_in = len(df)
 
-    # Match against the raw `text` column (not text_clean).
+    # Match keyword phrases against the natural-language `text` column.
     df["matched_categories"] = df["text"].apply(lambda t: match_categories(t, patterns))
 
     filtered = df[df["matched_categories"].map(len) > 0].copy()

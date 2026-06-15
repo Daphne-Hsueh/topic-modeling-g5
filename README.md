@@ -55,9 +55,9 @@ Run the notebooks in order; each writes the input for the next.
 - **Full filing history.** `src/edgar.py` paginates the SEC submissions API (and uses the
   browse-edgar feed for selection), so long histories from active filers — banks especially —
   are recovered rather than silently capped at the most recent ~1,000 filings.
-- **`chunks_clean.csv` has two text columns:** use `text` (natural language) for BERTopic;
-  `text_clean` (lower-cased, de-punctuated, stop-words removed) is only for a bag-of-words
-  baseline such as LDA/NMF.
+- **`chunks_clean.csv` has one text column, `text`:** the natural-language chunk that BERTopic
+  embeds. No stop-word removal or lower-casing is done in preprocessing — BERTopic tokenises
+  internally (configure stop-words in its `CountVectorizer` if you want cleaner topic words).
 - **Complete panel.** Every selected company filed a 10-K in **every year 2010–2025**, so the
   dataset is balanced and gap-free across the full study period. (2026 is excluded because its
   filings are still arriving, which would leave the final year incomplete.)
