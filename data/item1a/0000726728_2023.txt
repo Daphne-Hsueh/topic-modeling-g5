@@ -1,0 +1,1254 @@
+Theater Industry Update
+For the period from October 2022 through February 2023, we collected all of the contractual rent
+(1)
+ across our theater portfolio. As of December 31, 2022, we had cumulative reserves of $35.6 million, including $13.7 million in additional reserves recognized in the three months ended December 31, 2022, on properties leased to Cineworld Group plc ("Cineworld"), the parent entity of the entities that lease certain of our theater portfolios, including Regal Cinemas, which commenced Chapter 11 reorganization proceedings during September 2022. These reserves for Cineworld and its affiliates, representing a reduction of rental revenue, primarily relate to contractual rent and expense recoveries recorded during the COVID-19 pandemic in 2020, and during the fourth quarter of 2022, and exclude straight-line rent reserves. Total receivables from Cineworld and its affiliates were $15.6 million at 
+7
+Tabl
+e of Contents
+December 31, 2022, net of reserves and excluding straight line rent receivables, and include both deferred contractual rent and deferred expense recoveries.
+(1) 
+We define contractual rent as the monthly aggregate cash amount charged to clients, inclusive of monthly base rent receivables. Charged amounts have not been adjusted for any COVID-19 related rent relief granted and include contractual rent from any clients in bankruptcy. 
+Select
+ Financial Results
+The following summarizes our select financial results (dollars in millions, except per share data):
+Years ended December 31,
+2022
+2021
+% Increase
+Total revenue 
+$
+3,343.7
+$
+2,080.5
+60.7 
+%
+Net income available to common stockholders 
+(1)
+$
+869.4
+$
+359.5
+141.8 
+%
+Net income per share 
+(2)
+$
+1.42
+$
+0.87
+63.2 
+%
+Funds from operations ("FFO")
+ 
+available to common stockholders
+$
+2,471.9
+$
+1,240.6
+99.3 
+%
+FFO per share 
+(2)
+$
+4.04
+$
+2.99
+35.1 
+%
+Normalized funds from operations ("Normalized FFO") available to common stockholders
+$
+2,485.8
+$
+1,408.0
+76.5 
+%
+Normalized FFO per share 
+(2)
+$
+4.06
+$
+3.39
+19.8 
+%
+Adjusted funds from operations ("AFFO")
+ 
+available to common stockholders
+$
+2,401.4
+$
+1,488.8
+61.3 
+%
+AFFO per share 
+(2)
+$
+3.92
+$
+3.59
+9.2 
+%
+(1) 
+The calculation to determine net income available to common stockholders includes provisions for impairment, gain from the sale of real estate, and foreign currency gain and loss. These items can vary from year to year and can significantly impact net income available to common stockholders and period to period comparisons.
+(2) 
+All per share amounts are presented on a diluted per common share basis.
+Our financial results during the year ended December 31, 2022 were impacted by the following transactions: (i) merger and integration-related costs related to our merger with VEREIT of $13.9 million, (ii) other income, net increased $20.6 million, which includes gains on insurance proceeds from recoveries on property losses exceeding our carrying value, and (iii) net reserves to rental revenue of $4.0 million (of which $1.7 million was related to straight-line rent receivables). Our financial results during the year ended December 31, 2021 were impacted by the following transactions: (i) a $97.2 million loss on extinguishment of debt, which primarily includes $46.5 million related to the January 2021 early redemption of the 3.250% notes due October 2022 recorded in the three months ended March 31, 2021 and $46.4 million related to the December 2021 early redemption of the 4.650% notes due August 2023 recorded in the three months ended December 31, 2021, (ii) $167.4 million of merger and integration-related costs related to our merger with VEREIT, and (iii) $14.7 million of reserves to rental revenue (of which $4.5 million was related to straight-line rent receivables).
+See our discussion of FFO, Normalized FFO, and AFFO (which are not financial measures under generally accepted accounting principles in the United States, or "U.S. GAAP"), later in the section entitled “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” in this annual report, which includes a reconciliation of net income available to common stockholders to FFO and Normalized FFO, and AFFO.
+DIVIDEND POLICY
+Distributions are paid monthly to holders of shares of our common stock.
+Distributions are paid monthly to the limited partners holding common units of Realty Income, L.P., each on a per unit basis that is generally equal to the amount paid per share to our common stockholders. 
+In order to maintain our status as a REIT for federal income tax purposes, we generally are required to distribute dividends to our stockholders aggregating annually at least 90% of our taxable income (excluding net capital gains), and we are subject to income tax to the extent we distribute less than 100% of our taxable income (including net capital gains). In 2022, our cash distributions to common stockholders totaled $1.81 billion, or approximately 95.3% of our estimated taxable income of
+ 
+$1.90 billion. Certain measures are available to us to reduce or eliminate our tax exposure as a REIT, and accordingly, no provision for federal income taxes, other than our taxable REIT subsidiaries (each, a "TRS"), has been made. Our estimated taxable income reflects non-cash deductions for 
+8
+Tabl
+e of Contents
+depreciation and amortization. Our estimated taxable income is presented to show our compliance with REIT dividend requirements and is not a measure of our liquidity or operating performance. We intend to continue to make distributions to our stockholders that are sufficient to meet this dividend requirement and that will reduce or eliminate our exposure to income taxes. Furthermore, we believe our cash on hand and funds from operations are sufficient to support our current level of cash distributions to our stockholders. We distributed $2.967 per share to stockholders during 2022, representing 75.7% of our diluted AFFO per share of $3.92. 
+Future distributions will be at the discretion of our Board of Directors and will depend on, among other things, our results of operations, FFO, Normalized FFO, AFFO, cash flow from operations, financial condition, capital requirements, the annual distribution requirements under the REIT provisions of the Internal Revenue Code of 1986, as amended, or the Code, our debt service requirements, and any other factors the Board of Directors may deem relevant. In addition, our credit facility contains financial covenants that could limit the amount of distributions payable by us in the event of a default, and which prohibit the payment of distributions on our common stock in the event that we fail to pay when due (subject to any applicable grace period) any principal or interest on borrowings under our credit facility.
+Distributions of our current and accumulated earnings and profits for federal income tax purposes generally will be taxable to stockholders as ordinary income, except to the extent that we recognize capital gains and declare a capital gains dividend, or that such amounts constitute “qualified dividend income” subject to a reduced rate of tax. The maximum tax rate of non-corporate taxpayers for “qualified dividend income” is generally 20%. In general, dividends payable by REITs are not eligible for the reduced tax rate on qualified dividend income, except to the extent that certain holding requirements have been met with respect to the REIT’s stock and the REIT’s dividends are attributable to dividends received from certain taxable corporations (such as our TRSs) or to income that was subject to tax at the corporate or REIT level (for example, if we distribute taxable income that we retained and paid tax on in the prior taxable year). However, non-corporate stockholders, including individuals, generally may deduct up to 20% of dividends from a REIT, other than capital gain dividends and dividends treated as qualified dividend income, for taxable years beginning after December 31, 2017 and before January 1, 2026.
+Distributions in excess of earnings and profits generally will first be treated as a non-taxable reduction in the stockholders’ basis in their stock, but not below zero. Distributions in excess of that basis generally will be taxable as a capital gain to stockholders who hold their shares as a capital asset. None of the distributions to our common stockholders, made or deemed to have been made in 2022, were classified as a return of capital for federal income tax purposes.
+BUSINESS PHILOSOPHY AND STRATEGY
+We believe that actively managing a diversified portfolio of commercial properties under long-term, net lease agreements produces consistent and predictable income. A net lease typically requires the client to be responsible for monthly rent and certain property operating expenses including property taxes, insurance, and maintenance. In addition, clients of our properties typically pay rent increases based on: (1) fixed increases, (2) increases tied to inflation (typically subject to ceilings), or (3) additional rent calculated as a percentage of the clients’ gross sales above a specified level. We believe that a portfolio of properties under long-term net lease agreements with our commercial clients generally produces a more predictable income stream than many other types of real estate portfolios, while continuing to offer the potential for growth in rental income.
+Diversification is also a key component of our investment philosophy. We believe that diversification of the portfolio by client, industry, geography, and property type leads to more consistent and predictable income for our stockholders by reducing vulnerability that can come with any single concentration. Our investment activities have led to a diversified property portfolio that, as of December 31, 2022, we owned or held interests in 12,237 properties located in all 50 U.S. states, Puerto Rico, the U.K.,
+ 
+Spain,
+ 
+and Italy, and doing business in 84 industries. None of the 84 industries represented in our property portfolio accounted for more than 8.6% of our annualized contractual rent as of December 31, 2022.
+As we look to continue to expand geographically across Europe, we focus upon building relationships with new multinational clients that seek a real estate partner with an expanding geographic footprint.
+Investment Strategy
+We seek to invest in high-quality real estate that our clients consider important to the successful operation of their businesses. We generally seek to own or hold interests in commercial real estate that has some or all of the following characteristics:
+9
+Tabl
+e of Contents
+•
+Properties in markets or locations important to our clients;
+•
+Properties with strong demographic attributes or that we deem to be profitable for our clients; 
+•
+Properties with real estate valuations that approximate replacement costs;
+•
+Properties with rental or lease payments that approximate market rents for similar properties; 
+•
+Properties that can be purchased with the simultaneous execution or assumption of long-term net lease agreements, offering both current income and the potential for future rent increases;
+•
+Properties that leverage relationships with clients, sellers, investors, or developers as part of a long-term strategy; and
+•
+Properties that leverage our proprietary insights, including those in locations and geographic markets we expect to remain strong or strengthen in the future.
+We typically seek to invest in properties or portfolios of properties owned or leased by clients that are already or could become leaders in their respective businesses supported by mechanisms including (but not limited to) occupancy of prime real estate locations, pricing, merchandise assortment, service, quality, economies of scale, consumer branding, e-commerce, and advertising. We have an internal team dedicated to sourcing such opportunities, often using our relationships with various clients, owners/developers, brokers and advisers to uncover and secure transactions. We also undertake thorough research and analysis to identify what we consider to be appropriate property locations, clients, and industries for investment. This research expertise is instrumental to uncovering net lease opportunities in markets where we believe we can add value.
+In selecting potential investments, we generally look for clients with the following attributes:
+•
+Reliable and sustainable cash flow, including demonstrated economic resiliency;
+•
+Revenue and cash flow from multiple sources;
+•
+Are willing to sign a long-term lease (10 or more years); and
+•
+Are large owners and users of real estate.
+From a retail perspective, our investment strategy is to target clients that have a service, non-discretionary, and/or low-price-point component to their business. We target investments with clients who have demonstrated resiliency to e-commerce or have a strong omni channel retail strategy, uniting brick-and-mortar and mobile browsing, both of which reflect the continued importance of last mile retail, the movement of goods to their final destination, real estate as part of a customer experience and supply chain strategy. Our overall investments (including last mile retail) are driven by an optimal portfolio strategy that, among other considerations, targets allocation ranges by asset class and industry. We review our strategy periodically and stress test our portfolio in a variety of positive and negative economic scenarios to ensure we deliver consistent earnings growth and value creation across economic cycles. As a result of the execution of this strategy, approximately 93% of our annualized retail contractual rent on
+ 
+December 31, 2022, is derived from our clients with a service, non-discretionary, and/or low price point component to their business. From a non-retail perspective, we target industrial properties leased to industry leaders, the majority of which are investment grade rated companies. We believe these characteristics enhance the stability of the rental revenue generated from these properties.
+After applying this investment strategy, we pursue those transactions where we believe we can achieve an attractive investment spread over our cost of capital and favorable risk-adjusted returns. We will continue to evaluate all investments for consistency with our objective of owning net lease assets.
+Underwriting Strategy
+In order to be considered for acquisition, properties must meet stringent underwriting requirements. We have established a four-part analysis that examines each potential investment based on:
+•
+The aforementioned overall real estate characteristics, including demographics, replacement cost, and comparative rental rates;
+•
+Industry, client (including credit profile), and market conditions;
+•
+Store profitability for retail locations if profitability data is available; and
+•
+The importance of the real estate location to the operations of the clients’ business.
+We believe the principal financial obligations for most of our clients typically include their bank and other debt, payment obligations to employees, suppliers, and real estate lease obligations. Because we typically own the land and building in which a client conducts its business or which are critical to the client’s ability to generate revenue, we believe the risk of default on a client’s lease obligation is less than the client’s unsecured general obligations. It has been our experience that clients must retain their profitable and critical locations to survive. Therefore, in the 
+10
+Tabl
+e of Contents
+event of reorganization, we believe they are less likely to reject a lease of a profitable or critical location because this would terminate their right to use the property.
+Thus, as the property owner, we believe that we will fare better than unsecured creditors of the same client in the event of reorganization. If a property is rejected by our client during reorganization, we own the property and can either lease it to a new client or sell the property. In addition, we believe that the risk of default on real estate leases can be further mitigated by monitoring the performance of our clients’ individual locations and considering whether to proactively sell locations that meet our criteria for disposition.
+We conduct comprehensive reviews of the business segments and industries in which our clients operate. In addition, prior to entering any transaction, our research department conducts a review of a client’s credit quality. The information reviewed may include reports and filings, including any public credit ratings, financial statements, debt and equity analyst reports, and reviews of corporate credit spreads, stock prices, market capitalization, and other financial metrics. We conduct due diligence, including financial reviews of the client, and monitor our clients’ credit quality on an ongoing basis and provide summaries of these findings to management. 
+At December 31, 2022, 40.9% of our total portfolio annualized contractual rent comes from properties leased to our investment grade clients, their subsidiaries or affiliated companies. At December 31, 2022, our top 20 clients (based on percentage of total portfolio annualized contractual rent) represented 40.9% of our annualized rent and 12 of these clients have investment grade credit ratings or are subsidiaries or affiliates of investment grade companies.
+Asset Management Strategy
+In addition to pursuing new properties for investment, we seek to increase earnings and dividends through active asset management.
+Generally, our asset management efforts seek to achieve: 
+•
+Rent increases at the expiration of existing leases, when market conditions permit;
+•
+Optimum exposure to certain clients, industries, and markets through re-leasing vacant properties and selectively selling properties;
+•
+Maximum asset-level returns on properties that are re-leased or sold; and
+•
+Additional value creation opportunities from the existing portfolio by leveraging internal capabilities to enhance individual properties, pursue alternative uses, and derive ancillary revenue.
+As part of our ongoing credit research, we continually monitor our portfolio for any changes that could affect the performance of our clients, our clients’ industries, and the real estate locations in which we have invested. We also regularly analyze our portfolio with a view towards optimizing its returns and enhancing its overall credit quality. Our active asset management strategy pursues asset sales when we believe the reinvestment of the sale proceeds will:
+•
+Generate higher returns;
+•
+Enhance the credit quality of our real estate portfolio;
+•
+Extend our average remaining lease term; and/or
+•
+Strategically decrease client, industry, or geographic concentration.
+The active management of the portfolio is an essential component of our long-term strategy of maintaining high occupancy.
+Impact of Real Estate and Credit Markets
+In the commercial real estate market, property prices generally continue to fluctuate. Likewise, during certain periods, including the current market, the global credit markets have experienced significant price volatility, dislocations, and liquidity disruptions, which may impact our access to and cost of capital. We continually monitor the commercial real estate and global credit markets carefully and, if required, will make decisions to adjust our business strategy accordingly.
+Environmental, Social and Governance ("ESG")
+In recent years, our environmental, social, and governance efforts have quickly evolved from commitment to action. We continue to focus on how best to institutionalize efforts for a lasting and positive impact. As a result, we strive to be a sustainability leader in the net lease REIT sector. 
+11
+Tabl
+e of Contents
+As The Monthly Dividend Company
+®
+, our mission is to conduct business with integrity, transparency, respect and humility to create long-term value across economic cycles for all stakeholders. We are committed to conducting our business according to the highest moral and ethical standards. Our dedication to providing dependable monthly dividends that increase over time is only enhanced by our elevated purpose, mission, vision and values.
+We believe that our commitment to corporate responsibility, which encompasses ESG principles, is critical to our performance and long-term success and that we all have a shared responsibility to our people, communities that we operate in and the planet. In support of this commitment, we are dedicated to providing an engaging, inclusive, and a safe work environment for our employees, operating our business in an environmentally conscious manner, and upholding our corporate responsibilities as a public company for the benefit of our stakeholders - our stockholders, clients, employees and community members. The Nominating/Corporate Governance Committee of our Board of Directors has direct oversight of ESG matters.
+Environmental - Sustainability
+We hold the protection of our assets, communities, and the environment in high regard. Based on our business model, the properties in our portfolio are primarily net leased to our clients, and each client is generally responsible for maintaining the buildings, including utilities management and the implementation of environmentally sustainable practices at each location. Therefore, we generally cannot control the implementation of environmentally sustainable practices without collaborating with our clients whose environmental initiatives may or may not be aligned with ours. However, we hope that with continued engagement, we can encourage clients to adopt environmentally sustainable practices. In that light, we have expanded and intend to continue to expand our client engagement efforts to achieve shared sustainability objectives on an ongoing basis. As a member of the National Association of Real Estate Investment Trusts ("Nareit") Real Estate Sustainability Council, we are focused on leveraging best practices and advancing our efforts in this area.
+Response to Climate Change
+We seek to promote effective energy efficiency and other sustainability strategies and compliance with federal, state and international laws and regulations related to climate change, both internally and with our clients. We remain committed to sustainable business practices in our day-to-day activities by encouraging a culture of environmental responsibility at our offices and within our communities. We work with our clients to promote environmental responsibility at the properties we own, however, as noted above, as our properties are primarily net leased to our clients we generally cannot control the implementation of environmentally sustainable practices without the assistance of our clients. As we have grown our sustainability efforts, we have leveraged our size and expanded our client engagement efforts to achieve shared sustainability objectives. We are: 
+•
+Operating from green-certified buildings: our San Diego headquarters is Energy Star Certified and our Phoenix Office is LEED Platinum certified.
+•
+Continuing to upgrade our San Diego headquarters by completing a building-wide LED retrofit, subsidizing employee use of electric vehicle charging stations, and installing a carport photovoltaic panel system. These improvements are in addition to our automatic lighting control system with light-harvesting technology, a building management system that monitors and controls energy use, an adaptive and intelligent irrigation system, and energy efficient PVC roofing and heating and cooling systems.
+•
+Reporting according to our Green Financing Framework and our Green Bond Report, disclosing our allocation of proceeds from our inaugural green bond offering in 2021 to green certified building acquisitions and other eligible green projects. 
+•
+Identifying transition risks across our European portfolio by assessing, identifying, and underwriting necessary property retrofits and upgrades during acquisition due diligence in order to ensure our investments will meet the England and Wales minimum energy efficiency standards (“MEES”) and the 2002 Scottish energy regulations. This due diligence will also help preparedness for future similar regulations that may be adopted in countries or regions where we have properties.
+•
+Enhancing our ESG and Green Lease schedule for our European operations to establish landlord/client cooperation, data sharing requirements, energy use, site alteration guidelines, and energy performance certificate requirements, among other items. We are also continuing the expansion and incorporation of “Green Lease Clauses” across our leases for access to utility and performance data through lease rollovers, sale-leaseback transactions, and initiatives which allow us to benchmark our properties and work with clients to identify and implement energy efficiency projects.
+•
+Holding a management led ESG Task Force to facilitate compliance with certain regulatory disclosure requirements to which we are subject (such as the anticipated changes to the SEC’s climate-related 
+12
+Tabl
+e of Contents
+disclosure rules) or to comply with established ESG frameworks and standards, such as the Global Real Estate Sustainability Benchmarks and the Task Force for Climate-Related Financial Disclosures (“TCFD”). 
+•
+Continuing our client engagement initiative to learn about client sustainability goals, initiatives, and collaboration opportunities focused on utility data sharing, renewable energy options, electric vehicle charging infrastructure, as well as LED lighting and HVAC retrofits and other energy efficiency projects.
+•
+Working with strategic real estate partners to survey existing site-level environmental characteristics to help develop a more comprehensive inventory of our portfolio’s low-footprint carbon initiatives.
+•
+Providing our asset management and real estate operations teams with additional resources to identify and evaluate client partnership opportunities.
+•
+Surveying asset-level property characteristics via client survey requests to increase environmental data coverage.
+•
+Continuing to strengthen our governance structure and legal instruments to expedite opportunities across our portfolio.
+•
+Considering climate-related risks within our strategic enterprise-level risk assessment process while following TCFD recommendations to better understand how climate change may impact future business decisions.
+We prepare and issue an annual sustainability report.
+Social - Company Culture and Employees
+Human Capital
+We put great effort into cultivating an inclusive company culture. We are one team, and together we are committed to providing an engaging work environment centered on our One Team values of Do the right thing, Take ownership, Empower each other, Celebrate differences, and Give more than we take. As such, we hire talented employees with diverse backgrounds and perspectives and work to provide an environment with regular, open communication where capable team members have fulfilling careers and are encouraged to engage with and make a positive impact on business partners and the communities in which we operate.
+We continue to take the following actions to offer an engaging environment:
+•
+Maintaining a hybrid onsite/remote work environment with flexible scheduling;
+•
+Implementing an improved internal communication and document management platform that provides employees enhanced video conferencing, document management, and virtual collaboration workspace which improved employee communications and collaboration supporting in-office and our remote work footprint;
+•
+Increasing dialogue with our team leaders, including our CEO, who conducts regular check-in meetings with all leadership levels and employees across the company;
+•
+Providing resources to employees who were directly impacted by the ongoing COVID-19 pandemic;
+•
+Updating our business continuity plan that includes emergency planning, disaster recovery, alternative communication outlets, and real-time testing simulations;
+•
+Establishing in-person and virtual engagement activities, bringing colleagues together through the Team Building Committee and Green Team; and
+•
+Hosting in-person and virtual wellbeing program classes and events addressing mental health, stress reduction, physical fitness, financial wellbeing, and other wellness topics.
+Recruitment, Development and Retention
+We believe our employees form the foundation of our corporate culture and are one of our most valuable assets. As of January 2023, we employed 395 professionals (including four part-time employees), with the majority of talent recruited and hired from the local communities in which we operate. In order to broaden our reach for talent, we offer college and high school internship programs and attract candidates utilizing diverse resources such as affinity associations, targeted job advertisements, sourcing software focusing on diversity criteria, and employee referrals. Additionally, as part of our ongoing efforts to strengthen our internal leadership development capabilities, we operate an annual mentorship program, will launch two leadership development programs in 2023, and train on topics such as anti-discrimination and harassment, cybersecurity, Diversity, Equality and Inclusion (DE&I) awareness, safety, and important company policies that are required for every employee. We also offer competency-based training that includes professional development, executive and officer-level coaching, and other leadership development training for our colleagues.
+13
+Tabl
+e of Contents
+Assistance and support are provided to employees who are working towards obtaining job-related licenses and relevant certifications as well as continuing education. Opportunities to enroll in professional and technical education is also extended to all employees who are looking for ways to continue learning and growing with the Company.
+Employee retention is vital to maintaining a robust and cohesive workforce. To that end, we provide compensation that we believe is competitive with our peers and competitors, including a generous benefits package. Benefits include medical, dental, and vision healthcare benefits for all employees and their families; participation in a 401(k) or equivalent plan with a matching contribution from us; paid time-off or equivalent; disability and life insurance; and, in years that the Company's performance meets certain goals, the ability to earn equity in the Company that vests over four years. Our employees have an average tenure of approximately 4.8 years and our leadership, including Senior Vice President and above, have an average tenure of approximately 8.3 years.
+Diversity, Equality and Inclusion 
+We believe that much of our success is rooted in the diversity of our teams and our commitment to inclusion. This commitment starts at the top with our highly skilled and diverse Board, comprised of individuals with a variety of backgrounds and experience. We strive to emulate this diversity throughout the Company as part of our ongoing commitment to diversity, equality and inclusion with our DE&I Policy. We continue to expand our DE&I efforts around building employee awareness and understanding through various training requirements and learning opportunities. In 2022, we accomplished a 100% participation in our required DE&I training and in 2023 hosted a variety of voluntary learning sessions around an array of DE&I topics (e.g., Generational Differences, and Allyship, Gender Equity, and Race Diversity), which supported employee self-reflection, engagement, and action throughout the year. In addition, we offer the option for employees to select a floating holiday that recognizes DE&I that is personally meaningful to them. 
+These
+ learning opportunities aim to continue building knowledge and facilitate open and safe conversations regarding critical DE&I topics, drive inclusive conversations with others, and promote belonging in our hybrid environment. 
+We
+ perform a pay equity analysis each year to ensure that regardless of gender, race, or ethnicity, employees who perform similar work under similar circumstances are paid similar wages.
+Workforce Demographics
+The following data is as of December 31, 2022 and was gathered voluntarily from employees and reflects the information provided by the participating responde
+nts. No employees identify as non-binary. We d
+efine Manager Level as employees that either supervise at least one team member or hold a title of Associate Director or above. We define Senior Officer Level as employees with a title of Senior Vice President or above. In addition to maintaining a diverse workforce, 36% of our Board of Directors self-identify as women and 55% sel
+f-ide
+ntify as racially or ethnically diverse. 
+*
+8 of 21 senior officers identify as women
+14
+Tabl
+e of Contents
+Employee Engagement
+We believe our focus on culture, employee engagement and inclusion has helped us mitigate the risk of losing key team members. To assess, analyze, and respond to employee sentiment and to ensure that we are doing all we can to foster engagement from a strategic perspective, we launched our first employee engagement survey in 2019. Every eighteen months, we conduct a comprehensive employee engagement survey. Our 2022 survey garnered over 96% employee participation. We continuously strive in our culture and work environment to create opportunities for engagement and improvement. As such, our leaders develop focused action plans which address areas for enhanced engagement based on survey results in concert with feedback from their department team members. We intend to continue conducting employee engagement surveys every eighteen months.
+We sponsor an active Team Building Committee comprised of volunteer-employees across numerous departments and seniority levels that organizes employee-driven, team-building events and activities to promote employee involvement, communication, and organizational continuity to foster strong interconnected relationships. We complement the Team Building Committee in support of our ESG efforts with another volunteer-based, employee-driven Green Team that works on sustainability related matters at our office and in the community.
+Employee Health, Safety and Wellbeing
+We believe the health and wellbeing of our team members are cornerstones for our successful operations. Our wellbeing program provides opportunities for our people to participate in various activities and educational programs to enhance their personal and professional lives. Our wellbeing model is to engage employees covering five pillars of wellness: Purpose, Social, Financial, Community, and Physical. We support a healthy work-life balance, by offering flexible work schedules, access to discounted fitness programs, on-site dry-cleaning pickup, car wash services, paid family leave, generous parental leave, lactation rooms, and an infant at work program for new parents. Employees also have access to a robust employee assistance program.
+The COVID-19 pandemic prompted additional support needed to our One Team. Upon our return to the office in March 2022, we took the following actions to seek to assist our employees: we (i) implemented a hybrid remote and in-person working arrangements which was determined by each department leader based on an individual's role; (ii) implemented and improved internal communications; (iii) provided resources to employees who were directly impacted by the COVID-19 pandemic (e.g., financial support, scheduling flexibility, and time off to employees to receive and recover from the COVID-19 vaccine and booster); and (iv) updated our business continuity plan.
+Governance - Fiduciary Duties and Ethics
+We believe in the importance of a company’s reputation for integrity and are committed to managing the Company for the benefit of our stockholders. We are focused on maintaining good corporate governance and have implemented the below practices that illustrate this commitment including, but are not limited to:
+•
+Our Board of Directors is currently comprised of 11 directors, 10 of whom are independent, non-employee directors;
+•
+Our Board of Directors is elected on an annual basis with a majority vote standard;
+•
+Our directors conduct annual self-evaluations and participate in director orientation and continuing education programs; 
+•
+An enterprise risk management evaluation is conducted annually to identify and assess our risk;
+•
+Each standing committee of our Board of Directors is comprised entirely of independent directors; and
+•
+We adhere to all other corporate governance principles outlined in our Corporate Governance Guidelines. These guidelines, as well as our bylaws, committee charters and other governance documents may be found on our website.
+We are committed to conducting our business according to the highest ethical standards and upholding our corporate responsibilities as a public company operating for the benefit of our stockholders. Our Board of Directors has adopted a Code of Business Ethics that applies to our directors, officers, and other employees. The Code of Business Ethics includes our commitment to dealing fairly with all of our clients, service providers, suppliers, and competitors. We require all employees to acknowledge the terms of, and abide by, our Code of Business Ethics, which is also available on our website. Our employees have access to members of our Board of Directors to report anonymously, if desired, any suspicion of misconduct by any member of our senior management or executive team. Anonymous reporting is always available through our whistleblower hotline and reported to our Audit Committee quarterly.
+15
+Tabl
+e of Contents
+PROPERTY PORTFOLIO INFORMATION
+At December 31, 2022, our diversified portfolio consisted of:
+•
+Owned or held interests in 12,237 properties;
+•
+An occupancy rate of 99.0%, or 12,111 properties leased and 126 properties available for lease or sale;
+•
+Clients doing business in 84 separate industries;
+•
+Locations in all 50 U.S. states, Puerto Rico, the U.K.,
+ 
+Spain, and Italy;
+•
+Approximately 236.8 million square feet of leasable space; 
+•
+A weighted average remaining lease term (excluding rights to extend a lease at the option of the client) of approximately 9.5 years; and
+•
+An average leasable space per property of approximately 19,350 square feet; approximately 13,000 square feet per retail property and approximately 234,100 square feet per industrial property.
+At December 31, 2022, 12,111 properties were leased under net lease agreements. A net lease typically requires the client to be responsible for monthly rent and certain property operating expenses including property taxes, insurance, and maintenance. In addition, clients of our properties typically pay rent increases based on: (1) fixed increases, (2) increases tied to inflation (typically subject to ceilings), or (3) additional rent calculated as a percentage of the clients' gross sales above a specified level.
+We define total portfolio annualized contractual rent as the monthly aggregate cash amount charged to clients, inclusive of monthly base rent receivables, but excluding percentage rent and reimbursements from clients, as of the balance sheet date, multiplied by 12, excluding percentage rent. We believe total portfolio annualized contractual revenue is a useful supplemental operating measure, as it excludes properties that were no longer owned at the balance sheet date and includes the annualized rent from properties acquired during the quarter. Total portfolio annualized contractual rent has not been reduced to reflect reserves and reserve reversals recorded as adjustments to U.S. GAAP rental revenue in the periods presented and excludes unconsolidated entities.
+Top 10 Industry Concentrations
+We are engaged in a single business activity, which is the leasing of property to clients, generally on a net basis. That business activity spans various geographic boundaries and includes property types and clients engaged in various industries. Even though we have a single segment, we believe our investors continue to view diversification as a key component of our investment philosophy and so we believe it remains important to present certain information regarding our property portfolio classified according to the business of the respective clients, expressed as a percentage of our total portfolio annualized contractual rent:
+16
+Tabl
+e of Contents
+Percentage of Total Portfolio Annualized Contractual Rent by Industry 
+(1)
+As of
+Dec 31,
+2022
+Dec 31,
+2021
+Dec 31,
+2020
+Dec 31,
+2019
+Dec 31,
+2018
+Grocery stores
+10.0%
+10.2%
+9.8%
+7.9%
+5.0%
+Convenience stores
+8.6
+9.1
+11.9
+12.3
+12.6
+Dollar stores
+7.4
+7.5
+7.6
+7.9
+7.3
+Restaurants - quick service
+6.0
+6.6
+5.3
+5.8
+6.3
+Drug stores
+5.7
+6.6
+8.2
+8.8
+9.4
+Home improvement
+5.6
+5.1
+4.3
+2.9
+2.8
+Restaurants - casual dining
+5.1
+5.9
+2.8
+3.2
+3.3
+Health and fitness
+4.4
+4.7
+6.7
+7.0
+7.1
+Automotive service
+4.0
+3.2
+2.7
+2.6
+2.2
+General merchandise
+3.7
+3.7
+3.4
+2.5
+2.1
+(1) 
+The presentation of Top 10 Industry Concentrations combines total portfolio contractual rent from the U.S. and Europe. Europe consists of properties in the U.K., starting in May 2019, in Spain, starting in September 2021, and in Italy, starting in October 2022.
+Property Type Composition
+The following table sets forth certain property type information regarding our property portfolio as of December 31, 2022 (dollars in thousands):
+Property Type
+Number of
+Properties
+Approximate
+Leasable
+Square Feet 
+(1)
+Total Portfolio Annualized Contractual Rent
+Percentage of Total Portfolio Annualized Contractual Rent
+Retail
+11,872
+154,779,800
+$
+2,794,814 
+81.9 
+%
+Industrial
+327
+76,546,800
+453,571 
+13.3 
+Gaming
+1
+3,096,700
+100,000 
+2.9 
+Other 
+(2)
+37
+2,422,100
+64,673 
+1.9 
+Totals
+12,237
+236,845,400
+$
+3,413,058 
+100.0 
+%
+(1)
+Includes leasable building square footage. Excludes 2,962 acres of leased land categorized as agriculture at December 31, 2022.
+(2)
+"Other" includes 27 properties classified as agriculture, consisting of approximately 272,400 leasable square feet and $37.4 million in annualized contractual rent and ten properties classified as office, consisting of approximately 2.1 million leasable square feet and $27.3 million in annualized contractual rent.
+17
+Tabl
+e of Contents
+Client Diversification
+The following table sets forth the 20 largest clients in our property portfolio, expressed as a percentage of total portfolio annualized contractual rent, which does not give effect to deferred rent, at December 31, 2022: 
+Client
+Number of
+Leases
+Percentage of Total Portfolio Annualized Contractual Rent 
+(1)
+Dollar General
+1,518 
+4.0 
+%
+Walgreens
+342 
+3.6 
+7-Eleven
+632 
+3.5 
+Dollar Tree / Family Dollar 
+1,092 
+3.3 
+Wynn Resorts
+1 
+2.9 
+FedEx
+80 
+2.6 
+LA Fitness
+76 
+2.1 
+Sainsbury's
+28 
+1.8 
+BJ's Wholesale Clubs
+33 
+1.8 
+B&Q (Kingfisher)
+37 
+1.7 
+CVS Pharmacy
+183 
+1.6 
+Lifetime Fitness
+21 
+1.6 
+Wal-Mart / Sam's Club
+66 
+1.6 
+AMC Theaters
+35 
+1.5 
+Tractor Supply
+171 
+1.4 
+Red Lobster
+200 
+1.4 
+Regal Cinemas (Cineworld)
+41 
+1.4 
+Tesco
+17 
+1.3 
+Home Depot
+29 
+1.1 
+Kroger
+32 
+1.0 
+Total
+4,634
+40.9 
+%
+(1)
+Amounts for each client are calculated independently; therefore, the individual percentages may not sum to the total. 
+18
+Tabl
+e of Contents
+Lease Expirations
+The following table sets forth certain information regarding the timing of the lease term expirations in our portfolio (excluding rights to extend a lease at the option of the client) and their contribution to total portfolio annualized contractual rent as of December 31, 2022 (dollars in thousands):
+Total Portfolio 
+(1)
+Expiring
+Leases
+Approximate
+Leasable
+Square Feet
+Total Portfolio Annualized Contractual Rent
+Percentage of Total Portfolio Annualized Contractual Rent
+Year
+Retail
+Non-Retail
+2023
+557
+17
+6,091,100
+$
+92,628 
+2.7 
+%
+2024
+696
+34
+13,537,600
+156,461 
+4.6 
+2025
+884
+36
+14,190,300
+201,949 
+5.9 
+2026
+812
+32
+16,381,600
+190,641 
+5.6 
+2027
+1,384
+35
+21,660,500
+276,431 
+8.1 
+2028
+1,271
+46
+24,838,000
+289,822 
+8.5 
+2029
+906
+20
+19,119,100
+233,775 
+6.8 
+2030
+554
+20
+15,237,800
+174,428 
+5.1 
+2031
+493
+35
+20,798,900
+238,610 
+7.0 
+2032
+934
+23
+14,581,900
+233,886 
+6.9 
+2033
+587
+15
+14,296,200
+174,091 
+5.1 
+2034
+546
+7
+10,288,200
+209,296 
+6.1 
+2035
+419
+3
+4,806,400
+106,739 
+3.1 
+2036
+413
+8
+7,174,800
+131,904 
+3.9 
+2037
+468
+8
+8,320,400
+128,608 
+3.8 
+2038-2143
+1,483
+51
+23,270,900
+573,789 
+16.8 
+Totals
+12,407
+390
+234,593,700
+$
+3,413,058 
+100.0 
+%
+(1)
+Leases on our multi-client properties are counted separately in the table above. This table excludes 181 vacant units.
+19
+Tabl
+e of Contents
+Geographic Diversification
+The following table sets forth certain geographic information regarding our property portfolio as of December 31, 2022 (dollars in thousands):
+Location
+Number of
+Properties
+Percent Leased
+Approximate
+Leasable
+Square Feet
+Percentage of Total Portfolio Annualized Contractual Rent
+Alabama 
+397
+98 
+%
+4,294,800
+1.9 
+%
+Alaska 
+6
+100 
+299,700
+0.1 
+Arizona 
+245
+100 
+3,701,300
+2.0 
+Arkansas 
+234
+100 
+2,567,000
+1.0 
+California 
+333
+99 
+11,421,200
+5.8 
+Colorado 
+166
+99 
+2,651,100
+1.4 
+Connecticut 
+25
+96 
+1,237,300
+0.4 
+Delaware 
+25
+96 
+189,900
+0.1 
+Florida 
+782
+99 
+10,018,900
+5.1 
+Georgia 
+547
+99 
+8,473,900
+3.5 
+Hawaii 
+22
+100 
+47,800
+0.2 
+Idaho 
+27
+100 
+189,100
+0.1 
+Illinois 
+528
+99 
+12,489,600
+5.2 
+Indiana 
+406
+99 
+7,584,500
+2.6 
+Iowa 
+102
+100 
+2,995,700
+0.9 
+Kansas 
+183
+100 
+4,565,000
+1.1 
+Kentucky 
+357
+99 
+5,823,500
+1.7 
+Louisiana 
+336
+100 
+5,053,500
+2.0 
+Maine
+54
+100 
+1,004,900
+0.5 
+Maryland 
+78
+96 
+2,857,200
+1.2 
+Massachusetts 
+91
+100 
+6,201,200
+4.2 
+Michigan 
+467
+99 
+5,734,500
+2.7 
+Minnesota 
+243
+99 
+3,630,600
+1.8 
+Mississippi 
+281
+100 
+4,251,500
+1.3 
+Missouri 
+376
+98 
+5,018,000
+1.9 
+Montana 
+22
+100 
+210,500
+0.1 
+Nebraska 
+77
+97 
+1,021,100
+0.4 
+Nevada 
+74
+100 
+2,665,700
+1.0 
+New Hampshire 
+31
+100 
+568,200
+0.3 
+New Jersey 
+142
+97 
+2,225,900
+1.6 
+New Mexico 
+101
+100 
+1,290,700
+0.6 
+New York 
+244
+98 
+4,334,700
+2.9 
+North Carolina 
+393
+98 
+8,106,000
+3.0 
+North Dakota 
+22
+91 
+347,500
+0.2 
+Ohio 
+683
+99 
+14,602,000
+4.2 
+Oklahoma 
+301
+99 
+4,035,300
+1.6 
+Oregon 
+41
+100 
+650,400
+0.4 
+Pennsylvania 
+339
+99 
+5,925,200
+2.5 
+Rhode Island 
+6
+100 
+99,800
+0.1 
+South Carolina 
+307
+99 
+4,195,700
+1.9 
+South Dakota 
+31
+100 
+453,000
+0.2 
+Tennessee 
+446
+98 
+7,209,400
+2.5 
+Texas 
+1,534
+99 
+25,415,800
+10.4 
+Utah 
+36
+100 
+1,529,500
+0.5 
+Vermont 
+7
+100 
+134,900
+0.1 
+Virginia 
+356
+99 
+7,197,700
+2.5 
+Washington 
+79
+100 
+1,783,500
+0.9 
+West Virginia 
+76
+100 
+736,600
+0.4 
+Wisconsin 
+278
+100 
+5,483,100
+1.9 
+Wyoming 
+23
+100 
+157,700
+0.1 
+Puerto Rico
+6
+100 
+59,400
+0.1 
+United Kingdom
+212
+100 
+19,069,200
+9.5 
+Spain
+52
+100 
+3,960,100
+1.0 
+Italy
+7
+100 
+1,075,100
+0.4 
+Totals/average
+12,237
+99 
+%
+236,845,400
+100.0 
+%
+20
+Tabl
+e of Contents
+FORWARD-LOOKING STATEMENTS
+This Annual Report on Form 10-K, including the documents incorporated by reference, contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Exchange Act of 1934, as amended. When used in this annual report, the words “estimated,” “anticipated,” “expect,” “believe,” “intend,” “continue,” “should,” “may,” “likely,” “plans,” and similar expressions are intended to identify forward-looking statements. Forward-looking statements include discussions of our business and portfolio (including our growth strategies and our intention to acquire or dispose of additional properties and the timing of these acquisitions and dispositions), re-lease, re-development and speculative development of properties and expenditures related thereto; future operations and results; the announcement of operating results, strategy, plans, and the intentions of management; and trends in our business, including trends in the market for long-term net leases of freestanding, single-client properties. Forward-looking statements are subject to risks, uncertainties, and assumptions about Realty Income Corporation which may cause our actual future results to differ materially from expected results. Some of the factors that could cause actual results to differ materially are, among others our continued qualification as a real estate investment trust; general domestic and foreign business, economic, or financial conditions; competition; fluctuating interest and currency rates; inflation and its impact on our clients and us; access to debt and equity capital markets and other sources of funding; continued volatility and uncertainty in the credit markets and broader financial markets; other risks inherent in the real estate business including our clients' defaults under leases, increased client bankruptcies, potential liability relating to environmental matters, illiquidity of real estate investments, and potential damages from natural disasters; impairments in the value of our real estate assets; changes in domestic and foreign income tax laws and rates; our clients' solvency; property ownership through joint ventures and partnerships which may limit control of the underlying investments; the continued evolution of the COVID-19 pandemic or future epidemics or pandemics, measures taken to limit their spread, the impacts on us, our business, our clients (including those in the theater and fitness industries), and the economy generally; the loss of key personnel; the outcome of any legal proceedings to which we are a party or which may occur in the future; acts of terrorism and war; and any effects of uncertainties regarding whether the anticipated benefits or results of our merger with VEREIT, Inc. will be achieved.
+Additional factors that may cause risks and uncertainties include those discussed in the sections entitled “Business”, “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in this Annual Report on Form 10-K, for the fiscal year ended December 31, 2022.
+Readers are cautioned not to place undue reliance on forward-looking statements. Forward-looking statements are not guarantees of future plans and performance and speak only as of the date of this annual report was filed with the SEC. Actual plans and operating results may differ materially from what is expressed or forecasted in this annual report and forecasts made in the forward-looking statements discussed in this annual report might not materialize. We do not undertake any obligation to publicly release the results of any revisions to these forward-looking statements that may be made to reflect events or circumstances after the date these statements were made.
+Item 1A:
+ 
+Risk Factors
+This “Risk Factors” section contains references to our “capital stock” and to our “stockholders.” Unless expressly stated otherwise, the references to our “capital stock” represent our common stock and any class or series of
+ 
+preferred stock which may be outstanding from time to time, while the references to our “stockholders” represent holders of our common stock. 
+Risks Related to Our Business and Industry
+In order to grow we need to continue to acquire investment properties. The acquisition of investment properties may be subject to competitive pressures.
+We face competition in the acquisition and operation of our properties. We expect competition from businesses, individuals, fiduciary accounts and plans, and other entities engaged in real estate investment and financing. This competition may result in a higher cost for properties we wish to purchase.
+Negative market conditions or adverse events affecting our existing or potential clients, or the industries in which they operate, could have an adverse impact on our ability to attract new clients, re-lease space, collect rent or renew leases, which could adversely affect our cash flow from operations and inhibit growth.
+Cash flow from operations depends in part on our ability to lease space to our clients on economically favorable terms and to collect rent from our clients on a timely basis. We could be adversely affected by various facts and events over which we have limited or no control, such as:
+21
+Tabl
+e of Contents
+•
+Lack of demand in areas where our properties are located;
+•
+Inability to retain existing clients and attract new clients;
+•
+Oversupply of space and changes in market rental rates;
+•
+Declines in our clients’ creditworthiness and ability to pay rent, which may be affected by their operations (including as a result from changes in consumer behaviors or preferences impacting our clients operations), economic downturns and competition within their industries from other operators;
+•
+Defaults by and bankruptcies of clients, failure of clients to pay rent on a timely basis, or failure of our clients to comply with their contractual obligations;
+•
+Changes in laws, rules or regulations that negatively impact clients or our properties;
+•
+The COVID-19 pandemic or other epidemics or pandemics or outbreaks of illness, disease or virus that affect countries or regions in which our clients and their parent companies operate or in which our properties or corporate headquarters are located;
+•
+Changes in consumer behaviors (e.g., decrease in discretionary consumer spending), preferences or demographics impacting our clients' operations; 
+•
+Supply chain disruptions;
+•
+Economic or physical decline of the areas where the properties are located; and
+•
+Deterioration of physical condition of our properties.
+If our clients do not renew their leases as they expire, we may not be able to rent or sell the properties. Leases that are renewed, and some new leases for properties that are re-leased, may have terms that are less economically favorable than expiring lease terms, or may require us to incur significant costs, such as renovations, improvements on behalf of the client or lease transaction costs. Negative market conditions may cause us to sell vacant properties for less than their carrying value, which could result in impairments. Any of these events could adversely affect our cash flow from operations and our ability to make distributions to our stockholders and service our indebtedness. A significant portion of the costs of owning property, such as real estate taxes, insurance and maintenance, are not necessarily reduced when circumstances cause a decrease in rental revenue from the properties. In a weakened financial condition, our clients may not be able to pay these costs of ownership and we may be unable to recover these operating expenses from them.
+At any time, any of our clients may experience a downturn in its business that may weaken its operating results or overall financial condition. As a result, a client may delay lease commencement, fail to make rental payments when due, decline to extend a lease upon its expiration, become insolvent or declare bankruptcy. Any client bankruptcy or insolvency, leasing delay or failure to make rental payments when due could result in the termination of our client’s lease and material losses to us. Further, the occurrence of a client bankruptcy or insolvency could diminish or eliminate the income we receive from our client’s lease or leases. A bankruptcy court might authorize a client to terminate one or more of its leases with us. If that happens, our claim against the bankrupt client for unpaid future rent would be subject to statutory limitations that most likely would result in rent payments that would be substantially less than the remaining rent we are owed under the leases (it is also possible that we may not receive any unpaid future rent under terminated leases) or we may elect not to pursue claims against a client for terminated leases. Claims we have for unpaid past rent, if any, may not be paid in full, or at all. Client bankruptcies within a given property may also adversely impact our ability to re-release that property at favorable terms, or at all. Moreover, in the case of a client’s leases that are not terminated as the result of its bankruptcy, we may be required or elect to reduce the rent payable under those leases or provide other concessions, reducing amounts we receive under those leases. As a result, client bankruptcies may have a material adverse effect on our results of operations and financial condition. Any of these events could adversely affect our cash flow from operations and our ability to make distributions to stockholders and service our indebtedness.
+Downturns in any of our industries could adversely affect our clients (including, for example, the recent challenges faced by our clients in the theater industry), which in turn could also have a material adverse effect on our financial position, results of operations and our ability to pay the principal of and interest on our debt securities and other indebtedness and to make distributions on our common stock and any outstanding preferred stock. In addition, some of our properties are leased to clients that may have limited financial and other resources and, therefore, they are more likely to be adversely affected by a downturn in their respective businesses, including any downturns that have resulted or may result from the COVID-19 pandemic or other epidemics or pandemics, or in the regional, national or international economy. Furthermore, we have made and may continue to make selected acquisitions of 
+22
+Tabl
+e of Contents
+properties that fall outside our historical focus on freestanding, single-client, net-lease retail locations in the U.S. As a result, we may be exposed to a variety of new risks by expanding into new property types and/or new jurisdictions outside the U.S. and properties leased to clients engaged in non-retail businesses. These risks may include limited experience in managing certain types of new properties, new types of real estate locations and lease structures, and the laws and culture of non-U.S. jurisdictions.
+The COVID-19 pandemic has disrupted our operations and the effects of the pandemic are expected to continue to have an adverse effect on our business, results of operations, financial condition and liquidity.
+The COVID-19 pandemic, including the continued spread of new variants and the measures taken to limit its spread, has had, and other pandemics in the future could have, adverse repercussions across global economies and financial markets, as well as on us and our clients. Factors that have contributed or may contribute in the future to the adverse impact of the COVID-19 pandemic and the measures taken to limit its spread on the business, results of operations, financial condition and liquidity of us and our clients include, without limitation, the following:
+•
+Operational limitations or issues at properties operated by our clients resulting from government action (including travel bans, border closings, business closures, quarantine, vaccine and testing requirements, shelter-in-place or similar orders requiring that people remain in their homes);
+•
+Reduced economic activity, customer traffic, consumer confidence or discretionary spending, the deterioration in our or our clients’ ability to operate in affected areas, and any delays in the supply of products or services to our clients may impact certain of our clients’ businesses, results of operations, financial condition and liquidity and may cause certain of our clients to be unable to meet their obligations to us in full, or at all, and to seek, whether through negotiation, restructuring or bankruptcy, reductions or deferrals in their rent payments and other obligations to us or early termination of their leases;
+•
+Difficulties with supply chain disruptions and in leasing, selling or redeveloping properties or renewing expiring or terminated leases on terms we consider acceptable, or at all;
+•
+Difficulties accessing bank lending, capital markets and other financial markets on attractive terms, or at all, may adversely affect our cost of capital, our access to capital to grow our business (including through acquisitions, development opportunities and other strategic transactions) and to fund our business operations, our ability to pay dividends on our common stock, our ability to pay the principal of and interest on our indebtedness, and our other liabilities on a timely basis, and may adversely affect our clients’ ability to fund their business operations and meet their obligations to us and others;
+•
+Potential negative impacts on our credit ratings, the interest rates on our borrowings, and our future compliance with financial covenants under our credit facility and other debt instruments, which could result in a default and potentially an acceleration of indebtedness, any of which could negatively impact our ability to make additional borrowings under our revolving credit facility, sell commercial paper notes under our commercial paper programs, incur other indebtedness, pay dividends on our common stock and pay the principal of and interest on our indebtedness and our other obligations when due;
+•
+The impact of the COVID-19 pandemic on the market value of certain of our properties has led to impairment charges and may require that we incur further impairment charges, asset write-downs or similar charges;
+•
+The impact on the ability of our employees, including members of our management team or board of directors, to fulfill their duties to us; and
+•
+A general decline in business activity and demand for real estate transactions could adversely affect our ability to grow our portfolio of properties.
+Most of our clients operate retail businesses, many of which have been disproportionately impacted by certain of the issues described above, and may continue to be disproportionately impacted in the future. The extent to which the COVID-19 pandemic continues to impact our operations and those of our clients will depend on future developments, which are highly uncertain and cannot be predicted with confidence, including the scope, severity and duration of the pandemic, the actions taken to contain the pandemic or limit its impact, and the direct and indirect economic effects of the pandemic and containment measures. 
+Likewise, the deterioration of global economic conditions as a result of the pandemic may ultimately lead to a further decrease in occupancy levels and rental rates across our portfolio as our clients (including those in the theater 
+23
+Tabl
+e of Contents
+industry) reduce or defer their spending, institute restructuring plans or file for bankruptcy. Some of our clients have experienced temporary closures of some or all of their properties or have substantially altered or reduced their operations in response to the COVID-19 pandemic, and additional clients may do so in the future. 
+To the extent the COVID-19 pandemic or other epidemics or pandemics in the future adversely affect economic conditions and financial markets, as well as the business, results of operations, financial conditions and liquidity of us and our clients, they may also have the effect of heightening many of the risks described elsewhere in this “Risk Factors” section and our historical information regarding our business, properties, results of operations, financial condition or liquidity may not be representative of the future results of operations, financial condition, liquidity or other financial or operating results of us, our properties or our business.
+As a property owner, we may be subject to unknown environmental liabilities.
+Investments in real property can create a potential for environmental liability. An owner of property can face liability for environmental contamination created by the presence or discharge of hazardous substances on the property. We can face such liability regardless of our knowledge of the contamination; the timing of the contamination; the cause of the contamination; or the party responsible for the contamination of the property.
+There may be environmental conditions associated with our properties of which we are unaware. A number of our properties are leased to operators of convenience stores that sell petroleum-based fuels, to operators of oil change and tune-up facilities, and operators that use chemicals and other waste products. These facilities and some other of our properties, use, or may have used in the past, underground lifts or storage tanks for the storage of petroleum-based or waste products, which could create a potential for the release of hazardous substances. Certain of our other properties, particularly those leased for industrial-type purposes, may also involve operations or activities that could give rise to environmental liabilities.
+The presence of hazardous substances on a property may adversely affect our client's ability to continue to operate that property or our ability to lease or sell that property and we may incur substantial remediation costs or third-party liability claims. Although our leases generally require our clients to operate in compliance with all applicable federal, state, and local environmental laws, ordinances and regulations, and to indemnify us against any environmental liabilities arising from the clients’ activities on the properties, we could nevertheless be subject to liability, including strict liability, by virtue of our ownership interest. There also can be no assurance that our clients could or would satisfy their indemnification obligations under their leases. The discovery of environmental liabilities attached to our properties could have an adverse effect on our results of operations, our financial condition, or our ability to make distributions to stockholders and to pay the principal of and interest on our debt securities and other indebtedness. In addition, several of our properties were built during the period when asbestos was commonly used in building construction and we may acquire other buildings that contain asbestos in the future. Environmental laws govern the presence, maintenance, and removal of asbestos-containing materials, or ACMs, and require that owners or operators of buildings containing asbestos properly manage and maintain the asbestos, that they adequately inform or train those who may come into contact with asbestos and that they undertake special precautions, including removal or other abatement in the event that asbestos is disturbed during renovation or demolition of a building. These laws may impose fines and penalties on building owners or operators for failure to comply with these requirements and may allow third parties to seek recovery from owners or operators for personal injury associated with exposure to asbestos fibers.
+While we have not been notified by any governmental authority, and are not otherwise aware, of any material noncompliance, liability or claim relating to environmental contamination, if environmental contamination should exist on any of our properties, we could be subject to liability, including strict liability, by virtue of our ownership interest. In addition, while we maintain environmental insurance policies, it is possible that our insurance could be insufficient to address any particular environmental situation and/or that, in the future, we could be unable to obtain insurance for environmental matters at a reasonable cost, or at all. Our clients are generally responsible for, and indemnify us against, liabilities for environmental matters that arise during the lease terms as a result of clients’ activities on the properties. However, it is possible that one or more of our clients could fail to have sufficient funds to cover any such indemnification or to meet applicable state financial assurance obligations or such environmental contamination may predate our client's lease term, and thus we may still be obligated to pay for any such environmental liabilities.
+24
+Tabl
+e of Contents
+If we fail to qualify as a REIT, it could adversely impact us, and the amount of dividends we are able to pay would decrease, which could adversely affect the market price of our capital stock and could adversely affect the value of our debt securities.
+We believe that, commencing with our taxable year ended December 31, 1994, we have been organized and have operated, and we intend to continue to operate, so as to qualify as a REIT under Sections 856 through 860 of the Code. However, we cannot make any assurances that we have been organized or have operated in a manner that has satisfied the requirements for qualification as a REIT, or that we will continue to be organized or operate in a manner that will allow us to continue to qualify as a REIT. Qualification as a REIT involves the satisfaction of numerous requirements under highly technical and complex Code provisions, for which there are only limited judicial and administrative interpretations, as well as the determination of various factual matters and circumstances not entirely within our control. As we have recently expanded into new geographies and transactional structures, and may continue to do so in the future, the analyses of our REIT qualification, and our ability to ensure such qualification, have become, and may become in the future, more complex. For example, in order to qualify as a REIT, at least 95% of our gross income in each year must be derived from qualifying sources, and we must pay distributions to stockholders aggregating annually at least 90% of our taxable income (excluding net capital gains). If we fail to satisfy any of the requirements for qualification as a REIT, we may be subject to certain penalty taxes or, in some circumstances, we may fail to qualify as a REIT. If we were to fail to qualify as a REIT in any taxable year:
+•
+We would be required to pay regular U.S. federal corporate income tax on our taxable income;
+•
+We would not be allowed a deduction for amounts distributed to our stockholders in computing our taxable income;
+•
+We could be disqualified from treatment as a REIT for the four taxable years following the year during which qualification is lost;
+•
+We would no longer be required to make distributions to stockholders; and
+•
+This treatment would substantially reduce amounts available for investment or distribution to stockholders because of the additional tax liability for the years involved, which could have a material adverse effect on the market price of our capital stock and the value of our debt securities.
+Even if we qualify for and maintain our REIT status, we may be subject to certain federal, state, local and foreign taxes on our income and property. For example, if we have net income from a prohibited transaction, that income will be subject to a 100% tax. In addition, our taxable REIT subsidiaries are subject to federal,
+ 
+state and, in some cases, foreign taxes at the applicable tax rates on their income and property. Any failure to comply with legal and regulatory tax obligations could adversely affect our ability to conduct business and could adversely affect the market price of our capital stock and the value of our debt securities.
+Legislative or other actions affecting REITs could have a negative effect on us or our investors.
+The rules dealing with federal income taxation are constantly under review by persons involved in the legislative process and by the Internal Revenue Services, or the IRS, and the U.S. Department of the Treasury, or the Treasury. Changes to the tax laws, with or without retroactive application, could adversely affect us or our investors, including holders of our common stock or debt securities. We cannot predict how changes in the tax laws might affect us or our investors. New legislation, Treasury regulations, administrative interpretations or court decisions could significantly and negatively affect our ability to qualify as a REIT, the federal income tax consequences of such qualification, or the federal income tax consequences of an investment in us. Also, the law relating to the tax treatment of other entities, or an investment in other entities, could change, making an investment in such other entities more attractive relative to an investment in a REIT.
+Distribution requirements imposed by law limit our flexibility.
+To maintain our status as a REIT for federal income tax purposes, we generally are required to distribute to our stockholders at least 90% of our taxable income, excluding net capital gains, each year. We also are subject to tax at regular corporate rates to the extent that we distribute less than 100% of our taxable income (including net capital gains) each year. In addition, we are subject to a 4% nondeductible excise tax to the extent that we fail to distribute during any calendar year at least the sum of 85% of our ordinary income for that calendar year, 95% of our capital gain net income for the calendar year, and any amount of that income that was not distributed in prior years. We intend to continue to make distributions to our stockholders to comply with the distribution requirements of the Code as well as to reduce our exposure to federal income taxes and the nondeductible excise tax. Differences in timing between the receipt of income and the payment of expenses to arrive at taxable income, along with the effect of 
+25
+Tabl
+e of Contents
+required debt amortization payments, could require us to borrow funds to meet the distribution requirements that are necessary to achieve the tax benefits associated with qualifying as a REIT.
+Future issuances of equity securities could dilute the interest of holders of our common stock.
+Our future growth will depend, in large part, upon our ability to raise additional capital. Raising additional capital through the issuance of equity securities can dilute the interests of holders of our common stock. The interests of our common stockholders could also be diluted by the issuance of shares of common stock pursuant to stock incentive plans. Likewise, our Board of Directors is authorized to cause us to issue preferred stock of any class or series with dividend, voting and other rights as determined by our Board of Directors, which could dilute, or otherwise adversely affect, the interest of holders of our common stock.
+We may acquire properties or portfolios of properties through tax deferred contribution transactions, which could result in stockholder dilution and limit our ability to sell or refinance such assets.
+We have in the past and may in the future acquire properties or portfolios of properties through tax deferred contribution transactions in exchange for partnership units in an operating partnership, which could result in stockholder dilution through the issuance of operating partnership units that, under certain circumstances, may be exchanged for shares of our common stock. This acquisition structure may have the effect of, among other things, reducing the amount of tax depreciation we could deduct over the tax life of the acquired properties, and may require that we agree to restrictions on our ability to dispose of, or refinance the debt on, the acquired properties in order to protect the contributors’ ability to defer recognition of taxable gain. Similarly, we may be required to incur or maintain debt we would otherwise not incur so we can allocate the debt to the contributors to maintain their tax bases. In the event we take any action that incurs taxable gain allocated to these contributors, we may be required to make them whole under tax protection agreements. These restrictions could limit our ability to sell or refinance an asset at a time, or on terms, that would be favorable absent such restrictions.
+We are subject
+ 
+to risks associated with debt and preferred stock financing.
+We intend to incur additional indebtedness in the
+ 
+future, including borrowings under our $4.25 billion unsecured revolving credit facility and our $3.0 billion commercial paper programs. Our revolving credit facility grants us the option, subject to obtaining lender commitments and other customary conditions, to expand the borrowing limits thereunder to up to $5.25 billion. The credit agreement governing our revolving credit facility also governs our $250.0 million unsecured term loan facility due March 2024 and, on January 6, 2023 we entered into the Term Loan Agreement governing our term loan, pursuant to which we borrowed an aggregate of approximately $1.0 billion in multicurrency borrowings. The Term Loan Agreement also permits us to incur additional term loans, up to an aggregate of $1.5 billion in total borrowings. The Term Loans initially mature in January 2024 and include two 12-month maturity extensions that can be exercised at the company's option. Our A3/A- credit ratings provide for a borrowing rate of 80 basis points over the applicable benchmark rate, which includes adjusted SOFR for US Dollar-denominated loans, adjusted SONIA for Sterling-denominated loans, and EURIBOR for Euro-denominated loans. In conjunction with closing, we executed one-year variable-to-fixed interest rate swaps which fix our per annum interest rate at 5.0% over the initial term.
+Pursuant to our unsecured commercial paper programs we may offer and sell up to $3.0 billion of commercial paper at any time. We use our revolving credit facility as a liquidity backstop for the repayment of notes issued under the commercial paper programs. Specifically, we maintain unused borrowing capacity under our revolving credit facility equal to the aggregate principal amount of borrowings outstanding under our commercial paper programs from time to time. We may in the future enter into amendments and restatements of our revolving credit facility and term loan facilities, or enter into new revolving credit facilities or term loan facilities, and any such amended, restated or replacement revolving credit facilities or term loan facilities may increase the amounts we are entitled to borrow, subject to customary conditions, compared to our current revolving credit facility and term loan facilities, or we may incur other indebtedness. We may also in the future increase the size of our commercial paper programs or establish new commercial paper programs. We expect that we will continue to use our current and any new revolving credit facilities we may enter into (in each case as the same may be expanded, amended or restated, if applicable, from time to time), as a liquidity backstop for the repayment of notes issued under our current or any new commercial paper programs that we may maintain from time to time. As a result of the merger, all outstanding secured indebtedness and all outstanding liabilities and other indebtedness of VEREIT and its subsidiaries (including $4.65 billion of additional senior unsecured notes that were originally issued by VEREIT OP, substantially all of which were exchanged for senior unsecured notes issued by us) became indebtedness and liabilities of ours or our subsidiaries, as the case may be, which substantially increased the total secured indebtedness and the total liabilities and other indebtedness of us and our subsidiaries.
+26
+Tabl
+e of Contents
+To the extent that new indebtedness is added to our current debt levels, the related risks that we now face would increase. As a result, we are and will be subject to risks associated with debt financing, including the risk that our cash flow could be insufficient to make required payments on our debt or to pay dividends on our common stock. We also face variable interest rate risk as the interest rates on our revolving credit facility, term loan facilities, and commercial paper programs are variable (subject to our interest rate swaps on our term loan facilities, in effect from time to time), and the interest rates on any credit facilities and term loan facilities we may enter into in the future may be variable, and could therefore increase over time. In addition, commercial paper borrowings are short-term obligations and the interest rate on newly issued commercial paper varies according to market conditions at the time of issuance. In addition, while we may enter into hedging and other derivatives instruments to mitigate our exposure to fluctuations in borrowing and currency rates, we may not realize the anticipated benefits from these arrangements or they may be insufficient to mitigate our exposure. We also face the risk that we may be unable to refinance or repay our debt as it comes due. Given past disruptions in the financial markets and ongoing global financial uncertainties, including the impact of COVID-19, the United Kingdom’s withdrawal from the European Union (referred to as Brexit), and the ongoing Russia-Ukraine conflict, we also face the risk that one or more of the participants in our revolving credit facility may be unwilling or unable to lend us money.
+We have incurred and may continue to incur indebtedness that is denominated in local currencies to fund our international investments and operations. However, it is possible that such indebtedness may be insufficient or may be on unacceptable terms requiring us to use non-local currency indebtedness. In such event, we may be subject to foreign exchange rate volatility. While we may enter into hedging and other derivatives instruments to mitigate our exposure to fluctuations in foreign exchange rates, we may not realize the anticipated benefits from these arrangements or these arrangements may be insufficient to mitigate our exposure. 
+Our revolving credit facility, our term loan facilities, and our mortgage loan documents contain provisions that could limit or, in certain cases, prohibit the payment of dividends and other distributions to holders of our common stock and any outstanding preferred stock. The credit agreements governing our revolving credit facility and term loan facilities provide that, if an event of default (as defined in the credit agreements, as applicable) exists, we may not pay any dividends or make other distributions on (except distributions payable in shares of a given class of our stock to the stockholders of that class), or repurchase or redeem, among other things, any shares of our common stock or any outstanding preferred stock, during any period of four consecutive fiscal quarters in an aggregate amount in excess of the greater of (i) the sum of 95% of our adjusted funds from operations (as defined in the credit agreements, as applicable) for that period plus the aggregate amount of cash distributions made to holders of our outstanding preferred stock for that period, and (ii) the minimum amount of cash distributions required to be made to our stockholders in order to maintain our status as a REIT for federal income tax purposes and to avoid the payment of income or excise taxes that would otherwise be imposed under specified sections of the Code on income we do not distribute to our stockholders, except we may repurchase or redeem shares of our outstanding preferred stock, if any, with net proceeds from the issuance of shares of our common stock or preferred stock. 
+The credit agreements each provide that, in the event of a failure to pay principal, interest, or any other amount payable thereunder when due or upon the occurrence of certain events of bankruptcy, insolvency or reorganization with respect to us or with respect to one or more of our subsidiaries that in the aggregate meet a significance test set forth in the credit agreements, we and our subsidiaries (other than our wholly-owned subsidiaries) may not pay dividends or make other distributions on (except for (a) distributions payable in shares of a given class of our stock to the stockholders of that class and (b) dividends and distributions described in (ii) above), or repurchase or redeem, among other things, any shares of our common stock or preferred stock. If any such event of default under the applicable credit agreements (or under any other credit agreement or debt instrument with similar terms that we may in the future enter into or be subject to) were to occur, it would likely have a material adverse effect on the market price of our outstanding common stock and any outstanding preferred stock and on the market value of our debt securities which could limit the amount of dividends or other distributions payable to holders of our common stock and any outstanding preferred stock or the amount of interest and principal we are able to pay on our indebtedness, or prevent us from paying those dividends, other distributions, interest or principal altogether, and may adversely affect our ability to qualify, or prevent us from qualifying, as a REIT.
+Our indebtedness could also have other important consequences to holders of our common stock, any outstanding preferred stock, and our debt securities, including:
+•
+Increasing our vulnerability to general adverse economic and industry conditions;
+27
+Tabl
+e of Contents
+•
+Limiting our ability to obtain additional financing to fund future working capital, acquisitions, capital expenditures and other general corporate requirements;
+•
+Requiring the use of a substantial portion of our cash flow from operations for the payment of principal and interest on our indebtedness, thereby reducing our ability to use our cash flow to fund working capital, acquisitions, capital expenditures, and general corporate requirements;
+•
+Limiting our flexibility in planning for, or reacting to, changes in our business and our industry; and
+•
+Putting us at a disadvantage compared to our competitors with less indebtedness.
+If we default under a credit facility, loan agreement, or other debt instrument, the lenders will generally have the right to demand immediate repayment of the principal and interest on all of their loans and, in the case of secured indebtedness, to exercise their rights to seize and sell the collateral. Moreover, a default under a single loan or debt instrument may trigger cross-default or cross-acceleration provisions in other indebtedness and debt instruments, giving the holders of such other indebtedness and debt instruments similar rights to demand immediate repayment and to seize and sell any collateral.
+Real estate ownership is subject to particular conditions that may have a negative impact on our revenue.
+We are subject to all of the inherent risks associated with the ownership of real estate. In particular, we face the risk that rental revenue from our properties may be insufficient to cover all corporate operating expenses, debt service payments on indebtedness we incur, and distributions on our capital stock. Additional real estate ownership risks include:
+•
+Adverse changes in general or local economic conditions;
+•
+Changes in supply of, or demand for, similar or competing properties;
+•
+Changes in interest rates and operating expenses (including energy costs, shortages and rationing);
+•
+Competition within an industry and for our clients;
+•
+Changes in market rents;
+•
+Inability to lease properties upon termination of existing leases;
+•
+Renewal of leases at lower rental rates;
+•
+Inability to collect rental revenue from our clients due to financial hardship, including bankruptcy;
+•
+Changes in tax, real estate, zoning and environmental laws that may have an adverse impact upon the value of real estate;
+•
+Uninsured property liability;
+•
+Property damage or casualty losses;
+•
+Unexpected expenditures for capital improvements, including requirements to bring properties into compliance with applicable federal, state and local laws;
+•
+The need to periodically renovate and repair our properties;
+•
+Risks assumed as manager for development or redevelopment projects;
+•
+Physical or weather-related damage to properties;
+•
+The potential risk of functional obsolescence of properties over time;
+•
+Acts of terrorism and war;
+•
+Changes in consumer behaviors, preferences or demographics; 
+•
+The impacts of climate change; and 
+•
+Acts of God and other factors beyond the control of our management.
+Real estate property investments are illiquid. We may not be able to acquire or dispose of properties when desired or on favorable terms.
+Real estate investments are relatively illiquid. Our ability to quickly buy, sell or exchange any of our properties in response to changes in economic and other conditions will be limited and U.S. and foreign tax and regulatory regimes and authorities may impose or have the effect of restricting or limiting our ability to sell properties. No assurances can be given that we will recognize full value, at a price and at terms that are acceptable to us, for any property that we are required to sell for liquidity reasons. Our inability to respond rapidly to changes in the performance of our investments could adversely affect our financial condition and results of operations.
+28
+Tabl
+e of Contents
+Our acquisition of additional properties may have a significant effect on our business, liquidity, financial position and/or results of operations.
+Our future success will depend, in part, upon our ability to manage our acquisitions and expansion opportunities under prevailing market conditions. We are regularly engaged in the process of identifying, analyzing, underwriting, and negotiating possible acquisition transactions. We cannot provide any assurances that we will be successful in consummating future acquisitions on favorable terms or that we will realize expected cash lease yields, operating efficiencies, cost savings, revenue enhancements, synergies, or other benefits. Our inability to consummate one or more acquisitions on such terms, our failure to adequately underwrite and identify risks and obligations when acquiring properties, or our failure to realize the intended benefits from one or more acquisitions, could have a significant adverse effect on our business, liquidity, financial position and/or results of operations, including as a result of our incurrence of additional indebtedness and related interest expense and our assumption of unforeseen contingent liabilities in connection with completed acquisitions.
+We have made and may continue to make selected acquisitions of properties that fall outside our historical focus on freestanding, single-client, net lease retail locations in the U.S. We may be exposed to a variety of new risks by expanding into new property types and/or new jurisdictions outside the U.S. and from properties leased to our clients who engage in non-retail businesses. These risks may include limited experience in managing certain types of new properties, new types of real estate locations and lease structures, and the laws and culture of non-U.S. jurisdictions.
+We may face extensive regulations from gaming and other regulatory authorities regarding current and future gaming properties.
+As a landlord of a gaming facility or future gaming facilities, we may be impacted by the risks associated with the gaming industry. The ownership, operation, and management of gaming facilities are subject to pervasive regulation. Gaming authorities also retain great discretion such that gaming regulations can impact our gaming clients, individuals associated with the operation of gaming properties, and us as the owner of the real estate and landlord related to such facilities. Gaming laws and regulations can impact all facets of a gaming property, including but not limited to alcoholic beverages, environmental matters, employees, health care, currency transactions, zoning and building codes, and marketing and advertising. Such laws and regulations could change or could be interpreted differently in the future, or new laws and regulations could be enacted, which could adversely affect our operating results, and may also result in additional taxes or licensing fees imposed on us and our gaming clients. In addition, subject to certain administrative due process requirements, gaming regulators generally have broad authority to conduct investigations into the conduct or associations of our officers or certain investors to ensure compliance with applicable standards and suitability to hold a gaming license, and to deny any application or limit, condition, restrict, revoke, or suspend any gaming license, registration, or finding of suitability or approval, or fine any person licensed, registered, or found suitable or qualified as a licensee. As a result, our ability to obtain or maintain our required licenses and approvals, or avoid penalties related thereto, may be subject to risks, including risks outside of our control, and cannot be predicted. 
+Were a tenant unable to continue to perform under a lease, because of the highly regulated nature of the industry, it may be difficult to re-lease gaming properties. This difficulty may be exacerbated to the extent the gaming property is located in a geography that does not have an expansive gaming footprint, such as the property in which we are invested. A transfer of interest, including a new lease, will likely require approval of regulators and the licensing of a new gaming operator tenant. 
+We are subject to additional risks from our international investments and debt. 
+We have acquired and may continue to acquire properties outside of the U.S.
+ 
+These investments may expose us to a variety of risks that are different from and in addition to those commonly found in the U.S. Our international investments are subject to additional risks, including:
+•
+The laws, rules and regulations applicable in such jurisdictions outside of the U.S., including those related to property ownership and control by foreign entities;
+•
+Complying with a wide variety of foreign laws, including corruption, employment, data protection, energy usage, health and safety and environmental regulations which may require capital expenditures to maintain or bring our foreign properties into compliance with applicable regulations;
+29
+Tabl
+e of Contents
+•
+Fluctuations in exchange rates between foreign currencies and the U.S. dollar (including risks related to their impact on our results of operations, hedging and other derivative arrangements used to mitigate our exposure to fluctuations in foreign currency rates, translational reporting risks, and exchange controls);
+•
+As we may not have or have only a limited number of properties within a jurisdiction, our experience in that market and with local business may be limited;
+•
+Cultural factors and business practices that differ from our U.S. standards and practices including as they relate to rent adjustments, ground leases and property ownership requirements and limitations;
+•
+Challenges in establishing effective controls and procedures to manage and regulate operations in different regions and to monitor and ensure compliance with applicable regulations, such as applicable laws related to corrupt practices, employment, licensing, construction, energy usage, climate change or environmental compliance;
+•
+Unexpected or other changes in regulatory requirements, tax, tariffs, trade barriers and other laws within jurisdictions outside the U.S. or between the U.S. and such jurisdictions;
+•
+Potentially adverse tax consequences with respect to our properties and/or investment vehicles;
+•
+Initial limited investments within certain regions or countries resulting in industry or client concentration risks;
+•
+The impact of regional or country-specific business cycles, inflation and economic instability, including deterioration in political relations with the U.S., instability in, or further withdrawals from, the European Union or other international trade alliances or agreements; and
+•
+Political instability, uncertainty over property rights, civil unrest, acts of war, drug trafficking, political activism or the continuation or escalation of terrorist or gang activities.
+We also engage external property managers who assist with managing our international properties. If a property manager fails to meet its obligations or terminates its services, we may need to find a replacement but these services may be on less favorable terms and conditions or we may not be able to find a suitable replacement in a timely manner or at all. 
+We have incurred and may continue to incur indebtedness that is denominated in local currencies to fund our international investments and operations. However, it is possible that such indebtedness may be insufficient or may be on unacceptable terms requiring us to use non-local currency indebtedness. In such event, we may be subject to foreign exchange rate volatility which may be impacted by various factors, including those described above. While we may enter into hedging and other derivatives instruments to mitigate our exposure to fluctuations in foreign exchange rates, we may not realize the anticipated benefits from these arrangements or these arrangements may be insufficient to mitigate our exposure. For more information, see “—We are subject to risks associated with debt and preferred stock financing.”
+If we are unable to adequately address these risks, they could have a significant adverse effect on our operations.
+We may engage in development, speculative development, or expansion projects or invest in new assets, which would subject us to additional risks that could negatively impact our operations. 
+We may engage in development, speculative development, or other expansion projects, which could require us to raise additional capital and obtain additional state and local permits. A decision by any governmental agency not to issue a required permit or substantial delays in the permitting process could cause us to incur penalties, delay us from receiving rental payments or result in us receiving reduced rental payments, or prevent us from pursuing the development, speculative development, or expansion project altogether. Additionally, any such new development, speculative development, or expansion project may not operate at designed capacity or may cost more to operate than we expect. The inability to successfully complete development, speculative development, or expansion projects or to complete them on a timely basis could adversely affect our business and results of operations.
+In addition, in the future, we may invest in new or different assets or enter into new transaction structures that may or may not be closely related to our current business. These new assets and transaction structures may have new, different or increased risks than what we are currently exposed to in our business and we may not be able to manage these risks successfully. Additionally, when investing in such new assets or transaction structures, we will be exposed to the risk that those assets or structures, or the income generated thereby, will affect our ability to meet the requirements to maintain our REIT status, or will subject us to additional regulatory requirements or limitations. If 
+30
+Tabl
+e of Contents
+we are not able to successfully manage the risks associated with such new assets, it could have an adverse effect on our business, results of operations and financial condition.
+An uninsured loss or a loss that exceeds the policy limits on our properties could subject us to lost capital or revenue on those properties.
+Our leases generally require our clients to indemnify and hold us harmless from liabilities resulting from injury to persons, air, water, land or property, due to activities conducted on the properties, except for claims arising from the negligence or intentional misconduct of us or our agents. Additionally, clients are generally required, at the client’s expense, to obtain and keep in full force during the term of the lease, liability and property damage insurance policies. The insurance policies our clients are required to maintain for property damage are generally in amounts not less than the full replacement cost of the improvements less slab, foundations, supports and other customarily excluded improvements. Our clients are generally required to maintain general liability coverage depending on the client and the industry in which the client operates.
+Many of our properties are also covered by flood and earthquake insurance policies (subject to substantial deductibles) obtained and paid for by our clients as part of their risk management programs. Additionally, we have obtained blanket liability, flood and earthquake (subject to substantial deductibles) and property damage insurance policies to protect us and our properties against loss should the indemnities and insurance policies provided by the clients fail to restore the properties to their condition prior to a loss. We do not carry insurance for certain losses and certain types of losses may be either uninsurable or not economically insurable. However, should a loss occur that is uninsured or in an amount exceeding the combined aggregate limits for the policies noted above, or in the event of a loss that is subject to a substantial deductible under an insurance policy, we could lose all or part of our capital invested in, and anticipated revenue from, one or more of the properties, which could have a material adverse effect on our results of operations or financial condition and on our ability to pay the principal of and interest on our debt securities and other indebtedness and to make distributions to our stockholders. We also face the risk that our insurance carriers may not be able to provide payment under any potential claims that might arise under the terms of our insurance policies, and we may not have the ability to purchase insurance policies we desire.
+In addition, although we obtain title insurance policies on our properties to help protect us and our properties against title defects (such as adverse claims of ownership, liens or other encumbrances), there may be certain title defects that our title insurance will not cover. If a material title defect related to any of our properties is not adequately covered by a title insurance policy, we could lose some or all of our capital invested in and our anticipated profits from such property, cause a financial misstatement or damage our reputation.
+Compliance with the Americans with Disabilities Act of 1990 and fire, safety, and other regulations may require us to make unintended expenditures that could adversely impact our results of operations.
+Our properties are generally required to comply with the Americans with Disabilities Act of 1990, or the ADA. The ADA has separate compliance requirements for “public accommodations” and “commercial facilities,” but generally requires that buildings be made accessible to people with disabilities. Compliance with the ADA requirements could require removal of access barriers and non-compliance could result in imposition of fines by the U.S. government or an award of damages to private litigants. The retailers to whom we lease properties are obligated by law to comply with the ADA provisions and, in many cases, the retailers are generally obligated to cover costs associated with compliance pursuant to the terms of their applicable leases. If required changes involve greater expenditures than anticipated, or if the changes must be made on a more accelerated basis than anticipated, the ability of these retailers to cover costs could be adversely affected and we could be required to expend our own funds to comply with the provisions of the ADA, which could materially adversely affect our results of operations or financial condition and our ability to pay the principal of and interest on our debt securities and other indebtedness and to make distributions to our stockholders. In addition, our properties must be in compliance with fire and safety regulations, building codes and other land use regulations, as they may be adopted by governmental agencies and bodies and become applicable to our properties. We may be required to make substantial capital expenditures to comply with those requirements and these expenditures could have a material adverse effect on our results of operations or financial condition and our ability to pay the principal of and interest on our debt securities and other indebtedness and to make distributions to our stockholders.
+Property taxes may increase without notice.
+The real property taxes on our properties and any other properties that we develop or acquire in the future may increase as property tax rates change and as those properties are assessed or reassessed by tax authorities. While 
+31
+Tabl
+e of Contents
+the majority of our leases are under a net lease structure, some or all of such property taxes may not be collectible from our clients.
+Our business is subject to risks associated with climate change and our sustainability strategies.
+Our business is subject to risks associated with the effects of climate change, and a resulting shift to a lower carbon economy, and may be subject to further risks in the future. Climate change could adversely affect our business through both chronic and acute perils including, but not limited to, extreme weather, changes in precipitation and temperature, and rising sea levels, all of which may result in physical damage to, or a decrease in demand for, our properties located in the areas affected by these conditions, and may adversely impact consumer behaviors, preferences and spending for our clients, which may impact their ability to fulfill their obligations under our leases, or our ability to re-lease the properties in the future. In addition, should the impact of climate change be severe or occur for lengthy periods of time, connectivity, labor and supply chains could impact business continuity for ourselves and our clients. Chronic climate change may lead to increased costs for us and our clients to adapt to the demands and expectations of climate change or lower carbon usage, including with respect to heating, cooling or electricity costs, retrofitting properties to be more energy efficient or comply with new rules or regulations, or other unforeseen costs. These risks could adversely affect our reputation, financial condition or results of operations.
+We seek to promote effective energy efficiency and other sustainability strategies and compliance with federal, state and international laws and regulations related to climate change, both internally and with our clients. Our sustainability strategies and efforts to comply with changes in federal, state and international laws and regulations on climate change could result in significant capital expenditures to improve our existing properties or properties we may acquire. Any changes to such laws and regulations could also result in increased operating costs or capital expenditures at our properties. If we are unable to comply with laws and regulations on climate change or implement effective sustainability strategies, our reputation among our clients and investors may be damaged and we may incur fines and/or penalties. Moreover, there can be no assurance that any of our sustainability strategies will result in reduced operating costs, higher occupancy or higher rental rates or deter our existing clients from relocating to properties owned by our competitors.
+ 
+In addition, tenants of net-leased properties are responsible for maintenance and other day-to-day management of the properties. This lack of control over our net-leased properties makes it difficult for us to collect property-level environmental metrics and to enforce sustainability initiatives, which may impact our ability to comply with certain regulatory disclosure requirements to which we are subject (such as the anticipated changes to the SEC’s climate-related disclosure rules) or comply effectively with established ESG frameworks and standards, such as the Global Real Estate Sustainability Benchmarks, the TCFD and the Sustainability Accounting Standards Board. If we are unable to successfully collect the data necessary to comply with these disclosure requirements, we may be subject to increased regulatory risk and if such data is incomplete or unfavorable, our relationship with our investors, our stock price, and our access to capital may be negatively impacted.
+Our charter contains restrictions upon ownership of our common stock.
+Our charter contains restrictions on ownership and transfer of our common stock intended to, among other purposes, assist us in maintaining our status as a REIT for U.S. federal and/or state income tax purposes. For example, our charter restricts any person from acquiring beneficial or constructive ownership of more than 9.8% (by value or by number of shares, whichever is more restrictive) of our outstanding shares of common stock. These restrictions could have anti-takeover effects and could reduce the possibility that a third party will attempt to acquire control of us, which could adversely affect the market price of our common stock.
+The value of certain of our investment in real property may be reduced as the result of the expiration or loss of local tax abatements, tax credit programs, or other governmental incentives.
+Certain of our investments have the benefit of governmental tax incentives aimed at inducing property users to relocate to incentivize development in areas and neighborhoods which have not historically seen robust commercial development. These incentives typically have specific sunset provisions and may be subject to governmental discretion in the eligibility or award of the applicable incentives. The expiration of these incentive programs or the inability of potential clients or users to be eligible for or to obtain governmental approval of the incentives, or the inability to remain compliant with such programs, may have an adverse effect on the value of our investment, cash flow and net income, and may result in impairment charges.
+32
+Tabl
+e of Contents
+We may not be able to realize the anticipated synergies and related benefits of the merger with VEREIT and the transactions contemplated by the Merger Agreement. 
+The merger involved the combination of two companies which operated as independent public companies. While we devoted significant management attention and resources to integrating the business practices and operations of VEREIT, it is possible that we may be unable to realize expected operating efficiencies, cost savings, revenue enhancements, synergies or other benefits.
+General Risk Factors
+The market value of our capital stock and debt securities could be substantially affected by various factors.
+The market value of our capital stock and debt securities will depend on many factors,
+ 
+which may change from time to time and may be outside of our control, including:
+•
+Prevailing interest rates, increases in which may have an adverse effect on the market value of our capital stock and debt securities;
+•
+The market for similar securities issued by other REITs;
+•
+General economic, political and financial market conditions;
+•
+The financial condition, performance and prospects of us, our clients and our competitors;
+•
+Changes in legal and regulatory taxation obligations;
+•
+Litigation and regulatory proceedings;
+•
+Changes in financial estimates or recommendations by securities analysts with respect to us, our competitors or our industry;
+•
+Changes in our credit ratings;
+•
+Actual or anticipated variations in quarterly operating results of us and our competitors; and 
+•
+Failure to achieve the perceived benefits of the merger and the transactions contemplated by the Merger Agreement or if the effect of the merger and the transactions contemplated by the Merger Agreement on our results of operations or financial condition is not consistent with the expectations of financial or industry analysts. 
+In addition, over the last several years, prices of common stock and debt securities in the U.S., trading markets have experienced extreme price fluctuations, and the market values of our common stock and debt securities have also fluctuated significantly during this period. As a result of these and other factors, investors who purchase our capital stock and debt securities may experience a decrease, which could be substantial and rapid, in the market value of our capital stock and debt securities, including decreases unrelated to our operating performance or prospects.
+Litigation risks could affect our business.
+From time to time, we are involved in legal proceedings, lawsuits, and other claims including those that may arise out of acquisitions, development opportunities and other strategic transactions. An unfavorable resolution of litigation may have a material adverse effect on our business, results of operations and financial condition. Regardless of its outcome, litigation may result in substantial costs and expenses and significantly divert the attention of management.
+We depend on key personnel.
+We depend on the efforts of our executive officers and key employees The loss of the services of our executive officers and key employees could have a material adverse effect on our results of operations or financial condition and on our ability to pay the principal and interest on our debt securities and other indebtedness and to make distributions to our stockholders. It is possible that we will not be able to recruit additional personnel with equivalent experience in the net lease industry or retain employees to the same extent as in the past.
+Natural disasters, terrorist attacks, other acts of violence or war, or other unexpected events may affect the value of our debt and equity securities, the markets in which we operate and our results of operations.
+Natural disasters, terrorist attacks, other acts of violence or war, or other unexpected events (e.g., pandemics or epidemics) may negatively affect our operations, the market price of our capital stock and the value of our debt securities. There can be no assurance that events like these will not occur or have a direct impact on our clients, our business or the U.S. or world generally. If events like these were to occur, they could materially interrupt our business operations, cause consumer confidence and spending to decrease or result in increased volatility in the U.S. and worldwide financial markets and economy. They also could result in or prolong an economic recession in 
+33
+Tabl
+e of Contents
+the U.S. or abroad. Any of these occurrences could have a significant adverse impact on our operating results and revenues and on the market price of our capital stock and on the value of our debt securities. It could also have an adverse effect on our ability to pay principal and interest on our debt securities or other indebtedness and to make distributions to our stockholders.
+We rely on information technology in our operations, and any material failure, inadequacy, interruption or security failure of that technology could harm our business.
+We, like all businesses, are subject to cyber-attacks and security incidents, which threaten the confidentiality, integrity, and availability of our systems and information resources. Cyber-attacks are malicious cyber activity and a security incident is a successful cyber-attack that has the potential to expose sensitive data, internal systems, or otherwise disrupt business operations. Those attacks and incidents may be due to intentional or unintentional acts by employees, contractors or third-parties, who seek to gain unauthorized access to our or our service providers’ systems to disrupt operations, corrupt data, or steal confidential information through malware, computer viruses, ransomware, social engineering (e.g., phishing attachments to e-mails) or other vectors.
+ 
+The risk of a cybersecurity breach or operational disruption, particularly through a cyber incident, including by computer hackers, foreign governments and cyber terrorists, has generally increased as the number, intensity and sophistication of attempted attacks and intrusions from around the world have increased, particularly as remote working has become more common. Our information technology (“IT”) networks and related systems are essential to the operation of our business and our ability to perform day-to-day operations and, in some cases, may be critical to the operations of certain of our clients. Although we make efforts to maintain the security and integrity of these types of IT networks and related systems, and we have implemented various measures to manage the risk of a security breach or disruption (such as the implementation of systems and/or vendors that provide constant monitoring of our IT networks and related systems for cyber-attacks and incidents); however, there can be no assurance that our security efforts and measures will be effective or that attempted security breaches or disruptions would not be successful or damaging.
+While we maintain some of our own critical IT networks and related systems, we also depend on third-parties to provide important software, technologies, tools and a broad array of services and functions, such as payroll, human resources, electronic communications, data storage, and certain finance and treasury functions, among others. In addition, in the ordinary course of our business, we collect, process, transmit and store sensitive data, within our own systems and utilizing those of third-party providers, including intellectual property, our proprietary business information and that of our customers, suppliers and business partners, as well as personally identifiable information.
+Our measures to prevent, detect and mitigate these threats may not be successful in preventing a security incident or data breach or limiting the effects of such a breach. This is particularly so because attack methodologies change frequently or are not recognized until launched, and we also may be unable to investigate or remediate incidents because attackers are increasingly using techniques and tools designed to circumvent controls, to avoid detection, and to remove or obfuscate forensic evidence.
+The primary risks that could directly result from the occurrence of a cyberattack or security incident include operational interruption, damage to our relationship with our clients, reputational damage, and private data exposure. We could be required to expend significant capital and other resources to address an attack or incident, which may not be covered or fully covered by our insurance and which may involve payments for investigations, forensic analyses, legal advice, public relations advice, system repair or replacement, or other services, in addition to any remedies or relief that may result from legal proceedings. Our financial results may be negatively impacted by such attacks and incidents or any resulting negative media attention. Further, while we carry cyber liability insurance, such insurance may not be adequate to cover all losses related to such events.
+Volatility in market and economic conditions may impact the accuracy of the various estimates used in the preparation of our financial statements and footnotes to the financial statements.
+Various estimates are used in the preparation of our financial statements, including estimates related to asset and liability valuations (or potential impairments), and various receivables. Often these estimates require the use of market data values that are currently difficult to assess, as well as estimates of future performance or receivables collectability that can also be difficult to accurately predict. Although management believes it has been prudent and 
+34
+Tabl
+e of Contents
+used reasonable judgment in making these estimates, it is possible that actual results may differ from these estimates.
+Inherent limitations of internal controls over financial statements, disclosure controls and safeguarding of assets may adversely impact our financial condition and results of operations.
+Our internal controls over financial reporting, disclosure controls and procedures and our operating internal controls may not prevent or detect financial misstatements or loss of assets because of inherent limitations, including the possibility of human error, the circumvention or overriding of controls, or fraud. Effective internal controls can provide only reasonable assurance with respect to financial statement and disclosure accuracy and safeguarding of assets. Failures in our internal controls could result in adverse consequences in our financial reporting and operations, including delays, additional costs, impairment in our ability to access capital, adverse impacts to investor confidence, regulatory review, or litigation.
+Our business operations may not generate the cash needed to make distributions on our capital stock or to service our indebtedness.
+Our ability to make distributions on our common stock and any outstanding preferred stock and payments on our indebtedness, and to fund planned acquisitions and capital expenditures will depend on our ability to generate cash in the future. We cannot make any assurances that our business will generate sufficient cash flow from operations or that future borrowings will be available to us in an amount sufficient to enable us to make distributions on our common stock and any outstanding preferred stock, to pay our indebtedness, or to fund our other liquidity needs.
+Disruptions in the financial markets could affect our ability to obtain financing on reasonable terms and have other adverse effects on us, the market price of our common stock, and may make it more difficult or costly for us to raise capital.
+Historically, there have been periods where the global equity and credit markets have experienced significant price volatility, dislocations and liquidity disruptions, which have caused market prices of equity and debt securities to fluctuate substantially and the spreads on prospective debt financings to widen considerably. These circumstances have materially impacted liquidity in the financial markets, making terms for certain financings less attractive, and in certain cases have resulted in the unavailability of certain types of financing. Uncertainty in the equity and credit markets may negatively impact our ability to access additional financing at reasonable terms, which may adversely affect our ability to make acquisitions. A prolonged downturn in the equity or credit markets may cause us to refinance at higher rates, seek alternative sources of potentially less attractive financing, and may require us to adjust our business plan accordingly. In addition, these factors may make it more difficult for us to buy or sell properties, may adversely affect the price we purchase or receive for properties, as we and prospective buyers may experience increased costs of financing or difficulties in obtaining financing. These events in the equity and credit markets may make it more difficult or costly for us to raise capital through the issuance of common stock, preferred stock or debt securities. These disruptions in the financial markets also may have a material adverse effect on the market value of our common stock and debt securities, the income we receive from our properties and the lease rates we can charge for our properties, as well as other unknown adverse effects on us or the economy in general.
+Inflation (including prolonged inflationary periods) may adversely affect our financial condition and results of operations.
+Increased inflation or anticipated inflationary periods could have a more pronounced negative impact on any variable rate debt we incur in the future and on our results of operations. During times when inflation is greater than increases in rent, as provided for in our leases, rent increases may not keep up with the rate of inflation and other costs (including increases in employment and other fees and expenses). Government regulations may limit the indices we can utilize in lease adjustments and, in turn, limit our ability to increase rent in our leases. Even though net leases reduce our exposure to rising property expenses due to inflation, substantial inflationary pressures and increased costs may have an adverse impact on our clients if increases in their operating expenses exceed increases in revenue, which may adversely affect our clients’ ability to pay rent. The U.K. government plans to migrate away from the Retail Price Index (RPI), which has been widely used in lease adjustments, to alternatives such as the Consumer Price Index including owner occupiers' housing costs (CPIH), that may result in a lower measure of inflation and, in turn, have a negative impact on our lease revenue currently tied to RPI in the U.K. Inflationary periods may cause us to experience increased costs of financing, make it difficult to refinance debt at attractive rates or at all, and may adversely affect the properties we can acquire if the cost of financing an acquisition is in excess of our anticipated earnings from such property thereby limiting the properties that can be acquired. All of these may have an adverse effect on our results of operations, financial condition and liquidity. To the extent periods of high inflation are prolonged, these results may be exacerbated.
+35
+Tabl
+e of Contents

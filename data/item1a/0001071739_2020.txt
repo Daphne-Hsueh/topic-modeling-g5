@@ -1,0 +1,1085 @@
+Risk Factors" of Part I of this filing contains a further discussion of these and other important factors that could cause actual results to differ from expectations. 
+Due to these important factors and risks, we cannot give assurances with respect to our future performance, including without limitation our ability to maintain adequate premium levels or our ability to control our future medical and selling, general and administrative costs.
+ 
+Table of Contents
+Non-GAAP Financial Presentation 
+The Company is providing certain non-GAAP financial measures in this report as the Company believes that these figures are helpful in allowing investors to more accurately assess the ongoing nature of the Company's operations and measure the Company's performance more consistently across periods. The Company uses the presented non-GAAP financial measures internally to allow management to focus on period-to-period changes in the Company's core business operations. Therefore, the Company believes that this information is meaningful in addition to the information contained in the GAAP presentation of financial information. The presentation of this additional non-GAAP financial information is not intended to be considered in isolation or as a substitute for the financial information prepared and presented in accordance with GAAP. 
+Specifically, the Company believes the presentation of non-GAAP financial information that excludes amortization of acquired intangible assets, acquisition related expenses, as well as other items, allows investors to develop a more meaningful understanding of the Company's performance over time. The tables below provide reconciliations of non-GAAP items ($ in millions, except per share data). 
+ 
+Year Ended December 31,
+ 
+2019
+ 
+2018
+ 
+2017
+ 
+ 
+ 
+ 
+ 
+ 
+GAAP net earnings attributable to Centene
+$
+1,321
+ 
+$
+900
+ 
+$
+828
+Amortization of acquired intangible assets
+258
+ 
+211
+ 
+156
+Acquisition related expenses 
+104
+ 
+425
+ 
+20
+Other adjustments 
+(1)
+301
+ 
+30
+ 
+(7
+)
+Income tax effects of adjustments 
+(2)
+(127
+)
+ 
+(155
+)
+ 
+(108
+)
+Adjusted net earnings
+$
+1,857
+ 
+$
+1,411
+ 
+$
+889
+ 
+ 
+ 
+ 
+ 
+ 
+GAAP diluted earnings per share (EPS) attributable to Centene
+$
+3.14
+ 
+$
+2.26
+ 
+$
+2.34
+Amortization of acquired intangible assets 
+(3)
+0.47
+ 
+0.41
+ 
+0.28
+Acquisition related expenses 
+(4)
+0.19
+ 
+0.81
+ 
+0.04
+Other adjustments 
+(1)
+0.62
+ 
+0.06
+ 
+(0.14
+)
+Adjusted Diluted EPS
+$
+4.42
+ 
+$
+3.54
+ 
+$
+2.52
+(1) 
+Other adjustments include the following items:
+2019 - (a) non-cash goodwill and intangible asset impairment of 
+$271 million
+ or 
+$0.57
+ per diluted share, net of an income tax benefit of 
+$0.08
+ and (b) debt extinguishment costs of 
+$30 million
+ or 
+$0.05
+ per diluted share, net of an income tax benefit of 
+$0.02
+;
+2018 - the impact of retroactive changes to the California minimum medical loss ratio (MLR) of 
+$30 million
+ of expense or 
+$0.06
+ per diluted share, net of an income tax benefit of 
+$0.02
+; and
+2017 - (a) the Penn Treaty assessment expense of 
+$56 million
+ or 
+$0.10
+ per diluted share, net of an income tax benefit of 
+$0.06
+; (b) the cost sharing reduction (CSR) expense of 
+$22 million
+ or 
+$0.04
+ per diluted share, net of an income tax benefit of 
+$0.02
+; (c) the charitable contribution commitment of 
+$40 million
+ or 
+$0.07
+ per diluted share, net of an income tax benefit of 
+$0.05
+; and (d) the benefit associated with income tax reform of 
+$125 million
+ or 
+$0.35
+ per diluted share.
+(2) 
+The income tax effects of adjustments are based on the effective income tax rates applicable to adjusted (non-GAAP) results. There is no additional income tax effect from income tax reform.
+(3)
+Amortization of acquired intangible assets is net of an income tax benefit of 
+$0.14
+, 
+$0.12
+, and 
+$0.16
+ per diluted share for the 
+years ended December 31, 2019, 2018 and 2017
+, respectively.
+(4)
+Acquisition related expenses are net of an income tax benefit of 
+$0.06
+, 
+$0.25
+ and 
+$0.02
+ per diluted share for the 
+years ended December 31, 2019, 2018 and 2017
+, respectively. Acquisition related expenses for 2019 include net carrying costs on the $7.0 billion senior notes issued in preparation of the WellCare acquisition of approximately $13 million, or $0.03 per diluted share, net of an income tax benefit of approximately $0.01 per diluted share.
+i
+Table of Contents
+ 
+Year Ended December 31,
+ 
+2019
+ 
+2018
+ 
+2017
+GAAP selling, general and administrative expenses
+$
+6,533
+ 
+$
+6,043
+ 
+$
+4,446
+Acquisition related expenses
+85
+ 
+421
+ 
+20
+Penn Treaty assessment expense
+—
+ 
+—
+ 
+56
+Charitable contribution
+—
+ 
+—
+ 
+40
+Adjusted selling, general and administrative expenses
+$
+6,448
+ 
+$
+5,622
+ 
+$
+4,330
+ii
+Table of Contents
+PART I
+ITEM 1. 
+Business
+OVERVIEW 
+We are a leading multi-national healthcare enterprise that is committed to helping people live healthier lives. We take a local approach - with local brands and local teams - to provide fully integrated, high-quality, and cost-effective services to government-sponsored and commercial healthcare programs, focusing on under-insured and uninsured individuals.
+ We also provide education and outreach programs to inform and assist members in accessing quality, appropriate healthcare services. We believe our local approach, including member and provider services, enables us to provide accessible, quality, culturally-sensitive healthcare coverage to our communities. Our population health management, educational and other initiatives are designed to help members best utilize the healthcare system to ensure they receive appropriate, medically necessary services and effective management of routine, severe and chronic health problems, resulting in better health outcomes. We combine our decentralized local approach for care with a centralized infrastructure of support functions such as finance, information systems and claims processing.
+Our initial health plan commenced operations in Wisconsin in 1984. We were organized in Wisconsin in 1993 as a holding company for our initial health plan and reincorporated in Delaware in 2001. Our stock is publicly traded on the New York Stock Exchange under the ticker symbol "CNC."
+We operate in two segments: Managed Care and Specialty Services. Our Managed Care segment provides health plan coverage to individuals through government subsidized and commercial programs. Our Specialty Services segment includes companies offering diversified healthcare services and products to our Managed Care segment and other external customers. For the year ended 
+December 31, 2019
+, our Managed Care and Specialty Services segments accounted for 
+95%
+ and 
+5%
+, respectively, of our total external revenues. Our membership totaled 
+15.2 million
+ as of 
+December 31, 2019
+. For the year ended 
+December 31, 2019
+, our total revenues and net earnings attributable to Centene were 
+$74.6 billion
+ and 
+$1.3 billion
+, respectively, and our total cash flow from operations was 
+$1.5 billion
+.
+WellCare Acquisition
+On 
+January 23, 2020
+, we acquired all of the issued and outstanding shares of WellCare Health Plans, Inc. (WellCare, and such acquisition, the WellCare 
+Acquisition
+). The transaction is valued at approximately 
+$19.6 billion
+, including the assumption of 
+$1.95 billion
+ of outstanding debt. The cash portion of the acquisition was funded through the issuance of long-term debt in December 2019. The WellCare Acquisition brings a high-quality Medicare platform and further extends our robust Medicaid offerings. The WellCare 
+Acquisition
+ also enables us to provide access to more comprehensive and differentiated solutions across more markets with a continued focus on affordable, high-quality, culturally-sensitive healthcare services. With the WellCare 
+Acquisition
+, we further broadened our product offerings by adding a Medicare prescription drug plan to our existing business lines. The business discussion reflects only Centene operations in 2019, prior to the completion of the WellCare 
+Acquisition
+, unless specifically noted.
+INDUSTRY
+We provide a full spectrum of managed healthcare products and services, primarily through Medicaid, commercial and Medicare products. We currently have operations domestically and internationally.
+Medicaid
+Established in 1965, Medicaid is the largest publicly funded program in the United States, and provides health insurance to low-income families and individuals with disabilities. Authorized by Title XIX of the Social Security Act, Medicaid is an entitlement program funded jointly by the federal and state governments and administered by the states. The majority of funding is provided at the federal level. Each state establishes its own eligibility standards, benefit packages, payment rates and program administration within federal standards. As a result, there are 56 Medicaid programs - one for each U.S. state, each U.S. territory and the District of Columbia. Eligibility is based on a combination of household income and assets, often determined by an income level relative to the federal poverty level. Historically, children have represented the largest eligibility group. Many states have selected Medicaid managed care as a means of delivering quality healthcare and controlling costs. We refer to these states as mandatory managed care states. 
+1
+Table of Contents
+Under the Affordable Care Act (ACA), Medicaid coverage was expanded to all individuals under age 65 with incomes up to 138% of the federal poverty level beginning January 1, 2014, subject to the states' elections. The federal government paid the entire costs for Medicaid Expansion coverage for newly eligible beneficiaries from 2014 through 2016, 95% of the costs in 2017, 94% of the costs in 2018, 93% of the costs in 2019, and 90% of the costs in 2020. Assuming that the current program remains in effect unchanged, in subsequent years the federal share is scheduled to remain at 90%. 
+Established in 1972 and authorized by Title XVI of the Social Security Act, Aged, Blind, or Disabled, or collectively ABD, covers low-income persons with chronic physical disabilities or behavioral health impairments. ABD beneficiaries represent a growing portion of all Medicaid recipients. In addition, ABD recipients typically utilize more services as a result of their health status. 
+The Balanced Budget Act of 1997 created the State Children's Health Insurance Program (CHIP) to help states expand coverage primarily to children whose families earned too much to qualify for Medicaid, yet not enough to afford private health insurance. Costs related to the largest eligibility group, children, are primarily composed of pediatrics and family care. These costs tend to be more predictable than those associated with other healthcare issues which predominantly affect the adult population. 
+Long-Term Services and Supports (LTSS) is a Medicaid product that covers Institutional/Residential Care (Nursing Facilities, Intermediate Care Facilities) and Home and Community Based Services (HCBS) for beneficiaries requiring assistance with their activities of daily living, such as bathing, dressing and transferring. The most common HCBS services include personal care, adult day care, non-emergent transportation, home-delivered meals and personal emergency response systems. LTSS services are provided for individuals requiring nursing home level of care, receiving waiver services, or entitled to state Medicaid LTSS benefits. The largest groups receiving LTSS, by spending, are older individuals and individuals with physical disabilities, followed by individuals with intellectual and developmental disabilities, those with serious mental illness and/or serious emotional disturbance and other populations. States are increasingly turning to managed care as a solution to provide coordinated, holistic care to their LTSS beneficiaries. According to the National Association of States United for Aging and Disabilities, 24 states utilize some form of managed LTSS, up from eight in 2004.
+The majority of youth and children in foster care qualify for Medicaid, most commonly through Title IV-E of the Social Security Act, which provides funding to support safe and stable out-of-home care for children who are removed from their homes. The federal government has enacted legislation establishing guidelines and requirements for state child welfare agencies related to the health and well-being of children in foster care, including the provision of grants and technical assistance to enable states to meet these needs and make explicit connections with state Medicaid. In addition, the ACA requires states to make former foster care children eligible for Medicaid until they reach the age of 26, provided that they turned 18 while in foster care, and were enrolled in Medicaid at that time.
+CMS estimated the total Medicaid market to be approximately $595 billion in 2018, and estimated the market will grow to $1.0 trillion by 2027. Medicaid spending is estimated to have increased by 2.2% in 2018 and is projected to increase at an average annual rate of 5.5% between 2018 and 2027.
+While Medicaid programs have directed funds to many individuals who cannot afford or otherwise maintain health insurance coverage, they did not initially address the inefficient and costly manner in which the Medicaid population tends to access healthcare. Medicaid recipients in non-managed care programs typically have not sought preventive care or routine treatment for chronic conditions, such as asthma and diabetes. Rather, they have sought healthcare in hospital emergency departments, which is typically more expensive. As a result, many states without managed care programs have found that the costs of providing Medicaid benefits have increased while the medical outcomes for the recipients remained unsatisfactory.
+We believe managed care has improved the quality of care for Medicaid beneficiaries and lowered costs. The majority of states have mandated that their Medicaid recipients enroll in managed care plans. Other states are considering moving to a mandated managed care approach for additional populations and products. As a result, we believe a significant market opportunity exists for managed care organizations with operations and programs focused on the distinct socio-economic, cultural and healthcare needs of the uninsured population and the Medicaid populations.
+2
+Table of Contents
+Commercial
+Established in 2010 and operational in 2014, the ACA created Health Insurance Marketplaces, which are a key component of the ACA and provide an opportunity for individuals and small businesses to obtain health insurance. States have the option of operating their own Marketplace or partnering with the federal government. States choosing neither option currently default to a federally-facilitated Marketplace. Premium subsidies are available to make coverage more affordable and access to Marketplaces is limited to U.S. citizens and legal immigrants. Insurers are required to offer a minimum level of benefits with coverage that varies based on premiums and out-of-pocket costs. Premium subsidies are provided to families without access to other coverage and with incomes generally between 100-400% of the federal poverty level, with some exceptions, to help them purchase insurance through the Marketplaces. These subsidies are offered on a sliding scale basis. 
+W
+e also offer commercial healthcare products to individuals through large and small employer groups. We offer plans with differing benefit designs and varying levels of co-payments at different premium rates. These plans are offered generally through contracts with participating network physicians, hospitals and other providers. Coverage typically is subject to deductibles and copayments or coinsurance.
+Medicare
+We contract with CMS under the Medicare Advantage program to provide Medicare Advantage products directly to Medicare beneficiaries as well as through employer and union groups. The Medicare program provides health care coverage primarily to individuals age 65 or older as well as to individuals with certain disabilities.
+We provide or arrange healthcare benefits for services normally covered by Medicare, plus a broad range of healthcare benefits for services not covered by traditional Medicare, usually in exchange for a fixed monthly premium per member from CMS that varies based upon the county in which the member resides, demographic factors of the member such as age, gender and institutionalized status, and the health status of the member. Any benefits that are not covered by Medicare may result in an additional monthly premium charged to the enrollee or through portions of payments received from CMS that may be allocated to these benefits, according to CMS regulations and guidance. Many of our Medicare Advantage members pay no monthly premium to us for these additional benefits.
+We provide a wide range of Medicare products, including Medicare Advantage plans with and without prescription drug coverage and Medicare supplement products that supplement traditional fee-for-service Medicare coverage. Our subsidiaries have a number of contracts with CMS under the Medicare Advantage program authorized under Title XVIII of the Social Security Act. 
+A portion of Medicare beneficiaries are dual-eligible, low-income seniors and people with disabilities who are enrolled in both Medicaid and Medicare. According to CMS, there were approximately 10.9 million dual-eligible enrollees in 2018. These dual-eligible members may receive assistance from Medicaid for benefits, such as nursing home care, HCBS, and/or assistance with Medicare premiums and cost sharing. Dual-eligibles also use more services due to their tendency to have more chronic health issues. We serve dual-eligibles through our Aged, Blind and Disabled (ABD), Long Term Services and Supports (LTSS), Medicare-Medicaid Plans (MMP) and Medicare Advantage Dual Special Needs Plan (DSNP) lines of business.
+CMS developed the Medicare Advantage Star ratings system to help consumers choose among competing plans, awarding between 1.0 and 5.0 stars to Medicare Advantage plans based on performance in certain measures of quality. The Star ratings are used by CMS to award quality bonus payments to Medicare Advantage plans. Beginning with the 2014 Star ratings (calculated in 2013), Medicare Advantage plans are required to achieve a minimum of 4.0 Stars to qualify for a quality bonus payment. The methodology and measures included in the Star ratings system can be modified by CMS annually and Star ratings thresholds are based on performance of Medicare Advantage plans nationally.
+CMS estimated the total Medicare market was approximately $747 billion in 2018, and estimated the market will grow to approximately $1.4 trillion by 2027. Medicare spending is estimated to have increased 5.9% in fiscal 2018 and is projected to increase at an average annual rate of 7.4% between 2018 and 2027.
+3
+Table of Contents
+International
+We currently have a growing international presence in Spain, the United Kingdom (UK) and Slovakia. In June 2019, we purchased an additional 40% ownership in Ribera Salud for $54 million, bringing our total ownership to 90%. Ribera Salud manages health administration concessions in various regions in Spain. In the UK, our subsidiary, Operose Health (Group) Limited (Operose Health), is one of the largest provider networks and delivers medical and community based services in the primary care sector of the National Health Service (NHS), which is the publicly funded, national healthcare system for England. We also have additional noncontrolling investments in the UK. Our equity method investee in Slovakia provides radiology services in the region.
+OUR COMPETITIVE STRENGTHS
+Our approach is based on the following key competitive strengths: 
+•
+Expertise in Government Sponsored Programs. 
+For more than 35 years, we have developed a specialized services expertise that has helped us establish and maintain relationships with members, providers and our government customers. We have implemented programs developed to achieve savings for our government customers and improve health outcomes and quality of care for members. We work to assist the states in which we operate in addressing the operating challenges they face. 
+•
+Quality and Innovation. 
+Our innovative population health management programs focus on improving quality of care in areas that have the greatest impact on our members. We concentrate on serving the whole person to impact outcomes and costs. We recognize the importance of member-focused delivery of quality managed care services and have developed award winning education and outreach programs including the My Health Pays program, On.Demand Diabetes, Start Smart For Your Baby, and MemberConnections. It is our objective to provide access to the highest quality of care for our members. As a validation of that objective, we pursue accreditation by independent organizations that have been established to promote healthcare quality. We seek the National Committee for Quality Assurance (NCQA) and the Utilization Review Accreditation Commission (URAC) Health Plan Accreditation in eligible states.
+•
+Innovative Technology and Scalable Systems. 
+The ability to access data and translate it into meaningful information is essential to operating across a multi-state service area in a cost-effective manner. Our centralized information systems support our core processing functions under a set of integrated databases and are designed to be both replicable and scalable to accommodate organic growth and growth from acquisitions. We continue to enhance our systems in order to leverage the platforms we have developed for our existing states for configuration into new states or health plan acquisitions. We believe our predictive modeling technology enables our population health management operations to proactively case and disease manage specific high risk members. It can recommend medical care opportunities using a mix of company defined algorithms and evidence based medical guidelines. Interventions are determined by the clinical indicators, the ability to improve health outcomes, and the risk profile of members. We believe our integrated approach helps to assure that consistent sources of claim and member information are provided across all of our health plans. Our membership and claims processing system is capable of expanding to support additional members in an efficient manner. 
+•
+Financial Strength and Scale. 
+We are a large healthcare enterprise with approximately 
+$75 billion
+ in revenue and 
+$1.5 billion
+ in operating cash flow in 
+2019
+. Our strong historical operating performance, size, and scale allow us to continue to grow, diversify and invest in our businesses through strategic acquisitions and investments in technology and other resources that support our business, allowing us to navigate the changing healthcare landscape. We are a leader in the four largest Medicaid states.
+ 
+We seek to continue to increase our Medicaid, Medicare and Health Insurance Marketplace membership through alliances with key providers, outreach efforts, development and implementation of community-specific products and acquisitions. In 2020, we expanded our Health Insurance Marketplace footprints in several existing markets, and we completed the WellCare 
+Acquisition
+, further expanding our scale and presence. In addition, a nationally recognized statistical rating organization recently raised our long-term issuer credit rating to an investment grade rating.
+4
+Table of Contents
+•
+Diversified Business Lines. 
+We continue to broaden our service offerings to address areas that we believe have been traditionally under-served by Medicaid and Medicare managed care organizations. In addition to our Medicaid, Medicare, and Medicaid-related managed care services, our service offerings include behavioral health management, care management software, correctional healthcare services, dental benefits management, commercial programs, primary care services, life and health management, vision benefits management, pharmacy benefits management, specialty pharmacy, telehealth services and government-sponsored care under its federal contracts with the Department of Defense (DoD). Through the utilization of a multi-business line approach, we are able to improve the quality of care, improve outcomes, diversify our revenues and help control our medical costs. In 2019, we served managed care members in 30 states through approximately 350 product solutions. We are constantly evaluating new opportunities for expansion both domestically and abroad.
+•
+Localized Approach with Centralized Support Infrastructure. 
+We take a localized approach to managing our subsidiaries, including provider and member services. This approach enables us to facilitate access by our members to high quality, culturally sensitive healthcare services. Our systems and procedures have been designed to address these community-specific challenges through outreach, education, transportation and other member support activities. For example, our community outreach programs work with our members and their communities to promote health and self-improvement through education on how best to access care. We complement this localized approach with a centralized infrastructure of support functions such as finance, information systems and claims processing, which allows us to minimize selling, general and administrative (SG&A) expenses and to integrate and realize synergies from acquisitions. We believe this combined approach allows us to efficiently integrate new business opportunities in both Managed Care and Specialty Services, while maintaining our local accountability and improved access. 
+MANAGED CARE
+Benefits to Customers
+We feel that our ability to establish and maintain a leadership position in the markets we serve results primarily from our demonstrated success in providing quality care while reducing and managing costs, and from our specialized programs with state governments. Among the benefits we are able to provide to the states with which we contract are:
+•
+Significant cost savings and budget predictability compared to state paid reimbursement for services. 
+We bring experience relating to quality of care improvement methods, utilization management procedures, an efficient claims payment system, and provider performance reporting, as well as managers and staff experienced in using these key elements to improve the quality of and access to care. We generally receive a contracted premium on a per member basis and are responsible for the medical costs and, as a result, provide budget predictability.
+•
+Data-driven approaches to balance cost and verify eligibility. 
+We seek to ensure effective outreach procedures for new members, then educate them and ensure they receive needed services as quickly as possible. Our IT department has created mapping/translation programs for loading membership and linking membership eligibility status to all of Centene's subsystems. We utilize predictive modeling technology to proactively case and disease manage specific high risk members. In addition, we have developed Centelligence, our enterprise data warehouse system to provide a seamless flow of data across our organization, enabling providers and case managers to access information, apply analytical insight and make informed decisions.
+•
+Establishment of realistic and meaningful expectations for quality deliverables. 
+We have collaborated with state agencies in redefining benefits, eligibility requirements and provider fee schedules with the goal of maximizing the number of individuals covered through Medicaid.
+•
+Managed care expertise in government subsidized programs. 
+Our expertise in Medicaid has helped us establish and maintain strong relationships with our constituent communities of members, providers and state governments. We provide access to services through local providers and staff that focus on the cultural norms of their individual communities. To that end, systems and procedures have been designed to address community-specific challenges through outreach, education, transportation and other member support activities.
+•
+Improved quality and medical outcomes. 
+We have implemented programs to enhance the ability of providers to improve the quality of healthcare delivered to our members. This is demonstrated through health plan accreditations and program awards.
+5
+Table of Contents
+•
+Timely payment of provider claims. 
+We are committed to ensuring that our information systems and claims payment systems meet or exceed state requirements. We continuously endeavor to update our systems and processes to improve the timeliness of our provider payments.
+•
+Provider outreach and programs. 
+Our health plans have adopted a physician-driven approach where network providers are actively engaged in developing and implementing healthcare delivery policies and strategies. We prepare provider comparisons on a severity adjusted basis. This approach is designed to eliminate unnecessary costs, improve services to members and simplify the administrative burdens placed on providers.
+•
+Care management for complex populations. 
+Through our experience with Medicaid populations and long-time presence in states with experience in long-term care for children and adolescents in the foster care system, we have developed care management, service coordination and crisis prevention/response programs that increase opportunities for successful outcomes for members. This experience has led to partnerships with specialized networks and community advocates as states transition to managed care programs for vulnerable and complex populations. 
+•
+Responsible collection and dissemination of utilization data. 
+We gather utilization data from multiple sources, allowing for an integrated view of our members' utilization of services. These sources include medical, vision and behavioral health claims and encounter data, pharmacy data, dental vendor claims and authorization data from the authorization and case management system utilized by us to coordinate care.
+•
+Timely and accurate reporting. 
+Our information systems have reporting capabilities which have been instrumental in identifying the need for new and/or improved healthcare and specialty programs. For state agencies, our reporting capability is important in demonstrating an auditable program. 
+•
+Fraud, waste and abuse prevention. 
+We have several systems in place to help identify, detect and investigate potential fraud, waste, and abuse, including pre and post payment review software. We collaborate with state and federal agencies and assist with investigation requests. We use nationally recognized standards to benchmark our processes. 
+Member Programs and Services
+We recognize the importance of member-focused delivery of quality managed care services. Our locally-based staff assists members in accessing care, coordinating referrals to related health and social services and addressing member concerns and questions. While covered healthcare benefits vary from customer to customer and program to program, our health plans generally provide the following services: 
+•
+primary and specialty physician care;
+•
+inpatient and outpatient hospital care;
+•
+emergency and urgent care;
+•
+prenatal care;
+•
+laboratory and x-ray services;
+•
+home-based primary care;
+•
+transportation assistance;
+•
+vision care;
+•
+dental care;
+•
+telehealth services;
+ 
+•
+immunizations;
+•
+prescriptions and limited over-the-counter drugs;
+•
+specialty pharmacy;
+•
+provision of durable medical equipment;
+•
+behavioral health and substance abuse services;
+•
+24-hour nurse advice line;
+•
+therapies;
+•
+social work services; and
+•
+care coordination.
+We also provide a comprehensive set of education and outreach programs to inform, assist and incentivize members to access quality, appropriate healthcare services in an efficient manner. Many of these programs have been recognized with awards for their excellence in education, outreach and/or case management techniques. These awards include Case In Point, Hermes Awards, U.S. Environmental Protection Agency and National Health Information Awards.
+•
+Start Smart For Your Baby,
+ or Start Smart,
+ 
+is our award winning prenatal and infant health program designed to increase the percentage of pregnant women receiving early prenatal care, reduce the incidence of low-birth-weight and pre-term babies, identify high-risk pregnancies, increase participation in the federal Women, Infant and Children program, prevent hospital admissions in the first year of life and increase well-child visits. 
+6
+Table of Contents
+•
+Readmission Reduction
+ aims to reduce preventable readmissions by ensuring optimal transitional care from acute and non-acute settings. The program focuses on post-hospitalization outreach (PHO), calls to members to verify they understand their discharge instructions, follow up with a Primary Care Physician (PCP), receive medication reconciliation, and, for the highest-risk members, are linked with a Community Health Worker.
+•
+Chronic Conditions 
+aims to improve the health and quality of life for members with diabetes, asthma, chronic obstructive pulmonary disease (COPD), congestive heart failure (CHF), coronary artery disease (CAD), and/or hypertension. The program focuses on reducing emergent utilization and inpatient admissions by increasing treatment adherence, removing barriers to care, and enhancing self-management skills.
+•
+Fall Prevention 
+seeks to decrease the number and severity of older adult falls. The program also aims to support members in maintaining their safety, stability, and independence as long as possible. The program leverages an evidence-based falls prevention toolkit to identify members at risk of falling and provide education and interventions to reduce fall risk.
+•
+Compassionate Connections (Palliative Care)
+ works to identify members with at least one serious illness and provide necessary services to both members and those individuals close to them. Potential services may include detailed advanced care planning, a multi-team home visit and home health services, and additional social support. Providing palliative care services works to help alleviate members' suffering, and in turn, provide a better quality of life.
+•
+ER Diversion 
+strives to identify members' reasons for visiting the ER and educate them on optimal locations for care in the future. The program also identifies opportunities for members to better manage their chronic conditions with the help of Primary Care Physicians (PCP) and Care Managers.
+•
+Fluvention 
+works to decrease the spread of the flu by increasing the number of its managed care members that receive an annual flu vaccination. The campaign is designed to promote vaccinations as the key to flu prevention. Centene works to address these issues by utilizing enterprise-wide member and provider marketing and education, as well as increasing access to facilities that provide flu vaccinations.
+•
+Connections Plus 
+is a cell phone program developed for high-risk members who have limited or no safe and reliable access to telephone. This program seeks to eliminate lack of safe, reliable access to a telephone as a barrier to coordinating care, thus reducing avoidable adverse events such as inappropriate emergency department utilization, hospital admissions and premature birth. 
+•
+MemberConnections 
+is a community face-to-face outreach and education program designed to create a link between the member and the provider and help identify potential challenges or risk elements to a member's health, such as nutritional challenges and health education shortcomings. 
+•
+The ScriptAssist for Hepatitis C Adherence Program
+ seeks to empower patients towards Hepatitis C virus treatment success through a series of telephonic interventions. Goals of the program include preventing premature treatment discontinuation due to medication side effects and access to therapy. Through its family of companies, Envolve clinicians and AcariaHealth patient care coordinators collaborate throughout a patient's treatment course to ensure appropriate therapy management and regimen access.
+•
+Health Initiatives for Children
+ is aimed at educating child members on a variety of health topics. In order to empower and educate children, we have partnered with a nationally recognized children's author to develop our own children's book series on topics such as obesity prevention and healthy eating, asthma, diabetes, foster care, the ills of smoking, anti-bullying and heart health. 
+•
+OpiEnd Youth Challenge
+ is a targeted curriculum for adolescents ages 9 through 14 to raise awareness about opioid misuse and prevention. As part of the challenge, teachers and students discuss significant attributes of addiction and opioid misuse, and students then show their understanding by developing and submitting campaign messaging that depicts ways to prevent misuse.
+•
+Health Initiatives for Teens 
+is aimed at empowering, educating and reinforcing life skills with our teenage members. We have developed an educational series that addresses health issues, dealing with chronic diseases including diabetes and asthma, as well as teen pregnancy. 
+7
+Table of Contents
+•
+Living Well with Sickle Cell 
+is our innovative program that assists with coordination of care for our sickle cell members. Our program ensures that sickle cell members have established a medical home and work on strategies to reduce unnecessary emergency department visits through proper treatment to control symptoms and chronic complications, as well as promote self-management. 
+•
+My Route for Health 
+is our adult educational series used with our case management and disease management programs. The topics of this series include how to manage asthma, Chronic Obstructive Pulmonary Disease (COPD), diabetes, heart disease and HIV. 
+•
+On.Demand Diabetes
+ is a diabetes management support product designed to eliminate diabetic supply waste while increasing compliance and improving health outcomes for members with diabetes. 
+•
+Community Health Record,
+ our patient-centric electronic database, collects patient demographic data, clinician visit records, dispensed medications, vital sign history, lab results, allergy charts, and immunization data. Providers can directly input additional or updated patient data and documentation into the database. All information is accessible anywhere, anytime to all authorized users, including health plan staff, greatly facilitating coordinated care among providers. 
+•
+My Health Pays
+ offers members financial incentives for performing certain healthy behaviors. The incentives are delivered through a restricted-use prepaid debit card. This incentive-based approach effectively increases the utilization of preventive services while strengthening the relationships between members and their primary care providers. 
+•
+The Asthma Management Program
+ integrates a hands-on approach with a flexible outreach methodology that can be customized to suit different age groups and populations affected by asthma. We provide proactive identification of members, stratification into appropriate levels of intervention including home visits, culturally sensitive education, and robust outcome reporting. The program also includes aggressive care coordination to ensure patients have basic services such as transportation to the doctor, electricity to power the nebulizer, and a clean, safe home environment.
+•
+Preventive Care Programs 
+are designed to educate our members on the benefits of Early and Periodic Screening, Diagnosis and Treatment (EPSDT) services. We have a systematic program of communicating, tracking, outreach, reporting and follow-through that promotes state EPSDT programs. 
+•
+Readmission Reduction Program 
+utilizes a proprietary scoring methodology to evaluate members' risks on preventable readmissions. Members with higher risk scores are identified at the point of admission to an acute care setting, then concurrently managed during the in-patient stay, and followed up with post discharge outreach to provide effective transition of care.
+•
+Outcomes Improvement Central (OIC) 
+is a highly collaborative initiative that empowers partners across the organization to develop evidence-based clinical programs to promote best practice information sharing, and to establish measurable outcomes for clinical studies. The OIC also serves as a repository of enterprise pilots and programs intended to improve the member's health outcomes.
+•
+Promotores Health Network (PHN)
+ is a volunteer-driven community health network designed to improve the community's health through health education specific to health conditions impacting their community and providing guidance and linkage to healthcare services and local resources. PHN provides face-to-face education to members where they live, shop, worship and congregate.
+•
+myStrength ("The health club for your mind")
+ is a web and mobile self-help resource to manage depression, anxiety, substance use, and chronic pain. myStrength empowers members to be active participants in their journey to becoming and staying mentally and physically healthy.
+•
+OpiEnd 
+is a clinical program designed to identify members at risk for an opioid abuse diagnosis based on a series of critical social and clinical indicators called the Opioid Risk Classification Algorithm (ORCA). Providers will leverage this risk score to flag members for case management and other appropriate interventions. High risk members identified by ORCA will receive educational outreach to provide evidenced-based resources to support pain addiction.
+8
+Table of Contents
+Providers
+For each of our service areas, we establish a provider network consisting of primary and specialty care physicians, hospitals and ancillary providers. Our network of primary care physicians is a critical component of care delivery, cost management and the attraction and retention of new members. Primary care physicians include family and general practitioners, pediatricians, internal medicine physicians and obstetricians and gynecologists. Specialty care physicians provide medical care to members generally upon referral by primary care physicians. Specialty care physicians include, but are not limited to, orthopedic surgeons, cardiologists and otolaryngologists. We also provide education and outreach programs to inform and assist members in accessing quality, appropriate healthcare services. 
+Our health plans facilitate access to healthcare services for our members primarily through contracts with our providers. Our contracts with primary and specialty care physicians and hospitals usually are for one to three-year periods and renew automatically for successive one-year terms, but generally are subject to termination by either party upon prior written notice. In the absence of a contract, we typically pay providers at applicable state or federal reimbursement levels, depending on the product (e.g., Medicaid or Medicare). We pay providers under a variety of methods, including fee-for-service, capitation arrangements, and value-based arrangements. 
+•
+Under our fee-for-service contracts with providers, we pay a negotiated fee for covered services. This model is characterized as having no financial risk for the provider. 
+•
+Under our capitated contracts, providers can be paid a set amount for their services as outlined in their respective provider agreements. A provider group's financial instability or failure to pay secondary providers for services rendered could lead secondary providers to demand payment from us, even though we have made our regular capitated payments to the provider group. Depending on state law and the regulatory environment, it may be necessary for us to pay such claims.
+•
+Under value-based arrangements, providers can be paid under either a capitated or fee-for-service model. The arrangement, however, contains provisions for additional payments to the providers or reimbursement from the providers based upon their performance in cost and quality measures.
+In addition, we maintain a network of qualified physicians, facilities, and ancillary providers in the prime service areas of our TRICARE contract. Services are provided on a fee-for-service basis. 
+We often start our provider relationships in a pay-for-performance arrangement before we transition to a risk-sharing arrangement, which is based on the total cost of care. As we advance along this continuum, it strengthens our partnerships with our providers, enabling the delivery of high quality care.
+We work with physicians to help them operate efficiently by providing actionable financial and utilization information, physician and patient educational programs and disease and population health management programs. Our programs are also designed to help physicians coordinate care rendered by other providers. 
+We believe our local and collaborative approach with physicians and other providers gives us a competitive advantage in entering new markets. Our physicians serve on local committees that assist us in implementing preventive care programs, managing costs and improving the overall quality of care delivered to our members, while also simplifying the administrative burdens on our providers. This approach has enabled us to strengthen our provider networks through improved physician recruitment and retention that, in turn, have helped to increase our membership base. The following are among the services we provide to support physicians:
+ 
+ 
+•
+Provider Engagement Performance Tools and Processes
+ lead to measurable improvements in quality and health outcomes, healthcare costs, and member satisfaction. High quality and service levels are important as our key customers are increasingly using performance-based measures to select and pay health plans. We have rolled out a suite of network performance tools for use by physicians and other providers which monitor the outcomes and care gaps of their individual patient panels. We meet with the providers to review their performance issues and recommend strategies for improvements in their patient panel outcomes. Our tools also allow the physician and others to see where they stand within their value-based contract.
+9
+Table of Contents
+•
+Integrated Care Model 
+is member-centric and managed by one care manager assigned to a member who looks at the total care for the member in a holistic manner. This single care manager will coordinate all care for that member including behavioral health, medical health, and home-based primary care in accordance with an individualized, integrated care plan. This care manager also coordinates meetings with the member's integrated care team to assess and alter the care plan as needed. This results in better outcomes and improvement in member satisfaction.
+•
+Provider Portal 
+provides claims and eligibility research, prior authorizations, member panels, care gaps, patient analytics, and provider analytics meant to drive provider engagement and improved patient outcomes. Data and reporting are delivered via a secure, user-friendly web-based provider portal. This is all provided through our suite of proprietary technology, including Interpreta and Casenet.
+Our contracted physicians also benefit from several of the services offered to our members, including the MemberConnections, EPSDT case management and population health management programs. For example, the MemberConnections staff facilitates doctor/patient relationships by connecting members with physicians, the EPSDT programs encourage routine checkups for children with their physicians and the population health management programs assist physicians in managing their patients with chronic disease.
+Where appropriate, our health plans contract with our specialty services organizations to provide services and programs such as care management software, dental benefits management, home-based primary care services, life and population health management, managed vision, pharmacy benefits management, specialty pharmacy and telehealth services. When necessary, we also contract with third-party providers on a negotiated fee arrangement for physical therapy, home healthcare, diagnostic laboratory tests, x-ray examinations, transportation, ambulance services and durable medical equipment. 
+Quality Management
+Our population health programs focus on improving quality of care in areas that have the greatest impact on our members. We employ strategies, including complex case management, which are adjusted for implementation in our individual markets by a system of physician committees chaired by local physician leaders. This process promotes physician participation and support, both critical factors in the success of any clinical quality improvement program. 
+We have implemented specialized information systems to support our medical quality management activities. Information is drawn from our data warehouse, clinical databases and our membership and claims processing system to identify opportunities to improve care and to track the outcomes of the interventions implemented to achieve those improvements. Some examples of these programs include:
+•
+use of nationally recognized InterQual or Milliman criteria to help ensure our members receive the right level of care in the most appropriate setting;
+•
+pre-authorized high-risk medication and services that are commonly over or inappropriately prescribed;
+•
+member education and the provision of appropriate and easily accessed urgent care services to help members avoid unnecessary and costly emergency department visits and improve their healthcare experience; 
+•
+emphasis on care management and care coordination where clinicians, such as nurses and social workers who are employed to assist high-risk and other selected members with the coordination of healthcare services that meet their specific needs;
+•
+disease management for chronic illnesses, such as asthma and diabetes through a comprehensive, multidisciplinary and collaborative approach;
+•
+prenatal case management for women with high-risk pregnancies to help them deliver full-term, healthy infants; and
+•
+pharmacy treatment compliance programs driven by evidence-based clinical policies and focused on identifying the appropriate medication in the correct dose, delivered in an efficient format and utilized for the correct duration.
+We provide reporting on a regular basis using our data warehouse. State and Health Employer Data and Information Set (HEDIS) reporting constitutes the core of the information base that drives our clinical quality performance efforts. This reporting is monitored by Plan Quality Improvement Committees and our corporate population health management and quality improvement teams. 
+10
+Table of Contents
+In an effort to ensure the quality of our provider networks, we verify the credentials and background of our providers using standards that are supported by the NCQA. 
+It is our objective to provide access to the highest quality of care for our members. As a validation of that objective, we pursue accreditation by independent organizations that have been established to promote healthcare quality. The NCQA Health Plan Accreditation and URAC Health Plan Accreditation programs provide unbiased, third party reviews to verify and publicly report results on specific quality care metrics. While we have achieved or are pursuing accreditation for all of our plans, accreditation is only one measure of our ability to provide access to quality care for our members. We have received NCQA health plan accreditation in 23 of 25 eligible states and are pursing accreditation in the remaining two states.
+CMS developed the Medicare Advantage Star ratings system to help consumers choose among competing plans, awarding between 1.0 and 5.0 stars to Medicare Advantage plans based on performance in certain measures of quality. 
+For the 2019 Star rating (calculated in 2018 for the quality bonus payment in 2020), our California and Health Net Oregon contracts received 4.0 out of 5.0 Stars. The Texas D-SNP, Florida D-SNP, Wisconsin D-SNP, and Arizona D-SNP contracts were measured at 3.5 Stars, and our Arizona HMO and Oregon Trillium contracts received 3.0 Stars. In addition, for the 2019 Star rating, we carry a 4.0 Star parent organization rating. Approximately 
+86%
+ of our Medicare members are in a 4 star or above plan for the 2020 bonus year.
+For the 2020 Star rating (calculated in 2019 for the quality bonus payment in 2021), our Texas D-SNP and Wisconsin D-SNP contracts received a 4.5 out of 5.0 Stars, and our California contracts received 4.0 Stars. The Oregon, New York, and Arkansas contracts measured at 3.5 Stars, and our Arizona, Florida, Texas HMO, South Carolina, and Georgia contracts received 3.0 Stars. In addition, for the 2020 Star rating, we carry a 3.5 Star parent organization rating. Approximately 
+46%
+ of our Medicare members are in a 4 star or above plan for the 2021 bonus year.
+We remain committed to our quality initiatives and expect to return to a 4.0 Star parent rating in the future. The parent organization Star rating is used for new Medicare contracts, while existing contracts follow their individual Star ratings to determine bonus payments.
+SPECIALTY SERVICES
+ 
+Our specialty services are a key component of our healthcare strategy and complement our core Managed Care business. Our provision of specialty services diversifies our revenue stream, enhances the quality of health outcomes for our members and others, and allows Centene to manage costs.
+Envolve
+Our Envolve brand brings together our extensive portfolio of specialty healthcare solutions. Envolve leverages our collective expertise to provide integrated and comprehensive healthcare for members and other organizations.
+•
+Health, Triage, Wellness, and Disease Management Services
+. Envolve PeopleCare brings together our nurse advice, telehealth, and health, wellness and disease guidance programs, allowing for a focus on individual health management through education and empowerment. We offer telehealth services where members engage with customer service representatives and nursing staff who provide health education and triage advice and offer continuous access to health plan functions. Our staff can arrange for urgent pharmacy refills, transportation and qualified behavioral health professionals for crisis stabilization assessments. 
+•
+Pharmacy Solutions. 
+Envolve Pharmacy Solutions utilizes innovative, flexible solutions and customized care management. We offer traditional pharmacy benefits management as well as comprehensive specialized pharmacy benefit services through our specialty pharmacy, AcariaHealth. Our traditional pharmacy benefits management program offers progressive pharmacy benefits management services that are specifically designed to improve quality of care while containing costs. This is achieved through a low cost strategy that helps optimize clients' pharmacy benefits. Services that we provide include claims processing, pharmacy network management, benefit design consultation, drug utilization review, formulary and rebate management, online drug management tools, mail order pharmacy services, home delivery services, analytics and clinical consulting and patient and physician intervention. AcariaHealth offers specialized care management services for complex diseases and enhances the patient care offering through collaboration with providers and the capture of relevant data to measure patient outcomes. 
+11
+Table of Contents
+•
+Management Services. 
+Envolve provides comprehensive management services for managed care organizations and partners with organizations to offer coordinated healthcare services and programs to their members. Envolve management services provide organizations with the strategies, people and processes necessary to provide value-based, affordable care and drive healthcare transformation.
+•
+Vision and Dental Services. 
+Envolve Benefit Options coordinates benefits beyond traditional medical benefits to offer fully integrated vision and dental health services. Our vision benefit program administers routine and medical surgical eye care benefits through a contracted national network of eye care providers. Through the dental benefit, we are dedicated to improving oral health through a contracted network of dental healthcare providers. 
+Health Care Enterprises 
+Our Health Care Enterprises companies aim to improve health outcomes by developing more efficient care models to reduce healthcare costs.
+•
+Clinical Healthcare. 
+Community Medical Group (CMG) provides clinical healthcare, encompassing primary care, access to certain specialty services, and a suite of social and other support services. CMG operates in Florida through an at-risk primary care provider model, focusing on clinical and social care to at-risk beneficiaries. 
+•
+Data Analytics. 
+Interpreta uses its analytics engine to provide real-time insights to providers, care managers, and payers in the areas of member prioritization, quality management, and risk adjustment. Interpreta's solutions are used by our health plans and available for sale to third parties. 
+•
+Home-Based Primary Care.
+ U.S. Medical Management (USMM) provides home-based primary care services for high acuity populations and participates as an Accountable Care Organization (ACO) through the CMS Medicare Shared Savings Program. 
+•
+Third Party Administration
+. HealthSmart provides customizable and scalable health plan solutions for self-funded employers, universities and colleges, and Native American Tribal Enterprises. Service offerings include plan administration, care management and wellness programs, network, casualty claim, and pharmacy benefit solutions.
+Other Specialty Companies
+Our other specialty companies provide a variety of products and services to complement and expand our business lines.
+•
+Care Management Software. 
+Casenet is a provider of innovative population health and care management solutions that automate the clinical, administrative and technical components of care management programs, which are used by our health plans and available for sale to third parties.
+•
+Correctional Healthcare Services.
+ Centurion provides comprehensive healthcare services to individuals incarcerated in state correctional facilities and detainees in detention facilities in various states. Centurion also provides staffing services to correctional systems and other government agencies.
+•
+Federal Services
+. Health Net Federal Services (HNFS) has a Managed Support Contract in the West Region for the Department of Defense (DoD) TRICARE program. We provide administrative services to Military Health System eligible beneficiaries, which includes eligible active duty service members and their families, retired service members and their families, survivors of retired service members and qualified former spouses. Additionally, our wholly owned subsidiary, MHN Government Services, is party to a Military Family and Life Counseling (MFLC) contract that was awarded by the DoD to implement, administer and monitor the non-medical counseling MFLC program. 
+We currently have NCQA accreditation and URAC accreditation for several of our specialty companies.
+CORPORATE COMPLIANCE
+Our Ethics and Compliance program assists the organization in developing effective internal controls that promote prevention and detection of fraud, waste and abuse and resolution of instances of conduct that do not conform to federal and state law and private payor healthcare program requirements, as well as our own ethics and business policies. Responsibilities also include the ongoing maintenance of our privacy program and oversight of the Health Insurance Portability and Accountability Act (HIPAA) as they pertain to us and our business units from a compliance, business, and technical perspective.
+12
+Table of Contents
+Three standards by which corporate compliance programs in the healthcare industry are measured are the Federal Organizational Sentencing Guidelines, the CMS Chapter Guidance and the Compliance Program Guidance series issued by the Department of Health and Human Services' Office of the Inspector General (OIG). Our program contains each of the seven elements suggested by these authorities. These key components are:
+•
+written standards of conduct; 
+•
+designation of compliance officers and compliance committees;
+•
+effective training and education; 
+•
+effective lines for reporting and communication; 
+•
+enforcement of standards through well-publicized disciplinary guidelines and actions; 
+•
+internal monitoring and auditing; and
+•
+prompt response to detected offenses and development of corrective action plans. 
+The goal of our program is to build a culture of ethics and compliance, which is assessed periodically to measure the values and engagement of the organization. Our Corporate Compliance intranet site, accessible to all employees, contains our Business Ethics and Code of Conduct, Compliance Program description and resources for employees to report concerns or ask questions. If needed, employees have access to the contact information for our Board of Directors' Audit Committee Chairman to report concerns. Our Ethics and Compliance Helpline is a toll-free number and web-based reporting tool operated by a third party independent of the Company and allows employees or other persons to report suspected incidents of misconduct, fraud, waste, abuse or other compliance violations anonymously. Furthermore, our Board of Directors has established a Corporate Compliance Committee that, among other things, reviews ethics and compliance reports on a quarterly basis. 
+ENVIRONMENTAL, SOCIAL, GOVERANANCE AND CORPORATE RESPONSIBILITY
+Our purpose is transforming the health of the community, one person at a time. The ultimate foundation of everything we do is centered on our purpose and the pillars that set us apart as a company: our focus on individuals, commitment to whole health, and active local involvement. With more than three decades of experience operating government-sponsored programs, we understand the importance of how environmental, including climate considerations, and social factors impact the long-term health and well-being of people. Our mission to attain better health outcomes at lower costs is supported by our culture of sound corporate governance to ensure quality, accessible, and affordable healthcare is available for all. Environmental consciousness, social responsibility, and sound governance have been guiding principles of our business since our humble beginnings launched by a former hospital bookkeeper, Elizabeth 'Betty' Brinn, in Milwaukee, Wisconsin. Betty's experience growing up in an orphanage enabled her to see an opportunity to make a difference in healthcare by focusing on the unique needs of the individual - including focusing on ensuring a healthy living environment and meeting social needs, such as employment opportunities, access to transportation, food and education. Corporate social responsibility is at the core of who we are and what we do. Our commitment to environmental, social, and governance matters and corporate responsibility are a living expression of our purpose as we strive to transform the health of our communities, one person at a time. In 2019, we communicated our commitment to corporate social responsibility efforts in five key areas: sustainability, governance, employee partnership, philanthropy, and community outreach and support, with special focus on the social determinants of health, which our founder, Betty Brinn, recognized as crucial to health and well-being in 1984. These five areas reflect Centene's long-term vision and full commitment to the communities we serve and those we will serve in the future. We understand the growing need to proactively address environmental challenges and climate-related factors to support the health of people today and for generations to come. We recognize the importance in providing clear and transparent information on our activities, initiatives, and plans related to environmental, social, and governance (ESG) topics.
+COMPETITION
+We operate in a highly competitive environment in an industry subject to ongoing significant changes, including business consolidations, new strategic alliances, market pressures, and regulatory and legislative reform both at the federal and state level. This includes, but is not limited to, the federal and state healthcare reform legislation described under the heading "Regulation." In addition, changes to the political environment may drive additional changes to the competitive landscape. 
+In our business, our principal competitors for customers, members, and providers consist of the following types of organizations
+:
+ 
+•
+Medicaid Managed Care Organizations 
+that focus on providing healthcare services to Medicaid recipients. These organizations consist of national and regional organizations, as well as not-for-profits and organizations that operate in a small geographic location and are owned by providers, primarily hospitals.
+13
+Table of Contents
+•
+National and Regional Commercial Managed Care Organizations 
+that have Medicaid, Medicare and correctional members in addition to members in private commercial plans. Some of these organizations offer a range of specialty services including pharmacy benefits management, behavioral health management, population health management, correctional healthcare management, and nurse triage call support centers. 
+•
+Primary Care Case Management Programs 
+that are established by the states through contracts with primary care providers. Under these programs, physicians provide primary care services to Medicaid recipients, as well as limited population health management oversight. 
+•
+Accountable Care Organizations
+ that consist of groups of doctors, hospitals, and other healthcare providers, who come together to provide coordinated high quality care to their patients.
+We compete with other Managed Care Organizations and specialty companies for state, county, federal, and commercial contracts. In addition, the impact of the ACA and potential growth in our segment may attract new competitors including technology companies, new joint ventures, financial services firms, consulting firms and other non-traditional competitors. Before granting a contract, state and federal government agencies consider many competitive factors. These factors include quality of care, financial condition, stability and resources, and established or scalable infrastructure with a demonstrated ability to deliver services and establish comprehensive provider networks. Our specialty companies compete with other providers, such as disease management companies, individual health insurance companies, and pharmacy benefits managers for non-governmental contracts.
+We also compete to enroll new members and retain existing members. People who wish to enroll in a managed healthcare plan or to change healthcare plans typically choose a plan based on the quality of care and services offered, ease of access to services, a specific provider being part of the network and the availability of supplemental benefits. We believe that the principal competitive features affecting our ability to retain and increase membership include the range and prices of benefit plans offered, size and quality of provider network, quality of service, responsiveness to customer demands, financial stability, comprehensiveness of coverage, diversity of product offerings, market presence and reputation. The relative importance of each of these factors and the identity of our key competitors varies by market and product. We believe that we compete effectively against other healthcare industry participants.
+We also compete with other managed care organizations in establishing provider networks. When contracting with various health plans, we believe that providers consider existing and potential member volume, reimbursement rates, population health management programs, speed of reimbursement and administrative service capabilities. See "Risk Factors - Competition may limit our ability to increase penetration of the markets that we serve."
+ 
+The relative importance of each of the aforementioned competitive factors and the identity of our key competitors varies by market, including by geography and by product.
+REGULATION
+Our operations are comprehensively regulated at local, state, and federal levels. Government regulation of the provision of healthcare products and services is a changing area of law that varies from jurisdiction to jurisdiction. States have implemented National Association of Insurance Commissioners (NAIC) model regulations, requiring governance practices and risk and solvency assessment reporting. States have adopted these or similar measures to enhance regulations relating to corporate governance and internal controls of HMOs and insurance companies. We are required to maintain a risk management framework and file reports with state insurance regulators. 
+Regulatory agencies generally have substantial discretion to issue regulations and interpret and enforce laws and rules. Changes in the regulatory environment and applicable laws and rules also may occur periodically, including in connection with changes in political party or administration at the state and federal levels. For example, the current administration and certain members of Congress have indicated that they may continue to pursue significant amendments to the ACA. Even if the ACA is not amended or repealed, the current administration could propose changes impacting implementation of the ACA. In December 2018, a partial summary judgment ruling in 
+Texas v. United States of America
+ held that the ACA's individual mandate requirement was essential to the ACA, and without it, the remainder of the ACA was invalid (i.e., that it was not "severable" from the ACA). That decision was appealed to the Fifth Circuit, which ruled in December 2019 that the individual mandate was unconstitutional after Congress eliminated the individual mandate penalty, and remanded the case to the district court for additional analysis on the question of severability. The ACA remains in effect until judicial review of the decision is concluded. The ultimate content, timing or effect of any potential future legislation enacted under the current administration remains uncertain.
+14
+Table of Contents
+The ACA transformed the U.S. healthcare system through a series of complex initiatives. Some of the ACA's most significant provisions include the imposition of significant fees, assessments and taxes, including the non-deductible tax (technically called a "fee") on health insurers based on prior year net premiums written (the "health insurer fee" or "HIF"); the establishment of federally-facilitated and state-based Health Insurance Marketplaces where individuals and small groups may purchase health coverage; the implementation of certain premium stabilization programs designed to apportion risk amongst insurers; and the optional Medicaid Expansion. State and federal regulators have continued to provide additional guidance and specificity to the ACA, and we continue to monitor this new information and evaluate its potential impact on our business. For a further discussion of the implementation of the ACA, as well as the potential repeal of, or changes to, the ACA, see "Risk Factors - The implementation of Health Reform Legislation, as well as potential repeal of or changes to Health Reform Legislation, could materially and adversely affect our results of operations, financial position and cash flows" below.
+Our regulated subsidiaries are licensed to operate as health maintenance organizations (HMOs), preferred provider organizations (PPOs), third party administrators, utilization review organizations, pharmacies, direct care providers and/or insurance companies in their respective states. In each of the jurisdictions in which we operate, we are regulated by the relevant insurance, health and/or human services departments, departments of insurance, boards of pharmacy and other healthcare providers, and departments of health that oversee the activities of managed care organizations and health plans providing or arranging to provide services to enrollees. 
+The process for obtaining authorization to operate as a managed care organization, health insurance plan, pharmacy or provider organization is complex and requires us to demonstrate to the regulators the adequacy of the health plan's organizational structure, financial resources, utilization review, quality assurance programs, proper billing, complaint procedures, and an adequate provider network and procedures for covering emergency medical conditions. For example, under both state managed care organization statutes and insurance laws, our health plan subsidiaries, as well as our applicable specialty companies, must comply with minimum statutory capital and other financial solvency requirements, such as deposit and surplus requirements. Insurance regulations may also require prior state approval of acquisitions of other managed care organization businesses and the payment of dividends, as well as notice for loans or the transfer of funds. Our subsidiaries are also subject to periodic state and federal reporting requirements. In addition, each health plan and individual healthcare provider must meet criteria to secure the approval of state regulatory authorities before implementing certain operational changes, including without limitation changes to existing offerings, the development of new product offerings, certain organizational restructurings and, in some states, the expansion of service areas. 
+States have adopted a number of regulations that may affect our business and results of operations. These regulations in certain states include:
+•
+premium taxes or similar assessments imposed on us;
+•
+stringent prompt payment laws requiring us to pay claims within a specified period of time;
+•
+disclosure requirements regarding provider fee schedules and coding procedures; and
+•
+programs to monitor and supervise the activities and financial solvency of provider groups.
+Federal law has also implemented other health programs that are partially funded by the federal government, such as the Medicaid program. Our Medicaid programs are regulated and administered by various state regulatory bodies. Federal funding remains critical to the viability of these programs. Federal law permits the federal government to oversee and, in some cases, to enact, regulations and other requirements that must be followed by states with respect to these programs. Medicaid is administered at the federal level by CMS. Comprehensive legislation, specifically Title XVIII of the Social Security Act, governs our Medicare program. In addition, our Medicare contracts are subject to regulation by CMS. CMS has the right to audit Medicare contractors and the healthcare providers and administrative contractors who provide certain services on their behalf to determine the quality of care being rendered and the degree of compliance with CMS contracts and regulations. 
+We are regulated as an insurance holding company and are subject to the insurance holding company acts of the states in which our insurance company and HMO subsidiaries are domiciled. These acts contain certain reporting requirements as well as restrictions on transactions between an insurer or HMO and its affiliates. These holding company laws and regulations generally require insurance companies and HMOs within an insurance holding company system to register with the insurance department of each state where they are domiciled and to file with those states' insurance departments reports describing capital structure, ownership, financial condition, intercompany transactions and general business operations. In addition, depending on the size and nature of the transaction, there are various notice and reporting requirements that generally apply to transactions between insurance companies and HMOs and their affiliates within an insurance holding company structure. Some insurance holding company laws and regulations require prior regulatory approval or, in certain circumstances, prior notice of certain material intercompany transfers of assets as well as certain transactions between insurance companies, HMOs, their parent holding companies and affiliates. Among other provisions, state insurance and HMO laws may restrict the ability of our regulated subsidiaries to pay dividends. 
+ 
+15
+Table of Contents
+Additionally, the holding company regulations of the states in which our subsidiaries are domiciled restrict the ability of any person to obtain control of an insurance company or HMO without prior regulatory approval. Under those statutes, without such approval or an exemption, no person may acquire any voting security of an insurance holding company, which controls an insurance company or HMO, or merge with such a holding company, if as a result of such transaction such person would "control" the insurance holding company. "Control" is generally defined as the direct or indirect power to direct or cause the direction of the management and policies of a company and is presumed to exist if a person directly or indirectly owns or controls 10% or more of the voting securities of a company. 
+PPO regulation also varies by state and covers all or most of the subject area referred to above.
+Our pharmacies must be licensed to do business as pharmacies in the states in which they are located. Our pharmacies must also register with the U.S. Drug Enforcement Administration and individual state controlled substance authorities to dispense controlled substances. In many of the states where our pharmacies deliver pharmaceuticals, there are laws and regulations that require out-of-state mail order pharmacies to register with that state's board of pharmacy or similar regulatory body. These states generally permit the pharmacy to follow the laws of the state in which the mail order pharmacy is located, although some states require that we also comply with certain laws in that state. 
+Our healthcare providers must be licensed to practice medicine and do business as care providers in the state in which they are located. In addition, they must be in good standing with the applicable medical board, board of nursing or other applicable entity. Furthermore, they cannot be excluded from participation at either the state or federal levels. Our facilities are periodically reviewed by state departments of health and other regulatory agencies to ensure the environment is safe to provide care.
+We must also comply with laws and regulations related to the award, administration and performance of U.S. Government contracts. Government contract laws and regulations affect how we do business with our customers and, in some instances, impose added costs on our business. Money laundering is a method of attempting to conceal the origins of money gained through illegal activity and is itself a crime that can result in substantial criminal and civil sanctions including fines and imprisonment. To ensure compliance with anti-money laundering laws and regulations, it is our policy to conduct business only with legitimate customers and counterparties whose funds are derived from legitimate commercial activity. In addition, as a result of our international operations, we are also subject to the U.S. Foreign Corrupt Practices Act (FCPA) and similar worldwide anti-corruption laws, including the U.K. Bribery Act of 2010, which generally prohibit companies and their intermediaries from making improper payments to non-U.S. officials for the purpose of obtaining or retaining business. A violation of specific laws and regulations by us and/or our agents could result in, among other things, the imposition of fines and penalties on us, changes to our business practices, the termination of our contracts or debarment from bidding on contracts. 
+State and Federal Contracts
+In addition to being a licensed insurance company or HMO, in order to be a Medicaid managed care organization in each of the states in which we operate, we generally must operate under a contract with the state's Medicaid agency. States generally either use a formal proposal process, reviewing a number of bidders, or award individual contracts to qualified applicants that apply for entry to the program. Under these state Medicaid program contracts, we receive monthly payments based on specified capitation rates determined on an actuarial basis. These rates differ by membership category and by state depending on the specific benefits and policies adopted by each state. In addition, several of our Medicaid contracts require us to maintain Medicare Advantage special needs plans, which are regulated by CMS, for dual eligible individuals within the state. We also contract with states to provide healthcare services to correctional facilities. 
+We provide Medicare Advantage, Dual Eligible Special Needs Plans (D-SNPs), and Medicare-Medicaid Plans (MMP) which are provided under contracts with CMS and subject to federal regulation regarding the award, administration and performance of such contracts. CMS also has the right to audit our performance to determine our compliance with these contracts, as well as other CMS regulations and the quality of care we provide to Medicare beneficiaries under these contracts. We additionally provide behavioral and other healthcare services to correctional systems under contracts in certain states which are also subject to state regulation.
+Our government contracts include government-sponsored managed care and administrative services contracts through the TRICARE program, the DoD Military and Family Life Counseling program, and certain other healthcare-related government contracts.
+16
+Table of Contents
+Our state and federal contracts and the regulatory provisions applicable to us generally set forth the requirements for operating in the Medicaid and Medicare sectors, including provisions relating to:
+•
+eligibility, enrollment and dis-enrollment processes;
+•
+covered services;
+•
+eligible providers;
+•
+subcontractors;
+•
+record-keeping and record retention;
+•
+periodic financial and informational reporting;
+•
+quality assurance;
+•
+accreditation;
+ 
+•
+health education and wellness and prevention programs;
+•
+timeliness of claims payment;
+•
+financial standards;
+•
+safeguarding of member information;
+•
+fraud, waste and abuse detection and reporting;
+•
+grievance procedures; and
+•
+organization and administrative systems.
+A health plan or individual health insurance provider's compliance with these requirements is subject to monitoring by state regulators and by CMS. A health plan is also subject to periodic comprehensive quality assurance evaluations by a third-party reviewing organization and generally by the insurance department of the jurisdiction that licenses the health plan. A health plan or individual health insurance provider must also submit reports to various regulatory agencies, including quarterly and annual statutory financial statements and utilization reports.
+Our health plans operate through individual state contracts, generally with an initial term of one to five years. The contracts often have renewal or extension terms or are renewable through the state's reprocurement process. The contracts generally are subject to termination for cause, an event of default or lack of funding, among other things.
+Marketplace Contracts 
+We operate in 20 states under federally-facilitated and state-based marketplace contracts with CMS that expire annually. 
+We operate under a contract with the Arkansas Department of Human Services Division of Medical Services and the Arkansas Insurance Department to participate in the Medicaid expansion model that Arkansas has adopted (referred to as "Arkansas Works"). 
+Privacy Regulations
+We are subject to various international, federal, state and local laws and rules regarding the use, security and disclosure of protected health information, personal information, and other categories of confidential or legally protected data that our businesses handle. Such laws and rules include, without limitation, the Health Insurance Portability and Accountability Act (HIPAA), the Federal Trade Commission Act, the Gramm-Leach-Bliley Financial Modernization Act of 1999 (Gramm-Leach-Bliley Act), the General Data Protection Regulation (GDPR) in the European Union (EU), and state privacy and security laws such as the California Confidentiality of Medical Information Act and the California Online Privacy Protection Act. Privacy and security laws and regulations often change due to new or amended legislation, regulations or administrative interpretation. A variety of state and federal regulators enforce these laws, including but not limited to the U.S. Department of Health and Human Services (HHS), the Federal Trade Commission, state attorneys general and other state regulators. 
+HIPAA is designed to improve the portability and continuity of health insurance coverage, simplify the administration of health insurance through standard transactions and ensure the privacy and security of individual health information. Among the requirements of HIPAA are the Administrative Simplification provisions which include: standards for processing health insurance claims and related transactions (Transactions Standards); requirements for protecting the privacy and limiting the use and disclosure of medical records and other personal health information (Privacy Rule); and standards and specifications for safeguarding personal health information which is maintained, stored or transmitted in electronic format (Security Rule). The Health Information Technology for Economic and Clinical Health (HITECH) Act amended certain provisions of HIPAA and enhanced data security obligations for covered entities and their business associates. HITECH also mandated individual notifications in instances of a data breach, provided enhanced penalties for HIPAA violations, and granted enforcement authority to states' Attorneys Generals in addition to the HHS Office for Civil Rights. The HIPAA Omnibus Rule further enhanced the changes under the HITECH Acts and the Genetic Information Nondiscrimination Act of 2008 (GINA) which clarified that genetic information is protected under HIPAA and prohibits most health plans from using or disclosing genetic information for underwriting purposes. These regulations also establish significant criminal penalties and civil sanctions for non-compliance. The preemption provisions of HIPAA provide that the federal standards will not preempt state laws that are more stringent than the related federal requirements. 
+The Privacy and Security Rules and HITECH/Omnibus enhancements established requirements to protect the privacy of medical records and safeguard personal health information maintained and used by healthcare providers, health plans, healthcare clearinghouses, and their business associates. 
+17
+Table of Contents
+The Security Rule requires healthcare providers, health plans, healthcare clearinghouses, and their business associates to implement administrative, physical and technical safeguards to ensure the privacy and confidentiality of health information electronically stored, maintained or transmitted. The HITECH Act and Omnibus Rule enhanced a federal requirement for notification when the security of protected health information is breached. In addition, there are state laws that have been adopted to provide for, among other things, private rights of action for breaches of data security and mandatory notification to persons whose identifiable information is obtained without authorization.
+The requirements of the Transactions Standards apply to certain healthcare related transactions conducted using "electronic media." Since "electronic media" is defined broadly to include "transmissions that are physically moved from one location to another using portable data, magnetic tape, disk or compact disk media," many communications are considered to be electronically transmitted. Under HIPAA, health plans and providers are required to have the capacity to accept and send all covered transactions in a standardized electronic format. Penalties can be imposed for failure to comply with these requirements. The transaction standards were modified on October 1, 2015 with the implementation of the ICD-10 coding system.
+In addition, we process and maintain personal card data, particularly in connection with our Marketplace business. As a result, we must maintain compliance with the Payment Card Industry (PCI) Data Security Standard, which is a multifaceted security standard intended to optimize the security of credit, debit and cash card transactions and protect cardholders against misuse of their personal information.
+Other Fraud, Waste and Abuse Laws
+Investigating and prosecuting healthcare fraud, waste and abuse continues to be a top priority for state and federal law enforcement entities. The focus of these efforts has been directed at Medicare, Medicaid, Health Insurance Marketplace and commercial products. The fraud, waste and abuse laws include the federal False Claims Act, which prohibits the known filing of a false claim or the known use of false statements to obtain payment from the federal government. Many states have false claim act statutes that closely resemble the federal False Claims Act. The laws and regulations relating to fraud, waste and abuse and the requirements applicable to health plans and providers participating in these programs are complex and change regularly. Compliance with these laws may require substantial resources. We are constantly looking for ways to improve our fraud, waste and abuse detection methods. While we have both prospective and retrospective processes to identify abusive patterns and fraudulent billing, we continue to increase our capabilities to proactively detect inappropriate billing prior to payment.
+EMPLOYEES
+As of 
+December 31, 2019
+, we had approximately 
+56,600
+ employees. We believe our relationships with our employees are positive.
+Information about our Executive Officers
+The following table sets forth information regarding our executive officers, including their ages, at February 16, 
+2020
+: 
+ 
+Name
+ 
+Age
+ 
+Position
+Michael F. Neidorff
+ 
+77
+ 
+Chairman, President and Chief Executive Officer
+Kenneth A. Burdick
+ 
+61
+ 
+Executive Vice President, Markets & Products
+Mark J. Brooks
+ 
+50
+ 
+Executive Vice President and Chief Information Officer
+Brandy L. Burkhalter
+ 
+47
+ 
+Executive Vice President, Chief Operating Officer
+Jesse N. Hunter
+ 
+44
+ 
+Executive Vice President and Chief Strategy Officer
+Christopher R. Isaak
+ 
+53
+ 
+Senior Vice President, Corporate Controller and Chief Accounting Officer
+Christopher A. Koster
+ 
+55
+ 
+Senior Vice President, Corporate Services
+Jeffrey A. Schwaneke
+ 
+44
+ 
+Executive Vice President, Chief Financial Officer and Treasurer
+David P. Thomas
+ 
+54
+ 
+Executive Vice President, Markets
+Keith H. Williamson
+ 
+67
+ 
+Executive Vice President, General Counsel and Secretary
+ 
+Michael F. Neidorff. 
+Mr. Neidorff has served as our Chairman, President and Chief Executive Officer since April 2019. From November 2017 to April 2019, he served as our Chairman and Chief Executive Officer. From May 2004 to November 2017, he served as Chairman, President and Chief Executive Officer. From May 1996 to May 2004, he served as President, Chief Executive Officer and as a member of our Board of Directors.
+18
+Table of Contents
+Kenneth A. Burdick. 
+Mr. Burdick joined Centene upon the closing of the WellCare 
+Acquisition
+ on 
+January 23, 2020
+. From January 2015 through the closing of the WellCare 
+Acquisition
+, he served as Chief Executive Officer of WellCare. From June 2014 to January 2015, he served as President and Chief Operating Officer of WellCare.
+Mark J. Brooks
+. Mr. Brooks has served as our Executive Vice President and Chief Information Officer since November 2017. From April 2016 to November 2017, he served as Senior Vice President and Chief Information Officer. Prior to joining Centene, he served as the Chief Information Officer at Health Net from 2012 to 2016. 
+Brandy L. Burkhalter.
+ Ms. Burkhalter has served as our Executive Vice President, Chief Operating Officer since June 2018. From December 2015 to June 2018, she served as Executive Vice President, Internal Audit & Risk Management. From April 2012 to December 2015, she served as Senior Vice President, Internal Audit. 
+Jesse N. Hunter. 
+Mr. Hunter has served as our Executive Vice President and Chief Strategy Officer since November 2017. From January 2016 to November 2017, he served as Executive Vice President, Products. From December 2012 to January 2016, he served as Executive Vice President, Chief Business Development Officer. From February 2012 to December 2012, he served as our Executive Vice President, Operations.
+Christopher R. Isaak. 
+Mr. Isaak has served as our Senior Vice President, Corporate Controller and Chief Accounting Officer since April 2016. Prior to joining Centene, he served as Vice President, Corporate Controller at TTM Technologies from 2015 to 2016 and Vice President, Corporate Controller at Viasystems Group, Inc. from 2006 to 2015 and served as Chief Accounting Officer from 2010 to 2015.
+Christopher A. Koster. 
+Mr. Koster has served as Senior Vice President, Corporate Services since 2017. Prior to joining Centene, Mr. Koster served as Missouri Attorney General for eight years. 
+Jeffrey A. Schwaneke. 
+Mr. Schwaneke has served as our Executive Vice President, Chief Financial Officer and Treasurer since March 2016. From July 2008 to March 2016, he served as our Senior Vice President, Corporate Controller and served as our Chief Accounting Officer from September 2008 to March 2016. 
+David P. Thomas.
+ Mr. Thomas has served as our Executive Vice President of Markets since October 2019. From January 2019 through October 2019, he served as President and Chief Executive Officer of Fidelis Care. From May 2018 to December 2018, he served as President of Fidelis Care. He also previously served as Chief Operating Officer for Fidelis Care from January 2012 through April 2018. 
+Keith H. Williamson
+. Mr. Williamson has served as our Executive Vice President, General Counsel and Secretary since November 2012. 
+Available Information
+We are subject to the reporting and information requirements of the Securities Exchange Act of 1934, as amended (Exchange Act) and, as a result, we file periodic reports and other information with the Securities and Exchange Commission, or SEC. We make these filings available on our website free of charge, the URL of which is http://www.centene.com, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. The SEC maintains a website (http://www.sec.gov) that contains our annual, quarterly and current reports and other information we file electronically with the SEC. Information on our website does not constitute part of this Annual Report on Form 10-K.
+19
+Table of Contents
+ITEM 1A. 
+Risk Factors.
+FACTORS THAT MAY AFFECT FUTURE RESULTS AND THE
+TRADING PRICE OF OUR COMMON STOCK
+You should carefully consider the risks described below before making an investment decision. The trading price of our common stock could decline due to any of these risks, in which case you could lose all or part of your investment. You should also refer to the other information in this filing, including our consolidated financial statements and related notes. The risks and uncertainties described below are those that we currently believe may materially affect our Company. Additional risks and uncertainties that we are unaware of or that we currently deem immaterial also may become important factors that affect our Company. Unless the context otherwise requires, the terms the "Company," "we," "us," "our" or similar terms and "Centene" refer to us, after giving effect to the WellCare 
+Acquisition
+.
+Reductions in funding, changes to eligibility requirements for government sponsored healthcare programs in which we participate and any inability on our part to effectively adapt to changes to these programs could substantially affect our financial position, results of operations and cash flows.
+The majority of our revenues come from government subsidized healthcare programs including Medicaid, Medicare, TRICARE, CHIP, LTSS, ABD, Foster Care and Health Insurance Marketplace premiums. Under most programs, the base premium rate paid for each program differs, depending on a combination of factors such as defined upper payment limits, a member's health status, age, gender, county or region and benefit mix. Since Medicaid was created in 1965, the federal government and the states have shared the costs for this program, with the federal share currently averaging approximately 60%. We are therefore exposed to risks associated with federal and state government contracting or participating in programs involving a government payor, including but not limited to the general ability of the federal and/or state governments to terminate contracts with them, in whole or in part, without prior notice, for convenience or for default based on performance; potential regulatory or legislative action that may materially modify amounts owed; and our dependence upon Congressional or legislative appropriation and allotment of funds and the impact that delays in government payments could have on our operating cash flow and liquidity. For example, future levels of funding and premium rates may be affected by continuing government efforts to contain healthcare costs and may further be affected by state and federal budgetary constraints. Governments periodically consider reducing or reallocating the amount of money they spend for Medicaid, Medicare, TRICARE, CHIP, LTSS, ABD and Foster Care. Furthermore, Medicare remains subject to the automatic spending reductions imposed by the Budget Control Act of 2011 and the American Taxpayer Relief Act of 2012 ("sequestration"), subject to a 2% cap, which was extended by the Bipartisan Budget Act of 2018 for an additional two years through 2027. In addition, reductions in defense spending could have an adverse impact on certain government programs in which we currently participate by, among other things, terminating or materially changing such programs, or by decreasing or delaying payments made under such programs. Adverse economic conditions may put pressures on state budgets as tax and other state revenues decrease while the population that is eligible to participate in these programs remains steady or increases, creating more need for funding. We anticipate this will require government agencies to find funding alternatives, which may result in reductions in funding for programs, contraction of covered benefits, and limited or no premium rate increases or premium rate decreases. A reduction (or less than expected increase), a protracted delay, or a change in allocation methodology in government funding for these programs, as well as termination of one or more contracts for the convenience of the government, may materially and adversely affect our results of operations, financial position and cash flows. In addition, if another federal government shutdown were to occur for a prolonged period of time, federal government payment obligations, including its obligations under Medicaid, Medicare, TRICARE, CHIP, LTSS, ABD, Foster Care and the Health Insurance Marketplaces, may be delayed. Similarly, if state government shutdowns were to occur, state payment obligations may be delayed. If the federal or state governments fail to make payments under these programs on a timely basis, our business could suffer, and our financial position, results of operations or cash flows may be materially affected.
+Payments from government payors may be delayed in the future, which, if extended for any significant period of time, could have a material adverse effect on our results of operations, financial position, cash flows or liquidity. In addition, delays in obtaining, or failure to obtain or maintain, governmental approvals, or moratoria imposed by regulatory authorities, could adversely affect our revenues or membership, increase costs or adversely affect our ability to bring new products to market as forecasted. Other changes to our government programs could affect our willingness or ability to participate in any of these programs or otherwise have a material adverse effect on our business, financial condition or results of operations.
+20
+Table of Contents
+Finally, changes in these programs could reduce the number of persons enrolled in or eligible for these programs or increase our administrative or healthcare costs under these programs. For example, maintaining current eligibility levels could cause states to reduce reimbursement or reduce benefits in order for states to afford to maintain eligibility levels. If any state in which we operate were to decrease premiums paid to us or pay us less than the amount necessary to keep pace with our cost trends, it could have a material adverse effect on our results of operations, financial position and cash flows.
+Our Medicare programs are subject to a variety of risks that could adversely impact our financial results.
+If we fail to design and maintain programs that are attractive to Medicare participants; if our Medicare operations are subject to negative outcomes from program audits, sanctions or penalties; if we do not submit adequate bids in our existing markets or any expansion markets; if our existing contracts are terminated; or if we fail to maintain or improve our quality Star ratings, our current Medicare business and our ability to expand our Medicare operations could be materially and adversely affected, negatively impacting our financial performance. For example, our parent Star rating for the 2020 rating year is 3.5, which may negatively affect quality bonus payments for Medicare Advantage plans in 2021. The lowered Star rating for the 2020 rating year may have reduced the attractiveness of the affected plans and our other offerings to members, reduce revenue from the affected plans and impact our Medicare expansion efforts, which are a strategic focus for the Company. 
+There are also specific additional risks under Title XVIII, Part D of the Social Security Act associated with our provision of Medicare Part D prescription drug benefits as part of our Medicare Advantage plan offerings. These risks include potential uncollectibility of receivables, inadequacy of pricing assumptions, inability to receive and process information and increased pharmaceutical costs, as well as the underlying seasonality of this business, and extended settlement periods for claims submissions. Our failure to comply with Part D program requirements can result in financial and/or operational sanctions on our Part D products, as well as on our Medicare Advantage products that offer no prescription drug coverage.
+Although we do not anticipate that a single-payer national health insurance system will be enacted by the current Congress, several legislative initiatives have been proposed by members of Congress and presidential candidates that would establish some form of a single public or quasi-public agency that organizes healthcare financing, but under which healthcare delivery would remain private. If enacted, such a system could adversely affect our business.
+Failure to accurately estimate and price our medical expenses or effectively manage our medical costs or related administrative costs could negatively affect our financial position, results of operations and cash flows.
+ 
+Our profitability depends to a significant degree on our ability to estimate and effectively manage expenses related to health benefits through, among other things, our ability to contract favorably with hospitals, physicians and other healthcare providers. For example, our Medicaid revenue is often based on bids submitted before the start of the initial contract year. If our actual medical expenses exceed our estimates, our Health Benefits Ratio (HBR), or our expenses related to medical services as a percentage of premium revenues, would increase and our profits would decline. Because of the narrow margins of our health plan business, relatively small changes in our HBR can create significant changes in our financial results. Changes in healthcare regulations and practices, the level of utilization of healthcare services, hospital and pharmaceutical costs, disasters, the potential effects of climate change, major epidemics, pandemics or newly emergent viruses (such as the coronavirus), new medical technologies, new pharmaceutical compounds, increases in provider fraud and other external factors, including general economic conditions such as inflation and unemployment levels, are generally beyond our control and could reduce our ability to accurately predict and effectively control the costs of providing health benefits. Also, member behavior could continue to be influenced by the uncertainty surrounding changes to the ACA, including the removal of the penalty associated with the ACA's individual mandate in 2019.
+Our medical expenses include claims reported but not paid, estimates for claims incurred but not reported, and estimates for the costs necessary to process unpaid claims at the end of each period. Our development of the medical claims liability estimate is a continuous process which we monitor and refine on a monthly basis as claims receipts and payment information as well as inpatient acuity information becomes available. As more complete information becomes available, we adjust the amount of the estimate, and include the changes in estimates in medical expenses in the period in which the changes are identified. Given the uncertainties inherent in such estimates, there can be no assurance that our medical claims liability estimate will be adequate, and any adjustments to the estimate may unfavorably impact our results of operations and may be material.
+Additionally, when we commence operations in a new state, region or product, we have limited information with which to estimate our medical claims liability. For a period of time after the inception of the new business, we base our estimates on government-provided historical actuarial data and limited actual incurred and received claims and inpatient acuity information. The addition of new categories of eligible individuals, as well as evolving Health Insurance Marketplace plans, may pose difficulty in estimating our medical claims liability. 
+21
+Table of Contents
+From time to time in the past, our actual results have varied from our estimates, particularly in times of significant changes in the number of our members. If it is determined that our estimates are significantly different than actual results, our results of operations and financial position could be adversely affected. In addition, if there is a significant delay in our receipt of premiums, our business operations, cash flows, or earnings could be negatively impacted. 
+The implementation of the ACA, as well as potential repeal of, changes to, or judicial challenges to the ACA, could materially and adversely affect our results of operations, financial position and cash flows.
+The enactment of the ACA in March 2010 transformed the U.S. healthcare delivery system through a series of complex initiatives; however, the implementation of the ACA continues to face judicial challenges as well as challenges from the current administration to repeal or change certain of its significant provisions. Changes to, or repeal of, portions or the entirety of the ACA, as well as judicial interpretations in response to legal and other constitutional challenges, could materially and adversely affect our business and financial position, results of operations or cash flows. Even if the ACA is not amended or repealed, the current administration could continue to propose changes impacting implementation of the ACA, which could materially and adversely affect our financial position or operations.
+Among the most significant of the ACA's provisions was the establishment of the Health Insurance Marketplace for individuals and small employers to purchase health insurance coverage that included a minimum level of benefits and restrictions on coverage limitations and premium rates, as well as the expansion of Medicaid coverage to all individuals under age 65 with incomes up to 138% of the federal poverty level beginning January 1, 2014, subject to each state's election. The HHS additionally indicated that it would consider a limited number of premium assistance demonstration proposals from states that want to privatize Medicaid expansion. Arkansas was the first state to obtain federal approval to use Medicaid funding to purchase private insurance for low-income residents, and we began operations under the program beginning on January 1, 2014. Several states have obtained Section 1115 waivers to implement the ACA's Medicaid expansion in ways that extend beyond the flexibility provided by the federal law, with additional states pursuing Section 1115 waivers regarding eligibility criteria, benefits and cost-sharing, and provider payments across their Medicaid programs. Litigation challenging Section 1115 waiver activity for both new and previously approved waivers is expected to continue both through administrative actions and the courts.
+There have been significant efforts by the current administration to repeal, or limit implementation of, certain provisions of the ACA through changes in regulations. Such initiatives include repeal of the individual mandate effective in 2019, as well as easing the regulatory restrictions placed on short-term health plans and association health plans (AHPs), which plans often provide fewer benefits than the traditional ACA insurance benefits.
+Additionally, the U.S. Department of Labor issued a final rule on June 19, 2018 which expanded flexibility regarding the regulation and formation of AHPs provided by small employer groups and associations. On June 13, 2019, the HHS, the U.S. Department of Labor and the U.S. Treasury issued a final rule allowing employers of all sizes that do not offer a group coverage plan to fund a new kind of health reimbursement arrangement (HRA), known as an individual coverage HRA (ICHRA). Beginning January 1, 2020, employees are able to use employer-funded ICHRAs to buy individual-market insurance, including insurance purchased on the public exchanges formed under the ACA.
+In addition to efforts by the current administration to expand the flexibility of other insurance plan options that are not required to meet ACA requirements, there have also been efforts to address the ACA's non-deductible tax imposed on health insurers based on prior year net premiums written (the "health insurer fee" or "HIF"). The ACA imposed HIF was $8.0 billion in 2014, and $11.3 billion in each of 2015 and 2016, with increasing annual amounts thereafter. The HIF payable in 2017 was suspended by the Consolidated Appropriations Act for fiscal year 2016; however, a $14.3 billion payment occurred in 2018. Collection of the HIF for 2019 was also suspended, but resumed in 2020 with an anticipated $15.5 billion payment. Congress passed a spending bill in December 2019, which would repeal the health insurance tax indefinitely, effective in 2021. There is continuing litigation pending against the federal government regarding the requirement to reimburse Medicaid managed care organizations for the health insurer fee. If we are not reimbursed by the states for the cost of the HIF (including the associated tax impact), or if we are unable to otherwise adjust our business model to address the current assessment, our results of operations, financial position and cash flows may be materially adversely affected.
+The constitutionality of the ACA itself continues to face judicial challenge. In December 2018, a partial summary judgment ruling in Texas v. United States of America held that the ACA's individual mandate requirement was essential to the ACA, and without it, the remainder of the ACA was invalid (i.e., that it was not "severable" from the ACA). That decision was appealed to the Fifth Circuit, which ruled in December 2019 that the individual mandate was unconstitutional after Congress set the individual mandate penalty to $0, and remanded the case to the district court for additional analysis on the question of severability. The ACA remains in effect until judicial review of the decision is concluded. The ultimate content, timing or effect of any potential future legislation enacted under the current administration or the outcome of the lawsuit cannot be predicted.
+22
+Table of Contents
+These changes and other potential changes involving the functioning of the Health Insurance Marketplace as a result of new legislation, regulation or executive action, could impact our business and results of operations. 
+Any failure to adequately price products offered or reduction in products offered in the Health Insurance Marketplaces may have a negative impact on our results of operations, financial position and cash flow.
+Any failure to adequately price products offered or reduction in products offered in the Health Insurance Marketplaces may have a negative impact on our results of operations, financial position and cash flow. Among other things, due to the repeal of the individual mandate in the Tax Cuts and Jobs Act (TCJA), we may be adversely selected by individuals who have higher acuity levels than those individuals who selected us in the past and healthy individuals may decide to opt out of the pool altogether. In addition, the risk adjustment provisions of the ACA established to apportion risk amongst insurers may not be effective in appropriately mitigating the financial risks related to the Marketplace product, are subject to a high degree of estimation and variability, and are affected by our members' acuity relative to the membership acuity of other insurers. Further, changes in the competitive marketplace over time may exacerbate the uncertainty in these relatively new markets. For example, competitors seeking to gain a foothold in the changing market may introduce pricing that we may not be able to match, which may adversely affect our ability to compete effectively. Competitors may also choose to exit the market altogether or otherwise suffer financial difficulty, which could adversely impact the pool of potential insured, or require us to increase premium rates. Any significant variation from our expectations regarding acuity, enrollment levels, adverse selection, or other assumptions utilized in setting adequate premium rates could have a material adverse effect on our results of operations, financial position and cash flows.
+Our business activities are highly regulated and new laws or regulations or changes in existing laws or regulations or their enforcement or application could force us to change how we operate and could harm our business. 
+Our business is extensively regulated by the states in which we operate and by the federal government. In addition, the managed care industry has received negative publicity that has led to increased legislation, regulation, review of industry practices and private litigation in the commercial sector. Such negative publicity may adversely affect our stock price and damage our reputation in various markets. 
+In each of the jurisdictions in which we operate, we are regulated by the relevant insurance, health and/or human services or government departments that oversee the activities of managed care organizations providing or arranging to provide services to Medicaid, Medicare, Health Insurance Marketplace enrollees or other beneficiaries. For example, our health plan subsidiaries, as well as our applicable specialty companies, must comply with minimum statutory capital and other financial solvency requirements, such as deposit and surplus requirements. 
+The frequent enactment of, changes to, or interpretations of laws and regulations could, among other things: force us to restructure our relationships with providers within our network; require us to implement additional or different programs and systems; restrict revenue and enrollment growth; increase our healthcare and administrative costs; impose additional capital and surplus requirements; and increase or change our liability to members in the event of malpractice by our contracted providers. In addition, changes in political party or administrations at the state or federal level in the United States or internationally may change the attitude towards healthcare programs and result in changes to the existing legislative or regulatory environment.
+Additionally, the taxes and fees paid to federal, state and local governments may increase due to several factors, including: enactment of, changes to, or interpretations of tax laws and regulations, audits by governmental authorities, geographic expansions into higher taxing jurisdictions and the effect of expansions into international markets.
+Our contracts with states may require us to maintain a minimum HBR or may require us to share profits in excess of certain levels. In certain circumstances, our plans may be required to return premiums back to the state in the event profits exceed established levels or HBR does not meet the minimum requirement. Factors that may impact the amount of premium returned to the state include transparent pharmacy pricing and rebate initiatives. Other states may require us to meet certain performance and quality metrics in order to maintain our contract or receive additional or full contractual revenue. 
+23
+Table of Contents
+The governmental healthcare programs in which we participate are subject to the satisfaction of certain regulations and performance standards. There are numerous steps regulators require for continued implementation of the ACA, including the promulgation of a substantial number of potentially more onerous federal regulations. If we fail to effectively implement or appropriately adjust our operational and strategic initiatives with respect to the implementation of healthcare reform, or do not do so as effectively as our competitors, our results of operations may be materially adversely affected. For example, under the ACA, Congress authorized CMS and the states to implement managed care demonstration programs to serve dually eligible beneficiaries to improve the coordination of their care. Participation in these demonstration programs is subject to CMS approval and the satisfaction of conditions to participation, including meeting certain performance requirements. Our inability to improve or maintain adequate quality scores and Star ratings to meet government performance requirements or to match the performance of our competitors could result in limitations to our participation in or exclusion from these or other government programs. Specifically, several of our Medicaid contracts require us to maintain a Medicare health plan. 
+In April 2016, CMS issued final regulations that revised existing Medicaid managed care rules by establishing a minimum MLR standard for Medicaid of 85% and strengthening provisions related to network adequacy and access to care, enrollment and disenrollment protections, beneficiary support information, continued service during beneficiary appeals, and delivery system and payment reform initiatives, among others. CMS subsequently issued a Notice of Proposed Rulemaking on November 8, 2018, advancing CMS' efforts to streamline the Medicaid and CHIP managed care regulatory framework and to pursue a broader strategy to relieve regulatory burdens, support state flexibility and local leadership, and promote transparency, flexibility, and innovation in the delivery of care. Public comments were submitted in January 2019; however, a final rule has yet to be issued. Although we strive to comply with all existing regulations and to meet performance standards applicable to our business, failure to meet these requirements could result in financial fines and penalties. Also, states or other governmental entities may not allow us to continue to participate in their government programs, or we may fail to win procurements to participate in such programs, either of which could materially and adversely affect our results of operations, financial position and cash flows. 
+In addition, as a result of the expansion of our businesses and operations conducted in foreign countries, we face political, economic, legal, compliance, regulatory, operational and other risks and exposures that are unique and vary by jurisdiction. These foreign regulatory requirements with respect to, among other items, environmental, tax, licensing, intellectual property, privacy, data protection, investment, capital, management control, labor relations, and fraud and corruption regulations are different than those faced by our domestic businesses. In addition, we are subject to U.S. laws that regulate the conduct and activities of U.S.-based businesses operating abroad, such as the Foreign Corrupt Practices Act (FCPA). Any failure to comply with laws and regulations governing our conduct outside the United States or to successfully navigate international regulatory regimes that apply to us could adversely affect our ability to market our products and services, which may have a material adverse effect on our business, financial condition and results of operations.
+Our businesses providing pharmacy benefit management and specialty pharmacy services face regulatory and other risks and uncertainties which could materially and adversely affect our results of operations, financial position and cash flows.
+We provide pharmacy benefit management (PBM) and specialty pharmacy services, including through our Envolve Pharmacy Solutions product. These businesses are subject to federal and state laws that govern the relationships of the business with pharmaceutical manufacturers, physicians, pharmacies, customers and consumers. We also conduct business as a mail order pharmacy and specialty pharmacy, which subjects these businesses to extensive federal, state and local laws and regulations. In addition, federal and state legislatures and regulators regularly consider new regulations for the industry that could materially and adversely affect current industry practices, including the receipt or disclosure of rebates from pharmaceutical companies, the development and use of formularies, and the use of average wholesale prices. 
+Our PBM and specialty pharmacy businesses would be materially and adversely affected by an inability to contract on favorable terms with pharmaceutical manufacturers and other suppliers, including with respect to the structuring of rebates and pricing of new specialty and generic drugs. In addition, our PBM and specialty pharmacy businesses could face potential claims in connection with purported errors by our mail order or specialty pharmacies, including in connection with the risks inherent in the authorization, compounding, packaging and distribution of pharmaceuticals and other healthcare products. Disruptions at any of our mail order or specialty pharmacies due to an event that is beyond our control could affect our ability to process and dispense prescriptions in a timely manner and could materially and adversely affect our results of operations, financial position and cash flows.
+24
+Table of Contents
+If any of our government contracts are terminated or are not renewed on favorable terms or at all, or if we receive an adverse finding or review resulting from an audit or investigation, our business may be adversely affected. 
+A substantial portion of our business relates to the provision of managed care programs and selected services to individuals receiving benefits under governmental assistance or entitlement programs. We provide these and other healthcare services under contracts with government entities in the areas in which we operate. Our government contracts are generally intended to run for a fixed number of years and may be extended for an additional specified number of years if the contracting entity or its agent elects to do so. When our contracts with government entities expire, they may be opened for bidding by competing healthcare providers, and there is no guarantee that our contracts will be renewed or extended. Competitors may buy their way into the market by submitting bids with lower pricing. Even if our responsive bids are successful, the bids may be based upon assumptions or other factors which could result in the contracts being less profitable than we had anticipated. Further, our government contracts contain certain provisions regarding eligibility, enrollment and dis-enrollment processes for covered services, eligible providers, periodic financial and informational reporting, quality assurance, timeliness of claims payment and agreement to maintain a Medicare plan in the state and financial standards, among other things, and are subject to cancellation if we fail to perform in accordance with the standards set by regulatory agencies.
+We are also subject to various reviews, audits and investigations to verify our compliance with the terms of our contracts with various governmental agencies, as well as compliance with applicable laws and regulations. Any adverse review, audit or investigation could result in, among other things: cancellation of our contracts; refunding of amounts we have been paid pursuant to our contracts; imposition of fines, penalties and other sanctions on us; loss of our right to participate in various programs; increased difficulty in selling our products and services; loss of one or more of our licenses; lowered quality Star ratings; or required changes to the way we do business. In addition, under government procurement regulations and practices, a negative determination resulting from a government audit of our business practices could result in a contractor being fined, debarred and/or suspended from being able to bid on, or be awarded, new government contracts for a period of time.
+If any of our government contracts are terminated, not renewed, renewed on less favorable terms, or not renewed on a timely basis, or if we receive an adverse finding or review resulting from an audit or investigation, our business and reputation may be adversely impacted, our goodwill could be impaired and our financial position, results of operations or cash flows may be materially affected.
+We contract with independent third-party vendors and service providers who provide services to us and our subsidiaries or to whom we delegate selected functions. Violations of, or noncompliance with, laws and regulations governing our business by such third parties, or governing our dealings with such parties, could, among other things, subject us to additional audits, reviews and investigations and other adverse effects.
+Ineffectiveness of state-operated systems and subcontractors could adversely affect our business. 
+A number of our health plans rely on other state-operated systems or subcontractors to qualify, solicit, educate and assign eligible members into managed care plans. The effectiveness of these state operations and subcontractors can have a material effect on a health plan's enrollment in a particular month or over an extended period. When a state implements either new programs to determine eligibility or new processes to assign or enroll eligible members into health plans, or when it chooses new subcontractors, there is an increased potential for an unanticipated impact on the overall number of members assigned to managed care plans.
+Our investment portfolio may suffer losses which could materially and adversely affect our results of operations or liquidity. 
+ 
+We maintain a significant investment portfolio of cash equivalents and short-term and long-term investments in a variety of securities, which are subject to general credit, liquidity, market and interest rate risks and will decline in value if interest rates increase or one of the issuers' credit ratings is reduced. As a result, we may experience a reduction in value or loss of our investments, which may have a negative adverse effect on our results of operations, liquidity and financial condition.
+25
+Table of Contents
+Execution of our growth strategy may increase costs or liabilities, or create disruptions in our business.
+ 
+Our growth strategy includes, without limitation, the acquisition and expansion of health plans participating in government sponsored healthcare programs and specialty services businesses, contract rights and related assets of other health plans both in our existing service areas and in new markets and start-up operations in new markets or new products in existing markets. We continue to pursue opportunistic acquisitions to expand into new geographies and complementary business lines as well as to augment existing operations, and we may be in discussions with respect to one or multiple targets at any given time. Although we review the records of companies or businesses we plan to acquire, it is possible that we could assume unanticipated liabilities or adverse operating conditions, or an acquisition may not perform as well as expected or may not achieve timely profitability. We also face the risk that we will not be able to effectively integrate acquisitions into our existing operations effectively without substantial expense, delay or other operational or financial problems and we may need to divert more management resources to integration than we planned. 
+In connection with start-up operations and system migrations, we may incur significant expenses prior to commencement of operations and the receipt of revenue. For example, in order to obtain a certificate of authority in most jurisdictions, we must first establish a provider network, have systems in place and demonstrate our ability to administer a state contract and process claims. We may experience delays in operational start dates. As a result of these factors, start-up operations may decrease our profitability. In addition, we are planning to further expand our business internationally and we will be subject to additional risks, including, but not limited to, political risk, an unfamiliar regulatory regime, currency exchange risk and exchange controls, cultural and language differences, foreign tax issues, and different labor laws and practices. 
+If we are unable to effectively execute our growth strategy, our future growth will suffer and our results of operations could be harmed.
+If competing managed care programs are unwilling to purchase specialty services from us, we may not be able to successfully implement our strategy of diversifying our business lines. 
+We are seeking to diversify our business lines into areas that complement our government sponsored health plan business in order to grow our revenue stream and diversify our business. In order to diversify our business, we must succeed in selling the services of our specialty subsidiaries not only to our managed care plans, but to programs operated by third parties. Some of these third-party programs may compete with us in some markets, and they therefore may be unwilling to purchase specialty services from us. In any event, the offering of these services will require marketing activities that differ significantly from the manner in which we seek to increase revenues from our government sponsored programs. Our ineffectiveness in marketing specialty services to third parties may impair our ability to execute our business strategy. 
+Adverse credit market conditions may have a material adverse effect on our liquidity or our ability to obtain credit on acceptable terms.
+ 
+In the past, the securities and credit markets have experienced extreme volatility and disruption. The availability of credit, from virtually all types of lenders, has at times been restricted. In the event we need access to additional capital to pay our operating expenses, fund subsidiary surplus requirements, make payments on or refinance our indebtedness, pay capital expenditures, or fund acquisitions, our ability to obtain such capital may be limited and the cost of any such capital may be significant, particularly if we are unable to access our existing credit facility.
+ 
+Our access to additional financing will depend on a variety of factors such as prevailing economic and credit market conditions, the general availability of credit, the overall availability of credit to our industry, our credit ratings and credit capacity, and perceptions of our financial prospects. Similarly, our access to funds may be impaired if regulatory authorities or rating agencies take negative actions against us. If one or any combination of these factors were to occur, our internal sources of liquidity may prove to be insufficient, and in such case, we may not be able to successfully obtain sufficient additional financing on favorable terms, within an acceptable time, or at all. 
+26
+Table of Contents
+If state regulators do not approve payments of dividends and distributions by our subsidiaries to us, we may not have sufficient funds to implement our business strategy.
+We principally operate through our health plan subsidiaries. As part of normal operations, we may make requests for dividends and distributions from our subsidiaries to fund our operations. In addition to state corporate law limitations, these subsidiaries are subject to more stringent state insurance and HMO laws and regulations that limit the amount of dividends and distributions that can be paid to us without prior approval of, or notification to, state regulators. If these regulators were to deny our subsidiaries' requests to pay dividends, the funds available to us would be limited, which could harm our ability to implement our business strategy.
+We derive a significant portion of our premium revenues from operations in a limited number of states, and our financial position, results of operations or cash flows could be materially affected by a decrease in premium revenues or profitability in any one of those states. 
+Operations in a limited number of states have accounted for a significant portion of our premium revenues to date. If we were unable to continue to operate in any of those states or if our current operations in any portion of one of those states were significantly curtailed, our revenues could decrease materially. Our reliance on operations in a limited number of states could cause our revenues and profitability to change suddenly and unexpectedly depending on legislative or other governmental or regulatory actions and decisions, economic conditions and similar factors in those states. For example, states we currently serve may open the bidding for their Medicaid program to other health insurers through a request for proposal process. Our inability to continue to operate in any of the states in which we operate could harm our business. 
+Competition may limit our ability to increase penetration of the markets that we serve. 
+We compete for members principally on the basis of size and quality of provider networks, benefits provided and quality of service. We compete with numerous types of competitors, including other health plans and traditional state Medicaid programs that reimburse providers as care is provided, as well as technology companies, new joint ventures, financial services firms, consulting firms and other non-traditional competitors. In addition, the administration of the ACA has the potential to shift the competitive landscape in our segment.
+Some of the health plans with which we compete have greater financial and other resources and offer a broader scope of products than we do. In addition, significant merger and acquisition activity has occurred in the managed care industry, as well as complementary industries, such as the hospital, physician, pharmaceutical, medical device and health information systems businesses. To the extent that competition intensifies in any market that we serve, as a result of industry consolidation or otherwise, our ability to retain or increase members and providers, or maintain or increase our revenue growth, pricing flexibility and control over medical cost trends may be adversely affected.
+If we are unable to maintain relationships with our provider networks, our profitability may be harmed. 
+Our profitability depends, in large part, upon our ability to contract at competitive prices with hospitals, physicians and other healthcare providers. Our provider arrangements with our primary care physicians, specialists and hospitals generally may be canceled by either party without cause upon 90 to 120 days prior written notice. We cannot provide any assurance that we will be able to continue to renew our existing contracts or enter into new contracts on a timely basis or under favorable terms enabling us to service our members profitably. Healthcare providers with whom we contract may not properly manage the costs of services, maintain financial solvency or avoid disputes with other providers. Any of these events could have a material adverse effect on the provision of services to our members and our operations.
+27
+Table of Contents
+In any particular market, physicians and other healthcare providers could refuse to contract, demand higher payments, or take other actions that could result in higher medical costs or difficulty in meeting regulatory or accreditation requirements, among other things. In some markets, certain healthcare providers, particularly hospitals, physician/hospital organizations or multi-specialty physician groups, may have significant market positions or near monopolies that could result in diminished bargaining power on our part. In addition, accountable care organizations, practice management companies, which aggregate physician practices for administrative efficiency and marketing leverage, and other organizational structures that physicians, hospitals and other healthcare providers choose may change the way in which these providers interact with us and may change the competitive landscape. Such organizations or groups of healthcare providers may compete directly with us, which could adversely affect our operations, and our results of operations, financial position and cash flows by impacting our relationships with these providers or affecting the way that we price our products and estimate our costs, which might require us to incur costs to change our operations. Provider networks may consolidate, resulting in a reduction in the competitive environment. In addition, if these providers refuse to contract with us, use their market position to negotiate contracts unfavorable to us or place us at a competitive disadvantage, our ability to market products or to be profitable in those areas could be materially and adversely affected. 
+From time to time, healthcare providers assert or threaten to assert claims seeking to terminate non-cancelable agreements due to alleged actions or inactions by us. If we are unable to retain our current provider contract terms or enter into new provider contracts timely or on favorable terms, our profitability may be harmed. In addition, from time to time, we may be subject to class action or other lawsuits by healthcare providers with respect to claim payment procedures or similar matters. For example, our wholly owned subsidiary, Health Net Life Insurance Company (HNL), is and may continue to be subject to such disputes with respect to HNL's payment levels in connection with the processing of out-of-network provider reimbursement claims for the provision of certain substance abuse related services. HNL expects to vigorously defend its claims payment practices. Nevertheless, in the event HNL receives an adverse finding in any related legal proceeding or from a regulator, or is otherwise required to reimburse providers for these claims at rates that are higher than expected or for claims HNL otherwise believes are unallowable, our financial condition and results of operations may be materially adversely affected. In addition, regardless of whether any such lawsuits brought against us are successful or have merit, they will still be time-consuming and costly and could distract our management's attention. As a result, under such circumstances we may incur significant expenses and may be unable to operate our business effectively.
+We may be unable to attract, retain or effectively manage the succession of key personnel. 
+We are highly dependent on our ability to attract and retain qualified personnel to operate and expand our business. We would be adversely impacted if we are unable to adequately plan for the succession of our executives and senior management. While we have succession plans in place for members of our executive and senior management team, these plans do not guarantee that the services of our executive and senior management team will continue to be available to us. Our ability to replace any departed members of our executive and senior management team or other key employees may be difficult and may take an extended period of time because of the limited number of individuals in the Managed Care and Specialty Services industry with the breadth of skills and experience required to operate and successfully expand a business such as ours. Competition to hire from this limited pool is intense, and we may be unable to hire, train, retain or motivate these personnel. If we are unable to attract, retain and effectively manage the succession plans for key personnel, executives and senior management, our business and financial position, results of operations or cash flows could be harmed. 
+If we are unable to integrate and manage our information systems effectively, our operations could be disrupted. 
+Our operations depend significantly on effective information systems. The information gathered and processed by our information systems assists us in, among other things, monitoring utilization and other cost factors, processing provider claims, and providing data to our regulators. Our healthcare providers also depend upon our information systems for membership verifications, claims status and other information. Our information systems and applications require continual maintenance, upgrading and enhancement to meet our operational needs and regulatory requirements. We regularly upgrade and expand our information systems' capabilities. If we experience difficulties with the transition to or from information systems or do not appropriately integrate, maintain, enhance or expand our information systems, we could suffer, among other things, operational disruptions, loss of existing members and difficulty in attracting new members, regulatory problems and increases in administrative expenses. In addition, our ability to integrate and manage our information systems may be impaired as the result of events outside our control, including acts of nature, such as earthquakes or fires, or acts of terrorists. In addition, we may from time to time obtain significant portions of our systems-related or other services or facilities from independent third parties, which may make our operations vulnerable if such third parties fail to perform adequately.
+28
+Table of Contents
+From time to time, we may become involved in costly and time-consuming litigation and other regulatory proceedings, which require significant attention from our management. 
+From time to time, we are a defendant in lawsuits and regulatory actions and are subject to investigations relating to our business, including, without limitation, medical malpractice claims, claims by members alleging failure to pay for or provide healthcare, claims related to non-payment or insufficient payments for out-of-network services, claims alleging bad faith, investigations regarding our submission of risk adjuster claims, putative securities class actions, and claims related to the imposition of new taxes, including but not limited to claims that may have retroactive application. Due to the inherent uncertainties of litigation and regulatory proceedings, we cannot accurately predict the ultimate outcome of any such proceedings. An unfavorable outcome could have a material adverse impact on our business and financial position, results of operations and/or cash flows and may affect our reputation. In addition, regardless of the outcome of any litigation or regulatory proceedings, such proceedings are costly and time consuming and require significant attention from our management, and could therefore harm our business and financial position, results of operations or cash flows.
+An impairment charge with respect to our recorded goodwill and intangible assets could have a material impact on our results of operations. 
+We periodically evaluate our goodwill and other intangible assets to determine whether all or a portion of their carrying values may be impaired, in which case a charge to earnings may be necessary. Changes in business strategy, government regulations or economic or market conditions have resulted and may result in impairments of our goodwill and other intangible assets at any time in the future. Our judgments regarding the existence of impairment indicators are based on, among other things, legal factors, market conditions, and operational performance. For example, the non-renewal of our health plan contracts with the state in which they operate may be an indicator of impairment. If an event or events occur that would cause us to revise our estimates and assumptions used in analyzing the value of our goodwill and other intangible assets, such revision could result in a non-cash impairment charge that could have a material impact on our results of operations in the period in which the impairment occurs.
+If we fail to comply with applicable privacy, security, and data laws, regulations and standards, including with respect to third-party service providers that utilize sensitive personal information on our behalf, our business, reputation, results of operations, financial position and cash flows could be materially and adversely affected. 
+As part of our normal operations, we collect, process and retain confidential member information. We are subject to various federal state and international laws and rules regarding the use and disclosure of confidential member information, including the Health Insurance Portability and Accountability Act of 1996 (HIPAA), the Health Information Technology for Economic and Clinical Health (HITECH) Act of 2009, the Gramm-Leach-Bliley Act, and the EU's GDPR, which require us to protect the privacy of medical records and safeguard personal health information we maintain and use. Certain of our businesses are also subject to the Payment Card Industry Data Security Standard, which is a multifaceted security standard that is designed to protect credit card account data as mandated by payment card industry entities. Despite our best attempts to maintain adherence to information privacy and security best practices, as well as compliance with applicable laws, rules and contractual requirements, our facilities and systems, and those of our third-party service providers, may be vulnerable to privacy or security breaches, acts of vandalism or theft, malware or other forms of cyber-attack, misplaced or lost data including paper or electronic media, programming and/or human errors or other similar events. In the past, we have had data breaches resulting in disclosure of confidential or protected health information that have not resulted in any material financial loss or penalty to date. However, future data breaches could require us to expend significant resources to remediate any damage, interrupt our operations and damage our reputation, subject us to state or federal agency review and could also result in enforcement actions, material fines and penalties, litigation or other actions which could have a material adverse effect on our business, reputation and results of operations, financial position and cash flows. 
+In addition, HIPAA broadened the scope of fraud, waste and abuse laws applicable to healthcare companies. HIPAA established new enforcement mechanisms to combat fraud, waste and abuse, including civil and, in some instances, criminal penalties for failure to comply with specific standards relating to the privacy, security and electronic transmission of protected health information. The HITECH Act expanded the scope of these provisions by mandating individual notification in instances of breaches of protected health information, providing enhanced penalties for HIPAA violations, and granting enforcement authority to states' Attorneys General in addition to the HHS Office for Civil Rights. The HHS Office for Civil Rights received $28.7 million from enforcement actions in 2018, surpassing the previous record of $23.5 million from 2016 by 22 percent. It is possible that Congress may enact additional legislation in the future to increase the amount or application of penalties and to create a private right of action under HIPAA, which could entitle patients to seek monetary damages for violations of the privacy rules.
+29
+Table of Contents
+If we fail to comply with the extensive federal and state fraud, waste and abuse laws, our business, reputation, results of operations, financial position and cash flows could be materially and adversely affected.
+We, along with all other companies involved in public healthcare programs are the subject of fraud, waste and abuse investigations from time to time. The regulations and contractual requirements applicable to participants in these public sector programs are complex and subject to change. Violations of fraud, waste and abuse laws applicable to us could result in civil monetary penalties, criminal fines and imprisonment, and/or exclusion from participation in Medicaid, Medicare, TRICARE and other federal healthcare programs and federally funded state health programs. Fraud, waste and abuse prohibitions encompass a wide range of activities, including kickbacks for referral of members, incorrect and unsubstantiated billing or billing for unnecessary medical services, improper marketing and violations of patient privacy rights. These fraud, waste and abuse laws include the federal False Claims Act, which prohibits the known filing of a false claim or the known use of false statements to obtain payment from the federal government and the federal anti-kickback statute, which prohibits the payment or receipt of remuneration to induce referrals or recommendations of healthcare items or services. Many states have false claim act and anti-kickback statutes that closely resemble the federal False Claims Act and the federal anti-kickback statute. In addition, the Deficit Reduction Act of 2005 encouraged states to enact state-versions of the federal False Claims Act that establish liability to the state for false and fraudulent Medicaid claims and that provide for, among other things, claims to be filed by 
+qui tam
+ relators (private parties acting on the government's behalf). Federal and state governments have made investigating and prosecuting healthcare fraud, waste and abuse a priority. In the event we fail to comply with the extensive federal and state fraud, waste and abuse laws, our business, reputation, results of operations, financial position and cash flows could be materially and adversely affected.
+A failure in or breach of our operational or security systems or infrastructure, or those of third parties with which we do business, including as a result of cyber-attacks, could have an adverse effect on our business. 
+Information security risks have significantly increased in recent years in part because of the proliferation of new technologies, the use of the internet and telecommunications technologies to conduct our operations, and the increased sophistication and activities of organized crime, hackers, terrorists and other external parties, including foreign state agents. Our operations rely on the secure processing, transmission and storage of confidential, proprietary and other information in our computer systems and networks. 
+Security breaches may arise from external or internal threats. External breaches include hacking personal information for financial gain, attempting to cause harm or interruption to our operations, or intending to obtain competitive information. We experience attempted external hacking or malicious attacks on a regular basis. We maintain a rigorous system of prevention and detection controls through our security programs; however, our prevention and detection controls may not prevent or identify all such attacks on a timely basis, or at all. Internal breaches may result from inappropriate security access to confidential information by rogue employees, consultants or third party service providers. Any security breach involving the misappropriation, loss or other unauthorized disclosure or use of confidential member information, financial data, competitively sensitive information, or other proprietary data, whether by us or a third party, could have a material adverse effect on our business reputation, financial condition, cash flows, or results of operations.
+The market price of our common stock may decline as a result of significant acquisitions.
+The market price of our common stock is generally subject to volatility, and there can be no assurances regarding the level or stability of our share price at any time. The market price of our common stock may decline as a result of acquisitions if, among other things, we are unable to achieve the expected growth in earnings, or if the operational cost savings estimates in connection with the integration of acquired businesses with ours are not realized, or if the transaction costs related to the acquisitions and integrations are greater than expected or if any financing related to the acquisitions is on unfavorable terms. The market price also may decline if we do not achieve the perceived benefits of the acquisitions as rapidly or to the extent anticipated by financial or industry analysts or if the effect of the acquisitions on our financial position, results of operations or cash flows is not consistent with the expectations of financial or industry analysts.
+We may be unable to successfully integrate our existing business with acquired businesses, and realize the anticipated benefits of such acquisitions.
+The success of acquisitions we make will depend, in part, on our ability to successfully combine the existing business of Centene with such acquired businesses and realize the anticipated benefits, including synergies, cost savings, growth in earnings, innovation and operational efficiencies, from the combinations. If we are unable to achieve these objectives within the anticipated time frame, or at all, the anticipated benefits may not be realized fully or at all, or may take longer to realize than expected and the value of our common stock may be harmed.
+30
+Table of Contents
+The integration of acquired businesses with our existing business is a complex, costly and time-consuming process. The integration may result in material challenges, including, without limitation:
+•
+the diversion of management's attention from ongoing business concerns and performance shortfalls as a result of the devotion of management's attention to the integration;
+•
+managing a larger company;
+•
+maintaining employee morale and retaining key management and other employees;
+•
+the possibility of faulty assumptions underlying expectations regarding the integration process;
+•
+retaining existing business and operational relationships and attracting new business and operational relationships;
+•
+consolidating corporate and administrative infrastructures and eliminating duplicative operations;
+•
+coordinating geographically separate organizations;
+•
+unanticipated issues in integrating information technology, communications and other systems;
+•
+unanticipated changes in federal or state laws or regulations, including the ACA and any regulations enacted thereunder;
+•
+unforeseen expenses or delays associated with the acquisition and/or integration; and 
+•
+decreases in premiums paid under government sponsored healthcare programs by any state in which we operate.
+Many of these factors will be outside of our control and any one of them could result in delays, increased costs, decreases in the amount of expected revenues and diversion of management's time and energy, which could materially affect our financial position, results of operations and cash flows. Our ability to successfully manage the expanded business following any given acquisition will depend, in part, upon management's ability to design and implement strategic initiatives that address the increased scale and scope of the combined business with its associated increased costs and complexity. There can be no assurances that we will be successful in managing our expanded operations as a result of acquisitions or that we will realize the expected growth in earnings, operating efficiencies, cost savings and other benefits.
+We have substantial indebtedness outstanding and may incur additional indebtedness in the future. Such indebtedness could reduce our agility and may adversely affect our financial condition.
+As of 
+December 31, 2019
+, we had consolidated indebtedness of approximately 
+$13,726 million
+, excluding the notes issued in the exchange offer described below, and we may further increase our indebtedness in the future. In connection with the WellCare Acquisition, we completed an exchange offer for 5.25% Senior Notes due 2025 and 5.375% Senior Notes due 2026 (collectively, the WellCare Notes) issued by WellCare and issued $1,146 million aggregate principal amount of 5.25% Senior Notes due 2025 and $747 million aggregate principal amount of 5.375% Senior Notes due 2026. Additionally, our wholly-owned subsidiary, Wellington Merger Sub II, Inc. assumed the remaining WellCare Notes. This increased indebtedness and any resulting higher debt-to-equity ratio will have the effect, among other things, of reducing our flexibility to respond to changing business and economic conditions and increasing borrowing costs. 
+Among other things, our revolving credit facility and term loan facility (collectively, 
+the Company Credit Agreement)
+ and the indentures governing our notes require us to comply with various covenants that impose restrictions on our operations, including our ability to incur additional indebtedness, create liens, pay dividends, make certain investments or other restricted payments, sell or otherwise dispose of substantially all of our assets and engage in other activities. Our Company Credit Facility also requires us to comply with a maximum debt-to-EBITDA ratio and a minimum fixed charge coverage ratio. These restrictive covenants could limit our ability to pursue our business strategies. In addition, any failure by us to comply with these restrictive covenants could result in an event of default under the Company Credit Facility and, in some circumstances, under the indentures governing our notes, which, in any case, could have a material adverse effect on our financial condition.
+31
+Table of Contents
+Changes in the method pursuant to which the LIBOR rates are determined and potential phasing out of LIBOR after 2021 may affect the value of the financial obligations to be held or issued by us that are linked to LIBOR or our results of operations or financial condition.
+As of 
+December 31, 2019
+, we held $2.1 billion notional amount of interest rate swaps that use the London interbank offered rate (LIBOR) as a reference rate and borrowings under our Company Credit Facility bear interest based upon various reference rates, including LIBOR. On July 27, 2017, the Financial Conduct Authority (the authority that regulates LIBOR) announced that it intends to stop compelling banks to submit rates for the calculation of LIBOR after 2021. It is unclear whether new methods of calculating LIBOR will be established such that it continues to exist after 2021. The U.S. Federal Reserve, in conjunction with the Alternative Reference Rates Committee, a steering committee comprised of large U.S. financial institutions, announced replacement of U.S. dollar LIBOR with a new index calculated by short-term repurchase agreements, backed by U.S. Treasury securities called the Secured Overnight Financing Rate ("SOFR"). The first publication of SOFR was released in April 2018. Whether or not SOFR attains market traction as a LIBOR replacement tool remains in question and the future of LIBOR at this time is uncertain. As a result, it is not possible to predict the effect of any changes, establishment of alternative references rates or other reforms to LIBOR that may be enacted in the U.K. or elsewhere. The elimination of LIBOR or any other changes or reforms to the determination or supervision of LIBOR could have an adverse impact on the market for or value of any LIBOR-linked securities, loans, derivatives and other financial obligations or extensions of credit held by or due to us or on our overall financial condition or results of operations.
+Future issuances and sales of additional shares of preferred or common stock could reduce the market price of our shares of common stock.
+We may, from time to time, issue additional securities to raise capital or in connection with acquisitions. We often acquire interests in other companies by using a combination of cash and our common stock or just our common stock. Further, shares of preferred stock may be issued from time to time in one or more series as our Board of Directors may from time to time determine each such series to be distinctively designated. The issuance of any such preferred stock could materially adversely affect the rights of holders of our common stock. Any of these events may dilute your ownership interest in our company and have an adverse impact on the price of our common stock.
+The WellCare 
+Acquisition
+ may not be accretive and may cause dilution to our earnings per share, which may negatively affect the market price of our common stock.
+Although we currently anticipate that the WellCare 
+Acquisition
+ will be accretive to earnings per share (on an adjusted earnings basis that is not pursuant to GAAP) during the second year after the consummation of the WellCare 
+Acquisition
+, this expectation is based on assumptions about our and WellCare's business and preliminary estimates, which may change materially. Certain other amounts to be paid in connection with the WellCare 
+Acquisition
+ may cause dilution to our earnings per share or decrease or delay the expected accretive effect of the WellCare 
+Acquisition
+ and cause a decrease in the market price of our common stock. In addition, we could encounter additional transaction-related costs or other factors such as the failure to realize all of the benefits anticipated in the WellCare 
+Acquisition
+, including cost and revenue synergies. All of these factors could cause dilution to our earnings per share or decrease or delay the expected accretive effect of the WellCare 
+Acquisition
+ and cause a decrease in the market price of our common stock.
+We may be unable to successfully integrate our business with WellCare and realize the anticipated benefits of the WellCare Acquisition.
+The success of the WellCare Acquisition will depend, in part, on our ability to successfully combine the businesses of Centene and WellCare and realize the anticipated benefits, including synergies, cost savings, innovation and operational efficiencies, from the combination. If we are unable to achieve these objectives within the anticipated time frame, or at all, the anticipated benefits may not be realized fully or at all, or may take longer to realize than expected and the value of its common stock may be harmed. 
+The WellCare Acquisition involves the integration of WellCare's business with our existing business, which is a complex, costly and time-consuming process. We have not previously completed an acquisition comparable in size or scope to the WellCare Acquisition. The integration of the two companies may result in material challenges, including, without limitation:
+•
+the diversion of management's attention from ongoing business concerns and performance shortfalls at one or both of the companies as a result of the devotion of management's attention to the WellCare Acquisition;
+•
+managing a larger company;
+•
+maintaining employee morale and attracting and motivating and retaining management personnel and other key employees;
+•
+the possibility of faulty assumptions underlying expectations regarding the integration process;
+32
+Table of Contents
+•
+retaining existing business and operational relationships and attracting new business and operational relationships;
+•
+consolidating corporate and administrative infrastructures and eliminating duplicative operations;
+•
+coordinating geographically separate organizations;
+•
+unanticipated issues in integrating information technology, communications and other systems;
+•
+unanticipated changes in federal or state laws or regulations, including the ACA and any regulations enacted thereunder;
+•
+unforeseen expenses or delays associated with the WellCare Acquisition; and
+•
+achieving actual cost savings of the WellCare Acquisition at the anticipated levels.
+Many of these factors will be outside of our control and any one of them could result in delays, increased costs, decreases in the amount of expected revenues and diversion of management's time and energy, which could materially affect our financial position, results of operations and cash flows.
+Our future results may be adversely impacted if we do not effectively manage our expanded operations following the completion of the WellCare 
+Acquisition
+.
+Our ability to successfully manage this expanded business following the completion of the WellCare Acquisition will depend, in part, upon management's ability to design and implement strategic initiatives that address not only the integration of two independent stand-alone companies, but also the increased scale and scope of our business with its associated increased costs and complexity. There can be no assurances that we will be successful or that we will realize the expected operating efficiencies, cost savings and other benefits currently anticipated from the WellCare 
+Acquisition
+.
+We are expected to incur substantial expenses related to integration of our business with WellCare.
+We expect to incur substantial expenses in connection with the integration of our business with WellCare. There are a large number of processes, policies, procedures, operations, technologies and systems that must be integrated, including purchasing, accounting and finance, sales, payroll, pricing, revenue management, marketing and benefits. In addition, our and WellCare's businesses will continue to maintain a presence in St. Louis, Missouri and Tampa, Florida, respectively. The substantial majority of these costs will be non-recurring expenses related to the WellCare 
+Acquisition
+ (including financing of the WellCare 
+Acquisition
+), facilities and systems consolidation costs. We may incur additional costs to maintain employee morale and to attract, motivate or retain management personnel and other key employees. We have incurred and will continue to incur Acquisition fees and costs related to formulating integration plans for the combined business, and the execution of these plans may lead to additional unanticipated costs. Additionally, as a result of the WellCare 
+Acquisition
+, rating agencies may take negative actions with regard to the company's credit ratings, which may increase the our financing costs, including in connection with the financing of the WellCare 
+Acquisition
+. 
+The financing arrangements that the we entered into in connection with the WellCare 
+Acquisition
+ may, under certain circumstances, contain restrictions and limitations that could significantly impact the our ability to operate its business.
+We incurred significant new indebtedness in connection with the WellCare 
+Acquisition
+. The agreements governing the indebtedness that we incurred in connection with the WellCare 
+Acquisition
+ contain covenants that, among other things, may, under certain circumstances, place limitations on the dollar amounts paid or other actions relating to:
+•
+payments in respect of, or redemptions or acquisitions of, debt or equity issued by the Company or its subsidiaries, including the payment of dividends on our common stock;
+•
+incurring additional indebtedness;
+•
+incurring guarantee obligations;
+•
+paying dividends;
+•
+creating liens on assets;
+•
+entering into sale and leaseback transactions;
+•
+making investments, loans or advances;
+•
+entering into hedging transactions;
+•
+engaging in mergers, consolidations or sales of all or substantially all of their respective assets; and
+•
+engaging in certain transactions with affiliates. 
+In addition, we are required to maintain a minimum amount of excess availability as set forth in these agreements.
+Our ability to maintain minimum excess availability in future periods will depend on our ongoing financial and operating performance, which in turn will be subject to economic conditions and to financial, market and competitive factors, many of which are beyond our control. The ability to comply with this covenant in future periods will also depend on our ability to successfully implement its overall business strategy and realize the anticipated benefits of the WellCare 
+Acquisition
+, including synergies, cost savings, innovation and operational efficiencies.
+33
+Table of Contents
+Various risks, uncertainties and events beyond our control could affect our ability to comply with the covenants contained in our financing agreements. Failure to comply with any of the covenants in our existing or future financing agreements could result in a default under those agreements and under other agreements containing cross-default provisions. A default would permit lenders to accelerate the maturity of the debt under these agreements and to foreclose upon any collateral securing the debt. Under these circumstances, we might not have sufficient funds or other resources to satisfy all of its obligations. In addition, the limitations imposed by financing agreements on our ability to incur additional debt and to take other actions might significantly impair its ability to obtain other financing.

@@ -1,0 +1,1503 @@
+In addition
+to the other information contained in this report, the following risk factors should be considered carefully in evaluating our business and us: 
+ 
+Our substantial debt could adversely affect our cash flows and limit our flexibility to raise additional capital. 
+ 
+We have a significant amount of debt and expect to incur additional debt to support our growth. As of December 31, 2009, our total indebtedness was approximately $1.5 billion, our stockholders’ equity was $1.2 billion and our
+cash and investments totaled $604.4 million. 
+ 
+Our substantial amount of debt could have important consequences. For example,
+it could: 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+require us to dedicate a substantial portion of our cash flow from operations to make interest and principal payments on our debt, reducing the
+availability of our cash flow to fund future capital expenditures, working capital, execution of our expansion strategy and other general corporate requirements; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+make it more difficult for us to satisfy our obligations under our various debt instruments; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+increase our vulnerability to general adverse economic and industry conditions and adverse changes in governmental regulations;
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+limit our flexibility in planning for, or reacting to, changes in our business and industry, which may place us at a competitive disadvantage compared
+with our competitors; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+limit our ability to borrow additional funds, even when necessary to maintain adequate liquidity, which would also limit our ability to further expand
+our business; and 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+make us more vulnerable to increases in interest rates because of the variable interest rates on some of our borrowings to the extent we have not
+entirely hedged such variable rate debt. 
+ 
+The occurrence of any of the foregoing factors could have a
+material adverse effect on our business, results of operations and financial condition. In addition, the performance of our stock price may trigger events that would require the write-off of a significant portion of our debt issuance costs related
+to our convertible debt, which may have a material adverse effect on our results of operations and financial condition. 
+ 
+In
+addition, of our total indebtedness as of December 31, 2009, $591.3 million was non-convertible senior debt. These are committed facilities, virtually all of which are fully drawn or advanced, for which we are amortizing debt repayments of
+either principal and/or interest only, and we were in compliance with the covenants related to this debt effective December 31, 2009. However, deteriorating market and liquidity conditions may give rise to issues which may impact the
+lenders’ ability to hold these debt commitments to maturity. Accordingly, these lenders of committed and drawn facilities may refuse to fund advances under the undrawn facilities or attempt to call outstanding amounts, even though no call
+provisions exist absent a default. Loss of these facilities would have an adverse effect on our liquidity. 
+ 
+We may also need
+to refinance a portion of our outstanding debt as it matures, such as our $110.0 million Chicago IBX financing, which will ultimately become due in 2012 once we use our remaining extension option, and our $250.0 million 2.50% convertible
+subordinated notes due 2012. There is a risk that we may not be able to refinance existing debt or that the terms of any refinancing may not be as favorable as the terms of our existing debt. Furthermore, if prevailing interest rates or other
+factors at the time of refinancing result in higher interest rates upon refinancing, then the interest expense relating to that refinanced indebtedness would increase. These risks could materially adversely affect our financial condition, cash flows
+and results of operations. 
+ 
+ 
+
+13 
+
+Table of Contents
+
+Acquisitions present many risks, and we may not realize the financial or strategic goals that were
+contemplated at the time of any transaction. 
+ 
+In October 2009, we announced that we had entered into an agreement to
+acquire Switch and Data in a transaction valued at approximately $689.0 million at the time of announcement. Over the last several years, we have completed several other acquisitions (including our acquisitions of IXEurope plc in 2007, Virtu Secure
+Webservices B.V. in 2008 and Upminster GmbH in 2009). We may make additional acquisitions in the future, which may include acquisitions of businesses, products, services or technologies that we believe to be complementary, as well as acquisitions of
+new IBX data centers or real estate for development of new IBX data centers. We may pay for future acquisitions by using our existing cash resources (which may limit other potential uses of our cash), incurring additional debt (which may increase
+our interest expense, leverage and debt service requirements) and/or issuing shares (which may dilute our existing stockholders and have a negative effect on our earnings per share). Acquisitions expose us to several potential risks, including:
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the possible disruption of our ongoing business and diversion of management’s attention by acquisition, transition and integration activities;
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+our potential inability to successfully pursue or realize some or all of the anticipated revenue opportunities associated with an acquisition;
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the possibility that we may not be able to successfully integrate acquired businesses or achieve anticipated operating efficiencies or cost savings;
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the possibility that announced acquisitions may not be completed, due to failure to satisfy the conditions to closing or for other reasons;
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the dilution of our existing stockholders as a result of our issuing stock in transactions such as our acquisition of Switch and Data, where 80% of the
+consideration payable to Switch and Data’s stockholders will consist of shares of our common stock; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the possibility of customer dissatisfaction if we are unable to achieve levels of quality and stability on par with past practices;
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the possibility that our customers may not accept either the existing equipment infrastructure or the “look-and-feel” of a new or different
+IBX data center; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the possibility that additional capital expenditures may be required or that transaction expenses associated with acquisitions may be higher than
+anticipated; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the possibility that required financing to fund the requirements of an acquisition may not be available on acceptable terms or at all;
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the possibility that we may be unable to obtain required approvals from governmental authorities under antitrust and competition laws on a timely basis
+or at all, which could, among other things, delay or prevent us from completing an acquisition, limit our ability to realize the expected financial or strategic benefits of an acquisition or have other adverse effects on our current business and
+operations; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the possible loss or reduction in value of acquired businesses; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the possibility that carriers may find it cost-prohibitive or impractical to bring fiber and networks into a new IBX data center;
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the possibility of litigation or other claims in connection with or as a result of an acquisition, including claims from terminated employees,
+customers, former stockholders or other third parties; and 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the possibility of pre-existing undisclosed liabilities, including but not limited to environmental or asbestos liability, for which insurance coverage
+may be insufficient or unavailable. 
+ 
+ 
+
+14 
+
+Table of Contents
+
+The occurrence of any of these risks could have a material adverse effect on our business,
+results of operations, financial condition or cash flows. 
+ 
+We cannot assure you that the price for any future acquisitions of
+IBX data centers will be similar to prior IBX data center acquisitions. In fact, we expect acquisition costs, including capital expenditures required to build or render new IBX data centers operational, to increase in the future. If our revenue does
+not keep pace with these potential acquisition and expansion costs, we may not be able to maintain our current or expected margins as we absorb these additional expenses. There is no assurance we would successfully overcome these risks or any other
+problems encountered with these acquisitions. 
+ 
+We may not receive clearance from the Department of Justice to consummate the acquisition of
+Switch and Data. 
+ 
+In October 2009, we announced that we had entered into an agreement to acquire Switch and Data in a
+transaction valued at approximately $689.0 million at the time of announcement. In January 2010, the stockholders of Switch and Data voted in favor of the transaction. There are several remaining conditions to the closing of the transaction,
+including the clearance of the transaction by the Department of Justice under the Hart-Scott-Rodino Act. The Department of Justice has issued a second request in which it has requested a substantial number of documents from us and Switch and Data in
+order to complete its review of the transaction. While we expect to be in a position to close the transaction in the second quarter of 2010, there can be no assurance that we will be able to do so. Furthermore, the Department of Justice could
+determine that it will bring a suit if we attempt to close the transaction. In addition, the Department of Justice could impose conditions upon its clearance of the transaction, such as the divestiture of certain assets, which could make the
+acquisition of Switch and Data less attractive to us. Accordingly, there can be no assurance that we will be able to consummate the acquisition of Switch and Data in a timely manner or at all, or that conditions will not be imposed on the
+consummation of the transaction that result in our concluding that we do not wish to consummate it. 
+ 
+The uncertain economic environment may
+continue to have an impact on our business and financial condition. 
+ 
+The uncertain economic environment could have an
+adverse effect on our liquidity. Customer collections are our primary source of cash. While we believe we have a strong customer base and have continued to experience strong collections, if the current market conditions were to worsen, some of our
+customers may have difficulty paying us and we may experience increased churn in our customer base, including reductions in their commitments to us. We may also be required to further increase our allowance for doubtful accounts and our results
+would be negatively impacted. Our sales cycle could also continue to be lengthened if customers slow spending, or delay decision-making, on our products and services, which could adversely affect our revenue growth. Finally, we could also experience
+pricing pressure as a result of economic conditions if our competitors lower prices and attempt to lure away our customers with lower cost solutions. 
+ 
+The uncertain economic environment could also have an impact on our foreign exchange forward contract and interest rate swap hedging contracts if our counterparties’ credit deteriorates further or
+they are otherwise unable to perform their obligations. 
+ 
+Finally, our ability to access the capital markets may be severely
+restricted at a time when we would like, or need, to do so which could have an impact on our flexibility to pursue additional expansion opportunities and maintain our desired level of revenue growth in the future. 
+ 
+If we are not able to generate sufficient operating cash flows or obtain external financing, our ability to fund incremental expansion plans may be
+limited. 
+ 
+Our capital expenditures, together with ongoing operating expenses and obligations to service our debt, will be a
+substantial drain on our cash flow and may decrease our cash balances. Additional debt or equity financing
+
+ 
+ 
+
+15 
+
+Table of Contents
+
+may not be available when needed or, if available, may not be available on satisfactory terms. Our inability to obtain additional debt and/or equity financing or to generate sufficient cash from
+operations may require us to prioritize projects or curtail capital expenditures which could adversely affect our results of operations. 
+ 
+Fluctuations in foreign currency exchange rates in the markets in which we operate internationally could harm our results of operations. 
+ 
+We may experience gains and losses resulting from fluctuations in foreign currency exchange rates. To date, the majority of our revenues and costs are denominated in U.S. dollars; however, the majority of
+revenues and costs in our international operations are denominated in foreign currencies. Where our prices are denominated in U.S. dollars, our sales could be adversely affected by declines in foreign currencies relative to the U.S. dollar, thereby
+making our products and services more expensive in local currencies. We are also exposed to risks resulting from fluctuations in foreign currency exchange rates in connection with our international expansions. To the extent we are paying contractors
+in foreign currencies, our expansions could cost more than anticipated as a result of declines in the U.S dollar relative to foreign currencies. In addition, fluctuating foreign currency exchange rates have a direct impact on how our international
+results of operations translate into U.S. dollars. 
+ 
+Although we have in the past, and may decide in the future, to undertake
+foreign exchange hedging transactions to reduce foreign currency transaction exposure, we do not currently intend to eliminate all foreign currency transaction exposure. For example, while we hedge certain of our foreign currency assets and
+liabilities on our consolidated balance sheet, we do not hedge revenue. During fiscal 2007 and the first half of 2008, the U.S. dollar had been generally weaker relative to certain of the currencies of the foreign countries in which we operate. This
+overall weakness of the U.S. dollar had a positive impact on our consolidated results of operations because the foreign denominations translated into more U.S. dollars. However, during the second half of 2008 and through the first quarter of 2009,
+the U.S. dollar strengthened relative to certain of the currencies of the foreign countries in which we operate. This significantly impacted our consolidated financial position and results of operations as amounts in foreign currencies are generally
+translating into less U.S. dollars. During the last three quarters of 2009, the U.S. dollar weakened again relative to certain of the currencies of the foreign countries in which we operate, which had a positive impact to our results of operations.
+In future periods, strengthening of the U.S. dollar could have a negative impact on our consolidated financial position and results of operations including the amount of revenue that we report in future periods. For additional information on foreign
+currency risk, refer to our discussion of foreign currency risk in “Quantitative and Qualitative Disclosures About Market Risk” included in Item 7A of this Annual Report. 
+ 
+We are continuing to invest in our expansion efforts but may not have sufficient customer demand in the future to realize expected returns on these investments. 
+ 
+We are considering the acquisition or lease of additional properties and the construction of new IBX data centers beyond those expansion
+projects already announced. We will be required to commit substantial operational and financial resources to these IBX data centers, generally 12 to 18 months in advance of securing customer contracts, and we may not have sufficient customer demand
+in those markets to support these centers once they are built. In addition, unanticipated technological changes could affect customer requirements for data centers and we may not have built such requirements into our new IBX data centers. Either of
+these contingencies, if they were to occur, could make it difficult for us to realize expected or reasonable returns on these investments. 
+ 
+Our products and services have a long sales cycle that may harm our revenues and operating results. 
+ 
+A
+customer’s decision to license cabinet space in one of our IBX data centers and to purchase additional services typically involves a significant commitment of resources. In addition, some customers will be reluctant to commit to locating in our
+IBX data centers until they are confident that the IBX data center has adequate carrier connections. As a result, we have a long sales cycle. Furthermore, we may expend significant time and resources in pursuing a particular sale or customer that
+does not result in revenue. 
+ 
+ 
+
+16 
+
+Table of Contents
+
+The current economic downturn may further impact this long sales cycle by making it
+extremely difficult for customers to accurately forecast and plan future business activities. This could cause customers to slow spending, or delay decision-making, on our products and services, which would delay and lengthen our sales cycle.
+
+ 
+Delays due to the length of our sales cycle may materially and adversely affect our revenues and operating results, which
+could harm our ability to meet our forecasts for a given quarter and cause volatility in our stock price. 
+ 
+We have incurred substantial
+losses in the past and may incur additional losses in the future. 
+ 
+As of December 31, 2009, our accumulated deficit
+was $386.0 million. Although we have generated net income since 2008, our first full year of net income since our inception, we are also currently investing heavily in our future growth through the build-out of several additional IBX data centers
+and IBX data center expansions. As a result, we will incur higher depreciation and other operating expenses, as well as interest expense, that may negatively impact our ability to sustain profitability in future periods unless and until these new
+IBX data centers generate enough revenue to exceed their operating costs and cover our additional overhead needed to scale our business for this anticipated growth. The current global financial crisis may also impact our ability to sustain
+profitability if we cannot generate sufficient revenue to offset the increased costs of our recently-opened IBX data centers or IBX data centers currently under construction. In addition, costs associated with the acquisition and integration of any
+acquired companies, as well as the additional interest expense associated with debt financing we have undertaken to fund our growth initiatives, may also negatively impact our ability to sustain profitability. Finally, given the competitive and
+evolving nature of the industry in which we operate, we may not be able to sustain or increase profitability on a quarterly or annual basis. 
+ 
+Any failure of our physical infrastructure or services could lead to significant costs and disruptions that could reduce our revenue and harm our business reputation and financial results. 
+ 
+Our business depends on providing customers with highly reliable service. We must protect our customers’ IBX infrastructure and their
+equipment located in our IBX data centers. Furthermore, we continue to acquire IBX data centers not built by us. If we discover that these IBX data centers and their infrastructure assets are not in the condition we expected when they were acquired,
+we may be required to incur substantial additional costs to repair or upgrade the centers. The services we provide in each of our IBX data centers are subject to failure resulting from numerous factors, including: 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+human error; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+equipment failure; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+physical, electronic and cybersecurity breaches; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+fire, earthquake, flood, tornados and other natural disasters; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+extreme temperatures; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+water damage; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+fiber cuts; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+power loss; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+terrorist acts; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+sabotage and vandalism; and 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+failure of business partners who provide our resale products. 
+ 
+Problems at one or more of our IBX data centers, whether or not within our control, could result in service interruptions or significant
+equipment damage. We have service level commitment obligations to certain of our customers, including our significant customers. As a result, service interruptions or significant equipment
+
+ 
+ 
+
+17 
+
+Table of Contents
+
+damage in our IBX data centers could result in difficulty maintaining service level commitments to these customers and potential claims related to such failures. Because our IBX data centers are
+critical to many of our customers’ businesses, service interruptions or significant equipment damage in our IBX data centers could also result in lost profits or other indirect or consequential damages to our customers. We cannot guarantee that
+a court would enforce any contractual limitations on our liability in the event that one of our customers brings a lawsuit against us as the result of a problem at one of our IBX data centers. 
+ 
+We may incur significant liability to our customers in connection with a loss of power or our failure to meet other service level commitment
+obligations, or if we are held liable for a substantial damage award. In addition, any loss of service, equipment damage or inability to meet our service level commitment obligations could reduce the confidence of our customers and could
+consequently impair our ability to obtain and retain customers, which would adversely affect both our ability to generate revenues and our operating results. 
+ 
+Furthermore, we are dependent upon Internet service providers, telecommunications carriers and other website operators in the U.S., Asia-Pacific region, Europe and elsewhere, some of which have
+experienced significant system failures and electrical outages in the past. Users of our services may in the future experience difficulties due to system failures unrelated to our systems and services. If for any reason, these providers fail to
+provide the required services, our business, financial condition and results of operations could be materially and adversely impacted. 
+ 
+Our
+construction of additional new IBX data centers could involve significant risks to our business. 
+ 
+In order to sustain our
+growth in certain of our existing and new markets, we must acquire suitable land with or without structures to build new IBX data centers from the ground up. We call these “greenfield builds.” Greenfield builds are currently underway, or
+being contemplated, in several key markets. A greenfield build involves substantial planning and lead-time, much longer time to completion than an IBX retrofit of an existing data center, and significantly higher costs of construction, equipment and
+materials, which could have a negative impact on our returns. A greenfield build also requires us to carefully select and rely on the experience of one or more general contractors and associated subcontractors during the construction process. Should
+a general contractor or significant subcontractor experience financial or other problems during the construction process, we could experience significant delays, increased costs to complete the project and other negative impacts to our expected
+returns. Site selection is also a critical factor in our expansion plans, and there may not be suitable properties available in our markets with the necessary combination of high power capacity and fiber connectivity. 
+ 
+While we may prefer to locate new IBX data centers adjacent to our existing locations, we may be limited by the inventory and location of
+suitable properties, as well as by the need for adequate power and fiber to the site. In the event we decide to build new IBX data centers separate from our existing IBX data centers, we may provide services to interconnect these two centers. Should
+these services not provide the necessary reliability to sustain service, this could result in lower interconnection revenue and lower margins and could have a negative impact on customer retention over time. 
+ 
+Environmental regulations may impose upon us new or unexpected costs. 
+ 
+We are subject to various federal, state, local and foreign environmental and health and safety laws and regulations, including those relating to the generation, storage, handling and disposal of
+hazardous substances and wastes. Certain of these laws and regulations also impose joint and several liability, without regard to fault, for investigation and cleanup costs on current and former owners and operators of real property and persons who
+have disposed of or released hazardous substances into the environment. Our operations involve the use of hazardous substances and materials such as petroleum fuel for emergency generators, as well as batteries, cleaning solutions and other
+materials. In addition, we lease, own or operate real property at which hazardous substances and regulated materials have been used in the past. At some of our locations, hazardous substances or
+
+ 
+ 
+
+18 
+
+Table of Contents
+
+regulated materials are known to be present in soil or groundwater and there may be additional unknown hazardous substances or regulated materials present at sites we own, operate or lease. At
+some of our locations, there are land use restrictions in place relating to earlier environmental cleanups that do not materially limit our use of the sites. To the extent any hazardous substances or any other substance or material must be cleaned
+up or removed from our property, we may be responsible under applicable laws, regulations or leases for the removal or cleanup of such substances or materials, the cost of which could be substantial. 
+ 
+In addition, we are subject to environmental, health and safety laws regulating air emissions, storm water management and other issues
+arising in our business. While these obligations do not normally impose material costs upon our operations, unexpected events, equipment malfunctions and human error, among other factors, can lead to violations of environmental laws, regulations or
+permits. Furthermore, environmental laws and regulations change frequently and may require additional investment to maintain compliance. Noncompliance with existing, or adoption of more stringent, environmental or health and safety laws and
+regulations or the discovery of previously unknown contamination could require us to incur costs or become the basis of new or increased liabilities that could be material. 
+ 
+Fossil fuel combustion creates greenhouse gas emissions that are linked to global climate change. Regulations to limit greenhouse gas
+emissions are in force in the European Union in an effort to prevent or reduce climate change. In the United States, federal legislative proposals are being actively considered that would, if adopted, implement some form of regulation or taxation to
+reduce or mitigate greenhouse gas (“GHG”) emissions. In addition, the U.S. Environmental Protection Agency (“EPA”) is taking steps towards using its existing authority under the Clean Air Act to regulate greenhouse gas emissions.
+Among other steps, EPA published the final rule for the “endangerment finding” on December 15, 2009, which declares that GHG emissions cause global warming and that global warming endangers the public health and welfare. This finding
+will lead to regulation of GHG emissions from various sources, potentially affecting facilities like the data centers we operate. 
+ 
+Several states within the United States have adopted laws intended to limit fossil fuel consumption and/or encourage renewable energy development for the same purpose. For example, California enacted AB-32, the Global Warming Solutions Act
+of 2006, prescribing a statewide cap on global warming pollution with a goal of reaching 1990 greenhouse gas emission levels by 2020 and 80% below 1990 levels by 2050 and establishing a mandatory emissions reporting program. 
+ 
+Federal, regional, state and international regulatory programs are still developing. In their final form, they may include a tax on carbon,
+a carbon “cap-and-trade” market, and/or other restrictions on carbon and greenhouse gas emissions. The area of greenhouse gas limitations and regulation is rapidly changing and will continue to change as additional legislation is
+considered and adopted, and regulations are finalized that implement existing law. 
+ 
+We do not anticipate that climate
+change-related laws and regulations would directly limit the emissions of greenhouse gases by our operations. We could, however, be directly subject to taxes, fees or costs, or could indirectly be required to reimburse electricity providers for such
+costs that would represent the amount of greenhouse gases we emit. The expected controls on greenhouse gas emissions are likely to increase the costs of electricity or fossil fuels, and these cost increases could materially increase our costs of
+operation or limit the availability of electricity or emergency generator fuels. The physical impacts of climate change, including extreme weather conditions such as heat waves, could materially increase our costs of operation due to, for example,
+an increase in our energy use in order to maintain the temperature and internal environment of our data centers necessary for our operations. To the extent any environmental laws enacted or regulations passed by the United States, or any domestic or
+foreign jurisdiction we perform business in, impose new or unexpected costs, our business, results of operations or financial condition may be adversely affected. 
+ 
+ 
+
+19 
+
+Table of Contents
+
+We may not be able to compete successfully against current and future competitors. 
+ 
+Our IBX data centers and other products and services must be able to differentiate themselves from those of other providers of space and
+services for telecommunications companies, webhosting companies and other colocation providers. In addition to competing with neutral colocation providers, we must compete with traditional colocation providers, including telecom companies, carriers,
+Internet service providers and webhosting facilities. Similarly, with respect to our other products and services, including managed services, bandwidth services and security services, we must compete with more established providers of similar
+services. Most of these companies have longer operating histories and significantly greater financial, technical, marketing and other resources than us. 
+ 
+Because of their greater financial resources, some of our competitors have the ability to adopt aggressive pricing policies, especially if they have been able to restructure their debt or other
+obligations. As a result, in the future, we may suffer from pricing pressure that would adversely affect our ability to generate revenues and adversely affect our operating results. In addition, these competitors could offer colocation on neutral
+terms, and may start doing so in the same metropolitan areas in which we have IBX data centers. Some of these competitors may also provide our target customers with additional benefits, including bundled communication services, and may do so in a
+manner that is more attractive to our potential customers than obtaining space in our IBX data centers. If these competitors were able to adopt aggressive pricing policies together with offering colocation space, our ability to generate revenues may
+be materially and adversely affected. 
+ 
+We may also face competition from persons seeking to replicate our IBX data center
+concept by building new IBX data centers or converting existing IBX data centers that some of our competitors are in the process of divesting. We may continue to see increased competition for data center space and customers from large REITS who also
+operate in our market. We may experience competition from our landlords, some of which are REITS, in this regard. Rather than leasing available space in our buildings to large single tenants, they may decide to convert the space instead to smaller
+square foot units designed for multi-tenant colocation use. Landlords/REITS may enjoy a cost effective advantage in providing services similar to those provided by our IBX data centers, and in addition to the risk of losing customers to these
+parties, this could also reduce the amount of space available to us for expansion in the future. Competitors may operate more successfully or form alliances to acquire significant market share. Furthermore, enterprises that have already invested
+substantial resources in outsourcing arrangements may be reluctant or slow to replace, limit or compete with their existing systems by becoming a customer. Customers may also decide it is cost-effective for them to build out their own data centers,
+which could have a negative impact on our results of operations. In addition, other companies may be able to attract the same potential customers that we are targeting. Once customers are located in competitors’ facilities, it may be extremely
+difficult to convince them to relocate to our IBX data centers. 
+ 
+The market price of our stock may continue to be highly volatile, and the
+value of an investment in our common stock may decline. 
+ 
+Since January 1, 2008, the closing sale price of our common
+stock on the NASDAQ Global Select Market has ranged from $35.14 to $108.11 per share. The market price of the shares of our common stock has been and may continue to be highly volatile. General economic and market conditions, and market conditions
+for telecommunications stocks in general, may affect the market price of our common stock. 
+ 
+Announcements by others or us may
+also have a significant impact on the market price of our common stock. These announcements may relate to: 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+our operating results or forecasts; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+new issuances of equity, debt or convertible debt by us; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+developments in our relationships with corporate customers; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+announcements by our customers or competitors; 
+ 
+ 
+
+20 
+
+Table of Contents
+
+ 
+
+•
+
+ 
+
+ 
+changes in regulatory policy or interpretation; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+governmental investigations; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+changes in the ratings of our stock by securities analysts; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+our purchase or development of real estate and/or additional IBX data centers; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+acquisitions by us of complementary businesses, including developments with respect to our pending acquisition of Switch and Data; or
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the operational performance of our IBX data centers. 
+ 
+The stock market has from time to time experienced extreme price and volume fluctuations, which have particularly affected the market prices for emerging telecommunications companies, and which have often
+been unrelated to their operating performance. These broad market fluctuations may adversely affect the market price of our common stock. 
+ 
+Our business could be harmed by prolonged electrical power outages or shortages, increased costs of energy or general lack of availability of electrical resources. 
+ 
+Our IBX data centers are susceptible to regional costs of power, electrical power shortages, planned or unplanned power outages and
+limitations, especially internationally, on the availability of adequate power resources. 
+ 
+Power outages, such as those that
+occurred in California during 2001, the Northeast in 2003, and from the tornados on the U.S. east coast in 2004, could harm our customers and our business. We attempt to limit exposure to system downtime by using backup generators and power
+supplies; however, we may not be able to limit our exposure entirely even with these protections in place, as was the case with the power outages we experienced in our Chicago and Washington, D.C. metro area IBX data centers in 2005, London metro
+area IBX data centers in 2007 and Paris metro area IBX data centers in 2009. 
+ 
+In addition, global fluctuations in the price of
+power can increase the cost of energy, and although contractual price increase clauses exist in the majority of our customer agreements, we may not always choose to pass these increased costs on to our customers. 
+ 
+In each of our markets, we rely on third parties to provide a sufficient amount of power for current and future customers. At the same time,
+power and cooling requirements are growing on a per unit basis. As a result, some customers are consuming an increasing amount of power per cabinet. We generally do not control the amount of electric power our customers draw from their installed
+circuits. This means that we could face power limitations in our centers. This could have a negative impact on the effective available capacity of a given center and limit our ability to grow our business, which could have a negative impact on our
+financial performance, operating results and cash flows. 
+ 
+We may also have difficulty obtaining sufficient power capacity for
+potential expansion sites in new or existing markets. We may experience significant delays and substantial increased costs demanded by the utilities to provide the level of electrical service required by our current IBX data center designs.
+
+ 
+We are exposed to potential risks from errors in our financial reporting systems and controls, including the potential for material
+misstatements in our consolidated financial statements. 
+ 
+Section 404 of the Sarbanes-Oxley Act of 2002 requires
+companies to evaluate their internal controls over financial reporting. Although we received an unqualified opinion regarding the effectiveness of our internal controls over financial reporting as of December 31, 2009, in the course of our
+ongoing evaluation we have identified certain areas where we would like to improve and we are in the process of evaluating and designing enhanced processes and controls to address such areas, none of which we believe constitutes a material change.
+
+ 
+ 
+
+21 
+
+Table of Contents
+
+However, we cannot be certain that our efforts will be effective or sufficient for us, or our independent registered public accounting firm, to issue unqualified reports in the future, especially
+as our business continues to grow and evolve and as we acquire other businesses. 
+ 
+Our ability to manage our operations and
+growth will require us to improve our operational, financial and management controls, as well as our internal reporting systems and controls. We may not be able to implement improvements to our internal reporting systems and controls in an efficient
+and timely manner and have in the past, and may in the future, discover deficiencies in existing systems and controls. In addition, internal reporting systems and controls are subject to human error. Any such deficiencies could result in material
+misstatements in our consolidated financial statements, which might involve restating previously issued financial statements. Additionally, as we expand, we will need to implement new systems to support our financial reporting systems and controls.
+We may not be able to implement these systems such that errors would not be identified in a timely manner, which could result in material misstatements in our consolidated financial statements. 
+ 
+If we cannot effectively manage our international operations, and successfully implement our international expansion plans, our revenues may not increase
+and our business and results of operations would be harmed. 
+ 
+For the years ended December 31, 2009, 2008 and 2007, we
+recognized 39%, 37% and 23%, respectively, of our revenues outside the United States. 
+ 
+To date, the network neutrality of our
+IBX data centers and the variety of networks available to our customers has often been a competitive advantage for us. In certain of our acquired IBX data centers in the Asia-Pacific region the limited number of carriers available reduces that
+advantage. As a result, we may need to adapt our key revenue-generating services and pricing to be competitive in those markets. In addition, we are currently undergoing expansions or evaluating expansion opportunities in Europe and in the
+Asia-Pacific region. Undertaking and managing expansions in foreign jurisdictions may present unanticipated challenges to us. 
+ 
+Our international operations are generally subject to a number of additional risks, including: 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the costs of customizing IBX data centers for foreign countries; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+protectionist laws and business practices favoring local competition; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+greater difficulty or delay in accounts receivable collection; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+difficulties in staffing and managing foreign operations, including negotiating with foreign labor unions or workers’ councils;
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+political and economic instability; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+fluctuations in currency exchange rates; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+difficulties in repatriating funds from certain countries; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+our ability to obtain, transfer, or maintain licenses required by governmental entities with respect to our business; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+unexpected changes in regulatory, tax and political environments; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+our ability to secure and maintain the necessary physical and telecommunications infrastructure; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+compliance with the Foreign Corrupt Practices Act; and 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+compliance with evolving governmental regulation with which we have little experience. 
+ 
+In addition, compliance with international and U.S. laws and regulations that apply to our international operations increases our cost of
+doing business in foreign jurisdictions. These laws and regulations include data privacy requirements, labor relations laws, tax laws, anti-competition regulations, import and trade restrictions, export requirements, U.S. laws such as the Foreign
+Corrupt Practices Act, and local laws which also prohibit corrupt payments to governmental officials. Violations of these laws and regulations could result in fines, criminal sanctions against us, our officers or our employees, and prohibitions on
+the conduct of our business. Any such violations could include prohibitions on our ability to offer our services in one or more countries, could
+
+ 
+ 
+
+22 
+
+Table of Contents
+
+delay or prevent potential acquisitions, and could also materially damage our reputation, our brand, our international expansion efforts, our ability to attract and retain employees, our business
+and our operating results. Our success depends, in part, on our ability to anticipate and address these risks and manage these difficulties. 
+ 
+The increased use of high power density equipment may limit our ability to fully utilize our IBX data centers. 
+ 
+Customers are increasing their use of high-density electrical power equipment, such as blade servers, in our IBX data centers which has significantly increased the demand for power on a per cabinet basis. Because many of our IBX data
+centers were built a number of years ago, the current demand for electrical power may exceed the designed electrical capacity in these centers. As electrical power, not space, is typically the limiting factor in our IBX data centers, our ability to
+fully utilize those IBX data centers may be limited. The availability of sufficient power may also pose a risk to the successful operation of our new IBX data centers. The ability to increase the power capacity of an IBX data center, should we
+decide to, is dependent on several factors including, but not limited to, the local utility’s ability to provide additional power; the length of time required to provide such power; and/or whether it is feasible to upgrade the electrical
+infrastructure of an IBX data center to deliver additional power to customers. Although we are currently designing and building to a much higher power specification, there is a risk that demand will continue to increase and our IBX data centers
+could become obsolete sooner than expected. 
+ 
+We expect our operating results to fluctuate. 
+ 
+We have experienced fluctuations in our results of operations on a quarterly and annual basis. The fluctuations in our operating results may
+cause the market price of our common stock to be volatile. We expect to experience significant fluctuations in our operating results in the foreseeable future due to a variety of factors, including, but not limited to: 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+fluctuations of foreign currencies in the markets in which we operate; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the timing and magnitude of capital expenditures, financing or other expenses related to the acquisition, purchase or construction of additional IBX
+data centers or the upgrade of existing IBX data centers; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+demand for space, power and services at our IBX data centers; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+changes in general economic conditions, such as the current economic downturn, and specific market conditions in the telecommunications and Internet
+industries, both of which may have an impact on our customer base; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+charges to earnings resulting from past acquisitions due to, among other things, impairment of goodwill or intangible assets, reduction in the useful
+lives of intangible assets acquired, identification of additional assumed contingent liabilities or revised estimates to restructure an acquired company’s operations; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the duration of the sales cycle for our services; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+restructuring charges or reversals of existing restructuring charges, which may be necessary due to revised sublease assumptions, changes in strategy
+or otherwise; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+acquisitions or dispositions we may make, including developments with respect to our pending acquisition of Switch and Data;
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the financial condition and credit risk of our customers; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the provision of customer discounts and credits; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the mix of current and proposed products and services and the gross margins associated with our products and services; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the timing required for new and future centers to open or become fully utilized; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+competition in the markets in which we operate; 
+ 
+ 
+
+23 
+
+Table of Contents
+
+ 
+
+•
+
+ 
+
+ 
+conditions related to international operations; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+increasing repair and maintenance expenses in connection with aging IBX data centers; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+lack of available capacity in our existing IBX data centers to generate new revenue or delays in opening up new or acquired IBX data centers that delay
+our ability to generate new revenue in markets which have otherwise reached capacity; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+changes in rent expense as we amend our IBX data center leases in connection with extending their lease terms when their initial lease term expiration
+dates approach; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the timing and magnitude of other operating expenses, including taxes, expenses related to the expansion of sales, marketing, operations and
+acquisitions, if any, of complementary businesses and assets; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the cost and availability of adequate public utilities, including power; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+changes in employee stock-based compensation; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+overall inflation; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+increasing interest expense due to any increases in interest rates and/or potential additional debt financings; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+changes in income tax benefit or expense; and 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+changes in or new generally accepted accounting principles (GAAP) in the U.S. as periodically released by the Financial Accounting Standards Board
+(FASB). 
+ 
+Any of the foregoing factors, or other factors discussed elsewhere in this report, could have a
+material adverse effect on our business, results of operations and financial condition. Although we have experienced growth in revenues in recent quarters, this growth rate is not necessarily indicative of future operating results. Prior to 2008, we
+had generated net losses every fiscal year since inception. It is possible that we may not be able to generate net income on a quarterly or annual basis in the future. In addition, a relatively large portion of our expenses are fixed in the
+short-term, particularly with respect to lease and personnel expenses, depreciation and amortization and interest expenses. Therefore, our results of operations are particularly sensitive to fluctuations in revenues. As such, comparisons to prior
+reporting periods should not be relied upon as indications of our future performance. In addition, our operating results in one or more future quarters may fail to meet the expectations of securities analysts or investors. If this occurs, we could
+experience an immediate and significant decline in the trading price of our stock. 
+ 
+The failure to obtain favorable terms when we renew our
+IBX data center leases could harm our business and results of operations. 
+ 
+While we own certain of our IBX data centers,
+others are leased under long-term arrangements with lease terms expiring at various dates ranging from 2010 to 2027. These leased centers have all been subject to significant development by us in order to convert them from, in most cases, vacant
+buildings or warehouses into IBX data centers. All of our IBX data center leases have renewal options available to us. However, many of these renewal options provide for rent set at then-prevailing market rates. To the extent that then-prevailing
+market rates are higher than present rates, these higher costs may adversely impact our business and results of operations. 
+ 
+We depend on a
+number of third parties to provide Internet connectivity to our IBX data centers; if connectivity is interrupted or terminated, our operating results and cash flow could be materially and adversely affected. 
+ 
+The presence of diverse telecommunications carriers’ fiber networks in our IBX data centers is critical to our ability to retain and
+attract new customers. We are not a telecommunications carrier, and as such we rely on third parties to provide our customers with carrier services. We believe that the availability of carrier capacity
+
+ 
+ 
+
+24 
+
+Table of Contents
+
+will directly affect our ability to achieve our projected results. We rely primarily on revenue opportunities from the telecommunications carriers’ customers to encourage them to invest the
+capital and operating resources required to connect from their centers to our IBX data centers. Carriers will likely evaluate the revenue opportunity of an IBX data center based on the assumption that the environment will be highly competitive. We
+cannot provide assurance that each and every carrier will elect to offer its services within our IBX data centers or that once a carrier has decided to provide Internet connectivity to our IBX data centers that it will continue to do so for any
+period of time. Further, many carriers are experiencing business difficulties or announcing consolidations. As a result, some carriers may be forced to downsize or terminate connectivity within our IBX data centers, which could have an adverse
+effect on our operating results. 
+ 
+Our new IBX data centers require construction and operation of a sophisticated redundant
+fiber network. The construction required to connect multiple carrier facilities to our IBX data centers is complex and involves factors outside of our control, including regulatory processes and the availability of construction resources. If the
+establishment of highly diverse Internet connectivity to our IBX data centers does not occur, is materially delayed or is discontinued, or is subject to failure, our operating results and cash flow will be adversely affected. Any hardware or fiber
+failures on this network may result in significant loss of connectivity to our new IBX data center expansions. This could affect our ability to attract new customers to these IBX data centers or retain existing customers. 
+ 
+We may be vulnerable to security breaches which could disrupt our operations and have a material adverse effect on our financial performance and
+operating results. 
+ 
+A party who is able to compromise the security measures on our networks or the security of our
+infrastructure could misappropriate either our proprietary information or the personal information of our customers, or cause interruptions or malfunctions in our operations. We may be required to expend significant capital and resources to protect
+against such threats or to alleviate problems caused by breaches in security. As techniques used to breach security change frequently, and are generally not recognized until launched against a target, we may not be able to implement security
+measures in a timely manner or, if and when implemented, we may not be certain whether these measures could be circumvented. Any breaches that may occur could expose us to increased risk of lawsuits, regulatory penalties, loss of existing or
+potential customers, harm to our reputation and increases in our security costs, which could have a material adverse effect on our financial performance and operating results. 
+ 
+We have government customers, which subjects us to risks including early termination, audits, investigations, sanctions and penalties. 
+ 
+We derive some revenues from contracts with the U.S. government, state and local governments and their respective agencies. Some of these
+customers may terminate all or part of their contracts at any time, without cause. 
+ 
+There is increased pressure for
+governments and their agencies, both domestically and internationally, to reduce spending. Some of our federal government contracts are subject to the approval of appropriations being made by the U.S. Congress to fund the expenditures under these
+contracts. Similarly, some of our contracts at the state and local levels are subject to government funding authorizations. 
+ 
+Additionally, government contracts are generally subject to audits and investigations which could result in various civil and criminal penalties and administrative sanctions, including termination of contracts, refund of a portion of fees
+received, forfeiture of profits, suspension of payments, fines and suspensions or debarment from future government business. 
+ 
+Because we
+depend on the development and growth of a balanced customer base, including key magnet customers, failure to attract and retain this base of customers could harm our business and operating results. 
+ 
+Our ability to maximize revenues depends on our ability to develop and grow a balanced customer base, consisting of a variety of companies,
+including global enterprises, content providers, financial companies, and
+
+ 
+ 
+
+25 
+
+Table of Contents
+
+network service providers. We consider certain of these customers to be key magnets in that they draw in other customers. The more balanced the customer base within each IBX data center, the
+better we will be able to generate significant interconnection revenues, which in turn increases our overall revenues. Our ability to attract customers to our IBX data centers will depend on a variety of factors, including the presence of multiple
+carriers, the mix of products and services offered by us, the overall mix of customers, the presence of key customers attracting business through vertical market ecosystems, the IBX data center’s operating reliability and security and our
+ability to effectively market our services. However, some of our customers may face competitive pressures and may ultimately not be successful or may be consolidated through merger or acquisition. If these customers do not continue to use our IBX
+data centers it may be disruptive to our business. Finally, the uncertain economic climate may harm our ability to attract and retain customers if customers slow spending, or delay decision-making, on our products and services, or if customers begin
+to have difficulty paying us and we experience increased churn in our customer base. Any of these factors may hinder the development, growth and retention of a balanced customer base and adversely affect our business, financial condition and results
+of operations. 
+ 
+We are subject to securities class action and other litigation, which may harm our business and results of operations. 
+
+ 
+During the quarter ended September 30, 2001, putative shareholder class action lawsuits were filed against us, a number
+of our officers and directors, and several investment banks that were underwriters of our initial public offering. Similar complaints were filed against more than 300 other issuers, their officers and directors, and investment banks. The suits
+allege that the underwriter defendants agreed to allocate stock in our initial public offering to certain investors in exchange for excessive and undisclosed commissions and agreements by those investors to make additional purchases in the
+aftermarket at pre-determined prices. Plaintiffs allege that the prospectus for our initial public offering was false and misleading and in violation of the securities laws because it did not disclose these arrangements. The parties in the
+approximately 300 coordinated cases, including the parties in the Equinix case, reached a settlement. It provides for releases of existing claims and claims that could have been asserted relating to the conduct alleged to be wrongful from the class
+of investors participating in the settlement. The insurers for the issuer defendants in the coordinated cases will make the settlement payment on behalf of the issuers, including Equinix. On October 6, 2009, the Court granted final
+approval to the settlement. Six notices of appeal and one petition seeking permission to appeal, from a group of objectors who also filed a notice of appeal, have been filed. 
+ 
+On August 22, 2008, a complaint was filed against Equinix, certain former officers and directors of Pihana Pacific, Inc.
+(“Pihana”), certain investors in Pihana, and others. The lawsuit was filed in the First Circuit Court of the State of Hawaii, and arises out of December 2002 agreements pursuant to which Equinix merged Pihana and i-STT (a subsidiary of
+Singapore Technologies Telemedia Pte Ltd) into the internet exchange services business of Equinix. Plaintiffs, who were allegedly holders of Pihana common stock, allege that their rights as shareholders were violated, and the transaction was
+effectuated improperly, by Pihana’s majority shareholders, officers and directors, with the alleged assistance of Equinix and others. Among other things, plaintiffs contend that they effectively had a right to block the transaction, that this
+supposed right was disregarded, and that they improperly received no consideration when the deal was completed. The complaint seeks to recover unspecified punitive damages, equitable relief, fees and costs, and compensatory damages in an amount that
+plaintiffs allegedly “believe may be all or a substantial portion of the approximately $725 million value of Equinix held by Defendants” (a group that includes more than 30 individuals and entities). An amended complaint, which adds new
+plaintiffs (other alleged holders of Pihana common stock), but is otherwise substantially similar to the original pleading, was filed on September 29, 2008 (the “Amended Complaint”). On October 13, 2008, a complaint was filed by
+another purported holder of Pihana common stock, naming the same defendants and asserting substantially similar allegations as the August 22, 2008 and September 29, 2008 pleadings. On December 12, 2008, the court entered a stipulated
+order, which consolidated the two actions under one case number and set January 22, 2009 as the last day for Defendants to move to dismiss or otherwise respond to the Amended Complaint, the operative complaint in this case. On January 22,
+2009, motions to dismiss the Amended Complaint were filed by Equinix and other Defendants. On April 24, 2009, plaintiffs filed a Second Amended
+
+ 
+ 
+
+26 
+
+Table of Contents
+
+Complaint (“SAC”) to correct the naming of certain parties. The SAC is otherwise substantively identical to the Amended Complaint, and all motions to dismiss the Amended Complaint have
+been treated as responsive to the SAC. On September 1, 2009, the Court heard Defendants’ motions to dismiss the SAC and ruled at the hearing that all claims against all Defendants are time-barred. The Court also considered whether there
+were further independent grounds for dismissing the claims, and supplemental briefing has been submitted with respect to claims against one defendant and plaintiffs’ renewed request for further leave to amend. The Court has not yet entered a
+final Order on the motions to dismiss. We believe that plaintiffs’ claims and alleged damages are without merit and we intend to defend the litigation vigorously. 
+ 
+In the fourth quarter of 2009, three purported stockholder class action lawsuits were filed against us in connection with our proposed merger with Switch and Data. The first, filed October 27, 2009
+in the Delaware Chancery Court, names Equinix, Sundance Acquisition Corporation, Switch and Data, and the members of Switch and Data’s board of directors as defendants. The lawsuit alleges that the Switch and Data directors breached their
+fiduciary duties to Switch and Data’s stockholders in connection with the proposed merger, and that Equinix aided and abetted these alleged breaches. The second complaint, filed October 30, 2009 in Florida state court, raises similar
+claims against the same defendants. The third complaint, filed on December 7, 2009 in the United States District Court for the Middle District of Florida, likewise raises similar claims but did not name Sundance Acquisition Corporation as a
+defendant. Both the second and third complaints included claims alleging that Switch and Data had failed to disclose material information concerning the merger to stockholders. On January 19, 2010, counsel for parties in all three lawsuits
+entered into a memorandum of understanding in which they agreed upon the terms of a settlement of all three lawsuits. In connection with this settlement, the three lawsuits and all claims asserted therein are expected to be dismissed with prejudice.
+The memorandum of understanding provides that the parties will seek approval of the settlement in Florida state court and that simultaneously, the parties will agree to stay the actions pending in the Delaware Chancery Court and the Florida federal
+court. The proposed settlement is conditional upon, among other things, the execution of an appropriate stipulation of settlement, consummation of the merger and final approval of the proposed settlement by the Florida state court. The proposed
+settlement contemplates that plaintiffs’ counsel will apply to the Florida state court for an award of attorneys’ fees and costs in an aggregate amount of $900,000, and that the defendants will not oppose or undermine this application. We
+expect that approximately 70 percent of these attorneys’ fees will be paid by insurance maintained by Switch and Data, and that we will pay the remainder. 
+ 
+Due to the inherent uncertainties of litigation, we cannot accurately predict the ultimate outcomes of the above matters or whether such outcomes would have a material impact on our business, results of
+operations, financial condition or cash flows. 
+ 
+We continue to participate in the defense of the above matters, which may
+increase our expenses and divert management’s attention and resources. In addition, we may, in the future, be subject to other litigation. For example, securities class action litigation has often been brought against a company following
+periods of volatility in the market price of its securities. Any adverse outcome in litigation could seriously harm our business, results of operations, financial condition or cash flows. 
+ 
+We may not be able to protect our intellectual property rights. 
+ 
+We cannot assure that the steps taken by us to protect our intellectual property rights will be adequate to deter misappropriation of proprietary information or that we will be able to detect unauthorized
+use and take appropriate steps to enforce our intellectual property rights. We also are subject to the risk of litigation alleging infringement of third-party intellectual property rights. Any such claims could require us to spend significant sums
+in litigation, pay damages, develop non-infringing intellectual property, or acquire licenses to the intellectual property that is the subject of the alleged infringement. 
+ 
+ 
+
+27 
+
+Table of Contents
+
+Government regulation may adversely affect the use of the Internet and our business. 
+ 
+Various laws and governmental regulations governing Internet related services, related communications services and information technologies
+and electronic commerce remain largely unsettled, even in areas where there has been some legislative action. This is true both in the U.S. and the various foreign countries in which we operate. It may take years to determine whether and how
+existing laws, such as those governing intellectual property, privacy, libel, telecommunications services and taxation, apply to the Internet and to related services such as ours. We have limited experience with such international regulatory issues
+and substantial resources may be required to comply with regulations or bring any non-compliant business practices into compliance with such regulations. In addition, the development of the market for online commerce and the displacement of
+traditional telephony service by the Internet and related communications services may prompt an increased call for more stringent consumer protection laws or other regulation both in the U.S. and abroad that may impose additional burdens on
+companies conducting business online and their service providers. The compliance with, adoption or modification of, laws or regulations relating to the Internet, or interpretations of existing laws, could have a material adverse effect on our
+business, financial condition and results of operations. 
+ 
+Industry consolidation may have a negative impact on our business model. 
+
+ 
+The telecommunications industry is currently undergoing consolidation. As customers combine businesses, they may require less
+colocation space, and there may be fewer networks available to choose from. Given the competitive and evolving nature of this industry, further consolidation of our customers and/or our competitors may present a risk to our network-neutral business
+model and have a negative impact on our revenues. In addition, increased utilization levels industry-wide could lead to a reduced amount of attractive expansion opportunities available to us. 
+ 
+Terrorist activity throughout the world and military action to counter terrorism could adversely impact our business. 
+ 
+The September 11, 2001 terrorist attacks in the U.S., the ensuing declaration of war on terrorism and the continued threat of terrorist
+activity and other acts of war or hostility contribute to a climate of political and economic uncertainty. Due to existing or developing circumstances, we may need to incur additional costs in the future to provide enhanced security, including
+cybersecurity, which would have a material adverse effect on our business and results of operations. These circumstances may also adversely affect our ability to attract and retain customers, our ability to raise capital and the operation and
+maintenance of our IBX data centers. We may not have adequate property and liability insurance to cover catastrophic events or attacks. 
+ 
+We
+have various mechanisms in place that may discourage takeover attempts. 
+ 
+Certain provisions of our certificate of
+incorporation and bylaws may discourage, delay or prevent a third party from acquiring control of us in a merger, acquisition or similar transaction that a stockholder may consider favorable. Such provisions include: 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+authorization for the issuance of “blank check” preferred stock; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the prohibition of cumulative voting in the election of directors; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+a super-majority voting requirement to effect business combinations or certain amendments to our certificate of incorporation and bylaws;
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+limits on the persons who may call special meetings of stockholders; 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+the prohibition of stockholder action by written consent; and 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+advance notice requirements for nominations to the Board or for proposing matters that can be acted on by stockholders at stockholder meetings.
+
+ 
+ 
+
+28 
+
+Table of Contents
+
+In addition, Section 203 of the Delaware General Corporation Law, which restricts
+certain business combinations with interested stockholders in certain situations, may also discourage, delay or prevent someone from acquiring or merging with us.
