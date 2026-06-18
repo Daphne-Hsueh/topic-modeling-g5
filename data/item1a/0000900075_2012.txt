@@ -1,0 +1,780 @@
+Investing in our common stock
+involves a high degree of risk. You should consider carefully the risks and uncertainties described below before making an investment decision. Our
+business could be harmed if any of these risks, as well as other risks not currently known to us or that we currently deem immaterial, materialized.
+The trading price of our common stock could decline due to the occurrence of any of these risks, and you may lose all or part of your investment. In
+assessing the risks described below, you should also refer to the other information contained in this Form 10-K, including our consolidated financial
+statements and the related notes and schedules, and other filings with the SEC.
+
+We depend on a limited number of
+major vehicle sellers for a substantial portion of our revenues. The loss of one or more of these major sellers could adversely affect our consolidated
+results of operations and financial position, and an inability to increase our sources of vehicle supply could adversely affect our growth
+rates.
+
+No single customer accounted for more
+than 10% of our revenue during the fiscal year ended July 31, 2012. Historically, a limited number of vehicle sellers have collectively accounted for a
+substantial portion of our revenues. Seller arrangements are either written or oral agreements typically subject to cancellation by either party upon
+30 to 90 days notice. Vehicle sellers have terminated agreements with us in the past in particular markets, which has affected the pricing for sales
+services in those markets. There can be no assurance that our existing agreements will not be cancelled. Furthermore, there can be no assurance that we
+will be able to enter into future agreements with vehicle sellers or that we will be able to retain our existing supply of salvage vehicles. A
+reduction in vehicles from a significant vehicle seller or any material changes in the terms of an arrangement with a significant vehicle seller could
+have a material adverse effect on our consolidated results of operations and financial position. In addition, a failure to increase our sources of
+vehicle supply could adversely affect our earnings and revenue growth rates.
+
+Our expansion into markets outside
+North America, including recent expansions in Europe and the Middle East, expose us to risks arising from operating in international markets. Any
+failure to successfully integrate businesses acquired outside of North America into our operations could have an adverse effect on our consolidated
+results of operations, financial position or cash flows.
+
+We first expanded our operations
+outside North America in 2007 with a significant acquisition in the United Kingdom, and we continue to evaluate acquisitions and other opportunities
+outside North America. In August 2012, we announced our acquisition of a company in the United Arab Emirates. Acquisitions or other strategies to
+expand our operations outside North America pose substantial risks and uncertainties that could have an adverse effect on our future operating results.
+In particular, we may not be successful in realizing anticipated synergies from these acquisitions, or we may experience unanticipated costs or
+expenses integrating the acquired operations into our existing business. We have and may continue to incur substantial expenses establishing new yards
+or operations in international markets. Among other things, we will ultimately deploy our proprietary auction technologies at all of our foreign
+operations and we cannot predict whether this deployment will be successful or will result in increases in the revenues or operating efficiencies of
+any acquired companies relative to their historic operating performance. Integration of our respective operations, including information technology
+integration and integration of financial and administrative functions, may not proceed as we anticipate and could result in unanticipated costs or
+expenses (including unanticipated capital expenditures) that could have an adverse effect on our future operating results. We cannot provide any
+assurances that we will achieve our business and financial objectives in connection with these acquisitions or our strategic decision to expand our
+operations internationally.
+
+As we continue to expand our business
+internationally, we will need to develop policies and procedures to manage our business on a global scale. Operationally, acquired businesses typically
+depend on key seller relationships, and our failure to maintain those relationships would have an adverse effect on our consolidated results of
+operations and could have an adverse effect on our future operating results.
+
+14
+
+In addition, we anticipate our
+international operations will subject us to a variety of risks associated with operating on an international basis, including:
+
+•
+
+ 
+
+the difficulty of managing and staffing foreign offices and the
+increased travel, infrastructure and legal compliance costs associated with multiple international locations;
+
+•
+
+ 
+
+the need to localize our product offerings, particularly the
+need to implement our online auction platform in foreign countries;
+
+•
+
+ 
+
+tariffs and trade barriers and other regulatory or contractual
+limitations on our ability to operate in certain foreign markets;
+
+•
+
+ 
+
+exposure to foreign currency exchange rate risk, which may have
+an adverse impact on our revenues and revenue growth rates;
+
+•
+
+ 
+
+adapting to different business cultures and market structures,
+particularly where we seek to implement our auction model in markets where insurers have historically not played a substantial role in the disposition
+of salvage vehicles;
+
+•
+
+ 
+
+ensuring compliance with applicable legislation and regulations
+that affect our international operations, including applicable anticorruption legislation in the United States and United Kingdom and export control
+and sanctions laws; and
+
+•
+
+ 
+
+repatriation of funds currently held in foreign jurisdictions to
+the U.S. may result in higher effective tax rates.
+
+As we continue to expand our business
+globally, our success will depend, in large part, on our ability to anticipate and effectively manage these and other risks associated with our
+international operations. Our failure to manage any of these risks successfully could harm our international operations and have an adverse effect on
+our operating results.
+
+In addition, certain acquisitions in
+the United Kingdom may be reviewed by the Office of Fair Trade (OFT) and/or Competition Commission (U.K. Regulators). If an inquiry is made by U.K.
+Regulators, we may be required to demonstrate that our acquisitions will not result, or be expected to result, in a substantial lessening of
+competition in a U.K. market. Although we believe that there will not be a substantial lessening of competition in a U.K. market, based on our analysis
+of the relevant U.K. markets, there can be no assurance that the U.K. Regulators will agree with us if they decide to make an inquiry. If the U.K.
+Regulators determine that by our acquisitions of certain assets, there is or likely will be a substantial lessening of competition in a U.K. market, we
+could be required to divest some portion of our U.K. assets. In the event of a divestiture order by the U.K. Regulators, the assets disposed may be
+sold for substantially less than their carrying value. Accordingly, any divestiture could have a material adverse effect on our operating results in
+the period of the divestiture.
+
+We face risks associated with the
+implementation of our salvage auction model in markets that may not operate on the same terms as the North American market. For example, the U.K.
+market operates on a principal rather than agent basis, which has tended to have an adverse impact on our gross margin percentages and has exposed us
+to inventory risks that we do not experience in North America.
+
+Some of our target markets outside
+North America operate in a manner substantially different than our historic market in North America. For example, the U.K. market operates primarily on
+the principal model, in which we take title to vehicles, rather than the agency model employed in North America, in which we act as a sales agent for
+the legal owner of vehicles. As a result, our operations in the U.K. have had and will continue to have an adverse impact on our consolidated gross
+margin percentages. Operating on a principal basis exposes us to inventory risks, including losses from theft, damage, and obsolescence. In addition,
+our business in North America and the United Kingdom has been established and grown based largely on our ability to build relationships with insurance
+carriers. In other markets, insurers have traditionally been less
+
+15
+
+involved in the disposition of
+salvage vehicles. As we expand into markets outside North America and the United Kingdom, we cannot predict whether markets will readily adapt to our
+strategy of online auctions of automobiles sourced principally through vehicle insurers.
+
+If the implementation of our new
+Enterprise Resource Planning (“ERP”) system is not executed efficiently and effectively, our business, financial position, and our
+consolidated operating results could be adversely affected.
+
+We are in the process of converting our
+primary management information system to a new standard ERP system, which will occur in phases through 2013 and 2014. In the event this conversion of
+our primary management information system is not executed efficiently and effectively, the conversion may cause interruptions in our primary management
+information systems, which may make our website and services unavailable. This type of interruption could prevent us from processing vehicles for our
+sellers and may prevent us from selling vehicles through our Internet bidding platform, VB
+2
+, which would adversely affect our consolidated results of operations and financial position.
+
+In addition, our information and
+technology systems are vulnerable to damage or interruption from computer viruses, network failures, computer and telecommunications failures,
+infiltration by unauthorized persons and security breaches, usage errors by our employees, power outages and catastrophic events such as fires,
+tornadoes, floods, hurricanes and earthquakes. Although we have not been the victim of cyber attacks or other cyber incidents that have had a material
+impact on our consolidated operating results or financial position, we have from time to time experienced cybersecurity breaches such as computer
+viruses and similar information technology violations in the ordinary course of business. We have implemented various measures to manage our risks
+related to system and network disruptions. If these systems are compromised, become inoperable for extended periods of time or cease to function
+properly, we may have to make a significant investment to fix or replace them and our ability to provide many of our electronic and online solutions to
+our customers may be impaired. If that were to occur, it could have a material adverse effect on our consolidated operating results and financial
+position.
+
+Implementation of our online auction
+model in new markets may not result in the same synergies and benefits that we achieved when we implemented the model in North America and the
+U.K.
+
+We believe that the implementation of
+our proprietary auction technologies across our operations over the last decade had a favorable impact on our results of operations by increasing the
+size and geographic scope of our buyer base, increasing the average selling price for vehicles sold through our sales, and lowering expenses associated
+with vehicle sales. We implemented our online system across all of our North American and U.K. salvage yards beginning in fiscal 2004 and fiscal 2008,
+respectively, and experienced increases in revenues and average selling prices as well as improved operating efficiencies in both markets. In
+considering new markets, we consider the potential synergies from the implementation of our model based in large part on our experience in North
+America and the U.K. We cannot predict whether these synergies will also be realized in new markets.
+
+Failure to have sufficient capacity
+to accept additional cars at one or more of our storage facilities could adversely affect our relationships with insurance companies or other sellers
+of vehicles.
+
+Capacity at our storage facilities
+varies from period to period and from region to region. For example, following adverse weather conditions in a particular area, our yards in that area
+may fill and limit our ability to accept additional salvage vehicles while we process existing inventories. For example, Hurricanes Katrina and Rita
+had, in certain quarters, an adverse effect on our operating results, in part because of yard capacity constraints in the Gulf Coast area. We regularly
+evaluate our capacity in all our markets and, where appropriate, seek to increase capacity through the acquisition of additional land and yards. We may
+not be able to reach agreements to purchase independent storage facilities in markets where we have limited excess capacity, and zoning restrictions or
+difficulties obtaining use permits may limit our ability to expand our
+
+16
+
+capacity through acquisitions of
+new land. Failure to have sufficient capacity at one or more of our yards could adversely affect our relationships with insurance companies or other
+sellers of vehicles, which could have an adverse effect on our consolidated results of operations and financial position.
+
+Because the growth of our business
+has been due in large part to acquisitions and development of new facilities, the rate of growth of our business and revenues may decline if we are not
+able to successfully complete acquisitions and develop new facilities.
+
+We seek to increase our sales and
+profitability through the acquisition of additional facilities and the development of new facilities. There can be no assurance that we will be able
+to:
+
+•
+
+ 
+
+continue to acquire additional facilities on favorable
+terms;
+
+•
+
+ 
+
+expand existing facilities in no-growth regulatory
+environments;
+
+•
+
+ 
+
+increase revenues and profitability at acquired and new
+facilities;
+
+•
+
+ 
+
+maintain the historical revenue and earnings growth rates we
+have been able to obtain through facility openings and strategic acquisitions; or
+
+•
+
+ 
+
+create new vehicle storage facilities that meet our current
+revenue and profitability requirements.
+
+As we continue to expand our
+operations, our failure to manage growth could harm our business and adversely affect our consolidated results of operations and financial
+position.
+
+Our ability to manage growth depends
+not only on our ability to successfully integrate new facilities, but also on our ability to:
+
+•
+
+ 
+
+hire, train and manage additional qualified
+personnel;
+
+•
+
+ 
+
+establish new relationships or expand existing relationships
+with vehicle sellers;
+
+•
+
+ 
+
+identify and acquire or lease suitable premises on competitive
+terms;
+
+•
+
+ 
+
+secure adequate capital; and
+
+•
+
+ 
+
+maintain the supply of vehicles from vehicle
+sellers.
+
+Our inability to control or manage
+these growth factors effectively could have a material adverse effect on our consolidated results of operations, financial position or cash
+flows.
+
+Our annual and quarterly performance
+may fluctuate, causing the price of our stock to decline.
+
+Our revenues and operating results have
+fluctuated in the past and can be expected to continue to fluctuate in the future on a quarterly and annual basis as a result of a number of factors,
+many of which are beyond our control. Factors that may affect our operating results include, but are not limited to, the following:
+
+•
+
+ 
+
+fluctuations in the market value of salvage and used
+vehicles;
+
+•
+
+ 
+
+the impact of foreign exchange gain and loss as a result of
+international operations;
+
+•
+
+ 
+
+our ability to successfully integrate our newly acquired
+operations in international markets and any additional markets we may enter;
+
+•
+
+ 
+
+the availability of salvage vehicles;
+
+•
+
+ 
+
+variations in vehicle accident rates;
+
+•
+
+ 
+
+member participation in the Internet bidding
+process;
+
+•
+
+ 
+
+delays or changes in state title processing;
+
+17
+
+•
+
+ 
+
+changes in international, state or federal laws or regulations
+affecting salvage vehicles;
+
+•
+
+ 
+
+changes in local laws affecting who may purchase salvage
+vehicles;
+
+•
+
+ 
+
+our ability to integrate and manage our acquisitions
+successfully;
+
+•
+
+ 
+
+the timing and size of our new facility openings;
+
+•
+
+ 
+
+the announcement of new vehicle supply agreements by us or our
+competitors;
+
+•
+
+ 
+
+the severity of weather and seasonality of weather
+patterns;
+
+•
+
+ 
+
+the amount and timing of operating costs and capital
+expenditures relating to the maintenance and expansion of our business, operations and infrastructure;
+
+•
+
+ 
+
+the availability and cost of general business
+insurance;
+
+•
+
+ 
+
+labor costs and collective bargaining;
+
+•
+
+ 
+
+changes in the current levels of out of state and foreign demand
+for salvage vehicles;
+
+•
+
+ 
+
+the introduction of a similar Internet product by a
+competitor;
+
+•
+
+ 
+
+the ability to obtain necessary permits to operate;
+and
+
+•
+
+ 
+
+the impact of our conversion to a new ERP system, if the
+conversion is not executed efficiently and effectively.
+
+Due to the foregoing factors, our
+operating results in one or more future periods can be expected to fluctuate. As a result, we believe that period-to-period comparisons of our results
+of operations are not necessarily meaningful and should not be relied upon as any indication of future performance. In the event such fluctuations
+result in our financial performance being below the expectations of public market analysts and investors, the price of our common stock could decline
+substantially.
+
+Our Internet-based sales model has
+increased the relative importance of intellectual property assets to our business, and any inability to protect those rights could have a material
+adverse effect on our business, financial position, or results of operations.
+
+Our intellectual property rights
+include patents relating to our auction technologies as well as trademarks, trade secrets, copyrights and other intellectual property rights. In
+addition, we may enter into agreements with third parties regarding the license or other use of our intellectual property in foreign jurisdictions.
+Effective intellectual property protection may not be available in every country in which our products and services are distributed, deployed, or made
+available. We seek to maintain certain intellectual property rights as trade secrets. The secrecy could be compromised by third parties, or
+intentionally or accidentally by our employees, which would cause us to lose the competitive advantage resulting from those trade secrets. Any
+significant impairment of our intellectual property rights, or any inability to protect our intellectual property rights, could have a material adverse
+effect on our consolidated results of operations, financial position or cash flows.
+
+We have in the past been and may in
+the future be subject to intellectual property rights claims, which are costly to defend, could require us to pay damages, and could limit our ability
+to use certain technologies in the future.
+
+Litigation based on allegations of
+infringement or other violations of intellectual property rights are common among companies who rely heavily on intellectual property rights. Our
+reliance on intellectual property rights has increased significantly in recent years as we have implemented our auction-style sales technologies across
+our business and ceased conducting live auctions. As we face increasing competition, the possibility of intellectual property rights claims against us
+grows. Litigation and any other intellectual property claims, whether with or without merit, can be time-consuming, expensive to litigate and settle,
+and can divert
+
+18
+
+management resources and attention
+from our core business. An adverse determination in current or future litigation could prevent us from offering our products and services in the manner
+currently conducted. We may also have to pay damages or seek a license for the technology, which may not be available on reasonable terms and which may
+significantly increase our operating expenses, if it is available for us to license at all. We could also be required to develop alternative
+non-infringing technology, which could require significant effort and expense.
+
+If we experience problems with our
+trucking fleet operations, our business could be harmed.
+
+We rely solely upon independent
+subhaulers to pick up and deliver vehicles to and from our North American storage facilities. We also utilize, to a lesser extent, independent
+subhaulers in the U.K. Our failure to pick up and deliver vehicles in a timely and accurate manner could harm our reputation and brand, which could
+have a material adverse effect on our business. Further, an increase in fuel cost may lead to increased prices charged by our independent subhaulers,
+which may significantly increase our cost. We may not be able to pass these costs on to our sellers or buyers.
+
+In addition to using independent
+subhaulers, in the U.K. we utilize a fleet of company trucks to pick up and deliver vehicles from our U.K. storage facilities. In connection therewith,
+we are subject to the risks associated with providing trucking services, including inclement weather, disruptions in transportation infrastructure,
+availability and price of fuel, any of which could result in an increase in our operating expenses and reduction in our net income.
+
+We are partially self-insured for
+certain losses and if our estimates of the cost of future claims differ from actual trends, our results of our operations could be
+harmed.
+
+We are partially self-insured for
+certain losses related to medical insurance, general liability, workers’ compensation and auto liability. Our liability represents an estimate of
+the ultimate cost of claims incurred as of the balance sheet date. The estimated liability is not discounted and is established based upon analysis of
+historical data and actuarial estimates. While we believe these estimates are reasonable based on the information currently available, if actual
+trends, including the severity of claims and medical cost inflation, differ from our estimates, our results of operations could be impacted. Further,
+we rely on independent actuaries to assist us in establishing the proper amount of reserves for anticipated payouts associated with these self-insured
+exposures.
+
+Our executive officers, directors
+and their affiliates hold a large percentage of our stock and their interests may differ from other stockholders.
+
+Our executive officers, directors and
+their affiliates beneficially own, in the aggregate, 16% of our common stock as of July 31, 2012. If they were to act together, these stockholders
+would have significant influence over most matters requiring approval by stockholders, including the election of directors, any amendments to our
+articles of incorporation and certain significant corporate transactions, including potential merger or acquisition transactions. In addition, without
+the consent of these stockholders, we could be delayed or prevented from entering into transactions that could be beneficial to us or our other
+investors. These stockholders may take these actions even if they are opposed by our other investors.
+
+We have certain provisions in our
+certificate of incorporation and bylaws, which may have an anti-takeover effect or that may delay, defer or prevent acquisition bids for us that a
+stockholder might consider favorable and limit attempts by our stockholders to replace or remove our current management.
+
+Our board of directors is authorized to
+create and issue from time to time, without stockholder approval, up to an aggregate of 5,000,000 shares of undesignated preferred stock, the terms of
+which may be established and shares of which may be issued without stockholder approval, and which may include rights superior to
+
+19
+
+the rights of the holders of common
+stock. In addition, our bylaws establish advance notice requirements for nominations for elections to our board of directors or for proposing matters
+that can be acted upon by stockholders at stockholder meetings. These anti-takeover provisions and other provisions under Delaware law could
+discourage, delay or prevent a transaction involving a change in control of our company, even if doing so would benefit our stockholders. These
+provisions could also discourage proxy contests and make it more difficult for you and other stockholders to elect directors of your choosing and cause
+us to take other corporate actions you desire.
+
+If we lose key management or are
+unable to attract and retain the talent required for our business, we may not be able to successfully manage our business or achieve our
+objectives.
+
+Our future success depends in large
+part upon the leadership and performance of our executive management team, all of whom are employed on an at-will basis and none of whom are subject to
+any agreements not to compete. If we lose the service of one or more of our executive officers or key employees, in particular Willis J. Johnson, our
+Chairman; A. Jayson Adair, our Chief Executive Officer; and Vincent W. Mitz, our President, or if one or more of them decides to join a competitor or
+otherwise compete directly or indirectly with us, we may not be able to successfully manage our business or achieve our business
+objectives.
+
+Our cash investments are subject to
+numerous risks.
+
+We may invest our excess cash in
+securities or money market funds backed by securities, which may include U.S. treasuries, other federal, state and municipal debt, bonds, preferred
+stock, commercial paper, insurance contracts and other securities both privately and publicly traded. All securities are subject to risk, including
+fluctuations in interest rates, credit risk, market risk and systemic economic risk. Changes or movements in any of these risk factors may result in a
+loss or impairment to our invested cash and may have a material effect on our consolidated results of operations and financial
+position.
+
+The impairment of capitalized
+development costs could adversely affect our consolidated results of operations and financial condition.
+
+We capitalize certain costs associated
+with the development of new software products, new software for internal use and major software enhancements to existing software. These costs are
+amortized over the estimated useful life of the software beginning with its introduction or roll out. If, at any time, it is determined that
+capitalized software provides a reduced economic benefit, the unamortized portion of the capitalized development costs will be expensed, in part or in
+full, as an impairment, which may have a material impact on our consolidated results of operations and financial position.
+
+New member programs could impact our
+operating results.
+
+We have or will initiate programs to
+open our auctions to the general public. These programs include the Registered Broker program through which the public can purchase vehicles through a
+registered member and the Market Maker program through which registered members can open Copart storefronts with Internet kiosks enabling the general
+public to search our inventory and purchase vehicles. Initiating programs that allow access to our online auctions to the general public may involve
+material expenditures and we cannot predict what future benefit, if any, will be derived.
+
+20
+
+Factors such as mild weather
+conditions can have an adverse effect on our revenues and operating results as well as our revenue and earnings growth rates by reducing the available
+supply of salvage vehicles. Conversely, extreme weather conditions can result in an oversupply of salvage vehicles that requires us to incur abnormal
+expenses to respond to market demands.
+
+Mild weather conditions tend to result
+in a decrease in the available supply of salvage vehicles because traffic accidents decrease and fewer automobiles are damaged. Accordingly, mild
+weather can have an adverse effect on our salvage vehicle inventories, which would be expected to have an adverse effect on our revenue and operating
+results and related growth rates. Conversely, our inventories will tend to increase in poor weather such as a harsh winter or as a result of adverse
+weather-related conditions such as flooding. During periods of mild weather conditions, our ability to increase our revenues and improve our operating
+results and related growth will be increasingly dependent on our ability to obtain additional vehicle sellers and to compete more effectively in the
+market, each of which is subject to the other risks and uncertainties described in these sections. In addition, extreme weather conditions, although
+they increase the available supply of salvage cars, can have an adverse effect on our operating results. For example, during the fiscal year ended July
+31, 2006, we recognized substantial additional costs associated with the impact of Hurricanes Katrina and Rita in Gulf Coast states. These additional
+costs, characterized as “abnormal” under ASC 330, 
+Inventory,
+ were recognized during the fiscal year ended July 31, 2006, and included
+the additional subhauling, payroll, equipment and facilities expenses directly related to the operating conditions created by the hurricanes. In the
+event that we were to again experience extremely adverse weather or other anomalous conditions that result in an abnormally high number of salvage
+vehicles in one or more of our markets, those conditions could have an adverse effect on our future operating results.
+
+Macroeconomic factors such as high
+fuel prices, declines in commodity prices, and declines in used car prices may have an adverse effect on our revenues and operating results as well as
+our earnings growth rates.
+
+Macroeconomic factors that affect oil
+prices and the automobile and commodity markets can have adverse effects on our revenues, revenue growth rates (if any), and operating results.
+Significant increases in the cost of fuel could lead to a reduction in miles driven per car and a reduction in accident rates. A material reduction in
+accident rates could have a material impact on revenue growth. In addition, under our percentage incentive program contracts, or PIP, the cost of
+towing the vehicle to one of our facilities is included in the PIP fee. We may incur increased fees, which we may not be able to pass on to our vehicle
+sellers. A material increase in tow rates could have a material impact on our operating results. Volatility in fuel, commodity, and used car prices
+could have a material adverse effect on our revenues and revenue growth rates in future periods.
+
+The salvage vehicle sales industry
+is highly competitive and we may not be able to compete successfully.
+
+We face significant competition for the
+supply of salvage vehicles and for the buyers of those vehicles. We believe our principal competitors include other auction and vehicle remarketing
+service companies with whom we compete directly in obtaining vehicles from insurance companies and other sellers, and large vehicle dismantlers, who
+may buy salvage vehicles directly from insurance companies, bypassing the salvage sales process. Many of the insurance companies have established
+relationships with competitive remarketing companies and large dismantlers. Certain of our competitors may have greater financial resources than us.
+Due to the limited number of vehicle sellers, particularly in the U.K., the absence of long-term contractual commitments between us and our sellers and
+the increasingly competitive market environment, there can be no assurance that our competitors will not gain market share at our
+expense.
+
+We may also encounter significant
+competition for local, regional and national supply agreements with vehicle sellers. There can be no assurance that the existence of other local,
+regional or national contracts entered into by our competitors will not have a material adverse effect on our business or our
+expansion
+
+21
+
+plans. Furthermore, we are likely
+to face competition from major competitors in the acquisition of vehicle storage facilities, which could significantly increase the cost of such
+acquisitions and thereby materially impede our expansion objectives or have a material adverse effect on our consolidated results of operations. These
+potential new competitors may include consolidators of automobile dismantling businesses, organized salvage vehicle buying groups, automobile
+manufacturers, automobile auctioneers and software companies. While most vehicle sellers have abandoned or reduced efforts to sell salvage vehicles
+directly without the use of service providers such as us, there can be no assurance that this trend will continue, which could adversely affect our
+market share, consolidated results of operations and financial condition. Additionally, existing or new competitors may be significantly larger and
+have greater financial and marketing resources than us; therefore, there can be no assurance that we will be able to compete successfully in the
+future.
+
+Government regulation of the salvage
+vehicle sales industry may impair our operations, increase our costs of doing business and create potential liability.
+
+Participants in the salvage vehicle
+sales industry are subject to, and may be required to expend funds to ensure compliance with a variety of governmental, regulatory and administrative
+rules, regulations, land use ordinances, licensure requirements and procedures, including those governing vehicle registration, the environment, zoning
+and land use. Failure to comply with present or future regulations or changes in interpretations of existing regulations may result in impairment of
+our operations and the imposition of penalties and other liabilities. At various times, we may be involved in disputes with local governmental
+officials regarding the development and/or operation of our business facilities. We believe that we are in compliance in all material respects with
+applicable regulatory requirements. We may be subject to similar types of regulations by federal, national, international, provincial, state, and local
+governmental agencies in new markets. In addition, new regulatory requirements or changes in existing requirements may delay or increase the cost of
+opening new facilities, may limit our base of salvage vehicle buyers and may decrease demand for our vehicles.
+
+Changes in laws affecting the
+importation of salvage vehicles may have an adverse effect on our business and financial condition.
+
+Our Internet-based auction-style model
+has allowed us to offer our products and services to international markets and has increased our international buyer base. As a result, foreign
+importers of salvage vehicles now represent a significant part of our total buyer base. Changes in laws and regulations that restrict the importation
+of salvage vehicles into foreign countries may reduce the demand for salvage vehicles and impact our ability to maintain or increase our international
+buyer base. For example, in March 2008, a decree issued by the president of Mexico became effective that placed restrictions on the types of vehicles
+that can be imported into Mexico from the United States. The adoption of similar laws or regulations in other jurisdictions that have the effect of
+reducing or curtailing our activities abroad could have a material adverse effect on our consolidated results of operations and financial position by
+reducing the demand for our products and services.
+
+The operation of our storage
+facilities poses certain environmental risks, which could adversely affect our consolidated financial position, results of operations or cash
+flows.
+
+Our operations are subject to federal,
+state, national, provincial and local laws and regulations regarding the protection of the environment in the countries which we have storage
+facilities. In the salvage vehicle remarketing industry, large numbers of wrecked vehicles are stored at storage facilities and, during that time,
+spills of fuel, motor oil and other fluids may occur, resulting in soil, surface water or groundwater contamination. In addition, certain of our
+facilities generate and/or store petroleum products and other hazardous materials, including waste solvents and used oil. In the U.K., we provide
+vehicle de-pollution and crushing services for End-of-Life program vehicles. We could incur substantial expenditures for preventative, investigative or
+remedial action and could be exposed to liability arising from our operations, contamination
+
+22
+
+by previous users of certain of our
+acquired facilities, or the disposal of our waste at off-site locations. Environmental laws and regulations could become more stringent over time and
+there can be no assurance that we or our operations will not be subject to significant costs in the future. Although we have obtained indemnification
+for pre-existing environmental liabilities from many of the persons and entities from whom we have acquired facilities, there can be no assurance that
+such indemnifications will be adequate. Any such expenditures or liabilities could have a material adverse effect on our consolidated results of
+operations and financial position.
+
+Volatility in the capital and credit
+markets may negatively affect our business, operating results, or financial condition.
+
+The capital and credit markets have
+experienced extreme volatility and disruption, which has led to an economic downturn in the U.S. and abroad. As a result of the economic downturn, the
+number of miles driven may decrease, which may lead to fewer accident claims, a reduction of vehicle repairs, and fewer salvage vehicles. Adverse
+credit conditions may also affect the ability of members to secure financing to purchase salvaged vehicles which may adversely affect demand. In
+addition, if the banking system or the financial markets deteriorate or remain volatile our credit facility may be affected.
+
+If we determine that our goodwill
+has become impaired, we could incur significant charges that would have a material adverse effect on our consolidated results of
+operations.
+
+Goodwill represents the excess of cost
+over the fair market value of assets acquired in business combinations. In recent periods, the amount of goodwill on our consolidated balance sheet has
+increased substantially, principally as a result of a series of acquisitions we have made in the U.K. since 2007. As of July 31, 2012, the amount of
+goodwill on our consolidated balance sheet subject to future impairment testing was $196.4 million.
+
+Pursuant to ASC 350,
+
+Intangibles—Goodwill and Other
+, we are required to annually test goodwill and intangible assets with indefinite lives to determine if
+impairment has occurred. Additionally, interim reviews must be performed whenever events or changes in circumstances indicate that impairment may have
+occurred. If the testing performed indicates that impairment has occurred, we are required to record a non-cash impairment charge for the difference
+between the carrying value of the goodwill or other intangible assets and the implied fair value of the goodwill or other intangible assets in the
+period the determination is made. The testing of goodwill and other intangible assets for impairment requires us to make significant estimates about
+our future performance and cash flows, as well as other assumptions. These estimates can be affected by numerous factors, including changes in the
+definition of a business segment in which we operate; changes in economic, industry or market conditions; changes in business operations; changes in
+competition; or potential changes in the share price of our common stock and market capitalization. Changes in these factors, or changes in actual
+performance compared with estimates of our future performance, could affect the fair value of goodwill or other intangible assets, which may result in
+an impairment charge. For example, continued deterioration in worldwide economic conditions could affect these assumptions and lead us to determine
+that goodwill impairment is required with respect to our acquisitions in the U.K. We cannot accurately predict the amount or timing of any impairment
+of assets. Should the value of our goodwill or other intangible assets become impaired, it could have a material adverse effect on our consolidated
+results of operations and could result in our incurring net losses in future periods.
+
+An adverse outcome of a pending
+Georgia sales tax audit could have a material adverse effect on our consolidated results of operations and financial condition.
+
+The Georgia Department of Revenue, or
+DOR, conducted a sales and use tax audit of our operations in Georgia for the period from January 1, 2007 through June 30, 2011. As a result of the
+audit, the DOR issued a notice of proposed assessment for uncollected sales taxes in which it asserted that we failed to remit sales taxes totaling
+$73.8 million, including penalties and interest. In issuing the notice of proposed assessment, the
+
+23
+
+DOR stated its policy position that
+sales for resale to non-U.S. registered resellers are subject to Georgia sales and use tax.
+
+We have engaged a Georgia law firm and
+outside tax advisors to review the conduct of our business operations in Georgia, the notice of assessment, and the DOR’s policy position. In
+particular, our outside legal counsel has provided us with an opinion that our sales for resale to non-U.S. registered resellers should not be subject
+to Georgia sales and use tax. In rendering its opinion, our counsel noted that non-U.S. registered resellers are unable to comply strictly with
+technical requirements for a Georgia certificate of exemption but concluded that our sales for resale to non-U.S. registered resellers should not be
+subject to Georgia sales and use tax notwithstanding this technical inability to comply.
+
+Based on the opinion from our outside
+law firm and advice from outside tax advisors, we have not provided for the payment of this assessment in our consolidated financial statements. We
+believe we have strong defenses to the DOR’s notice of proposed assessment and intend to defend this matter. We have filed a request for protest
+or administrative appeal with the State of Georgia. There can be no assurance, however, that this matter will be resolved in our favor or that we will
+not ultimately be required to make a substantial payment to the Georgia DOR. We understand that Georgia law and DOR regulations are ambiguous on many
+of the points at issue in the audit, and litigating and defending the matter in Georgia could be expensive and time-consuming and result in substantial
+management distraction. If the matter were to be resolved in a manner adverse to us, it could have a material adverse effect on our consolidated
+results of operations and financial position.
+
+New accounting pronouncements or new
+interpretations of existing standards could require us to make adjustments to accounting policies that could adversely affect the consolidated
+financial statements.
+
+The Financial Accounting Standards
+Board, the Public Company Accounting Oversight Board, and the SEC, from time to time issue new pronouncements or new interpretations of existing
+accounting standards that require changes to our accounting policies and procedures. To date, we do not believe any new pronouncements or
+interpretations have had a material adverse effect on our consolidated results of operations and financial position, but future pronouncements or
+interpretations could require a change or changes in our policies or procedures.
+
+Fluctuations in foreign currency
+exchange rates could result in declines in our reported revenues and earnings.
+
+Our reported revenues and earnings are
+subject to fluctuations in currency exchange rates. We do not engage in foreign currency hedging arrangements and, consequently, foreign currency
+fluctuations may adversely affect our revenues and earnings. Should we choose to engage in hedging activities in the future we cannot be assured our
+hedges will be effective or that the costs of the hedges will exceed their benefits. Fluctuations in the rate of exchange between the U.S. dollar and
+foreign currencies, primarily the British Pound and Canadian Dollar, could adversely affect our consolidated results of operations and financial
+position.
+
+Fluctuations in the U.S.
+unemployment rates could result in declines in revenue from processing insurance vehicles.
+
+Increases in unemployment may lead to
+an increase in the number of uninsured motorists. Uninsured motorists are responsible for disposition of their vehicle if involved in an accident.
+Disposition generally is either the repair or disposal of the vehicle. In the situation where the owner of the wrecked vehicle, and not an insurance
+company, is responsible for its disposition, we believe it is more likely that vehicle will be repaired or, if disposed, disposed through channels
+other than us.
+
+24
+
+If the interest rate swap entered
+into in connection with our credit facility proves ineffective, it could result in volatility in our operating results, including potential losses,
+which could have a material adverse effect on our consolidated results of operations and cash flows.
+
+We entered into two interest rate swaps
+to exchange our variable interest rate payment commitments for fixed interest rate payments on the Term Loan. The notional amount of the two derivative
+transactions amortizes $18.8 million per quarter until September 30, 2015 and $200 million on December 14, 2015. The first swap agreement fixed our
+interest rate with respect to a notional amount of $337.5 million of our Term Loan, at 85 basis points plus the one month LIBOR rate. The second swap
+agreement fixed our interest rate with respect to a notional amount of $106.3 million of our Term Loan, at 69 basis points plus the one month LIBOR
+rate. The Applicable Rate on our Credit Facility can fluctuate between 1.5% and 2.0% depending on our consolidated net leverage ratio (as defined in
+the Credit Facility) and, at July 31, 2012 was 1.50%.
+
+We recorded the swap at fair value, and
+it is currently designated as an effective cash flow hedge under ASC 815, 
+Derivatives and Hedging
+. Each quarter, we will measure hedge
+effectiveness using the “hypothetical derivative method” and record in earnings any gains or losses resulting from hedge ineffectiveness. The
+hedge provided by our swap could prove to be ineffective for a number of reasons, including early retirement of the Term Loan, as is allowed under the
+Credit Facility, or in the event the counterparty to the interest rate swap is determined in the future to not be creditworthy. Any determination that
+the hedge created by the swap is ineffective could have a material adverse effect on our results of operations and cash flows and result in volatility
+in our operating results. In addition, any changes in relevant accounting standards relating to the swap, especially ASC 815, 
+Derivatives and
+Hedging
+, could materially increase earnings volatility.

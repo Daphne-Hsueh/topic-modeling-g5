@@ -1,56 +1,111 @@
 ticker,company,sector,cik,first_year,last_year,n_10k
+CHTR,Charter Communications,Communication Services,0001091667,2010,2025,16
 CMCSA,Comcast,Communication Services,0001166691,2010,2025,16
+EA,Electronic Arts,Communication Services,0000712515,2010,2025,16
 LYV,Live Nation Entertainment,Communication Services,0001335258,2010,2025,16
+OMC,Omnicom Group,Communication Services,0000029989,2010,2025,16
+SATS,EchoStar,Communication Services,0001415404,2010,2025,16
 T,AT&T,Communication Services,0000732717,2010,2025,16
+TMUS,T-Mobile US,Communication Services,0001283699,2010,2025,16
 VZ,Verizon,Communication Services,0000732712,2010,2025,16
 WBD,Warner Bros. Discovery,Communication Services,0001437107,2010,2025,16
 CMG,Chipotle Mexican Grill,Consumer Discretionary,0001058090,2010,2025,16
+DECK,Deckers Brands,Consumer Discretionary,0000910521,2010,2025,16
+GRMN,Garmin,Consumer Discretionary,0001121788,2010,2025,16
 HAS,Hasbro,Consumer Discretionary,0000046080,2010,2025,16
 HD,Home Depot (The),Consumer Discretionary,0000354950,2010,2025,16
 LOW,Lowe's,Consumer Discretionary,0000060667,2010,2025,16
 ORLY,O’Reilly Automotive,Consumer Discretionary,0000898173,2010,2025,16
+POOL,Pool Corporation,Consumer Discretionary,0000945841,2010,2025,16
+WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,0000719955,2010,2025,16
+YUM,Yum! Brands,Consumer Discretionary,0001041061,2010,2025,16
 CAG,Conagra Brands,Consumer Staples,0000023217,2010,2025,16
+DLTR,Dollar Tree,Consumer Staples,0000935703,2010,2025,16
 HSY,Hershey Company (The),Consumer Staples,0000047111,2010,2025,16
 KDP,Keurig Dr Pepper,Consumer Staples,0001418135,2010,2025,16
+MO,Altria,Consumer Staples,0000764180,2010,2025,16
 PEP,PepsiCo,Consumer Staples,0000077476,2010,2025,16
+PM,Philip Morris International,Consumer Staples,0001413329,2010,2025,16
+STZ,Constellation Brands,Consumer Staples,0000016918,2010,2025,16
 TGT,Target Corporation,Consumer Staples,0000027419,2010,2025,16
+TSN,Tyson Foods,Consumer Staples,0000100493,2010,2025,16
+COP,ConocoPhillips,Energy,0001163165,2010,2025,16
 CVX,Chevron Corporation,Energy,0000093410,2010,2025,16
+DVN,Devon Energy,Energy,0001090012,2010,2025,16
+EQT,EQT Corporation,Energy,0000033213,2010,2025,16
 EXE,Expand Energy,Energy,0000895126,2010,2025,16
+HAL,Halliburton,Energy,0000045012,2010,2025,16
 OKE,Oneok,Energy,0001039684,2010,2025,16
 OXY,Occidental Petroleum,Energy,0000797468,2010,2025,16
 VLO,Valero Energy,Energy,0001035002,2010,2025,16
+WMB,Williams Companies,Energy,0000107263,2010,2025,16
 AFL,Aflac,Financials,0000004977,2010,2025,16
 AON,Aon plc,Financials,0000315293,2010,2025,16
+BNY,BNY Mellon,Financials,0001390777,2010,2025,16
 BRO,Brown & Brown,Financials,0000079282,2010,2025,16
 IBKR,Interactive Brokers,Financials,0001381197,2010,2025,16
+JPM,JPMorgan Chase,Financials,0000019617,2010,2025,16
+MCO,Moody's Corporation,Financials,0001059556,2010,2025,16
 PFG,Principal Financial Group,Financials,0001126328,2010,2025,16
+RJF,Raymond James Financial,Financials,0000720005,2010,2025,16
+TFC,Truist Financial,Financials,0000092230,2010,2025,16
+BAX,Baxter International,Health Care,0000010456,2010,2025,16
+CNC,Centene Corporation,Health Care,0001071739,2010,2025,16
+EW,Edwards Lifesciences,Health Care,0001099800,2010,2025,16
 HUM,Humana,Health Care,0000049071,2010,2025,16
+IDXX,Idexx Laboratories,Health Care,0000874716,2010,2025,16
 INCY,Incyte,Health Care,0000879169,2010,2025,16
 PODD,Insulet Corporation,Health Care,0001145197,2010,2025,16
+REGN,Regeneron Pharmaceuticals,Health Care,0000872589,2010,2025,16
 SYK,Stryker Corporation,Health Care,0000310764,2010,2025,16
 VRTX,Vertex Pharmaceuticals,Health Care,0000875320,2010,2025,16
 BA,Boeing,Industrials,0000012927,2010,2025,16
+CPRT,Copart,Industrials,0000900075,2010,2025,16
+DAL,Delta Air Lines,Industrials,0000027904,2010,2025,16
+IEX,IDEX Corporation,Industrials,0000832101,2010,2025,16
 MMM,3M,Industrials,0000066740,2010,2025,16
 PNR,Pentair,Industrials,0000077360,2010,2025,16
 SWK,Stanley Black & Decker,Industrials,0000093556,2010,2025,16
 URI,United Rentals,Industrials,0001067701,2010,2025,16
+VRSK,Verisk Analytics,Industrials,0001442145,2010,2025,16
+WM,Waste Management,Industrials,0000823768,2010,2025,16
+ADI,Analog Devices,Information Technology,0000006281,2010,2025,16
+AKAM,Akamai Technologies,Information Technology,0001086222,2010,2025,16
 CTSH,Cognizant,Information Technology,0001058290,2010,2025,16
+FSLR,First Solar,Information Technology,0001274494,2010,2025,16
 IT,Gartner,Information Technology,0000749251,2010,2025,16
+MSI,Motorola Solutions,Information Technology,0000068505,2010,2025,16
 SNPS,Synopsys,Information Technology,0000883241,2010,2025,16
 STX,Seagate Technology,Information Technology,0001137789,2010,2025,16
 TXN,Texas Instruments,Information Technology,0000097476,2010,2025,16
+VRSN,Verisign,Information Technology,0001014473,2010,2025,16
 ALB,Albemarle Corporation,Materials,0000915913,2010,2025,16
 APD,Air Products,Materials,0000002969,2010,2025,16
+AVY,Avery Dennison,Materials,0000008818,2010,2025,16
 ECL,Ecolab,Materials,0000031462,2010,2025,16
+IP,International Paper,Materials,0000051434,2010,2025,16
+MLM,Martin Marietta Materials,Materials,0000916076,2010,2025,16
 NUE,Nucor,Materials,0000073309,2010,2025,16
+PPG,PPG Industries,Materials,0000079879,2010,2025,16
+SHW,Sherwin-Williams,Materials,0000089800,2010,2025,16
 STLD,Steel Dynamics,Materials,0001022671,2010,2025,16
+ARE,Alexandria Real Estate Equities,Real Estate,0001035443,2010,2025,16
 DLR,Digital Realty,Real Estate,0001297996,2010,2025,16
+EQIX,Equinix,Real Estate,0001101239,2010,2025,16
 EXR,Extra Space Storage,Real Estate,0001289490,2010,2025,16
+FRT,Federal Realty Investment Trust,Real Estate,0000034903,2010,2025,16
 IRM,Iron Mountain,Real Estate,0001020569,2010,2025,16
+O,Realty Income,Real Estate,0000726728,2010,2025,16
 REG,Regency Centers,Real Estate,0000910606,2010,2025,16
+VTR,Ventas,Real Estate,0000740260,2010,2025,16
 WELL,Welltower,Real Estate,0000766704,2010,2025,16
 AES,AES Corporation,Utilities,0000874761,2010,2025,16
 D,Dominion Energy,Utilities,0000715957,2010,2025,16
+DUK,Duke Energy,Utilities,0001326160,2010,2025,16
 ED,Consolidated Edison,Utilities,0001047862,2010,2025,16
+EIX,Edison International,Utilities,0000827052,2010,2025,16
+ETR,Entergy,Utilities,0000065984,2010,2025,16
+NEE,NextEra Energy,Utilities,0000753308,2010,2025,16
 PNW,Pinnacle West Capital,Utilities,0000764622,2010,2025,16
+PPL,PPL Corporation,Utilities,0000922224,2010,2025,16
 SO,Southern Company,Utilities,0000092122,2010,2025,16
