@@ -6,6 +6,9 @@ from sentence_transformers import SentenceTransformer
 from sklearn.feature_extraction.text import CountVectorizer
 import umap
 import hdbscan
+from pathlib import Path
+# 1. Define base directory
+BASE_DIR = Path(__file__).resolve().parent.parent
 
 # 2. Dynamically build paths
 CSV_PATH = BASE_DIR / "data" / "processed" / "filtered_corpus.csv"
@@ -24,7 +27,7 @@ timestamps = df["year"].tolist()
 # 4. Configure Models
 embedding_model = SentenceTransformer('all-mpnet-base-v2')
 umap_model = umap.UMAP(n_neighbors=15, n_components=5, min_dist=0.0, metric='cosine', random_state=42)
-hdbscan_model = hdbscan.HDBSCAN(min_cluster_size=50, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
+hdbscan_model = hdbscan.HDBSCAN(min_cluster_size=80, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
 
 # Initialize the vectorizer to remove standard English stop words
 vectorizer_model = CountVectorizer(stop_words="english")
