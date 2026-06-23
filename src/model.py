@@ -19,6 +19,22 @@ print(f"Loading data from: {CSV_PATH}")
 
 # 3. Load the dataframe
 df = pd.read_csv(CSV_PATH)
+
+# Clean out duplicates immediately
+df = df.drop_duplicates(subset=['text', 'ticker', 'year'])
+
+# ==========================================
+# INSTANT VERIFICATION CHECK
+# ==========================================
+print(f"\n--- DATA VERIFICATION ---")
+print(f"Total rows loaded: {len(df)}")
+print(f"Unique companies: {df['ticker'].nunique()}")
+print(f"-------------------------\n")
+
+# Pause the script so you can read the numbers before it starts the 10-minute wait
+input("Press Enter to continue if the numbers look correct, or Ctrl+C to cancel...")
+# ==========================================
+
 df["matched_categories"] = df["matched_categories"].apply(ast.literal_eval)
 
 docs = df["text"].tolist()
@@ -26,8 +42,8 @@ timestamps = df["year"].tolist()
 
 # 4. Configure Models
 embedding_model = SentenceTransformer('all-mpnet-base-v2')
-umap_model = umap.UMAP(n_neighbors=15, n_components=5, min_dist=0.0, metric='cosine', random_state=42)
-hdbscan_model = hdbscan.HDBSCAN(min_cluster_size=80, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
+umap_model = umap.UMAP(n_neighbors=10, n_components=5, min_dist=0.0, metric='cosine', random_state=42)
+hdbscan_model = hdbscan.HDBSCAN(min_cluster_size=120, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
 
 # Initialize the vectorizer to remove standard English stop words
 vectorizer_model = CountVectorizer(stop_words="english")
@@ -92,3 +108,20 @@ print("="*40 + "\n")
 # 9. Save final output
 df.to_csv(OUTPUT_PATH, index=False)
 print(f"Results saved to {OUTPUT_PATH}")
+
+print("\nGenerating Intertopic Distance Map...")
+
+# Create the outputs folder if it does not exist
+OUTPUT_DIR = BASE_DIR / "outputs"
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+# 1. Generate the map
+distance_map_fig = topic_model.visualize_topics()
+
+# 2. Save it as an interactive HTML file
+html_path = OUTPUT_DIR / "intertopic_distance_map.html"
+distance_map_fig.write_html(str(html_path))
+print(f"Saved interactive distance map to: {html_path}")
+
+# 3. Show it on screen
+distance_map_fig.show()

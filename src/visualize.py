@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+from src import model
 from wordcloud import WordCloud, STOPWORDS
 from pathlib import Path
 
@@ -10,9 +11,9 @@ CSV_PATH = BASE_DIR / "data" / "processed" / "corpus_with_ai_topics.csv"
 print("Loading clustered data...")
 df = pd.read_csv(CSV_PATH)
 
-# 2. Get the top 5 most common topics (excluding noise)
+# 2. Get the top 12 most common topics (excluding noise)
 valid_topics = df[df['bertopic_id'] != -1]
-top_5_topics = valid_topics['bertopic_id'].value_counts().head(5).index.tolist()
+top_12_topics = valid_topics['bertopic_id'].value_counts().head(12).index.tolist()
 
 # 3. Define custom corporate and legal boilerplate to ignore
 SEC_STOPWORDS = set(STOPWORDS).union({
@@ -23,10 +24,11 @@ SEC_STOPWORDS = set(STOPWORDS).union({
     "impact", "potential", "effect", "material", "condition", "financial",
     "risk", "risks", "increase", "increased"
 })
-
+topic_visualization = model.visualize_topics(top_n_topics=12)
+topic_visualization.show()
 # 4. Generate the Word Clouds
-for topic_id in top_5_topics:
-    topic_text = " ".join(df[df['bertopic_id'] == topic_id]['text_clean'].dropna())
+for topic_id in top_12_topics:
+    topic_text = " ".join(df[df['bertopic_id'] == topic_id]['text'].dropna())
     
     wordcloud = WordCloud(
         width=1200, 
