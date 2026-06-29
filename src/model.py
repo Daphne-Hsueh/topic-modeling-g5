@@ -42,8 +42,8 @@ timestamps = df["year"].tolist()
 
 # 4. Configure Models
 embedding_model = SentenceTransformer('all-mpnet-base-v2')
-umap_model = umap.UMAP(n_neighbors=10, n_components=5, min_dist=0.0, metric='cosine', random_state=42)
-hdbscan_model = hdbscan.HDBSCAN(min_cluster_size=120, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
+umap_model = umap.UMAP(n_neighbors=35, n_components=5, min_dist=0.0, metric='cosine', random_state=42)
+hdbscan_model = hdbscan.HDBSCAN(min_cluster_size=70, min_samples=5, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
 
 # Initialize the vectorizer to remove standard English stop words
 vectorizer_model = CountVectorizer(stop_words="english")
@@ -65,6 +65,7 @@ topic_model = BERTopic(
     umap_model=umap_model,
     hdbscan_model=hdbscan_model,
     vectorizer_model=vectorizer_model,
+    calculate_probabilities=True,
     verbose=True
 )
 
@@ -78,6 +79,8 @@ print(topic_info.head(10))
 # 7. Dynamic Topic Modeling (Temporal Coherence)
 print("\nCalculating topics over time...")
 topics_over_time = topic_model.topics_over_time(docs, timestamps)
+
+topics_over_time.to_csv(BASE_DIR / "outputs" / "topics_over_time.csv", index=False)
 
 # Generate the interactive timeline chart
 fig = topic_model.visualize_topics_over_time(topics_over_time)
@@ -110,6 +113,12 @@ df.to_csv(OUTPUT_PATH, index=False)
 print(f"Results saved to {OUTPUT_PATH}")
 
 print("\nGenerating Intertopic Distance Map...")
+
+# 10. Save the BERTopic Model Engine for Evaluation
+MODEL_DIR = BASE_DIR / "outputs" / "models"
+MODEL_DIR.mkdir(parents=True, exist_ok=True)
+topic_model.save(str(MODEL_DIR), serialization="safetensors", save_ctfidf=True)
+print("\nModel engine successfully saved to the models/ folder!")
 
 # Create the outputs folder if it does not exist
 OUTPUT_DIR = BASE_DIR / "outputs"
