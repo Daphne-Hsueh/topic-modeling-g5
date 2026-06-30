@@ -52,3 +52,4 @@ for topic_id in top_12_topics:
     print(f"Saved: {save_path}")
     
     plt.show()
+    
