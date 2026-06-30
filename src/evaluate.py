@@ -1,213 +1,237 @@
-import pandas as pd
+import re
+import warnings
+warnings.filterwarnings("ignore")
+
 import numpy as np
+import pandas as pd
+from pathlib import Path
 from bert_score import score as bert_score
 from bertopic import BERTopic
 from sentence_transformers import SentenceTransformer
-from pathlib import Path
-import warnings
-warnings.filterwarnings('ignore')
 
-# ==========================================
-# 0. PATHS
-# ==========================================
+# ============================================================
+# PATHS
+# ============================================================
 BASE_DIR = Path(__file__).resolve().parent.parent
 CSV_PATH = BASE_DIR / "data" / "corpus_sample_150.csv"
+KEYWORD_PATH = BASE_DIR / "data" / "keyword_dictionary.csv"
 MODEL_PATH = BASE_DIR / "outputs" / "models"
-RESULTS_PATH = BASE_DIR / "outputs" / "evaluation_chunk_level.csv"
+OUTPUT_DIR = BASE_DIR / "outputs"
 
-# ==========================================
-# 1. LOAD DATA
-# ==========================================
-print("Loading data...")
-try:
-    df = pd.read_csv(CSV_PATH)
-except FileNotFoundError:
-    print(f"Error: Could not find CSV at {CSV_PATH}")
-    exit()
+EVALUATION_SET_PATH = OUTPUT_DIR / "evaluation_set.csv"
 
-TEXT_COLUMN = 'text'
-LABEL_COLUMN = 'manual_label'
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-df[LABEL_COLUMN] = df[LABEL_COLUMN].fillna("")
+# ============================================================
+# STEP 1 — Load data and get topic assignments
+# ============================================================
 
-# Parse semicolon-separated multi-labels into a list per chunk
-df['labels_list'] = df[LABEL_COLUMN].apply(
-    lambda row: [l.strip() for l in str(row).split(';') if l.strip()]
-)
+df = pd.read_csv(CSV_PATH)
+print(f"Loaded {len(df)} rows from {CSV_PATH.name}")
 
-print(f"Loaded {len(df)} chunks")
-print(f"  Single-label chunks : {df['labels_list'].apply(len).eq(1).sum()}")
-print(f"  Multi-label chunks  : {df['labels_list'].apply(len).gt(1).sum()}")
+# Parse CSV: each column = one category, rows = keywords
+kw_df = pd.read_csv(KEYWORD_PATH)
+keyword_categories = {}
+for col in kw_df.columns:
+    keywords = [str(k).strip() for k in kw_df[col].dropna() if str(k).strip()]
+    keyword_categories[col] = keywords
+CATEGORIES = list(keyword_categories.keys())
+print(f"Loaded {len(CATEGORIES)} categories from {KEYWORD_PATH.name}")
 
-# ==========================================
-# 2. LOAD MODEL AND ASSIGN TOPICS
-# ==========================================
-print("\nLoading BERTopic model...")
-embedding_model = SentenceTransformer('all-mpnet-base-v2')
+# Label normalizer: lower-case, strip whitespace, remove punctuation, collapse spaces
+def _norm_key(s: str) -> str:
+    return re.sub(r"\s+", " ", re.sub(r"[^a-zA-Z0-9 ]", " ", s)).strip().lower()
 
-try:
-    model = BERTopic.load(str(MODEL_PATH), embedding_model=embedding_model)
-except Exception as e:
-    print(f"Model load error: {e}")
-    exit()
+_label_map = {_norm_key(cat): cat for cat in CATEGORIES}
 
-docs = df[TEXT_COLUMN].tolist()
-print("Assigning topics to chunks...")
-topics, probs = model.transform(docs)
-df['assigned_topic'] = topics
+def normalize_label(label: str) -> str:
+    return _label_map.get(_norm_key(label), label)
 
-noise_count = sum(1 for t in topics if t == -1)
-print(f"Done. Noise chunks (topic -1): {noise_count}/{len(df)} ({noise_count/len(df)*100:.1f}%)")
+print("Loading BERTopic model...")
+embedding_model = SentenceTransformer("all-mpnet-base-v2")
+topic_model = BERTopic.load(str(MODEL_PATH), embedding_model=embedding_model)
 
-# ==========================================
-# 3. BUILD TOPIC KEYWORD LOOKUP
-# ==========================================
-print("\nBuilding topic keyword lookup...")
-topic_keyword_map = {}
-for topic_id in set(topics):
-    if topic_id == -1:
-        topic_keyword_map[-1] = "unclassified noise"
+docs = df["text"].tolist()
+print("Running model prediction")
+topics, probs = topic_model.transform(docs)
+
+# Normalize probs to a single float per document
+probs_arr = np.array(probs) if not isinstance(probs, np.ndarray) else probs
+if probs_arr.ndim == 2:
+    topic_probs = probs_arr.max(axis=1).tolist()
+else:
+    topic_probs = probs_arr.tolist()
+
+df["predicted_topic_id"] = topics
+df["topic_probability"] = topic_probs
+
+outlier_count = sum(1 for t in topics if t == -1)
+print(f"\nOutlier chunks (topic_id == -1): {outlier_count} / {len(df)} "
+      f"({outlier_count / len(df) * 100:.1f}%)")
+
+# ============================================================
+# STEP 2 — Split multi-label rows into single-label rows
+# ============================================================
+
+original_count = len(df)
+multi_label_count = df["manual_label"].str.contains(";", na=False).sum()
+
+df_exploded = df.copy()
+df_exploded["manual_label"] = df_exploded["manual_label"].str.split(";")
+df_exploded = df_exploded.explode("manual_label")
+df_exploded["manual_label"] = df_exploded["manual_label"].str.strip().apply(normalize_label)
+df_exploded = df_exploded[df_exploded["manual_label"] != ""].reset_index(drop=True)
+exploded_count = len(df_exploded)
+
+# Report any labels that didn't match a known category 
+unknown_labels = set(df_exploded["manual_label"]) - set(CATEGORIES)
+if unknown_labels:
+    print(f"  WARNING: unrecognized labels after normalization: {unknown_labels}")
+
+df_exploded.to_csv(EVALUATION_SET_PATH, index=False)
+
+print(f"Original chunk count:   {original_count}")
+print(f"Exploded row count:     {exploded_count}")
+print(f"Multi-label chunks:     {multi_label_count}")
+print(f"Saved to: {EVALUATION_SET_PATH}")
+
+# ============================================================
+# STEP 3 — BERTScore: topic keywords vs manual_label keywords
+# ============================================================
+
+# Build topic keyword strings
+unique_topics = [t for t in df_exploded["predicted_topic_id"].unique() if t != -1]
+topic_keyword_strings = {}
+for tid in unique_topics:
+    words_scores = topic_model.get_topic(tid)
+    topic_keyword_strings[tid] = " ".join(w for w, _ in words_scores)
+
+# Build category reference strings from dictionary
+category_ref_strings = {
+    cat: " ".join(keyword_categories[cat])
+    for cat in CATEGORIES
+}
+
+# For each row in evaluation_set: 
+# candidate = topic keywords, reference = manual_label category keywords
+cands, refs = [], []
+for _, row in df_exploded.iterrows():
+    tid = row["predicted_topic_id"]
+    label = row["manual_label"]
+    
+    if tid == -1:
+        cands.append("unassigned")
     else:
-        words = [word for word, _ in model.get_topic(topic_id)[:5]]
-        topic_keyword_map[topic_id] = " ".join(words)
+        cands.append(topic_keyword_strings[tid])
+    
+    refs.append(category_ref_strings.get(label, label))
 
-df['topic_keywords'] = df['assigned_topic'].map(topic_keyword_map)
+print(f"Scoring {len(cands)} chunk-level pairs...")
+_, _, F1_all = bert_score(cands, refs, lang="en", verbose=True)
 
-# ==========================================
-# 4. BUILD FLAT PAIRS FOR BERTSCORE
-#
-# Logic: for each chunk, pair its assigned topic keywords
-# against EACH of its manual labels. BERTScore runs once
-# on all pairs, then we take the best-matching label per chunk.
-#
-# This handles multi-label chunks fairly — the model only needs
-# to semantically match ONE of the correct labels to score well.
-# ==========================================
-print("\nBuilding evaluation pairs...")
-candidates  = []   # topic keywords (repeated per label)
-references  = []   # manual label names
-chunk_idxs  = []   # which chunk each pair belongs to
+df_exploded["bertscore_f1"] = [round(float(f), 4) for f in F1_all]
 
-for idx, row in df.iterrows():
-    kw     = row['topic_keywords']
-    labels = row['labels_list']
-    for label in labels:
-        candidates.append(kw)
-        references.append(label)
-        chunk_idxs.append(idx)
+print(f"\nOverall BERTScore F1:")
+print(f"  Mean:   {df_exploded['bertscore_f1'].mean():.4f}")
+print(f"  Std:    {df_exploded['bertscore_f1'].std():.4f}")
+print(f"  Min:    {df_exploded['bertscore_f1'].min():.4f}")
+print(f"  Max:    {df_exploded['bertscore_f1'].max():.4f}")
 
-print(f"Total (chunk, label) pairs to evaluate: {len(candidates)}")
+print(f"\nBERTScore F1 per manual_label:")
+print(df_exploded.groupby("manual_label")["bertscore_f1"].mean().sort_values(ascending=False).to_string())
 
-# ==========================================
-# 5. RUN BERTSCORE ONCE ON ALL PAIRS
-# ==========================================
-print("\nRunning BERTScore (this runs once for all pairs)...")
-P_all, R_all, F1_all = bert_score(
-    candidates,
-    references,
-    lang="en",
-    verbose=True
+df_exploded.to_csv(EVALUATION_SET_PATH, index=False)
+print(f"\nUpdated evaluation_set.csv with bertscore_f1: {EVALUATION_SET_PATH}")
+
+# ============================================================
+# STEP 4 — Build evaluation_results.csv 
+# ============================================================
+
+# --- BERTScore F1 per topic (average across all chunks in that topic) ---
+bertscore_per_topic = (
+    df_exploded[df_exploded["predicted_topic_id"] != -1]
+    .groupby("predicted_topic_id")["bertscore_f1"]
+    .mean()
+    .round(4)
 )
-print("BERTScore done.")
 
-# ==========================================
-# 6. AGGREGATE — BEST LABEL MATCH PER CHUNK
-# ==========================================
-# For multi-label chunks, take whichever label gave the highest F1
-chunk_best_f1      = {}
-chunk_best_label   = {}
-chunk_best_p       = {}
-chunk_best_r       = {}
+# --- n_docs per topic  ---
+topic_info = topic_model.get_topic_info()
+# topic_info has columns: Topic, Count, Name, Representation, ...
+topic_info = topic_info[topic_info["Topic"] != -1].copy()
 
-for i, chunk_idx in enumerate(chunk_idxs):
-    f1_val = F1_all[i].item()
-    if chunk_idx not in chunk_best_f1 or f1_val > chunk_best_f1[chunk_idx]:
-        chunk_best_f1[chunk_idx]    = f1_val
-        chunk_best_label[chunk_idx] = references[i]
-        chunk_best_p[chunk_idx]     = P_all[i].item()
-        chunk_best_r[chunk_idx]     = R_all[i].item()
+# --- Topic label ---
+def clean_topic_name(name: str) -> str:
+    parts = name.split("_")
+    # drop the leading topic_id number
+    parts = [p for p in parts if not p.isdigit()]
+    return " ".join(parts).title()
 
-# ==========================================
-# 7. PRINT CHUNK-LEVEL RESULTS
-# ==========================================
-print("\n" + "=" * 70)
-print("--- CHUNK-LEVEL EVALUATION RESULTS ---")
-print("=" * 70)
-print(f"{'#':<4} | {'Topic':>5} | {'F1':>6} | {'Best Matched Label':<35} | Keywords")
-print("-" * 70)
+topic_info["topic_label"] = topic_info["Name"].apply(clean_topic_name)
 
-all_f1        = []
-non_noise_f1  = []
+# --- Coherence per topic  ---
+print("Computing coherence scores")
+full_docs = df["text"].tolist()
+tokenized = [doc.lower().split() for doc in full_docs]
+n_docs = len(tokenized)
 
-for idx, row in df.iterrows():
-    f1         = chunk_best_f1.get(idx, 0.0)
-    best_label = chunk_best_label.get(idx, "N/A")
-    topic_id   = row['assigned_topic']
-    kw         = row['topic_keywords']
+coherence_scores = {}
+for tid in topic_info["Topic"].tolist():
+    words_scores = topic_model.get_topic(tid)
+    if not words_scores:
+        coherence_scores[tid] = None
+        continue
+    topic_words = [w for w, _ in words_scores]
 
-    all_f1.append(f1)
-    if topic_id != -1:
-        non_noise_f1.append(f1)
+    pairs_score = []
+    for i in range(len(topic_words)):
+        for j in range(i + 1, len(topic_words)):
+            w1, w2 = topic_words[i], topic_words[j]
+            d_w1 = sum(1 for d in tokenized if w1 in d)
+            d_w2 = sum(1 for d in tokenized if w2 in d)
+            d_both = sum(1 for d in tokenized if w1 in d and w2 in d)
+            if d_w1 > 0 and d_w2 > 0 and d_both > 0:
+                pmi = np.log((d_both * n_docs) / (d_w1 * d_w2))
+                pairs_score.append(pmi)
+    coherence_scores[tid] = round(float(np.mean(pairs_score)), 4) if pairs_score else None
 
-    # Flag noise chunks
-    noise_flag = " ⚠️" if topic_id == -1 else ""
-    print(f"{idx:<4} | {topic_id:>5}{noise_flag} | {f1:.4f} | {best_label:<35} | {kw}")
 
-# ==========================================
-# 8. OVERALL SUMMARY
-# ==========================================
-print("\n" + "=" * 70)
-print("OVERALL SUMMARY")
-print("=" * 70)
-print(f"  Mean BERTScore F1 — all 150 chunks   : {np.mean(all_f1):.4f}")
-print(f"  Mean BERTScore F1 — non-noise only   : {np.mean(non_noise_f1):.4f}")
-print(f"  Noise chunks (topic = -1)             : {noise_count} ({noise_count/len(df)*100:.1f}%)")
-print(f"  Chunks successfully clustered         : {len(df) - noise_count} ({(len(df)-noise_count)/len(df)*100:.1f}%)")
+# --- Topic Diversity ---
+all_topic_words = []
+for tid in topic_info["Topic"].tolist():
+    words_scores = topic_model.get_topic(tid)
+    if words_scores:
+        all_topic_words.extend([w for w, _ in words_scores])
 
-# ==========================================
-# 9. PER-CATEGORY BREAKDOWN
-#
-# For each category, collect the BERTScore F1 from every
-# (chunk, label) pair where that label appears, then average.
-# This shows which risk categories the model captures best.
-# ==========================================
-print("\n" + "=" * 70)
-print("PER-CATEGORY BREAKDOWN")
-print("=" * 70)
-print(f"{'Category':<35} | {'Mean F1':<8} | {'Chunks'}")
-print("-" * 70)
+total_words = len(all_topic_words)
+unique_words = len(set(all_topic_words))
+overall_diversity = round(unique_words / total_words, 4) if total_words > 0 else None
+print(f"Overall topic diversity: {overall_diversity}")
 
-category_scores = {}
-for i, chunk_idx in enumerate(chunk_idxs):
-    label  = references[i]
-    f1_val = F1_all[i].item()
-    if label not in category_scores:
-        category_scores[label] = []
-    category_scores[label].append(f1_val)
-
-for label in sorted(category_scores.keys()):
-    scores = category_scores[label]
-    print(f"{label:<35} | {np.mean(scores):.4f}   | {len(scores)}")
-
-# ==========================================
-# 10. SAVE RESULTS TO CSV
-# ==========================================
-results_rows = []
-for idx, row in df.iterrows():
-    results_rows.append({
-        "chunk_id"        : row.get("chunk_id", idx),
-        "ticker"          : row.get("ticker", ""),
-        "year"            : row.get("year", ""),
-        "assigned_topic"  : row['assigned_topic'],
-        "topic_keywords"  : row['topic_keywords'],
-        "manual_labels"   : "; ".join(row['labels_list']),
-        "best_matched_label" : chunk_best_label.get(idx, "N/A"),
-        "precision"       : round(chunk_best_p.get(idx, 0.0), 4),
-        "recall"          : round(chunk_best_r.get(idx, 0.0), 4),
-        "f1"              : round(chunk_best_f1.get(idx, 0.0), 4),
+# --- Assemble final results table ---
+rows = []
+for _, trow in topic_info.iterrows():
+    tid = trow["Topic"]
+    rows.append({
+        "topic_id": tid,
+        "topic_label": trow["topic_label"],
+        "top_keywords": " ".join(w for w, _ in topic_model.get_topic(tid)),
+        "bertscore_f1": bertscore_per_topic.get(tid, None),
+        "coherence": coherence_scores.get(tid, None),
+        "diversity": overall_diversity,
+        "n_docs": int(trow["Count"]),
     })
 
-results_df = pd.DataFrame(results_rows)
+results_df = pd.DataFrame(rows)
+RESULTS_PATH = OUTPUT_DIR / "evaluation_results.csv"
 results_df.to_csv(RESULTS_PATH, index=False)
-print(f"\n✅ Full results saved to: {RESULTS_PATH}")
-print("=" * 70)
+
+print(f"\nSaved evaluation_results.csv ({len(results_df)} rows): {RESULTS_PATH}")
+print("\nSample:")
+print(results_df[["topic_label", "bertscore_f1", "coherence", "diversity", "n_docs"]].head(5).to_string())
+
+print(f"\n=== Summary ===")
+print(f"Topics evaluated:         {len(results_df)}")
+print(f"Mean BERTScore F1:        {results_df['bertscore_f1'].dropna().mean():.4f}")
+print(f"Mean Coherence:      {results_df['coherence'].dropna().mean():.4f}")
+print(f"Overall Topic Diversity:  {overall_diversity}")
