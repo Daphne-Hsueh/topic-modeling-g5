@@ -71,7 +71,7 @@ Total chunks = paragraphs at or under threshold (1 chunk each) + paragraphs over
 
 ## Distribution
 
-Dashed red line = 400-word cap. Dotted orange line = 20-word pipeline floor.  
-Display clipped at 1,200 words; long tail excluded for readability.
+Dashed lines mark the three candidate thresholds: orange = 300 words, red (bold) = 400 words (chosen), blue = 500 words.  
+Display clipped at 800 words for readability; the long tail (including the artifacts discussed above) is excluded from the plot but included in all statistics.
 
 ![Paragraph length distribution](paragraph_length_distribution.png)

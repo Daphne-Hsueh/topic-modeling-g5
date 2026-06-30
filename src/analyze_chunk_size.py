@@ -246,9 +246,10 @@ def save_markdown(
         "",
         "## Distribution",
         "",
-        f"Dashed red line = {CHUNK_CAP}-word cap. "
-        f"Dotted orange line = {MIN_WORDS}-word pipeline floor.  ",
-        f"Display clipped at 1,200 words; long tail excluded for readability.",
+        "Dashed lines mark the three candidate thresholds: orange = 300 words, "
+        f"red (bold) = {CHUNK_CAP} words (chosen), blue = 500 words.  ",
+        "Display clipped at 800 words for readability; the long tail (including "
+        "the artifacts discussed above) is excluded from the plot but included in all statistics.",
         "",
         f"![Paragraph length distribution]({rel_png})",
     ]
