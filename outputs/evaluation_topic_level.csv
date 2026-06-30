@@ -1,0 +1,40 @@
+topic_id,topic_label,topic_keywords,bertscore_f1,coherence_npmi,diversity,n_docs
+0,Cybersecurity & Data Privacy,information systems data security technology,0.8888,0.3478,0.2,2509
+1,Human Resources,gas environmental energy operations costs,0.8563,0.1872,0.4,2121
+2,Production Failure,product products health fda laws,0.8399,0.1958,0.6,1245
+3,Human Resources,foreign currency countries international operations,0.8622,0.2878,0.7,625
+4,"Credit, Liquidity & Market Risk",debt indebtedness credit cash capital,0.8184,0.3006,0.8,432
+5,Human Resources,goodwill impairment assets intangible value,0.8485,0.4056,1.0,397
+6,Legal & Litigation,litigation proceedings legal claims matters,0.8798,0.1672,0.5,379
+7,Production Failure,laws anti bribery regulations compliance,0.869,0.4123,0.7,318
+8,Production Failure,acquired acquisitions acquisition businesses transaction,0.8237,0.2476,0.8,300
+9,Production Failure,properties tenants managers operators redevelopment,0.8383,0.207,0.6,292
+10,Cybersecurity & Data Privacy,intellectual property rights patents protect,0.8591,0.3129,0.7,277
+11,"Credit, Liquidity & Market Risk",credit securities risk market company,0.8497,0.1645,0.3,274
+12,Governance Risk,wireless fcc spectrum services content,0.8323,0.3343,0.8,259
+13,Governance Risk,chase jpmorgan firm jpmorganchase market,0.7738,0.1966,0.4,256
+14,Environmental Misconduct,properties environmental contamination property substances,0.8527,0.3422,0.5,223
+15,Human Resources,food restaurants restaurant concepts franchisees,0.8363,0.5018,0.7,207
+16,Human Resources,products distributors customers sales new,0.8457,0.132,0.4,202
+17,Product/Service Quality,products product reputation recall quality,0.8933,0.1872,0.4,199
+18,"Credit, Liquidity & Market Risk",moody company ratings rating credit,0.8094,0.3156,0.6,197
+19,Human Resources,truist financial regulatory company management,0.836,0.0902,0.2,187
+20,Governance Risk,joint venture partnership partners interests,0.864,0.2634,1.0,179
+21,Human Resources,tobacco altria subsidiaries products adult,0.8208,0.3731,0.9,147
+22,Governance Risk,tax income changes rate effective,0.838,0.1723,0.8,145
+23,Production Failure,key employees retain personnel senior,0.8585,0.2928,0.8,142
+24,Production Failure,economic credit financial adversely customers,0.8209,0.1505,0.4,134
+25,Production Failure,tenant bankruptcy rent tenants lease,0.8099,0.4646,0.9,132
+26,Production Failure,covid 19 pandemic impact business,0.7969,0.1754,0.7,128
+27,Production Failure,centers customers power ibx data,0.8282,0.2235,0.6,105
+28,Cybersecurity & Data Privacy,information infrastructure systems cyber gas,0.8329,0.2093,0.3,103
+29,Human Resources,consumer products livestock preferences product,0.8544,0.2401,0.5,92
+30,Human Resources,subcontractors suppliers components services outsource,0.8316,0.1413,0.7,85
+31,Human Resources,stock price common market securities,0.8256,0.2125,0.7,85
+32,Human Resources,laws employees employment food workers,0.8717,0.2192,0.6,84
+33,Production Failure,products packaging laws labeling ingredients,0.8506,0.2183,0.6,84
+34,Production Failure,events operations disaster carriers man,0.8387,0.2343,0.8,81
+35,Human Resources,domain internet gtlds icann root,0.8244,0.4921,0.9,76
+36,Production Failure,motorola marks mobility license brand,0.8293,0.5328,1.0,72
+37,Production Failure,lowe reputation negative image guests,0.8527,0.1559,0.8,72
+38,Human Resources,clients client services insurance relationships,0.8697,0.1495,0.6,71

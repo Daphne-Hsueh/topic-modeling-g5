@@ -1,0 +1,151 @@
+chunk_id,ticker,year,assigned_topic,topic_keywords,manual_labels,best_matched_label,precision,recall,f1
+34,TFC,2023,5,goodwill impairment assets intangible value,Financial Performance & Fraud,Financial Performance & Fraud,0.8194,0.8302,0.8248
+61,VRTX,2025,2,product products health fda laws,Financial Performance & Fraud; Supply Chain & Third-Party Risk,Financial Performance & Fraud,0.8165,0.8334,0.8249
+10,DLTR,2025,17,products product reputation recall quality,Product/Service Quality,Product/Service Quality,0.8984,0.8882,0.8933
+42,WELL,2014,9,properties tenants managers operators redevelopment,Environmental Misconduct,Environmental Misconduct,0.8035,0.825,0.8141
+27,DUK,2012,1,gas environmental energy operations costs,Financial Performance & Fraud,Financial Performance & Fraud,0.8245,0.856,0.8399
+36,STX,2022,0,information systems data security technology,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8877,0.8899,0.8888
+29,STLD,2016,1,gas environmental energy operations costs,Environmental Misconduct,Environmental Misconduct,0.8355,0.8589,0.8471
+50,CMG,2019,15,food restaurants restaurant concepts franchisees,Product/Service Quality,Product/Service Quality,0.8083,0.8255,0.8168
+6,D,2022,1,gas environmental energy operations costs,Governance Risk,Governance Risk,0.8266,0.863,0.8444
+22,LOW,2024,37,lowe reputation negative image guests,Supply Chain & Third-Party Risk,Supply Chain & Third-Party Risk,0.8186,0.8449,0.8316
+92,HAS,2015,6,litigation proceedings legal claims matters,Legal & Litigation,Legal & Litigation,0.8682,0.8917,0.8798
+2,T,2018,24,economic credit financial adversely customers,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.8101,0.8062,0.8081
+6,BAX,2020,0,information systems data security technology,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8877,0.8899,0.8888
+2,O,2021,26,covid 19 pandemic impact business,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.7412,0.7952,0.7672
+3,HD,2018,0,information systems data security technology,Labor/Human Rights; Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8877,0.8899,0.8888
+38,SATS,2023,0,information systems data security technology,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8877,0.8899,0.8888
+23,RJF,2021,19,truist financial regulatory company management,Legal & Litigation,Legal & Litigation,0.7987,0.8263,0.8123
+38,DLR,2020,5,goodwill impairment assets intangible value,"Financial Performance & Fraud; Credit, Liquidity & Market Risk",Financial Performance & Fraud,0.8194,0.8302,0.8248
+20,VLO,2021,0,information systems data security technology,Governance Risk,Governance Risk,0.8409,0.8762,0.8582
+6,RJF,2021,11,credit securities risk market company,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.8598,0.8398,0.8497
+27,WM,2025,0,information systems data security technology,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8877,0.8899,0.8888
+11,MSI,2016,36,motorola marks mobility license brand,Trademark/Brand Erosion,Trademark/Brand Erosion,0.8098,0.8115,0.8107
+39,ALB,2025,28,information infrastructure systems cyber gas,Cybersecurity & Data Privacy; Governance Risk,Cybersecurity & Data Privacy,0.8334,0.8324,0.8329
+30,JPM,2012,13,chase jpmorgan firm jpmorganchase market,Financial Performance & Fraud,Financial Performance & Fraud,0.7119,0.8279,0.7656
+6,AON,2020,3,foreign currency countries international operations,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.8133,0.8105,0.8119
+44,SNPS,2013,7,laws anti bribery regulations compliance,Governance Risk,Governance Risk,0.8489,0.8716,0.8601
+28,RJF,2019,19,truist financial regulatory company management,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.7945,0.8104,0.8024
+43,CTSH,2010,38,clients client services insurance relationships,Trademark/Brand Erosion,Trademark/Brand Erosion,0.8474,0.8103,0.8284
+7,HD,2018,24,economic credit financial adversely customers,"Cybersecurity & Data Privacy; Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.8101,0.8062,0.8081
+25,DECK,2023,3,foreign currency countries international operations,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8352,0.8198,0.8274
+27,BAX,2025,0,information systems data security technology,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8877,0.8899,0.8888
+17,JPM,2010,19,truist financial regulatory company management,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.7945,0.8104,0.8024
+85,ARE,2012,9,properties tenants managers operators redevelopment,Environmental Misconduct,Environmental Misconduct,0.8035,0.825,0.8141
+128,ARE,2012,25,tenant bankruptcy rent tenants lease,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.7609,0.7938,0.777
+17,HD,2025,-1,unclassified noise,Cybersecurity & Data Privacy; Supply Chain & Third-Party Risk,Cybersecurity & Data Privacy,0.8726,0.8458,0.859
+1,AES,2018,4,debt indebtedness credit cash capital,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.8172,0.8197,0.8184
+44,WELL,2018,0,information systems data security technology,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8877,0.8899,0.8888
+27,KDP,2021,0,information systems data security technology,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8877,0.8899,0.8888
+13,WELL,2018,25,tenant bankruptcy rent tenants lease,Supply Chain & Third-Party Risk,Supply Chain & Third-Party Risk,0.7814,0.8241,0.8022
+21,URI,2024,0,information systems data security technology,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8877,0.8899,0.8888
+6,HSY,2014,6,litigation proceedings legal claims matters,Legal & Litigation,Legal & Litigation,0.8682,0.8917,0.8798
+4,TSN,2022,3,foreign currency countries international operations,Supply Chain & Third-Party Risk,Supply Chain & Third-Party Risk,0.8166,0.8353,0.8259
+10,IDXX,2025,10,intellectual property rights patents protect,Trademark/Brand Erosion,Trademark/Brand Erosion,0.8561,0.8409,0.8485
+34,IBKR,2018,11,credit securities risk market company,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.8598,0.8398,0.8497
+23,JPM,2019,13,chase jpmorgan firm jpmorganchase market,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.7224,0.7953,0.7571
+5,OMC,2014,7,laws anti bribery regulations compliance,Supply Chain & Third-Party Risk,Supply Chain & Third-Party Risk,0.8444,0.8509,0.8476
+5,VRSK,2015,0,information systems data security technology,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8877,0.8899,0.8888
+51,REGN,2024,2,product products health fda laws,Governance Risk,Governance Risk,0.8201,0.8408,0.8303
+72,WSM,2011,5,goodwill impairment assets intangible value,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.8016,0.8108,0.8062
+92,CMG,2019,0,information systems data security technology,Legal & Litigation,Legal & Litigation,0.8215,0.8462,0.8337
+11,FSLR,2012,1,gas environmental energy operations costs,Environmental Misconduct,Environmental Misconduct,0.8355,0.8589,0.8471
+16,EW,2018,2,product products health fda laws,Production Failure,Production Failure,0.8241,0.8564,0.8399
+55,ARE,2023,9,properties tenants managers operators redevelopment,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.7923,0.8011,0.7967
+14,NEE,2012,1,gas environmental energy operations costs,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.8025,0.8165,0.8094
+28,VTR,2021,25,tenant bankruptcy rent tenants lease,Trademark/Brand Erosion,Trademark/Brand Erosion,0.7734,0.7953,0.7842
+7,SYK,2022,2,product products health fda laws,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.818,0.8167,0.8174
+22,CMG,2025,15,food restaurants restaurant concepts franchisees,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.7801,0.7963,0.7881
+34,JPM,2020,13,chase jpmorgan firm jpmorganchase market,Supply Chain & Third-Party Risk,Supply Chain & Third-Party Risk,0.7196,0.8234,0.768
+2,TXN,2024,24,economic credit financial adversely customers,Data/Privacy Breaches,Data/Privacy Breaches,0.7887,0.7935,0.7911
+17,STZ,2025,1,gas environmental energy operations costs,Environmental Misconduct,Environmental Misconduct,0.8355,0.8589,0.8471
+7,SO,2016,1,gas environmental energy operations costs,Health & Safety,Health & Safety,0.8229,0.8479,0.8352
+34,IP,2024,23,key employees retain personnel senior,Human Resources,Human Resources,0.8458,0.8617,0.8537
+75,ARE,2020,0,information systems data security technology,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8877,0.8899,0.8888
+34,STX,2021,7,laws anti bribery regulations compliance,Data/Privacy Breaches,Data/Privacy Breaches,0.8464,0.8341,0.8402
+46,CAG,2020,33,products packaging laws labeling ingredients,Legal & Litigation,Legal & Litigation,0.8164,0.8183,0.8173
+48,REGN,2019,2,product products health fda laws,Data/Privacy Breaches,Data/Privacy Breaches,0.8105,0.81,0.8102
+31,APD,2010,8,acquired acquisitions acquisition businesses transaction,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.784,0.791,0.7875
+9,TSN,2014,5,goodwill impairment assets intangible value,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.8016,0.8108,0.8062
+20,OXY,2020,28,information infrastructure systems cyber gas,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8334,0.8324,0.8329
+18,SHW,2021,6,litigation proceedings legal claims matters,Legal & Litigation,Legal & Litigation,0.8682,0.8917,0.8798
+0,YUM,2018,15,food restaurants restaurant concepts franchisees,Health & Safety,Health & Safety,0.7951,0.825,0.8098
+22,MCO,2023,0,information systems data security technology,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8877,0.8899,0.8888
+3,WBD,2023,4,debt indebtedness credit cash capital,Financial Performance & Fraud,Financial Performance & Fraud,0.7887,0.8267,0.8073
+94,VRTX,2010,23,key employees retain personnel senior,Human Resources,Human Resources,0.8458,0.8617,0.8537
+26,EW,2024,1,gas environmental energy operations costs,Environmental Misconduct,Environmental Misconduct,0.8355,0.8589,0.8471
+2,SNPS,2019,3,foreign currency countries international operations,Governance Risk,Governance Risk,0.8319,0.8551,0.8433
+7,MCO,2020,18,moody company ratings rating credit,Legal & Litigation,Legal & Litigation,0.7493,0.8144,0.7805
+40,D,2020,28,information infrastructure systems cyber gas,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8334,0.8324,0.8329
+25,RJF,2025,19,truist financial regulatory company management,Human Resources; Trademark/Brand Erosion; Environmental Misconduct,Human Resources,0.8096,0.8641,0.836
+61,DLR,2020,20,joint venture partnership partners interests,Governance Risk,Governance Risk,0.8588,0.8693,0.864
+43,TMUS,2017,12,wireless fcc spectrum services content,Governance Risk; Legal & Litigation,Governance Risk,0.8242,0.8406,0.8323
+31,BAX,2024,0,information systems data security technology,Cybersecurity & Data Privacy; Supply Chain & Third-Party Risk,Cybersecurity & Data Privacy,0.8877,0.8899,0.8888
+39,ETR,2022,28,information infrastructure systems cyber gas,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8334,0.8324,0.8329
+5,PNR,2018,8,acquired acquisitions acquisition businesses transaction,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.784,0.791,0.7875
+37,CAG,2020,8,acquired acquisitions acquisition businesses transaction,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.784,0.791,0.7875
+26,EQIX,2018,27,centers customers power ibx data,Supply Chain & Third-Party Risk; Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8107,0.8455,0.8277
+3,PEP,2013,33,products packaging laws labeling ingredients,Product/Service Quality; Environmental Misconduct,Product/Service Quality,0.8532,0.8425,0.8478
+27,PFG,2010,11,credit securities risk market company,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.8598,0.8398,0.8497
+22,MCO,2025,5,goodwill impairment assets intangible value,Financial Performance & Fraud; Environmental Misconduct; Cybersecurity & Data Privacy,Financial Performance & Fraud,0.8194,0.8302,0.8248
+50,SATS,2024,4,debt indebtedness credit cash capital,"Credit, Liquidity & Market Risk; Financial Performance & Fraud","Credit, Liquidity & Market Risk",0.8172,0.8197,0.8184
+8,VZ,2023,12,wireless fcc spectrum services content,Governance Risk; Legal & Litigation,Governance Risk,0.8242,0.8406,0.8323
+25,CMG,2019,15,food restaurants restaurant concepts franchisees,Product/Service Quality; Trademark/Brand Erosion,Product/Service Quality,0.8083,0.8255,0.8168
+13,TFC,2022,19,truist financial regulatory company management,Governance Risk,Governance Risk,0.8139,0.8504,0.8318
+20,MSI,2020,36,motorola marks mobility license brand,Trademark/Brand Erosion,Trademark/Brand Erosion,0.8098,0.8115,0.8107
+14,PEP,2014,17,products product reputation recall quality,Trademark/Brand Erosion; Product/Service Quality,Product/Service Quality,0.8984,0.8882,0.8933
+10,MSI,2014,11,credit securities risk market company,"Governance Risk; Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.8598,0.8398,0.8497
+27,SO,2021,1,gas environmental energy operations costs,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.8025,0.8165,0.8094
+36,IBKR,2016,11,credit securities risk market company,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.8598,0.8398,0.8497
+40,BAX,2014,6,litigation proceedings legal claims matters,Legal & Litigation; Trademark/Brand Erosion,Legal & Litigation,0.8682,0.8917,0.8798
+10,MO,2018,17,products product reputation recall quality,Governance Risk; Cybersecurity & Data Privacy,Governance Risk,0.8555,0.8566,0.856
+11,PEP,2016,17,products product reputation recall quality,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.8281,0.8245,0.8263
+12,DLR,2010,9,properties tenants managers operators redevelopment,Trademark/Brand Erosion; Production Failure,Production Failure,0.8219,0.8554,0.8383
+3,LOW,2019,0,information systems data security technology,Cybersecurity & Data Privacy; Data/Privacy Breaches,Cybersecurity & Data Privacy,0.8877,0.8899,0.8888
+32,JPM,2013,0,information systems data security technology,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8877,0.8899,0.8888
+19,MSI,2019,36,motorola marks mobility license brand,Trademark/Brand Erosion,Trademark/Brand Erosion,0.8098,0.8115,0.8107
+6,ARE,2022,9,properties tenants managers operators redevelopment,Production Failure; Supply Chain & Third-Party Risk,Production Failure,0.8219,0.8554,0.8383
+24,ECL,2019,1,gas environmental energy operations costs,Legal & Litigation,Legal & Litigation,0.8075,0.8291,0.8181
+11,ADI,2024,23,key employees retain personnel senior,Human Resources,Human Resources,0.8458,0.8617,0.8537
+37,ALB,2025,8,acquired acquisitions acquisition businesses transaction,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.784,0.791,0.7875
+131,PFG,2015,11,credit securities risk market company,Environmental Misconduct,Environmental Misconduct,0.8023,0.8299,0.8159
+20,MO,2024,0,information systems data security technology,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8877,0.8899,0.8888
+9,MCO,2019,0,information systems data security technology,Supply Chain & Third-Party Risk,Supply Chain & Third-Party Risk,0.8387,0.8574,0.8479
+72,WSM,2019,6,litigation proceedings legal claims matters,Legal & Litigation,Legal & Litigation,0.8682,0.8917,0.8798
+27,HAS,2025,22,tax income changes rate effective,Governance Risk,Governance Risk,0.834,0.842,0.838
+12,VZ,2011,0,information systems data security technology,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8877,0.8899,0.8888
+40,PODD,2011,2,product products health fda laws,Product/Service Quality,Product/Service Quality,0.8329,0.8318,0.8324
+10,IP,2024,1,gas environmental energy operations costs,Environmental Misconduct,Environmental Misconduct,0.8355,0.8589,0.8471
+153,COP,2021,-1,unclassified noise,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8726,0.8458,0.859
+3,CPRT,2016,7,laws anti bribery regulations compliance,Governance Risk,Governance Risk,0.8489,0.8716,0.8601
+18,STZ,2017,17,products product reputation recall quality,Supply Chain & Third-Party Risk,Supply Chain & Third-Party Risk,0.8474,0.8484,0.8479
+12,TGT,2011,17,products product reputation recall quality,Product/Service Quality,Product/Service Quality,0.8984,0.8882,0.8933
+25,AON,2022,34,events operations disaster carriers man,Supply Chain & Third-Party Risk,Supply Chain & Third-Party Risk,0.7998,0.8298,0.8145
+7,IP,2025,1,gas environmental energy operations costs,Environmental Misconduct,Environmental Misconduct,0.8355,0.8589,0.8471
+27,HD,2022,16,products distributors customers sales new,Cybersecurity & Data Privacy; Supply Chain & Third-Party Risk,Supply Chain & Third-Party Risk,0.8104,0.8255,0.8179
+1,VTR,2022,26,covid 19 pandemic impact business,Labor/Human Rights,Labor/Human Rights,0.739,0.8122,0.7739
+21,DECK,2018,3,foreign currency countries international operations,Supply Chain & Third-Party Risk,Supply Chain & Third-Party Risk,0.8166,0.8353,0.8259
+29,IP,2022,22,tax income changes rate effective,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.8032,0.8084,0.8058
+36,IBKR,2018,27,centers customers power ibx data,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8107,0.8455,0.8277
+31,TFC,2024,19,truist financial regulatory company management,Governance Risk,Governance Risk,0.8139,0.8504,0.8318
+1,EQIX,2019,8,acquired acquisitions acquisition businesses transaction,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.784,0.791,0.7875
+27,D,2015,1,gas environmental energy operations costs,Environmental Misconduct,Environmental Misconduct,0.8355,0.8589,0.8471
+26,DLR,2015,27,centers customers power ibx data,Production Failure,Production Failure,0.8051,0.8527,0.8282
+26,EQIX,2024,3,foreign currency countries international operations,Governance Risk,Governance Risk,0.8319,0.8551,0.8433
+7,PPG,2014,0,information systems data security technology,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8877,0.8899,0.8888
+18,DUK,2022,4,debt indebtedness credit cash capital,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.8172,0.8197,0.8184
+3,OMC,2018,0,information systems data security technology,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8877,0.8899,0.8888
+26,IDXX,2023,0,information systems data security technology,Cybersecurity & Data Privacy,Cybersecurity & Data Privacy,0.8877,0.8899,0.8888
+19,HD,2010,32,laws employees employment food workers,Labor/Human Rights,Labor/Human Rights,0.8408,0.8477,0.8442
+89,DLR,2010,14,properties environmental contamination property substances,Environmental Misconduct,Environmental Misconduct,0.8412,0.8646,0.8527
+28,ARE,2014,2,product products health fda laws,Product/Service Quality,Product/Service Quality,0.8329,0.8318,0.8324
+5,HD,2012,3,foreign currency countries international operations,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.8133,0.8105,0.8119
+115,PODD,2012,5,goodwill impairment assets intangible value,Financial Performance & Fraud,Financial Performance & Fraud,0.8194,0.8302,0.8248
+72,CMG,2017,32,laws employees employment food workers,Legal & Litigation,Legal & Litigation,0.8189,0.831,0.8249
+15,DLTR,2024,23,key employees retain personnel senior,Human Resources; Supply Chain & Third-Party Risk,Human Resources,0.8458,0.8617,0.8537
+42,HD,2022,3,foreign currency countries international operations,Governance Risk,Governance Risk,0.8319,0.8551,0.8433
+13,BRO,2016,23,key employees retain personnel senior,Human Resources,Human Resources,0.8458,0.8617,0.8537
+10,ECL,2020,1,gas environmental energy operations costs,Legal & Litigation,Legal & Litigation,0.8075,0.8291,0.8181
+40,IBKR,2010,11,credit securities risk market company,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.8598,0.8398,0.8497
+29,WM,2020,7,laws anti bribery regulations compliance,Governance Risk,Governance Risk,0.8489,0.8716,0.8601
+0,AVY,2024,3,foreign currency countries international operations,"Credit, Liquidity & Market Risk","Credit, Liquidity & Market Risk",0.8133,0.8105,0.8119
