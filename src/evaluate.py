@@ -13,7 +13,7 @@ warnings.filterwarnings('ignore')
 BASE_DIR = Path(__file__).resolve().parent.parent
 CSV_PATH = BASE_DIR / "data" / "corpus_sample_150.csv"
 MODEL_PATH = BASE_DIR / "outputs" / "models"
-RESULTS_PATH = BASE_DIR / "outputs" / "evaluation_results.csv"
+RESULTS_PATH = BASE_DIR / "outputs" / "evaluation_chunk_level.csv"
 
 # ==========================================
 # 1. LOAD DATA

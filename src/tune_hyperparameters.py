@@ -38,6 +38,8 @@ assert len(chunks) == len(embeddings), (
 
 print("Data aligned. Starting Grid Search...\n")
 
+umap_cache = {}  # keyed by n_neighbors; UMAP output is deterministic for a given n_neighbors
+
 # ==========================================
 # 2. CUSTOM NPMI COHERENCE FUNCTION (Pure Python)
 # ==========================================
@@ -52,6 +54,10 @@ def calculate_corpus_npmi(chunks, topic_words):
         return -1.0
     
     # Create a binary document-term matrix (1 if word is in chunk, 0 if not)
+    # NOTE: sklearn still strips stop words from document tokens even when vocabulary= is
+    # set, so any vocab word that is also a stop word gets a zero-count column and forces
+    # npmi=-1.0. This is currently safe (no topic keyword is a stop word), but if the
+    # vocabulary changes and coherence looks suspiciously low, remove stop_words here.
     vectorizer = CountVectorizer(vocabulary=vocab, binary=True, stop_words='english')
     X = vectorizer.fit_transform(chunks).toarray()
     word_to_idx = vectorizer.vocabulary_
@@ -80,12 +86,14 @@ def calculate_corpus_npmi(chunks, topic_words):
                 joint_count = np.sum((X[:, idx1] == 1) & (X[:, idx2] == 1))
                 
                 if joint_count == 0:
-                    npmi = -1.0 # Minimum possible coherence score
+                    npmi = -1.0  # words never co-occur → minimum NPMI
+                elif joint_count >= N:
+                    npmi = 1.0   # words always co-occur → -log(p_joint)=0, clamp to max
                 else:
                     p_joint = joint_count / N
                     p1 = p_word[idx1]
                     p2 = p_word[idx2]
-                    
+
                     # Classic NPMI Formula
                     pmi = math.log(p_joint / (p1 * p2))
                     npmi = pmi / (-math.log(p_joint))
@@ -135,7 +143,9 @@ print("-" * 80)
 
 for nn, mcs, ms in itertools.product(n_neighbors_list, min_cluster_size_list, min_samples_list):
 
-    reduced_emb = umap.UMAP(n_neighbors=nn, n_components=5, min_dist=0.0, metric='cosine', random_state=42).fit_transform(embeddings)
+    if nn not in umap_cache:
+        umap_cache[nn] = umap.UMAP(n_neighbors=nn, n_components=5, min_dist=0.0, metric='cosine', random_state=42).fit_transform(embeddings)
+    reduced_emb = umap_cache[nn]
     clusterer = hdbscan.HDBSCAN(min_cluster_size=mcs, min_samples=ms, metric='euclidean', cluster_selection_method='eom').fit(reduced_emb)
     labels = clusterer.labels_
 
@@ -152,7 +162,7 @@ for nn, mcs, ms in itertools.product(n_neighbors_list, min_cluster_size_list, mi
     results.append({
         "n_neighbors": nn,
         "min_cluster_size": mcs,
-        "min_samples": str(ms),  # store as string so None displays cleanly
+        "min_samples": ms,
         "topics": n_topics,
         "noise_pct": noise_ratio * 100,
         "coherence": npmi_score

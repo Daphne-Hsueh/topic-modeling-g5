@@ -17,7 +17,7 @@ BASE_DIR    = Path(__file__).resolve().parent.parent
 CORPUS_PATH = BASE_DIR / "data" / "processed" / "filtered_corpus.csv"
 GOLDEN_PATH = BASE_DIR / "data" / "corpus_sample_150.csv"
 MODEL_PATH  = BASE_DIR / "outputs" / "models"
-OUTPUT_PATH = BASE_DIR / "outputs" / "evaluation_results.csv"
+OUTPUT_PATH = BASE_DIR / "outputs" / "evaluation_topic_level.csv"
 
 # ==========================================
 # 1. LOAD DATA
@@ -111,6 +111,10 @@ def compute_npmi_for_topic(docs, words, top_n=10):
     if len(vocab) < 2:
         return 0.0
 
+    # NOTE: sklearn still strips stop words from document tokens even when vocabulary= is
+    # set, so any vocab word that is also a stop word gets a zero-count column and forces
+    # npmi=-1.0. This is currently safe (no topic keyword is a stop word), but if the
+    # vocabulary changes and coherence looks suspiciously low, remove stop_words here.
     vectorizer = CountVectorizer(vocabulary=vocab, binary=True, stop_words='english')
     try:
         X = vectorizer.fit_transform(docs).toarray()
@@ -134,6 +138,8 @@ def compute_npmi_for_topic(docs, words, top_n=10):
 
             if joint_count == 0:
                 npmi = -1.0
+            elif joint_count >= N:
+                npmi = 1.0   # words always co-occur → -log(p_joint)=0, clamp to max
             else:
                 p_joint = joint_count / N
                 p1, p2  = p_word[idx1], p_word[idx2]

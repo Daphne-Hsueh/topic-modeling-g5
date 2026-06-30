@@ -15,6 +15,11 @@ CSV_PATH = BASE_DIR / "data" / "processed" / "filtered_corpus.csv"
 EMBEDDINGS_PATH = BASE_DIR / "data" / "processed" / "embeddings.npy"
 OUTPUT_PATH = BASE_DIR / "data" / "processed" / "corpus_with_ai_topics.csv"
 
+MODEL_DIR  = BASE_DIR / "outputs" / "models"
+OUTPUT_DIR = BASE_DIR / "outputs"
+MODEL_DIR.mkdir(parents=True, exist_ok=True)
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
 print(f"Loading data from: {CSV_PATH}")
 
 # 3. Load the dataframe
@@ -115,14 +120,8 @@ print(f"Results saved to {OUTPUT_PATH}")
 print("\nGenerating Intertopic Distance Map...")
 
 # 10. Save the BERTopic Model Engine for Evaluation
-MODEL_DIR = BASE_DIR / "outputs" / "models"
-MODEL_DIR.mkdir(parents=True, exist_ok=True)
 topic_model.save(str(MODEL_DIR), serialization="safetensors", save_ctfidf=True)
 print("\nModel engine successfully saved to the models/ folder!")
-
-# Create the outputs folder if it does not exist
-OUTPUT_DIR = BASE_DIR / "outputs"
-OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # 1. Generate the map
 distance_map_fig = topic_model.visualize_topics()
