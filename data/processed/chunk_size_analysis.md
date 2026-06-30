@@ -42,7 +42,7 @@ The pipeline discards any paragraph shorter than 20 words downstream, so this is
 ## 3. Very Long Paragraphs (> 3,000 Words)
 
 **982** paragraphs exceed 3,000 words (0.95% of all paragraphs).  
-These are likely parsing artifacts — SEC filings that lack double-newline breaks causing multiple paragraphs to merge into a single blob.
+These are likely parsing artifacts, SEC filings that lack double-newline breaks causing multiple paragraphs to merge into a single blob.
 
 ### Examples
 
