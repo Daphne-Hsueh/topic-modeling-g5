@@ -87,3 +87,4 @@ wcwidth==0.7.0
 wordcloud
 wrapt==1.15.0
 python-dotenv
+streamlit>=1.35
