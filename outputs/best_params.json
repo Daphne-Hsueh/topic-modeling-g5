@@ -1,0 +1,5 @@
+{
+    "n_neighbors": 25,
+    "min_cluster_size": 70,
+    "min_samples": null
+}
