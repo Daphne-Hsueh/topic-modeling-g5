@@ -361,14 +361,38 @@ with section_keywords:
                 "How often each category is mentioned per year. Chunk counts grouped by "
                 "category and filing year."
             )
-            cat_time = exploded.groupby(["matched_categories", "year"]).size().reset_index(name="chunks")
-            fig_time = px.line(
-                cat_time, x="year", y="chunks", color="matched_categories", markers=True,
-                color_discrete_sequence=MUTED_PALETTE,
-                labels={"chunks": "Chunk count", "year": "Year", "matched_categories": "Category"},
-            )
-            fig_time.update_layout(legend_title_text="Category", hovermode="x unified")
-            st.plotly_chart(fig_time, use_container_width=True)
+
+            all_categories = sorted(exploded["matched_categories"].unique().tolist())
+            cat_keys = [f"cat_time_{c}" for c in all_categories]
+
+            with st.expander("Select categories to display", expanded=False):
+                # Stacked select all / clear all buttons
+                if st.button("Select all categories", key="cat_time_select_all"):
+                    _set_all(cat_keys, True)
+                if st.button("Clear all categories", key="cat_time_clear_all"):
+                    _set_all(cat_keys, False)
+
+                # One checkbox per category, listed below one another
+                selected_categories = []
+                for cat, key in zip(all_categories, cat_keys):
+                    if st.checkbox(cat, value=True, key=key):
+                        selected_categories.append(cat)
+
+            cat_time_filtered = exploded[exploded["matched_categories"].isin(selected_categories)]
+            cat_time = cat_time_filtered.groupby(["matched_categories", "year"]).size().reset_index(name="chunks")
+
+            if not selected_categories:
+                st.info("Select one or more categories above to display the chart.")
+            elif cat_time.empty:
+                st.info("No data for the selected categories and filters.")
+            else:
+                fig_time = px.line(
+                    cat_time, x="year", y="chunks", color="matched_categories", markers=True,
+                    color_discrete_sequence=MUTED_PALETTE,
+                    labels={"chunks": "Chunk count", "year": "Year", "matched_categories": "Category"},
+                )
+                fig_time.update_layout(legend_title_text="Category", hovermode="x unified")
+                st.plotly_chart(fig_time, use_container_width=True)
 
     with st.container(border=True):
         st.markdown("#### Keyword dictionary reference")
@@ -410,10 +434,32 @@ with section_model:
                 "by sidebar sector or company filters, since topic modeling was run once on "
                 "the entire dataset. Source: `outputs/topics_over_time.csv`."
             )
-            time_filtered = tot_df[tot_df["year"].between(selected_years[0], selected_years[1])]
 
-            if time_filtered.empty:
-                st.info("No data for the selected year range.")
+            all_topic_labels = sorted(tot_df["topic_label"].unique().tolist())
+            tot_keys = [f"tot_topic_{lbl}" for lbl in all_topic_labels]
+
+            with st.expander("Select topics to display", expanded=False):
+                # Stacked select all / clear all buttons
+                if st.button("Select all topics", key="tot_select_all"):
+                    _set_all(tot_keys, True)
+                if st.button("Clear all topics", key="tot_clear_all"):
+                    _set_all(tot_keys, False)
+
+                # One checkbox per topic, listed below one another
+                selected_topics = []
+                for lbl, key in zip(all_topic_labels, tot_keys):
+                    if st.checkbox(lbl, value=True, key=key):
+                        selected_topics.append(lbl)
+
+            time_filtered = tot_df[
+                tot_df["topic_label"].isin(selected_topics) &
+                tot_df["year"].between(selected_years[0], selected_years[1])
+            ]
+
+            if not selected_topics:
+                st.info("Select one or more topics above to display the chart.")
+            elif time_filtered.empty:
+                st.info("No data for the selected topics and year range.")
             else:
                 fig = px.line(
                     time_filtered, x="year", y="frequency", color="topic_label", markers=True,
@@ -422,43 +468,6 @@ with section_model:
                 )
                 fig.update_layout(legend_title_text="Topic", hovermode="x unified")
                 st.plotly_chart(fig, use_container_width=True)
-
-        with st.container(border=True):
-            st.markdown("#### Topics over time by sector")
-            st.caption(
-                "Narrowed to one sector, only topics that actually appear within that "
-                "sector's filings. Computed from `corpus_with_ai_topics.csv`. Note: topics "
-                "themselves are not sector-specific; this view only shows where a topic "
-                "appears within the chosen sector. This selector is separate from the "
-                "sidebar Sector filter."
-            )
-
-            sectors_available = sorted(filtered_df["sector"].dropna().unique().tolist())
-
-            if not sectors_available:
-                st.info("No data for the current year filter.")
-            else:
-                chosen_sector = st.selectbox("View topics for sector", options=sectors_available, key="trends_sector_select")
-
-                sector_df = filtered_df[
-                    (filtered_df["sector"] == chosen_sector) &
-                    (filtered_df["bertopic_id"] != -1)
-                ]
-                sector_trend = (
-                    sector_df.groupby(["bertopic_id", "year"]).size().reset_index(name="frequency")
-                )
-                sector_trend["topic_label"] = sector_trend["bertopic_id"].map(id_to_label)
-
-                if sector_trend.empty:
-                    st.info(f"No topic data for {chosen_sector} in the current year filter.")
-                else:
-                    fig_sector = px.line(
-                        sector_trend, x="year", y="frequency", color="topic_label", markers=True,
-                        color_discrete_sequence=MUTED_PALETTE,
-                        labels={"frequency": "Chunk frequency", "year": "Year", "topic_label": "Topic"},
-                    )
-                    fig_sector.update_layout(legend_title_text="Topic", hovermode="x unified")
-                    st.plotly_chart(fig_sector, use_container_width=True)
 
     # -- Explorer --------------------------------------------------------------
     with sub_explorer:
@@ -666,30 +675,3 @@ with section_eval:
         fig_cross.update_layout(height=max(550, len(cross) * 45))
         fig_cross.update_yaxes(tickmode="linear")
         st.plotly_chart(fig_cross, use_container_width=True)
-
-    with st.container(border=True):
-        st.markdown("#### Chunk-level comparison")
-        st.caption(
-            "Individual chunks with manual label, predicted topic, model confidence, and "
-            "BERTScore, sorted to surface the worst-aligned chunks first. Source: "
-            "`outputs/evaluation_set.csv`."
-        )
-        label_filter = st.selectbox(
-            "Filter by manual label", options=["All"] + sorted(eval_set_df["manual_label"].unique().tolist())
-        )
-        table = eval_set_df if label_filter == "All" else eval_set_df[eval_set_df["manual_label"] == label_filter]
-        table = table.sort_values("bertscore_f1", ascending=True)
-
-        st.dataframe(
-            table[["ticker", "manual_label", "model_topic_label", "topic_probability", "bertscore_f1", "text"]]
-            .rename(columns={
-                "manual_label": "Manual label",
-                "model_topic_label": "Model topic",
-                "topic_probability": "Model confidence",
-                "bertscore_f1": "BERTScore F1",
-                "text": "Chunk text",
-            })
-            .reset_index(drop=True),
-            use_container_width=True,
-            hide_index=True,
-        )
