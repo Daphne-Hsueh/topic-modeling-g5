@@ -9,14 +9,14 @@ import streamlit.components.v1 as components
 
 # ── Paths ──────────────────────────────────────────────────────────────────────
 BASE_DIR = Path(__file__).resolve().parent.parent
-CORPUS_PATH       = BASE_DIR / "data" / "processed" / "corpus_with_ai_topics.csv"
-EVAL_PATH         = BASE_DIR / "outputs" / "evaluation_results.csv"
-TOPICS_TIME_PATH  = BASE_DIR / "outputs" / "topics_over_time.csv"
+CORPUS_PATH       = BASE_DIR / "data" / "processed" / "step3_corpus_with_ai_topics.csv"
+EVAL_PATH         = BASE_DIR / "outputs" / "step4_evaluation_results.csv"
+TOPICS_TIME_PATH  = BASE_DIR / "outputs" / "step3_topics_over_time.csv"
 DISTANCE_MAP_PATH = BASE_DIR / "outputs" / "visualizations" / "intertopic_distance_map.html"
 BARCHARTS_PATH    = BASE_DIR / "outputs" / "visualizations" / "topic_barcharts.html"
-SELECTED_COMPANIES_PATH = BASE_DIR / "data" / "selected_companies.csv"
+SELECTED_COMPANIES_PATH = BASE_DIR / "data" / "step1_selected_companies.csv"
 KEYWORD_CATEGORIES_PATH = BASE_DIR / "keyword_categories.json"
-EVAL_SET_PATH = BASE_DIR / "outputs" / "evaluation_set.csv"
+EVAL_SET_PATH = BASE_DIR / "outputs" / "step4_evaluation_set.csv"
 
 # Muted, professional palette for multi-line charts (many series)
 MUTED_PALETTE = px.colors.qualitative.Prism
