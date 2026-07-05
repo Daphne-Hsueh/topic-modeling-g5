@@ -13,7 +13,7 @@ from sentence_transformers import SentenceTransformer
 # PATHS
 # ============================================================
 BASE_DIR = Path(__file__).resolve().parent.parent
-CSV_PATH = BASE_DIR / "data" / "corpus_sample_150.csv"
+CSV_PATH = BASE_DIR / "data" / "corpus_sample_150_manual.csv"
 KEYWORD_PATH = BASE_DIR / "data" / "keyword_dictionary.csv"
 MODEL_PATH = BASE_DIR / "outputs" / "models"
 OUTPUT_DIR = BASE_DIR / "outputs"
