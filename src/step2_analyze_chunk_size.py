@@ -1,13 +1,13 @@
 """
-Analyze paragraph-level word count distribution in corpus.csv.
+Analyze paragraph-level word count distribution in step1_corpus.csv.
 
 Paragraphs are defined by splitting `text` on double newlines (\n\n),
 which mirrors the chunking logic in pipeline.py before the 400-word cap kicks in.
 
 Outputs:
   - Terminal summary (stats + percentiles + % exceeding 400 words)
-  - data/processed/paragraph_length_distribution.png
-  - data/processed/chunk_size_analysis.md
+  - data/processed/step2_paragraph_length_distribution.png
+  - data/processed/step2_chunk_size_analysis.md
 """
 
 import os
@@ -15,10 +15,10 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-CORPUS_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "corpus.csv")
+CORPUS_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "step1_corpus.csv")
 OUT_DIR = os.path.join(os.path.dirname(__file__), "..", "data", "processed")
-PNG_PATH = os.path.join(OUT_DIR, "paragraph_length_distribution.png")
-MD_PATH = os.path.join(OUT_DIR, "chunk_size_analysis.md")
+PNG_PATH = os.path.join(OUT_DIR, "step2_paragraph_length_distribution.png")
+MD_PATH = os.path.join(OUT_DIR, "step2_chunk_size_analysis.md")
 
 CHUNK_CAP = 400
 MIN_WORDS = 20       # pipeline discards paragraphs shorter than this

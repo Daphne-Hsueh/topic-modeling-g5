@@ -5,14 +5,14 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 MODEL_DIR = BASE_DIR / "outputs" / "models"
 OUTPUT_DIR = BASE_DIR / "outputs"
-TOT_PATH = OUTPUT_DIR / "topics_over_time.csv"
+TOT_PATH = OUTPUT_DIR / "step3_topics_over_time.csv"
 
 # Create a dedicated folder for images/html
 VIS_DIR = OUTPUT_DIR / "visualizations"
 VIS_DIR.mkdir(parents=True, exist_ok=True)
 
 if not MODEL_DIR.exists():
-    print("ERROR: Model directory not found. Please run model.py first.")
+    print("ERROR: Model directory not found. Please run step3_model.py first.")
     exit()
 
 print("Loading saved BERTopic model engine...")

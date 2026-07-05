@@ -74,4 +74,4 @@ Total chunks = paragraphs at or under threshold (1 chunk each) + paragraphs over
 Dashed lines mark the three candidate thresholds: orange = 300 words, red (bold) = 400 words (chosen), blue = 500 words.  
 Display clipped at 800 words for readability; the long tail (including the artifacts discussed above) is excluded from the plot but included in all statistics.
 
-![Paragraph length distribution](paragraph_length_distribution.png)
+![Paragraph length distribution](step2_paragraph_length_distribution.png)

@@ -13,12 +13,12 @@ from sentence_transformers import SentenceTransformer
 # PATHS
 # ============================================================
 BASE_DIR = Path(__file__).resolve().parent.parent
-CSV_PATH = BASE_DIR / "data" / "corpus_sample_150_manual.csv"
-KEYWORD_PATH = BASE_DIR / "data" / "keyword_dictionary.csv"
+CSV_PATH = BASE_DIR / "data" / "step4_corpus_sample_150_manual.csv"
+KEYWORD_PATH = BASE_DIR / "data" / "step2_keyword_dictionary.csv"
 MODEL_PATH = BASE_DIR / "outputs" / "models"
 OUTPUT_DIR = BASE_DIR / "outputs"
 
-EVALUATION_SET_PATH = OUTPUT_DIR / "evaluation_set.csv"
+EVALUATION_SET_PATH = OUTPUT_DIR / "step4_evaluation_set.csv"
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -141,10 +141,10 @@ print(f"\nBERTScore F1 per manual_label:")
 print(df_exploded.groupby("manual_label")["bertscore_f1"].mean().sort_values(ascending=False).to_string())
 
 df_exploded.to_csv(EVALUATION_SET_PATH, index=False)
-print(f"\nUpdated evaluation_set.csv with bertscore_f1: {EVALUATION_SET_PATH}")
+print(f"\nUpdated step4_evaluation_set.csv with bertscore_f1: {EVALUATION_SET_PATH}")
 
 # ============================================================
-# STEP 4 — Build evaluation_results.csv 
+# STEP 4 — Build step4_evaluation_results.csv 
 # ============================================================
 
 # --- BERTScore F1 per topic (average across all chunks in that topic) ---
@@ -223,10 +223,10 @@ for _, trow in topic_info.iterrows():
     })
 
 results_df = pd.DataFrame(rows)
-RESULTS_PATH = OUTPUT_DIR / "evaluation_results.csv"
+RESULTS_PATH = OUTPUT_DIR / "step4_evaluation_results.csv"
 results_df.to_csv(RESULTS_PATH, index=False)
 
-print(f"\nSaved evaluation_results.csv ({len(results_df)} rows): {RESULTS_PATH}")
+print(f"\nSaved step4_evaluation_results.csv ({len(results_df)} rows): {RESULTS_PATH}")
 print("\nSample:")
 print(results_df[["topic_label", "bertscore_f1", "coherence", "diversity", "n_docs"]].head(5).to_string())
 

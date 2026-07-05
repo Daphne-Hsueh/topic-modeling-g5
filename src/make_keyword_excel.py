@@ -15,5 +15,5 @@ for col, (cat, keywords) in enumerate(categories.items(), start=1):
         ws.cell(row=row, column=col, value=kw)
     ws.column_dimensions[ws.cell(row=1, column=col).column_letter].width = 30
 
-wb.save("data/processed/keyword_dictionary.xlsx")
-print("Saved data/processed/keyword_dictionary.xlsx")
+wb.save("data/step2_keyword_dictionary.xlsx")
+print("Saved data/step2_keyword_dictionary.xlsx")

@@ -4,9 +4,9 @@ from pathlib import Path
 # Set up paths
 BASE_DIR = Path(__file__).resolve().parent.parent
 FILES_TO_CHECK = {
-    "STEP 1: RAW DATA (corpus.csv)": BASE_DIR / "data" / "corpus.csv",
-    "STEP 2: CHUNKS (chunks_clean.csv)": BASE_DIR / "data" / "processed" / "chunks_clean.csv",
-    "STEP 3: FILTERED (filtered_corpus.csv)": BASE_DIR / "data" / "processed" / "filtered_corpus.csv"
+    "STEP 1: RAW DATA (step1_corpus.csv)": BASE_DIR / "data" / "step1_corpus.csv",
+    "STEP 2: CHUNKS (step2_chunks_clean.csv)": BASE_DIR / "data" / "processed" / "step2_chunks_clean.csv",
+    "STEP 3: FILTERED (step2_filtered_corpus.csv)": BASE_DIR / "data" / "processed" / "step2_filtered_corpus.csv"
 }
 
 print("\n" + "="*50)

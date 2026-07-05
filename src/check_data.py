@@ -3,7 +3,7 @@ from pathlib import Path
 
 # 1. Build the path to the CSV
 BASE_DIR = Path(__file__).resolve().parent.parent
-CSV_PATH = BASE_DIR / "data" / "processed" / "filtered_corpus.csv"
+CSV_PATH = BASE_DIR / "data" / "processed" / "step2_filtered_corpus.csv"
 
 print(f"Inspecting file: {CSV_PATH}\n")
 

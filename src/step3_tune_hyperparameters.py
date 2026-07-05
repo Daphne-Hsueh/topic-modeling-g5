@@ -12,13 +12,13 @@ from sklearn.feature_extraction.text import CountVectorizer
 warnings.filterwarnings('ignore')
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-EMBEDDINGS_PATH = BASE_DIR / "data" / "processed" / "embeddings.npy"
-CSV_PATH = BASE_DIR / "data" / "processed" / "filtered_corpus.csv"
+EMBEDDINGS_PATH = BASE_DIR / "data" / "processed" / "step3_embeddings.npy"
+CSV_PATH = BASE_DIR / "data" / "processed" / "step2_filtered_corpus.csv"
 OUTPUT_DIR = BASE_DIR / "outputs"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 if not EMBEDDINGS_PATH.exists():
-    print("ERROR: embeddings.npy not found! Run model.py once to cache embeddings first.")
+    print("ERROR: step3_embeddings.npy not found! Run step3_model.py once to cache embeddings first.")
     exit()
 
 print("Loading cached embeddings...")
@@ -157,7 +157,7 @@ if not valid_setups.empty:
         "min_samples": int(best_setup['min_samples']) if pd.notna(best_setup['min_samples']) else None
     }
     
-    with open(OUTPUT_DIR / "best_params.json", "w") as f:
+    with open(OUTPUT_DIR / "step3_best_params.json", "w") as f:
         json.dump(best_params, f, indent=4)
         
     print("\n" + "="*50)
@@ -171,4 +171,4 @@ if not valid_setups.empty:
 else:
     print("\nWARNING: No setup perfectly matched the target constraints.")
 
-df_results.to_csv(OUTPUT_DIR / "grid_search_results.csv", index=False)
+df_results.to_csv(OUTPUT_DIR / "step3_grid_search_results.csv", index=False)

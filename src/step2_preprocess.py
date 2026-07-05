@@ -1,8 +1,8 @@
 """Preprocessing: turn the document corpus into model-ready chunks.
 
-Input : data/corpus.csv             (one row per filing: cik, ticker, company, year, text)
-        data/selected_companies.csv  (for the GICS sector label)
-Output: data/processed/chunks_clean.csv  (one row per chunk, with company metadata)
+Input : data/step1_corpus.csv             (one row per filing: cik, ticker, company, year, text)
+        data/step1_selected_companies.csv  (for the GICS sector label)
+Output: data/processed/step2_chunks_clean.csv  (one row per chunk, with company metadata)
 
 Why chunk? An Item 1A section covers 20–40 distinct risks. Embedding a whole
 section as one vector blurs them together, so we split each section into
@@ -12,7 +12,7 @@ for BERTopic.
 The `text` column contains natural-language chunks ready to be fed to BERTopic's
 sentence-transformer, which needs real grammar and context.
 
-Run as a script (`python -m src.preprocess`) or import `build_chunks` from a notebook.
+Run as a script (`python -m src.step2_preprocess`) or import `build_chunks` from a notebook.
 """
 from __future__ import annotations
 
@@ -28,9 +28,9 @@ nltk.download("punkt_tab", quiet=True)
 
 # ── paths ──────────────────────────────────────────────────────────────────────
 DATA_DIR    = Path(__file__).resolve().parent.parent / "data"
-CORPUS_CSV  = DATA_DIR / "corpus.csv"
-COMPANY_CSV = DATA_DIR / "selected_companies.csv"
-OUTPUT_CSV  = DATA_DIR / "processed" / "chunks_clean.csv"
+CORPUS_CSV  = DATA_DIR / "step1_corpus.csv"
+COMPANY_CSV = DATA_DIR / "step1_selected_companies.csv"
+OUTPUT_CSV  = DATA_DIR / "processed" / "step2_chunks_clean.csv"
 
 # ── tunables ─────────────────────────────────────────────────────────────────
 MAX_CHUNK_WORDS = 400   # split paragraphs longer than this on sentence boundaries
@@ -139,7 +139,7 @@ def build_chunks(corpus: pd.DataFrame, sector_map: dict[str, str] | None = None)
 
 def load_inputs() -> tuple[pd.DataFrame, dict[str, str]]:
     if not CORPUS_CSV.exists():
-        raise FileNotFoundError(f"{CORPUS_CSV} not found — run 02_extraction_pipeline.ipynb first.")
+        raise FileNotFoundError(f"{CORPUS_CSV} not found — run step1_extraction_pipeline.ipynb first.")
     corpus = pd.read_csv(CORPUS_CSV, dtype={"cik": str})
     corpus["cik"] = corpus["cik"].str.zfill(10)
     companies = pd.read_csv(COMPANY_CSV, dtype={"cik": str})

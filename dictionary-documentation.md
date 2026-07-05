@@ -9,18 +9,18 @@ A keyword-based filter dictionary for identifying reputational risk disclosures 
 ## Categories
 1. Cybersecurity & Data Privacy
 2. Financial Performance & Fraud
-3. Governance, Ethics & Compliance
-4. Executive & Key Person Risk
-5. Product & Service Quality
-6. Operational & Production Disruption
-7. Supply Chain & Third-Party Risk
-8. Human Resources & Workplace Culture
-9. Health, Safety & Environmental
-10. Labor & Human Rights
-11. Brand, Reputation & Strategy
-12. Legal & Litigation
-13. Credit, Liquidity & Market Risk
-14. Crisis Communication & Disclosure
+3. Product & Service Quality
+4. Production Failure
+5. Trademark/Brand Erosion
+6. Human Resources
+7. Health & Safety
+8. Governance Risk
+9. Labor & Human Rights
+10. Data/Privacy Breaches
+11. Environmental Misconduct
+12. Supply Chain & Third-Party Risk
+13. Legal & Litigation
+14. Credit, Liquidity & Market Risk
 
 ## Sources
 Keywords were derived from the following literature:

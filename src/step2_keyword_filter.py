@@ -5,7 +5,7 @@ multi-word keyword lists in keyword_categories.json, and keeps only the chunks
 that match at least one reputation-risk category. A `matched_categories` column
 records which categories each surviving chunk matched.
 
-Output: data/processed/filtered_corpus.csv (chunks_clean.csv is never modified).
+Output: data/processed/step2_filtered_corpus.csv (step2_chunks_clean.csv is never modified).
 """
 
 import json
@@ -17,8 +17,8 @@ import pandas as pd
 # Resolve paths relative to the repo root (this file lives in src/).
 ROOT = Path(__file__).resolve().parents[1]
 KEYWORDS_PATH = ROOT / "keyword_categories.json"
-INPUT_PATH = ROOT / "data" / "processed" / "chunks_clean.csv"
-OUTPUT_PATH = ROOT / "data" / "processed" / "filtered_corpus.csv"
+INPUT_PATH = ROOT / "data" / "processed" / "step2_chunks_clean.csv"
+OUTPUT_PATH = ROOT / "data" / "processed" / "step2_filtered_corpus.csv"
 
 
 def load_categories(path: Path) -> dict[str, list[str]]:

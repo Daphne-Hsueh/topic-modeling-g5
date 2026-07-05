@@ -10,13 +10,13 @@ import hdbscan
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-CSV_PATH = BASE_DIR / "data" / "processed" / "filtered_corpus.csv"
-EMBEDDINGS_PATH = BASE_DIR / "data" / "processed" / "embeddings.npy"
-OUTPUT_PATH = BASE_DIR / "data" / "processed" / "corpus_with_ai_topics.csv"
+CSV_PATH = BASE_DIR / "data" / "processed" / "step2_filtered_corpus.csv"
+EMBEDDINGS_PATH = BASE_DIR / "data" / "processed" / "step3_embeddings.npy"
+OUTPUT_PATH = BASE_DIR / "data" / "processed" / "step3_corpus_with_ai_topics.csv"
 
 MODEL_DIR  = BASE_DIR / "outputs" / "models"
 OUTPUT_DIR = BASE_DIR / "outputs"
-PARAMS_PATH = OUTPUT_DIR / "best_params.json"
+PARAMS_PATH = OUTPUT_DIR / "step3_best_params.json"
 
 MODEL_DIR.mkdir(parents=True, exist_ok=True)
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -27,7 +27,7 @@ if PARAMS_PATH.exists():
         params = json.load(f)
     print(f"Loaded tuned parameters: {params}")
 else:
-    print("WARNING: best_params.json not found. Falling back to default parameters.")
+    print("WARNING: step3_best_params.json not found. Falling back to default parameters.")
     params = {"n_neighbors": 15, "min_cluster_size": 80, "min_samples": 5}
 
 # 2. Load Data
@@ -68,7 +68,7 @@ df['bertopic_id'] = topics
 
 print("\nCalculating topics over time...")
 topics_over_time = topic_model.topics_over_time(docs, timestamps)
-topics_over_time.to_csv(OUTPUT_DIR / "topics_over_time.csv", index=False)
+topics_over_time.to_csv(OUTPUT_DIR / "step3_topics_over_time.csv", index=False)
 
 # 6. Save Data Output
 df.to_csv(OUTPUT_PATH, index=False)
