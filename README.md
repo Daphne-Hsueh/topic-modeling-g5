@@ -12,7 +12,7 @@ Every file is prefixed with the step that produces (or belongs to) it:
 | 1 | Data extraction | `notebooks/step1_explore_companies.ipynb`, then `notebooks/step1_extraction_pipeline.ipynb` (both use `src/step1_edgar.py`) | `data/step1_availability.csv`, `data/step1_selected_companies.csv`, `data/item1a/`, `data/step1_filing_index.csv`, `data/step1_corpus.csv` |
 | 2 | Preprocessing | `python -m src.step2_preprocess`, then `python -m src.step2_keyword_filter` (QA report: `notebooks/step2_preprocessing_qa.ipynb`) | `data/processed/step2_chunks_clean.csv`, `data/processed/step2_filtered_corpus.csv` |
 | 3 | Model | `python src/step3_model.py` (first run caches embeddings) → `python src/step3_tune_hyperparameters.py` → `python src/step3_model.py` again (picks up tuned params) → `python src/step3_visualize.py` | `data/processed/step3_embeddings.npy`, `outputs/models/`, `data/processed/step3_corpus_with_ai_topics.csv`, `outputs/step3_best_params.json`, `outputs/step3_topics_over_time.csv`, `outputs/visualizations/` |
-| 4 | Evaluation | `python src/step4_evaluate.py` (reads the hand-labeled `data/step4_corpus_sample_150_manual.csv`, drawn by `src/step4_make_corpus_sample.py`) | `outputs/step4_evaluation_results.csv`, `outputs/step4_evaluation_set.csv` |
+| 4 | Evaluation | `python src/step4_evaluate.py` (reads the hand-labeled `data/step4_corpus_sample_150_manual.csv`, drawn by `src/make_corpus_sample.py`) | `outputs/step4_evaluation_results.csv`, `outputs/step4_evaluation_set.csv` |
 | 5 | Streamlit | `streamlit run app/app.py` | interactive dashboard reading the outputs of steps 3–4 |
 
 ## Project Structure
@@ -22,21 +22,21 @@ topic-modeling-G5/
 ├── notebooks/
 │   ├── step1_explore_companies.ipynb    # Select a sector-balanced S&P 500 sample
 │   ├── step1_extraction_pipeline.ipynb  # Fetch 10-Ks, extract Item 1A, build corpus
-│   └── step2_preprocessing_qa.ipynb     # QA report on the step-2 outputs (read-only)
+│   └── step2_preprocessing_qa.ipynb     # QA report on the step-2 outputs
 ├── src/
 │   ├── step1_edgar.py                   # EDGAR client: listing, download, Item 1A extraction
 │   ├── step2_preprocess.py              # Cleaning + chunking (step1_corpus.csv -> chunks)
 │   ├── step2_keyword_filter.py          # Keep only chunks matching the keyword dictionary
 │   ├── step2_analyze_chunk_size.py      # QA: justifies the chunking thresholds
-│   ├── step2_make_keyword_csv.py        # Export keyword_categories.json -> CSV
-│   ├── step2_make_keyword_excel.py      # Same export as Excel
 │   ├── step3_model.py                   # BERTopic training (uses tuned params if present)
 │   ├── step3_tune_hyperparameters.py    # Grid search (NPMI coherence) -> step3_best_params.json
 │   ├── step3_visualize.py               # Distance map, topic barcharts, topics over time
-│   ├── step4_make_corpus_sample.py      # Draw the 150-chunk evaluation sample
 │   ├── step4_evaluate.py                # Evaluation incl. BERTScore
-│   ├── check_data.py                    # QA utility: inspect the filtered corpus
-│   └── verify_pipeline.py               # QA utility: check pipeline files exist
+│   ├── check_data.py                    # Utility: inspect the filtered corpus
+│   ├── verify_pipeline.py               # Utility: check pipeline files exist
+│   ├── make_corpus_sample.py            # Utility: draw the 150-chunk evaluation sample
+│   ├── make_keyword_csv.py              # Utility: export keyword_categories.json -> CSV
+│   └── make_keyword_excel.py            # Utility: same export as Excel
 ├── app/
 │   └── app.py                           # Step 5: Streamlit dashboard
 ├── data/
@@ -46,10 +46,11 @@ topic-modeling-G5/
 │   ├── step1_filing_index.csv           # Per-filing extraction status
 │   ├── step1_corpus.csv                 # Document corpus, one row per filing
 │   ├── step2_keyword_dictionary.csv     # CSV export of the keyword dictionary
-│   ├── step4_corpus_sample_150_manual.csv  # Hand-labeled evaluation sample (do not overwrite!)
+│   ├── step4_corpus_sample_150_manual.csv  # Hand-labeled evaluation sample
 │   └── processed/
 │       ├── step2_chunks_clean.csv       # Model-ready chunks
 │       ├── step2_filtered_corpus.csv    # Chunks matching >=1 keyword category (training corpus)
+│       ├── step2_chunk_size_analysis.md # Why chunks are 20-400 words (+ .png chart)
 │       ├── step3_embeddings.npy         # Cached sentence-transformer embeddings
 │       ├── step3_corpus_with_ai_topics.csv  # Chunks + assigned BERTopic topic
 │       └── step4_corpus_sample_150.csv  # Raw (unlabeled) evaluation sample
@@ -61,6 +62,7 @@ topic-modeling-G5/
 │   ├── step4_evaluation_set.csv         # Labeled evaluation rows
 │   ├── models/                          # Saved BERTopic engine
 │   └── visualizations/                  # Interactive HTML charts
+├── .streamlit/config.toml               # Dashboard theme settings
 ├── keyword_categories.json              # Hand-curated reputation-risk keyword dictionary
 ├── dictionary-documentation.md          # How the dictionary was built
 ├── requirements.txt
@@ -88,5 +90,5 @@ jupyter notebook
   dataset is balanced and gap-free across the full study period. (2026 is excluded because its
   filings are still arriving, which would leave the final year incomplete.)
 - **`data/step4_corpus_sample_150_manual.csv` contains 150 hand-assigned labels.** Rerunning
-  `step4_make_corpus_sample.py` writes a fresh *unlabeled* sample to `data/processed/` — never
+  `make_corpus_sample.py` writes a fresh *unlabeled* sample to `data/processed/` — never
   overwrite the manual file with it.
