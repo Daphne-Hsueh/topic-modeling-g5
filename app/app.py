@@ -626,49 +626,19 @@ with section_eval:
             "dictionary text. Topics without manually labeled chunks show no BERTScore, a "
             "gap in evaluation-set coverage, not an error."
         )
-        with st.expander("What do these metrics mean?"):
-            st.markdown(
-                "- **BERTScore F1**: semantic similarity between a topic's own keywords and "
-                "the keyword-dictionary category it is compared against.\n"
-                "- **Coherence (PMI)**: how often a topic's top keywords co-occur together "
-                "within the corpus.\n"
-                "- **Diversity**: share of unique keywords across all topics combined, a "
-                "single value repeated on every row."
-            )
 
-        eval_display = eval_df[["topic_label", "bertscore_f1", "coherence", "diversity", "n_docs"]].copy()
+        eval_display = eval_df[["topic_label", "bertscore_f1", "coherence"]].copy()
         try:
             styled = (
                 eval_display.style
                 .background_gradient(subset=["bertscore_f1", "coherence"], cmap="Blues")
-                .format({"bertscore_f1": "{:.4f}", "coherence": "{:.4f}", "diversity": "{:.4f}"})
+                .format({"bertscore_f1": "{:.4f}", "coherence": "{:.4f}"})
             )
             st.dataframe(styled, use_container_width=True, hide_index=True)
         except Exception:
-            # Fallback if styling fails (e.g. NaN gradient issues) — plain table still renders
             st.dataframe(
                 eval_display.round(4), use_container_width=True, hide_index=True
             )
-
-    with st.container(border=True):
-        st.markdown("#### Coherence vs. BERTScore")
-        st.caption(
-            "Coherence measures how tightly a topic's own words co-occur in the corpus. "
-            "BERTScore measures how closely a topic's keywords match a manual risk category. "
-            "Lower-left (low on both) topics are the weakest, good candidates for merging."
-        )
-        scatter_df = eval_df.dropna(subset=["bertscore_f1", "coherence"])
-        if scatter_df.empty:
-            st.info("No topics have both a BERTScore and coherence value to plot.")
-        else:
-            fig_scatter = px.scatter(
-                scatter_df,
-                x="coherence", y="bertscore_f1",
-                hover_name="topic_label", size="n_docs",
-                color_discrete_sequence=["#4A90D9"],
-                labels={"coherence": "Coherence (PMI)", "bertscore_f1": "BERTScore F1"},
-            )
-            st.plotly_chart(fig_scatter, use_container_width=True)
 
     with st.container(border=True):
         st.markdown("#### Manual label vs. model topic")
