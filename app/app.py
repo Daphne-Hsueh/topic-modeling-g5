@@ -481,13 +481,13 @@ with section_model:
                 "of assigned chunks. The topic number matches the labels in the bar charts "
                 "below. Source: `outputs/evaluation_results.csv`."
             )
-            explorer_df = eval_df[["topic_id", "topic_label", "top_keywords", "n_docs"]].copy()
+            explorer_df = eval_df[["topic_id", "topic_label", "top_keywords", "n_eval_chunks"]].copy()
             explorer_df["top_keywords"] = explorer_df["top_keywords"].str.replace(" ", "; ")
             explorer_df["Topic"] = explorer_df["topic_id"].apply(lambda t: f"Topic {int(t)}")
 
             st.dataframe(
-                explorer_df[["Topic", "topic_label", "top_keywords", "n_docs"]]
-                .rename(columns={"topic_label": "Label", "top_keywords": "Top keywords", "n_docs": "Chunks"})
+                explorer_df[["Topic", "topic_label", "top_keywords", "n_eval_chunks"]]
+                .rename(columns={"topic_label": "Label", "top_keywords": "Top keywords", "n_eval_chunks": "Chunks"})
                 .sort_values("Chunks", ascending=False)
                 .reset_index(drop=True),
                 use_container_width=True,
@@ -514,7 +514,7 @@ with section_model:
                 "current year range."
             )
 
-            picker_df = explorer_df.sort_values("n_docs", ascending=False).copy()
+            picker_df = explorer_df.sort_values("n_eval_chunks", ascending=False).copy()
             picker_df["picker_label"] = picker_df.apply(
                 lambda r: f"Topic {int(r['topic_id'])}: {r['topic_label']}", axis=1
             )
@@ -584,9 +584,9 @@ with section_model:
 
                 with col_table:
                     st.markdown("**Topic reference**")
-                    lookup_df = eval_df[["topic_id", "topic_label", "n_docs"]].sort_values("topic_id")
+                    lookup_df = eval_df[["topic_id", "topic_label", "n_eval_chunks"]].sort_values("topic_id")
                     st.dataframe(
-                        lookup_df.rename(columns={"topic_id": "ID", "topic_label": "Label", "n_docs": "Chunks"}),
+                        lookup_df.rename(columns={"topic_id": "ID", "topic_label": "Label", "n_eval_chunks": "Chunks"}),
                         use_container_width=True,
                         hide_index=True,
                         height=600,
@@ -614,7 +614,7 @@ with section_eval:
     k1.metric("Topics evaluated", n_topics)
     k2.metric("With manual-label coverage", f"{n_covered}/{n_topics}")
     k3.metric("Mean BERTScore F1", f"{eval_df['bertscore_f1'].mean():.3f}")
-    k4.metric("Topic diversity", f"{eval_df['diversity'].iloc[0]:.3f}")
+    k4.metric("Total evaluated chunks", int(eval_df["n_eval_chunks"].sum()))
 
     st.divider()
 
@@ -627,12 +627,12 @@ with section_eval:
             "gap in evaluation-set coverage, not an error."
         )
 
-        eval_display = eval_df[["topic_label", "bertscore_f1", "coherence"]].copy()
+        eval_display = eval_df[["topic_label", "bertscore_f1", "n_eval_chunks"]].copy()
         try:
             styled = (
                 eval_display.style
-                .background_gradient(subset=["bertscore_f1", "coherence"], cmap="Blues")
-                .format({"bertscore_f1": "{:.4f}", "coherence": "{:.4f}"})
+                .background_gradient(subset=["bertscore_f1"], cmap="Blues")
+                .format({"bertscore_f1": "{:.4f}"})
             )
             st.dataframe(styled, use_container_width=True, hide_index=True)
         except Exception:
