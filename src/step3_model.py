@@ -12,7 +12,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 CSV_PATH = BASE_DIR / "data" / "processed" / "step2_filtered_corpus.csv"
 EMBEDDINGS_PATH = BASE_DIR / "data" / "processed" / "step3_embeddings.npy"
-OUTPUT_PATH = BASE_DIR / "data" / "processed" / "step3_corpus_with_ai_topics.csv"
+OUTPUT_PATH = BASE_DIR / "data" / "processed" / "step3_corpus_with_bert_topics.csv"
 
 MODEL_DIR  = BASE_DIR / "outputs" / "models"
 OUTPUT_DIR = BASE_DIR / "outputs"

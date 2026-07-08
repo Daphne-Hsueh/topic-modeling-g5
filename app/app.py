@@ -9,7 +9,7 @@ import streamlit.components.v1 as components
 
 # ── Paths ──────────────────────────────────────────────────────────────────────
 BASE_DIR = Path(__file__).resolve().parent.parent
-CORPUS_PATH       = BASE_DIR / "data" / "processed" / "step3_corpus_with_ai_topics.csv"
+CORPUS_PATH       = BASE_DIR / "data" / "processed" / "step3_corpus_with_bert_topics.csv"
 EVAL_PATH         = BASE_DIR / "outputs" / "step4_evaluation_results.csv"
 TOPICS_TIME_PATH  = BASE_DIR / "outputs" / "step3_topics_over_time.csv"
 DISTANCE_MAP_PATH = BASE_DIR / "outputs" / "visualizations" / "intertopic_distance_map.html"

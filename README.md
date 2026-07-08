@@ -10,8 +10,8 @@ Every file is prefixed with the step that produces (or belongs to) it:
 | Step | Name | Run | Produces |
 |---|---|---|---|
 | 1 | Data extraction | `notebooks/step1_explore_companies.ipynb`, then `notebooks/step1_extraction_pipeline.ipynb` (both use `src/step1_edgar.py`) | `data/step1_availability.csv`, `data/step1_selected_companies.csv`, `data/item1a/`, `data/step1_filing_index.csv`, `data/step1_corpus.csv` |
-| 2 | Preprocessing | `python -m src.step2_preprocess`, then `python -m src.step2_keyword_filter` (QA report: `notebooks/step2_preprocessing_qa.ipynb`) | `data/processed/step2_chunks_clean.csv`, `data/processed/step2_filtered_corpus.csv` |
-| 3 | Model | `python src/step3_model.py` (first run caches embeddings) → `python src/step3_tune_hyperparameters.py` → `python src/step3_model.py` again (picks up tuned params) → `python src/step3_visualize.py` | `data/processed/step3_embeddings.npy`, `outputs/models/`, `data/processed/step3_corpus_with_ai_topics.csv`, `outputs/step3_best_params.json`, `outputs/step3_topics_over_time.csv`, `outputs/visualizations/` |
+| 2 | Preprocessing | `python -m src.step2_preprocess`, then `python -m src.step2_keyword_filter` | `data/processed/step2_chunks_clean.csv`, `data/processed/step2_filtered_corpus.csv` |
+| 3 | Model | `python src/step3_model.py` (first run caches embeddings) → `python src/step3_tune_hyperparameters.py` → `python src/step3_model.py` again (picks up tuned params) → `python src/step3_visualize.py` | `data/processed/step3_embeddings.npy`, `outputs/models/`, `data/processed/step3_corpus_with_bert_topics.csv`, `outputs/step3_best_params.json`, `outputs/step3_topics_over_time.csv`, `outputs/visualizations/` |
 | 4 | Evaluation | `python src/step4_evaluate.py` (reads the hand-labeled `data/step4_corpus_sample_150_manual.csv`, drawn by `src/make_corpus_sample.py`) | `outputs/step4_evaluation_results.csv`, `outputs/step4_evaluation_set.csv` |
 | 5 | Streamlit | `streamlit run app/app.py` | interactive dashboard reading the outputs of steps 3–4 |
 
@@ -21,8 +21,7 @@ Every file is prefixed with the step that produces (or belongs to) it:
 topic-modeling-G5/
 ├── notebooks/
 │   ├── step1_explore_companies.ipynb    # Select a sector-balanced S&P 500 sample
-│   ├── step1_extraction_pipeline.ipynb  # Fetch 10-Ks, extract Item 1A, build corpus
-│   └── step2_preprocessing_qa.ipynb     # QA report on the step-2 outputs
+│   └── step1_extraction_pipeline.ipynb  # Fetch 10-Ks, extract Item 1A, build corpus
 ├── src/
 │   ├── step1_edgar.py                   # EDGAR client: listing, download, Item 1A extraction
 │   ├── step2_preprocess.py              # Cleaning + chunking (step1_corpus.csv -> chunks)
@@ -52,13 +51,13 @@ topic-modeling-G5/
 │       ├── step2_filtered_corpus.csv    # Chunks matching >=1 keyword category (training corpus)
 │       ├── step2_chunk_size_analysis.md # Why chunks are 20-400 words (+ .png chart)
 │       ├── step3_embeddings.npy         # Cached sentence-transformer embeddings
-│       ├── step3_corpus_with_ai_topics.csv  # Chunks + assigned BERTopic topic
+│       ├── step3_corpus_with_bert_topics.csv  # Chunks + assigned BERTopic topic
 │       └── step4_corpus_sample_150.csv  # Raw (unlabeled) evaluation sample
 ├── outputs/
 │   ├── step3_best_params.json           # Grid-search winner
 │   ├── step3_grid_search_results.csv    # All grid-search combos
 │   ├── step3_topics_over_time.csv       # Topic frequency per year
-│   ├── step4_evaluation_results.csv     # Per-topic BERTScore/coherence/diversity
+│   ├── step4_evaluation_results.csv     # Per-topic BERTScore F1 + eval-chunk count
 │   ├── step4_evaluation_set.csv         # Labeled evaluation rows
 │   ├── models/                          # Saved BERTopic engine
 │   └── visualizations/                  # Interactive HTML charts
