@@ -69,6 +69,21 @@ outlier_count = sum(1 for t in topics if t == -1)
 print(f"\nOutlier chunks (topic_id == -1): {outlier_count} / {len(df)} "
       f"({outlier_count / len(df) * 100:.1f}%)")
 
+# --- Topic label (readable name for each topic_id, reused everywhere below) ---
+def clean_topic_name(name: str) -> str:
+    parts = name.split("_")
+    # drop the leading topic_id number
+    parts = [p for p in parts if not p.isdigit()]
+    return " ".join(parts).title()
+
+topic_info_full = topic_model.get_topic_info()
+topic_label_map = {
+    row["Topic"]: clean_topic_name(row["Name"])
+    for _, row in topic_info_full.iterrows()
+    if row["Topic"] != -1
+}
+df["predicted_topic_label"] = df["predicted_topic_id"].map(topic_label_map).fillna("Noise / Unassigned")
+
 # ============================================================
 # STEP 2 — Split multi-label rows into single-label rows
 # ============================================================
@@ -127,7 +142,7 @@ for _, row in df_exploded.iterrows():
     refs.append(category_ref_strings.get(label, label))
 
 print(f"Scoring {len(cands)} chunk-level pairs...")
-_, _, F1_all = bert_score(cands, refs, lang="en", verbose=True)
+_, _, F1_all = bert_score(cands, refs, lang="en", verbose=True) #we do not calculate precision and recall
 
 df_exploded["bertscore_f1"] = [round(float(f), 4) for f in F1_all]
 
@@ -147,66 +162,17 @@ print(f"\nUpdated step4_evaluation_set.csv with bertscore_f1: {EVALUATION_SET_PA
 # STEP 4 — Build step4_evaluation_results.csv 
 # ============================================================
 
-# --- BERTScore F1 per topic (average across all chunks in that topic) ---
-bertscore_per_topic = (
+# --- BERTScore F1 per topic (average across scored chunks in that topic) ---
+bertscore_grouped = (
     df_exploded[df_exploded["predicted_topic_id"] != -1]
     .groupby("predicted_topic_id")["bertscore_f1"]
-    .mean()
-    .round(4)
 )
+bertscore_per_topic = bertscore_grouped.mean().round(4)
+n_eval_chunks_per_topic = bertscore_grouped.count()
 
-# --- n_docs per topic  ---
-topic_info = topic_model.get_topic_info()
-# topic_info has columns: Topic, Count, Name, Representation, ...
-topic_info = topic_info[topic_info["Topic"] != -1].copy()
-
-# --- Topic label ---
-def clean_topic_name(name: str) -> str:
-    parts = name.split("_")
-    # drop the leading topic_id number
-    parts = [p for p in parts if not p.isdigit()]
-    return " ".join(parts).title()
-
-topic_info["topic_label"] = topic_info["Name"].apply(clean_topic_name)
-
-# --- Coherence per topic  ---
-print("Computing coherence scores")
-full_docs = df["text"].tolist()
-tokenized = [doc.lower().split() for doc in full_docs]
-n_docs = len(tokenized)
-
-coherence_scores = {}
-for tid in topic_info["Topic"].tolist():
-    words_scores = topic_model.get_topic(tid)
-    if not words_scores:
-        coherence_scores[tid] = None
-        continue
-    topic_words = [w for w, _ in words_scores]
-
-    pairs_score = []
-    for i in range(len(topic_words)):
-        for j in range(i + 1, len(topic_words)):
-            w1, w2 = topic_words[i], topic_words[j]
-            d_w1 = sum(1 for d in tokenized if w1 in d)
-            d_w2 = sum(1 for d in tokenized if w2 in d)
-            d_both = sum(1 for d in tokenized if w1 in d and w2 in d)
-            if d_w1 > 0 and d_w2 > 0 and d_both > 0:
-                pmi = np.log((d_both * n_docs) / (d_w1 * d_w2))
-                pairs_score.append(pmi)
-    coherence_scores[tid] = round(float(np.mean(pairs_score)), 4) if pairs_score else None
-
-
-# --- Topic Diversity ---
-all_topic_words = []
-for tid in topic_info["Topic"].tolist():
-    words_scores = topic_model.get_topic(tid)
-    if words_scores:
-        all_topic_words.extend([w for w, _ in words_scores])
-
-total_words = len(all_topic_words)
-unique_words = len(set(all_topic_words))
-overall_diversity = round(unique_words / total_words, 4) if total_words > 0 else None
-print(f"Overall topic diversity: {overall_diversity}")
+# topic_info_full has columns: Topic, Count, Name, Representation, ...
+topic_info = topic_info_full[topic_info_full["Topic"] != -1].copy()
+topic_info["topic_label"] = topic_info["Topic"].map(topic_label_map)
 
 # --- Assemble final results table ---
 rows = []
@@ -217,9 +183,7 @@ for _, trow in topic_info.iterrows():
         "topic_label": trow["topic_label"],
         "top_keywords": " ".join(w for w, _ in topic_model.get_topic(tid)),
         "bertscore_f1": bertscore_per_topic.get(tid, None),
-        "coherence": coherence_scores.get(tid, None),
-        "diversity": overall_diversity,
-        "n_docs": int(trow["Count"]),
+        "n_eval_chunks": int(n_eval_chunks_per_topic.get(tid, 0)),
     })
 
 results_df = pd.DataFrame(rows)
@@ -228,10 +192,8 @@ results_df.to_csv(RESULTS_PATH, index=False)
 
 print(f"\nSaved step4_evaluation_results.csv ({len(results_df)} rows): {RESULTS_PATH}")
 print("\nSample:")
-print(results_df[["topic_label", "bertscore_f1", "coherence", "diversity", "n_docs"]].head(5).to_string())
+print(results_df[["topic_label", "bertscore_f1", "n_eval_chunks"]].head(5).to_string())
 
 print(f"\n=== Summary ===")
 print(f"Topics evaluated:         {len(results_df)}")
 print(f"Mean BERTScore F1:        {results_df['bertscore_f1'].dropna().mean():.4f}")
-print(f"Mean Coherence:      {results_df['coherence'].dropna().mean():.4f}")
-print(f"Overall Topic Diversity:  {overall_diversity}")
