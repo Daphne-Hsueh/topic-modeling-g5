@@ -9,9 +9,6 @@ from bert_score import score as bert_score
 from bertopic import BERTopic
 from sentence_transformers import SentenceTransformer
 
-# ============================================================
-# PATHS
-# ============================================================
 BASE_DIR = Path(__file__).resolve().parent.parent
 CSV_PATH = BASE_DIR / "data" / "step4_corpus_sample_150_manual.csv"
 KEYWORD_PATH = BASE_DIR / "data" / "step2_keyword_dictionary.csv"
@@ -22,10 +19,7 @@ EVALUATION_SET_PATH = OUTPUT_DIR / "step4_evaluation_set.csv"
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-# ============================================================
-# STEP 1 — Load data and get topic assignments
-# ============================================================
-
+# Step 1: Load data and get topic assignments
 df = pd.read_csv(CSV_PATH)
 print(f"Loaded {len(df)} rows from {CSV_PATH.name}")
 
@@ -69,7 +63,7 @@ outlier_count = sum(1 for t in topics if t == -1)
 print(f"\nOutlier chunks (topic_id == -1): {outlier_count} / {len(df)} "
       f"({outlier_count / len(df) * 100:.1f}%)")
 
-# --- Topic label (readable name for each topic_id, reused everywhere below) ---
+# Topic label map: topic_id -> cleaned topic name
 def clean_topic_name(name: str) -> str:
     parts = name.split("_")
     # drop the leading topic_id number
@@ -84,10 +78,7 @@ topic_label_map = {
 }
 df["predicted_topic_label"] = df["predicted_topic_id"].map(topic_label_map).fillna("Noise / Unassigned")
 
-# ============================================================
-# STEP 2 — Split multi-label rows into single-label rows
-# ============================================================
-
+# Step 2: Split multi-label rows into single-label rows
 original_count = len(df)
 multi_label_count = df["manual_label"].str.contains(";", na=False).sum()
 
@@ -110,10 +101,7 @@ print(f"Exploded row count:     {exploded_count}")
 print(f"Multi-label chunks:     {multi_label_count}")
 print(f"Saved to: {EVALUATION_SET_PATH}")
 
-# ============================================================
-# STEP 3 — BERTScore: topic keywords vs manual_label keywords
-# ============================================================
-
+# Step 3: BERTScore: topic keywords vs manual_label keywords
 # Build topic keyword strings
 unique_topics = [t for t in df_exploded["predicted_topic_id"].unique() if t != -1]
 topic_keyword_strings = {}
@@ -158,11 +146,8 @@ print(df_exploded.groupby("manual_label")["bertscore_f1"].mean().sort_values(asc
 df_exploded.to_csv(EVALUATION_SET_PATH, index=False)
 print(f"\nUpdated step4_evaluation_set.csv with bertscore_f1: {EVALUATION_SET_PATH}")
 
-# ============================================================
-# STEP 4 — Build step4_evaluation_results.csv 
-# ============================================================
-
-# --- BERTScore F1 per topic (average across scored chunks in that topic) ---
+# Step 4: Build step4_evaluation_results.csv 
+# BERTScore F1 per topic
 bertscore_grouped = (
     df_exploded[df_exploded["predicted_topic_id"] != -1]
     .groupby("predicted_topic_id")["bertscore_f1"]
@@ -174,7 +159,7 @@ n_eval_chunks_per_topic = bertscore_grouped.count()
 topic_info = topic_info_full[topic_info_full["Topic"] != -1].copy()
 topic_info["topic_label"] = topic_info["Topic"].map(topic_label_map)
 
-# --- Assemble final results table ---
+# Assemble final results table
 rows = []
 for _, trow in topic_info.iterrows():
     tid = trow["Topic"]
