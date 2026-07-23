@@ -171,55 +171,6 @@ def _set_all(keys, value):
     for k in keys:
         st.session_state[k] = value
 
-# ── Sidebar filters ────────────────────────────────────────────────────────────
-st.sidebar.header("Filters")
-
-year_min = int(corpus_df["year"].min())
-year_max = int(corpus_df["year"].max())
-selected_years = st.sidebar.slider("Year range", year_min, year_max, (year_min, year_max))
-year_mask = corpus_df["year"].between(selected_years[0], selected_years[1])
-
-st.sidebar.divider()
-st.sidebar.caption("Sector and Company filters below apply only to the **Keyword Dictionary** tab.")
-
-all_sectors = sorted(corpus_df["sector"].dropna().unique().tolist())
-sector_keys = [f"sector_{s}" for s in all_sectors]
-
-with st.sidebar.expander("Sector", expanded=True):
-    col1, col2 = st.columns(2)
-    col1.button("Select all", key="sector_select_all", on_click=_set_all, args=(sector_keys, True))
-    col2.button("Clear all", key="sector_clear_all", on_click=_set_all, args=(sector_keys, False))
-
-    selected_sectors = []
-    for sector, key in zip(all_sectors, sector_keys):
-        if st.checkbox(sector, value=True, key=key):
-            selected_sectors.append(sector)
-
-sector_mask = corpus_df["sector"].isin(selected_sectors)
-
-company_lookup = (
-    corpus_df.loc[sector_mask, ["ticker", "company"]]
-    .drop_duplicates()
-    .sort_values("company")
-)
-company_keys = [f"ticker_{t}" for t in company_lookup["ticker"]]
-
-with st.sidebar.expander(f"Company ({len(company_lookup)})", expanded=False):
-    col1, col2 = st.columns(2)
-    col1.button("Select all", key="company_select_all", on_click=_set_all, args=(company_keys, True))
-    col2.button("Clear all", key="company_clear_all", on_click=_set_all, args=(company_keys, False))
-
-    selected_tickers = []
-    for _, row in company_lookup.iterrows():
-        key = f"ticker_{row['ticker']}"
-        if st.checkbox(row["company"], value=True, key=key):
-            selected_tickers.append(row["ticker"])
-
-ticker_mask = corpus_df["ticker"].isin(selected_tickers)
-
-filtered_df = corpus_df[year_mask].copy()
-kw_filtered_df = corpus_df[year_mask & sector_mask & ticker_mask].copy()
-
 st.divider()
 
 # ── Top-level thematic sections ─────────────────────────────────────────────
@@ -237,8 +188,7 @@ with section_data:
     st.subheader("Data Explorer")
     st.caption(
         "Overview of the dataset used across this dashboard: the full corpus of Item 1A "
-        "Risk Factor text chunks extracted from SEC 10-K filings. Unfiltered, showing the "
-        "entire corpus regardless of sidebar selections."
+        "Risk Factor text chunks extracted from SEC 10-K filings."
     )
 
     k1, k2, k3, k4 = st.columns(4)
@@ -306,15 +256,14 @@ with section_keywords:
         "academic literature (Hanay et al. 2024; Eckert 2017; Perera et al. 2022, among "
         "others). A chunk is matched to a category whenever it contains one or more of that "
         "category's keywords. This is a rule-based, literature-grounded taxonomy, distinct "
-        "from the topics discovered automatically by the BERTopic model in Model Results. "
-        "Filtered by the Sector, Company, and Year controls in the sidebar."
+        "from the topics discovered automatically by the BERTopic model in Model Results."
     )
 
-    exploded = kw_filtered_df.explode("matched_categories")
+    exploded = corpus_df.explode("matched_categories")
     exploded = exploded[exploded["matched_categories"].notna() & (exploded["matched_categories"] != "")]
 
     if exploded.empty:
-        st.info("No category data for the current sidebar filters.")
+        st.info("No category data available.")
     else:
         with st.container(border=True):
             st.markdown("#### Chunks per category")
@@ -383,7 +332,7 @@ with section_keywords:
             if not selected_categories:
                 st.info("Select one or more categories above to display the chart.")
             elif cat_time.empty:
-                st.info("No data for the selected categories and filters.")
+                st.info("No data for the selected categories.")
             else:
                 fig_time = px.line(
                     cat_time, x="year", y="chunks", color="matched_categories", markers=True,
@@ -428,9 +377,8 @@ with section_model:
         with st.container(border=True):
             st.markdown("#### Topics over time")
             st.caption(
-                "Chunk frequency per topic, per year, across the full corpus. Not affected "
-                "by sidebar sector or company filters, since topic modeling was run once on "
-                "the entire dataset. Source: `outputs/topics_over_time.csv`."
+                "Chunk frequency per topic, per year, across the full corpus. "
+                "Source: `outputs/topics_over_time.csv`."
             )
 
             all_topic_labels = sorted(tot_df["topic_label"].unique().tolist())
@@ -447,16 +395,13 @@ with section_model:
                     if st.checkbox(lbl, value=True, key=key):
                         selected_topics.append(lbl)
 
-            time_filtered = tot_df[
-                tot_df["topic_label"].isin(selected_topics) &
-                tot_df["year"].between(selected_years[0], selected_years[1])
-            ].copy()
+            time_filtered = tot_df[tot_df["topic_label"].isin(selected_topics)].copy()
             time_filtered["year"] = time_filtered["year"].astype(int)
 
             if not selected_topics:
                 st.info("Select one or more topics above to display the chart.")
             elif time_filtered.empty:
-                st.info("No data for the selected topics and year range.")
+                st.info("No data for the selected topics.")
             else:
                 fig = px.line(
                     time_filtered, x="year", y="frequency", color="topic_label", markers=True,
@@ -470,29 +415,9 @@ with section_model:
     with sub_explorer:
         st.subheader("Explorer")
         st.caption(
-            "Browse the topics discovered by the model: their number, top keywords, how many "
-            "chunks were assigned to each, and their top-word bar charts."
+            "Browse the topics discovered by the model: their top-word bar charts and "
+            "example text chunks assigned to each."
         )
-
-        with st.container(border=True):
-            st.markdown("#### Discovered topics")
-            st.caption(
-                f"All {n_model_topics} topics with their topic number, top keywords, and number "
-                "of assigned chunks. The topic number matches the labels in the bar charts "
-                "below. Source: `outputs/evaluation_results.csv`."
-            )
-            explorer_df = eval_df[["topic_id", "topic_label", "top_keywords", "n_eval_chunks"]].copy()
-            explorer_df["top_keywords"] = explorer_df["top_keywords"].str.replace(" ", "; ")
-            explorer_df["Topic"] = explorer_df["topic_id"].apply(lambda t: f"Topic {int(t)}")
-
-            st.dataframe(
-                explorer_df[["Topic", "topic_label", "top_keywords", "n_eval_chunks"]]
-                .rename(columns={"topic_label": "Label", "top_keywords": "Top keywords", "n_eval_chunks": "Chunks"})
-                .sort_values("Chunks", ascending=False)
-                .reset_index(drop=True),
-                use_container_width=True,
-                hide_index=True,
-            )
 
         with st.container(border=True):
             st.markdown("#### Top words per topic")
@@ -510,11 +435,11 @@ with section_model:
             st.markdown("#### Sample chunks per topic")
             st.caption(
                 "Select a topic to read a sample of real text chunks the model assigned to it. "
-                "Source: `corpus_with_ai_topics.csv`, filtered to the selected topic and the "
-                "current year range."
+                "Source: `corpus_with_ai_topics.csv`, filtered to the selected topic."
             )
 
-            picker_df = explorer_df.sort_values("n_eval_chunks", ascending=False).copy()
+            picker_df = eval_df[["topic_id", "topic_label", "n_eval_chunks"]].copy()
+            picker_df = picker_df.sort_values("n_eval_chunks", ascending=False)
             picker_df["picker_label"] = picker_df.apply(
                 lambda r: f"Topic {int(r['topic_id'])}: {r['topic_label']}", axis=1
             )
@@ -523,16 +448,16 @@ with section_model:
             )
             topic_id = int(picker_df[picker_df["picker_label"] == selected_picker].iloc[0]["topic_id"])
 
-            topic_chunks = filtered_df[filtered_df["bertopic_id"] == topic_id]
+            topic_chunks = corpus_df[corpus_df["bertopic_id"] == topic_id]
             sample = (
                 topic_chunks.sample(min(5, len(topic_chunks)), random_state=42)
                 if len(topic_chunks) else topic_chunks
             )
 
             if sample.empty:
-                st.info("No chunks for this topic in the current year range.")
+                st.info("No chunks for this topic.")
             else:
-                st.markdown(f"**Showing 5 of {len(topic_chunks):,} chunks** in the current year range:")
+                st.markdown(f"**Showing 5 of {len(topic_chunks):,} chunks:**")
                 for _, row in sample.iterrows():
                     label = f"{row['ticker']} · {int(row['year'])}"
                     with st.expander(label):
